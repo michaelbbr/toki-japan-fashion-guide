@@ -1,5 +1,13 @@
 # Sources — checked 2026-10-14
 
+## V2 design references — not deployed
+- https://www.beams.co.jp/special/beamsboy/26ss/vol1.html — official 2026 SS BOY TEN identifies B.D.SHIRT as a staple of the WOMEN label BEAMS BOY; feature sample ¥15,950. Does not prove current stock or describe BEAMS men's main label.
+- https://www.snowpeak.co.jp/sp/takibi/ and https://www.snowpeak.co.jp/sp/takibi26aw/01/ — official 2022/2026 TAKIBI series references. 2026 AW Hybrid TAKIBI Adjustable Coat feature lists ¥85,800; supports dated series/product description, not a best-seller rank or permanent availability. Selection is editorial.
+- https://auralee.jp/item/detail/1_1_A26AV03RK_1/6501 — official SUPER FINE WOOL RIB KNIT V-NECK P/O, 100% wool and men's size conversion. The fetched page has international currency; no Japanese price entered. Editorial introductory selection, no official iconic/best-seller claim.
+- Existing official UA boat-neck T-shirt and SNIDEL &mall pullover sources below are introductory editorial picks, not evidence of long-term brand signature status. Article/retailer sample prices remain dated examples.
+- https://usagi-online.com/brand/snidel/item/SND0126F0062 — search excerpt describes roving-check mini skirt as a staple; direct page could not be read. Candidate requires recheck and is excluded from the design's verified sample picks.
+- Competition references: https://zozo.jp/ , https://zozo.jp/men-category/tops/cardigan/ , https://corp.zozo.com/news/20260915-007657/ . Gender/brand/product filtering, editorial and upcoming releases already exist; WEAR is a separate ZOZO group service. Differentiation is a product hypothesis, not validated demand.
+
 ## Public profile / price references
 - BEAMS official: https://www.beams.co.jp/ and https://www.beams.co.jp/shop/
 - BEAMS logo T-shirt: https://www.beams.co.jp/item/beams/t-shirt/11081083591/ — ¥5,170 tax included.
