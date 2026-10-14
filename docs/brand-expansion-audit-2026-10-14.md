@@ -65,4 +65,8 @@ Temporary viewport override did not apply to the bound preview tab; it was reset
 
 Remaining shelf review completed: everyday 8, select 5, contemporary 4, designer 12, women/homewear 10 all have completed images with nonzero natural width; plus outdoor 11 previously inspected = all 50 photographs. Evidence: ignored evidence/expansion-local-photo-review.json plus outdoor DOM record. No warning/error in the local preview browser.
 
-Pending: public published edition, Ready status and screenshots.
+## Production evidence
+
+Content commit 496d4a29eca568f37951f49171a17f38bbf2c731; deployment 6vg2z3yWgfMm9TgmNtYty4mdkP4X visibly Ready / Production. Existing team RENT Hobby. Public manifest/catalog/CSS returned HTTP 200: 50 brands, 50 distinct IDs, 50 item photos, 76 routes and 0 runtime functions. Explicit CSP origins match the added public image sources.
+
+All 50 product photographs loaded on the public edition after manually reviewing six shelves (8 + 5 + 4 + 12 + 11 + 10), all completed with nonzero natural width. Public width 1280/content1265, no horizontal overflow; browser warning/error empty. Screenshot ../outputs/toki-japan-fashion-guide/expanded-brands-2026-10-14.jpg. Ignored evidence/expanded-production-2026-10-14.json and expansion-public-photo-review.json. No paid actions. No automated test suite added or run. No new 390px verification claimed.

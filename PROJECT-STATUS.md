@@ -1,12 +1,14 @@
 # TOKI progress — 2026-10-14
 
-## 50-guide edition — implementation complete, Production pending
+## 50-guide edition — published and inspected
 
 - Responds to user feedback that 15 brands were too few. Original 15 retained; 35 new product-bound guides bring catalog to 50, with 76 static routes / 0 functions. BEAMS 35-name label index remains a separate guide.
 - New names cover GU, UNIQLO, MUJI, Adastria brands, TOKYO brands, ATON/YOKE/ssstein/COMOLI/MARKAWARE/NEEDLES/EG, Goldwin/GRAMICCI/TAION/DANTON/and wander, and MASH women/homewear brands. Exact complete names in data/expanded-catalog.json.
 - Each new identity has guide copy, original product name, item identifier, real official/brand-store photo, source/date and honest market/classification limits. Some products have unconfirmed sex and are excluded from gender-specific category/budget matches. No fake popularity or sizing advice.
 - Directory uses six shelf shortcuts, direct name index, existing search/style/type/budget/gender filters and batches of 12. Initial 12, final 50, shelf 8, under ¥5,000 women 3, YOKE search 1 and reset inspected manually. Build success; desktop no horizontal overflow. See docs/brand-expansion-audit-2026-10-14.md for exact limits and source ledger.
-- Existing Hobby/static hosting; no money spent. Public deployment and remaining image review pending.
+- Published content commit 496d4a29eca568f37951f49171a17f38bbf2c731; Vercel deployment 6vg2z3yWgfMm9TgmNtYty4mdkP4X shows Ready / Production in the existing RENT Hobby team. Public manifest/catalog/CSS HTTP 200, 50 distinct IDs, 76 routes, 50 piece photos, 0 runtime functions. CSP allows only named observed image origins.
+- All 50 photographs loaded on the public site (six shelves: 8 + 5 + 4 + 12 + 11 + 10), with nonzero natural width and no browser warning/error. Public desktop width 1280 / document 1265. Evidence stays ignored in evidence/expansion-public-photo-review.json. Screenshot ../outputs/toki-japan-fashion-guide/expanded-brands-2026-10-14.jpg. This edition does not claim a fresh 390px manual review; temporary viewport override was reset.
+- Existing Hobby/static hosting; no money spent, no paid service/domain/API/provider. Regional index still covers only the previously verified 10 stores, not all 50 brands.
 
 ## Clear entry points and full BEAMS index — 2026-10-14
 
