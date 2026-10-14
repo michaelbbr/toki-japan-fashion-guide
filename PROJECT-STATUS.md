@@ -9,7 +9,9 @@
 - Added partial regional index: Tokyo/Osaka/Kyoto, 10 verified stores/counters across BEAMS/AURALEE; scope is explicit. City/district/brand filters, URL reload, reset and map-search links work without a paid API.
 - Local build success: 41 static routes, 15 existing brand identities, 0 runtime functions. Desktop 1280px and mobile 390px homepage/family/BEAMS/Graphpaper/area layout manually inspected without horizontal overflow. Existing knitwear/¥5,000–10,000 filter returns 1 brand; regional Osaka 3 / Umeda+AURALEE 1 / reset 10 checked. BEAMS section anchor and complete/history expansions checked; browser warnings/errors empty.
 - No automated tests added or run. Plan docs/discovery-navigation-plan-2026-10-14.md; publication verdict publish in docs/navigation-and-label-audit-2026-10-14.md. Source research saved in SOURCES.md; raw third-party source content remains ignored.
-- GitHub push and current Production confirmation pending. All changes retain the existing non-commercial free Hobby, with no paid provider, upgrade, image generation, map API or domain.
+- Production verified: content commit 72dedfe97a3124b8001dc91b1942484dc28f1f3c, Vercel deployment 6VGoaPuyuuAZ2wNn3f24DhPSgQXN, RENT Hobby / Ready. Public manifest HTTP 200 shows 41 routes / 15 brands / 0 runtime functions; discovery.css HTTP 200. Live homepage five entry links and full BEAMS guide confirmed.
+- All 14 official label images loaded on Production without browser warning/error; ended B:MING accordion visible. Public Osaka/Umeda/AURALEE filter returned the exact women's Hankyu counter and address. Screenshot ../outputs/toki-japan-fashion-guide/intuitive-home-2026-10-14.jpg and intuitive-beams-2026-10-14.jpg. No automated suite run; 390px evidence is local.
+- All changes retain the existing non-commercial free Hobby, with no paid provider, upgrade, image generation, map API or domain. Regional coverage remains partial and explicitly labeled; third-party sources may change.
 
 ## V2 implementation — 2026-10-14
 

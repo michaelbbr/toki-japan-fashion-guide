@@ -129,7 +129,7 @@ Homepage BEAMS/SNIDEL source-to-SKU matching and representative items remain gov
 - 390×844 目視首頁、家族索引、BEAMS、Graphpaper 與地區頁；內容寬 375，視窗寬 390，無橫向溢出。
 - 地區選大阪得到 3 筆；梅田＋AURALEE 得到官方女裝櫃位 1 筆。URL 重載保留條件，重設回 10 筆。
 - 本機 browser warning/error 空；官方 35 個標籤頁正式名稱均可讀取。原始第三方 HTML／metadata 保持 evidence/ 忽略，不放到公開網站。
-- 正式版本與截圖證據於 PROJECT-STATUS.md 另記錄；不以本機建置宣稱正式部署完成。
+- 正式版 72dedfe 已確認 RENT Hobby / Ready；公開建置資訊列 41 路由、15 品牌、0 執行時函式。14 張官方標籤圖均載入，B:MING 終了項目可展開；正式梅田／AURALEE 查詢得到女裝櫃位，沒有瀏覽器 warning/error。正式版本與截圖證據於 PROJECT-STATUS.md 記錄；390px 手機證據是本機。
 
 ## 限制
 
