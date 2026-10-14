@@ -79,7 +79,34 @@ if(form) {
   fromUrl();apply();
 }
 
-// A unavailable official photograph never falls back to another brand or an AI image.
+const areaForm=document.querySelector('#area-filter');
+if(areaForm){
+ const storeCards=Array.from(document.querySelectorAll('[data-store]'));
+ const controls=['city','district','brand'];
+ const areaCount=document.querySelector('.area-count'),areaEmpty=document.querySelector('.area-empty');
+ function restoreArea(){
+  const params=new URLSearchParams(location.search);
+  for(const name of controls){const control=areaForm.elements.namedItem(name),value=params.get(name)||'all';control.value=Array.from(control.options).some(o=>o.value===value)?value:'all';}
+ }
+ function applyArea(update=false){
+  const values=Object.fromEntries(new FormData(areaForm));
+  const districts=new Set(storeCards.map(c=>JSON.parse(c.dataset.store)).filter(s=>values.city==='all'||s.city===values.city).map(s=>s.district));
+  const districtControl=areaForm.elements.namedItem('district');
+  for(const option of districtControl.options)option.disabled=option.value!=='all'&&!districts.has(option.value);
+  if(values.district!=='all'&&!districts.has(values.district)){values.district='all';districtControl.value='all';}
+  let total=0;
+  for(const card of storeCards){const data=JSON.parse(card.dataset.store);card.hidden=!controls.every(k=>values[k]==='all'||values[k]===data[k]);if(!card.hidden)total++;}
+  areaCount.textContent='找到 '+total+' 個門市／櫃位';areaEmpty.hidden=total!==0;
+  if(update){const params=new URLSearchParams();for(const [k,v] of Object.entries(values))if(v!=='all')params.set(k,v);const next=location.pathname+(params.size?'?'+params:'');if(next!==location.pathname+location.search)history.pushState({},'',next);}
+ }
+ areaForm.addEventListener('change',()=>applyArea(true));
+ areaForm.addEventListener('submit',event=>{event.preventDefault();applyArea(true);});
+ areaForm.addEventListener('reset',event=>{event.preventDefault();for(const name of controls)areaForm.elements.namedItem(name).value='all';applyArea(true);});
+ window.addEventListener('popstate',()=>{restoreArea();applyArea();});
+ restoreArea();applyArea();
+}
+
+// An unavailable official photograph never falls back to another brand or an AI image.
 for(const img of document.querySelectorAll('.product-photo img')) {
  const failed=()=>{const figure=img.closest('.product-photo');figure.classList.add('photo-failed');figure.querySelector('.photo-unavailable').hidden=false;};
  img.addEventListener('error',failed);

@@ -1,3 +1,4 @@
+import {beamsLabels} from './label-guide.mjs';
 // Public official product photographs. No generated images stand in for real SKUs.
 export const pieces = {
   'beams': [{
@@ -107,9 +108,7 @@ export const profiles = {
 
 const relation=(name,kind,note,url,id=null)=>({name,kind,note,url,id});
 export const relationships={
- 'beams':[
-  relation('BEAMS BOY','自有女裝標籤','是 BEAMS 的女裝標籤；不是因 BOY 一字就歸為男裝。','https://www.beams.co.jp/special/beamsboy/26ss/vol1.html'),
- ],
+ 'beams':beamsLabels.filter(l=>l.id!=='beams').map(l=>relation(l.name,l.ended?'官方標示終了':'官方索引項目',l.ended?'保留歷史名稱；現行商品與門市另查。':(l.concept || '官方索引單獨列出，商品依完整名稱辨認。'),l.url)),
  'united-arrows':[
   relation('BEAUTY&YOUTH','同集團品牌','與 UNITED ARROWS 有集團關係，商品與價位按完整標籤分開。','https://united-arrows-global.com/en-us'),
   relation('green label relaxing','同集團品牌','在集團官方品牌索引獨立列出；商品不併入 UNITED ARROWS 主品牌。','https://united-arrows-global.com/en-us'),

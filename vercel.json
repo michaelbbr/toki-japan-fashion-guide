@@ -28,7 +28,7 @@
         },
         {
           "key": "Content-Security-Policy",
-          "value": "default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com; img-src 'self' data: https://cdn.beams.co.jp https://www.snowpeak.co.jp https://auralee.jp https://mitsui-shopping-park.com https://images.daytona-park.com https://media.urban-research.jp https://images.baycrews.jp https://webshop.montbell.jp https://daiwapier39.jp https://us.nanamica.com https://eng.graphpaper-tokyo.com https://milaowen.mash-cdn.com https://clane-design.com https://cdn.shopify.com; connect-src 'self'; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'; upgrade-insecure-requests"
+          "value": "default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com; img-src 'self' data: https://cdn.beams.co.jp https://cdn-cms.beams.co.jp https://www.snowpeak.co.jp https://auralee.jp https://mitsui-shopping-park.com https://images.daytona-park.com https://media.urban-research.jp https://images.baycrews.jp https://webshop.montbell.jp https://daiwapier39.jp https://us.nanamica.com https://eng.graphpaper-tokyo.com https://milaowen.mash-cdn.com https://clane-design.com https://cdn.shopify.com; connect-src 'self'; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'; upgrade-insecure-requests"
         }
       ]
     }

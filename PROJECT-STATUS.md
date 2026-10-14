@@ -1,5 +1,16 @@
 # TOKI progress — 2026-10-14
 
+## Clear entry points and full BEAMS index — 2026-10-14
+
+- User feedback: the old relationship page was not intuitive, BEAMS BOY alone misrepresented the available labels, and the site gave no obvious start. This version replaces the long all-brand list with seven family entry cards and dedicated family guides.
+- BEAMS official index fully checked: 35 names, including 14 introductory directions, 20 additional entries and B:MING explicitly marked ended. Canonical names independently checked against all 35 official page titles. Official index entries include clothing labels, stores, projects and partner brands; not all called owned subbrands.
+- BEAMS guide groups casual, women, dress and design/lifestyle; provides outfit direction, official scope and item links. 14 official label photographs loaded locally with named label credit. Existing 15 representative product photos retain actual SKU/source matching.
+- Homepage first screen uses clear men/women choices and style/budget/area links, with BEAMS/SNIDEL real items. Snow Peak is no longer the single homepage hero. BEAMS main guide links directly to the full label guide.
+- Added partial regional index: Tokyo/Osaka/Kyoto, 10 verified stores/counters across BEAMS/AURALEE; scope is explicit. City/district/brand filters, URL reload, reset and map-search links work without a paid API.
+- Local build success: 41 static routes, 15 existing brand identities, 0 runtime functions. Desktop 1280px and mobile 390px homepage/family/BEAMS/Graphpaper/area layout manually inspected without horizontal overflow. Existing knitwear/¥5,000–10,000 filter returns 1 brand; regional Osaka 3 / Umeda+AURALEE 1 / reset 10 checked. BEAMS section anchor and complete/history expansions checked; browser warnings/errors empty.
+- No automated tests added or run. Plan docs/discovery-navigation-plan-2026-10-14.md; publication verdict publish in docs/navigation-and-label-audit-2026-10-14.md. Source research saved in SOURCES.md; raw third-party source content remains ignored.
+- GitHub push and current Production confirmation pending. All changes retain the existing non-commercial free Hobby, with no paid provider, upgrade, image generation, map API or domain.
+
 ## V2 implementation — 2026-10-14
 
 - Latest work supersedes the design-only state below. User edits fetched through 696b0f3 and merged without losing their nine added brands. Build entry repaired after it had been replaced with configuration JSON.

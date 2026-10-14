@@ -105,3 +105,54 @@ Previous AI atlas is preserved for rollback only and no longer referenced by pag
 - Graphpaper shirt production: https://graphpaper-tokyo.com/en/blogs/production-notes/talk-about-standard-shirt?page=3 .
 
 Full ledger: docs/brand-and-photo-audit-2026-10-14.md. All checked 2026-10-14; images may later change.
+
+## Clear entry points and complete BEAMS index — 2026-10-14
+
+- https://www.beams.co.jp/label/ — full dated 35-entry official index, original names, category classes, label images and B:MING end marker. Includes projects, selected brands and stores; not all entries asserted owned fashion subbrands.
+- Each canonical name independently read from its official title:
+  - BEAMS: https://www.beams.co.jp/beams/
+  - BEAMS PLUS: https://www.beams.co.jp/beamsplus/
+  - Ray BEAMS: https://www.beams.co.jp/raybeams/
+  - BEAMS BOY: https://www.beams.co.jp/beamsboy/
+  - MAAI: https://www.beams.co.jp/maai/
+  - BEAMS F: https://www.beams.co.jp/beamsf/
+  - Brilla per il gusto: https://www.beams.co.jp/brilla_per_il_gusto/
+  - Demi-Luxe BEAMS: https://www.beams.co.jp/demiluxebeams/
+  - EFFE BEAMS: https://www.beams.co.jp/effebeams/
+  - BEAMS SELECTION for WOMEN: https://www.beams.co.jp/bsfw/
+  - Vermeerist BEAMS: https://www.beams.co.jp/vermeerist/
+  - International Gallery BEAMS: https://www.beams.co.jp/international_gallery_beams/
+  - BEAMS HEART: https://www.beams.co.jp/beamsheart/
+  - こども ビームス: https://www.beams.co.jp/kodomobeams/
+  - BEAMS mini: https://www.beams.co.jp/beamsmini/
+  - merrier BEAMS: https://www.beams.co.jp/merrierbeams/
+  - BEAMS GOLF: https://www.beams.co.jp/beamsgolf/
+  - BEAMS T: https://www.beams.co.jp/beamst/
+  - fennica: https://www.beams.co.jp/fennica/
+  - BEAMS JAPAN: https://www.beams.co.jp/beams_japan/
+  - Calling: https://www.beams.co.jp/calling/
+  - BEAMS Planets: https://www.beams.co.jp/beamsplanets/
+  - BEAMS COUTURE: https://www.beams.co.jp/beamscouture/
+  - B印MARKET: https://www.beams.co.jp/bjirushi_market/
+  - BEAMS CULTUART: https://www.beams.co.jp/beamscultuart/
+  - TOKYO CULTUART by BEAMS: https://www.beams.co.jp/tokyocultuart/
+  - BEAMS MANGART: https://www.beams.co.jp/beamsmangart/
+  - bPr BEAMS: https://www.beams.co.jp/bprbeams/
+  - B GALLERY: https://www.beams.co.jp/bgallery/
+  - BEAMS RECORDS: https://www.beams.co.jp/beamsrecords/
+  - mmts: https://www.beams.co.jp/mmts/
+  - CAROLINA GLASER: https://www.beams.co.jp/carolinaglaser/
+  - Pilgrim Surf+Supply: https://www.beams.co.jp/pilgrimsurfsupply/
+  - Bill Wall Leather: https://www.beams.co.jp/billwallleather/
+  - B:MING by BEAMS: https://www.beams.co.jp/bming/
+- Official label image URLs and claim support: data/beams-label-index.json and docs/navigation-and-label-audit-2026-10-14.md. Core 14 entry recommendations are editorial; no numeric line-level price bands invented.
+- Official partial regional store sources:
+  - https://www.beams.co.jp/shop/h/
+  - https://www.beams.co.jp/shop/s/
+  - https://www.beams.co.jp/shop/leb/
+  - https://www.beams.co.jp/shop/umd/
+  - https://www.beams.co.jp/shop/nmb/
+  - https://www.beams.co.jp/shop/kyo/
+  - https://auralee.jp/store
+- AURALEE store scope: Tokyo Minamiaoyama store; distinct Shinjuku men's 6F / women's 3F; Hankyu Umeda women's 3F. District sorting uses the verified address and name, not inferred inventory.
+- Coverage is explicitly 3 cities, 2 brands, 10 stores/counters. Google Maps links are address-based map searches, with no API/account/payment integration.

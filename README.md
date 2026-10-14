@@ -4,6 +4,8 @@ Traditional Chinese personal fashion discovery prototype for Taiwan/Hong Kong re
 
 Second edition: 15 brand/label pages, including the user's nine additions and an independent THE NORTH FACE PURPLE LABEL page. Separate men/women entries, sourced real product photographs, typed brand relationships, category/budget discovery, buying links, editorial and dated FTI history.
 
+The latest navigation revision adds a family-guide hub, a complete dated 35-entry BEAMS official-name index with 14 introductory directions, and a clearly scoped 10-store regional index for BEAMS/AURALEE. The homepage prioritizes men/women, style, budget and place. Current build generates 41 static routes.
+
 ## Run
 
 Requires Node.js 22+. No product dependencies or package installation.

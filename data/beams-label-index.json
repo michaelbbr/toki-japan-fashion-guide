@@ -1,0 +1,456 @@
+{
+  "source": "https://www.beams.co.jp/label/",
+  "checkedAt": "2026-10-14",
+  "entries": [
+    {
+      "id": "beams",
+      "jp": "ビームス",
+      "url": "https://www.beams.co.jp/beams/",
+      "itemsUrl": "https://www.beams.co.jp/search/?search=true&label=0011",
+      "audience": [
+        "men"
+      ],
+      "image": "https://cdn-cms.beams.co.jp/cdn/cms/label/1/list_Mdb2A3.jpg",
+      "ended": false,
+      "name": "BEAMS"
+    },
+    {
+      "id": "beamsplus",
+      "jp": "ビームス プラス",
+      "url": "https://www.beams.co.jp/beamsplus/",
+      "itemsUrl": "https://www.beams.co.jp/search/?search=true&label=0038",
+      "audience": [
+        "men"
+      ],
+      "image": "https://cdn-cms.beams.co.jp/cdn/cms/label/5/list_EWhETH.jpg",
+      "ended": false,
+      "name": "BEAMS PLUS"
+    },
+    {
+      "id": "raybeams",
+      "jp": "レイ ビームス",
+      "url": "https://www.beams.co.jp/raybeams/",
+      "itemsUrl": "https://www.beams.co.jp/search/?search=true&label=0061",
+      "audience": [
+        "women"
+      ],
+      "image": "https://cdn-cms.beams.co.jp/cdn/cms/label/8/list_CHiTpE.jpg",
+      "ended": false,
+      "name": "Ray BEAMS"
+    },
+    {
+      "id": "beamsboy",
+      "jp": "ビームス ボーイ",
+      "url": "https://www.beams.co.jp/beamsboy/",
+      "itemsUrl": "https://www.beams.co.jp/search/?search=true&label=0013",
+      "audience": [
+        "women"
+      ],
+      "image": "https://cdn-cms.beams.co.jp/cdn/cms/label/2/list_ABpcDi.jpg",
+      "ended": false,
+      "name": "BEAMS BOY"
+    },
+    {
+      "id": "maai",
+      "jp": "マアイ",
+      "url": "https://www.beams.co.jp/maai/",
+      "itemsUrl": "https://www.beams.co.jp/search/?search=true&label=0050",
+      "audience": [
+        "women"
+      ],
+      "image": "https://cdn-cms.beams.co.jp/cdn/cms/label/40/list_7qJRGt.jpg",
+      "ended": false,
+      "name": "MAAI"
+    },
+    {
+      "id": "beamsf",
+      "jp": "ビームスF",
+      "url": "https://www.beams.co.jp/beamsf/",
+      "itemsUrl": "https://www.beams.co.jp/search/?search=true&label=0021",
+      "audience": [
+        "men"
+      ],
+      "image": "https://cdn-cms.beams.co.jp/cdn/cms/label/3/list_voNIcd.jpg",
+      "ended": false,
+      "name": "BEAMS F"
+    },
+    {
+      "id": "brilla_per_il_gusto",
+      "jp": "ブリッラ ペル イル グスト",
+      "url": "https://www.beams.co.jp/brilla_per_il_gusto/",
+      "itemsUrl": "https://www.beams.co.jp/search/?search=true&label=0024",
+      "audience": [
+        "men"
+      ],
+      "image": "https://cdn-cms.beams.co.jp/cdn/cms/label/6/list_m8WCVp.jpg",
+      "ended": false,
+      "name": "Brilla per il gusto"
+    },
+    {
+      "id": "demiluxebeams",
+      "jp": "デミルクス ビームス",
+      "url": "https://www.beams.co.jp/demiluxebeams/",
+      "itemsUrl": "https://www.beams.co.jp/search/?search=true&label=0064",
+      "audience": [
+        "women"
+      ],
+      "image": "https://cdn-cms.beams.co.jp/cdn/cms/label/9/list_9oVnAg.jpg",
+      "ended": false,
+      "name": "Demi-Luxe BEAMS"
+    },
+    {
+      "id": "effebeams",
+      "jp": "エッフェ ビームス",
+      "url": "https://www.beams.co.jp/effebeams/",
+      "itemsUrl": "https://www.beams.co.jp/search/?search=true&label=0027",
+      "audience": [
+        "women"
+      ],
+      "image": "https://cdn-cms.beams.co.jp/cdn/cms/label/10/list_Yorffo.jpg",
+      "ended": false,
+      "name": "EFFE BEAMS"
+    },
+    {
+      "id": "bsfw",
+      "jp": "ビームス セレクション for ウィメン",
+      "url": "https://www.beams.co.jp/bsfw/",
+      "itemsUrl": "https://www.beams.co.jp/search/?search=true&label=0026",
+      "audience": [
+        "women"
+      ],
+      "image": "https://cdn-cms.beams.co.jp/cdn/cms/label/41/list_5pNZs1.jpg",
+      "ended": false,
+      "name": "BEAMS SELECTION for WOMEN"
+    },
+    {
+      "id": "vermeerist",
+      "jp": "フェルメリスト ビームス",
+      "url": "https://www.beams.co.jp/vermeerist/",
+      "itemsUrl": "https://www.beams.co.jp/search/?search=true&label=0072",
+      "audience": [
+        "women"
+      ],
+      "image": "https://cdn-cms.beams.co.jp/cdn/cms/label/26/list_iU1guB.jpg",
+      "ended": false,
+      "name": "Vermeerist BEAMS"
+    },
+    {
+      "id": "international_gallery_beams",
+      "jp": "インターナショナルギャラリー ビームス",
+      "url": "https://www.beams.co.jp/international_gallery_beams/",
+      "itemsUrl": "https://www.beams.co.jp/search/?search=true&label=0023",
+      "audience": [
+        "men",
+        "women"
+      ],
+      "image": "https://cdn-cms.beams.co.jp/cdn/cms/label/4/list_XJBy9E.jpg",
+      "ended": false,
+      "name": "International Gallery BEAMS"
+    },
+    {
+      "id": "beamsheart",
+      "jp": "ビームス ハート",
+      "url": "https://www.beams.co.jp/beamsheart/",
+      "itemsUrl": "https://www.beams.co.jp/search/?search=true&label=0041",
+      "audience": [
+        "men",
+        "women"
+      ],
+      "image": "https://cdn-cms.beams.co.jp/cdn/cms/label/27/list_O9yxsH.jpg",
+      "ended": false,
+      "name": "BEAMS HEART"
+    },
+    {
+      "id": "kodomobeams",
+      "jp": "こども ビームス",
+      "url": "https://www.beams.co.jp/kodomobeams/",
+      "itemsUrl": "https://www.beams.co.jp/search/?search=true&label=0055",
+      "audience": [
+        "men",
+        "women",
+        "kids"
+      ],
+      "image": "https://cdn-cms.beams.co.jp/cdn/cms/label/14/list_MKJePU.jpg",
+      "ended": false,
+      "name": "こども ビームス"
+    },
+    {
+      "id": "beamsmini",
+      "jp": "ビームス ミニ",
+      "url": "https://www.beams.co.jp/beamsmini/",
+      "itemsUrl": "https://www.beams.co.jp/search/?search=true&label=0045",
+      "audience": [
+        "men",
+        "women",
+        "kids"
+      ],
+      "image": "https://cdn-cms.beams.co.jp/cdn/cms/label/30/list_tCmaJv.jpg",
+      "ended": false,
+      "name": "BEAMS mini"
+    },
+    {
+      "id": "merrierbeams",
+      "jp": "メリア ビームス",
+      "url": "https://www.beams.co.jp/merrierbeams/",
+      "itemsUrl": "https://www.beams.co.jp/search/?search=true&label=0067",
+      "audience": [
+        "women",
+        "kids"
+      ],
+      "image": "https://cdn-cms.beams.co.jp/cdn/cms/label/13/list_sOY7yP.jpg",
+      "ended": false,
+      "name": "merrier BEAMS"
+    },
+    {
+      "id": "beamsgolf",
+      "jp": "ビームス ゴルフ",
+      "url": "https://www.beams.co.jp/beamsgolf/",
+      "itemsUrl": "https://www.beams.co.jp/search/?search=true&label=0081",
+      "audience": [
+        "men",
+        "women"
+      ],
+      "image": "https://cdn-cms.beams.co.jp/cdn/cms/label/12/list_LfvKla.jpg",
+      "ended": false,
+      "name": "BEAMS GOLF"
+    },
+    {
+      "id": "beamst",
+      "jp": "ビームスT",
+      "url": "https://www.beams.co.jp/beamst/",
+      "itemsUrl": "https://www.beams.co.jp/search/?search=true&label=0075",
+      "audience": [
+        "men",
+        "women"
+      ],
+      "image": "https://cdn-cms.beams.co.jp/cdn/cms/label/11/list_n0ylZI.jpg",
+      "ended": false,
+      "name": "BEAMS T"
+    },
+    {
+      "id": "fennica",
+      "jp": "フェニカ",
+      "url": "https://www.beams.co.jp/fennica/",
+      "itemsUrl": "https://www.beams.co.jp/search/?search=true&label=0066",
+      "audience": [
+        "men",
+        "women"
+      ],
+      "image": "https://cdn-cms.beams.co.jp/cdn/cms/label/16/list_3XUIyy.jpg",
+      "ended": false,
+      "name": "fennica"
+    },
+    {
+      "id": "beams_japan",
+      "jp": "ビームス ジャパン",
+      "url": "https://www.beams.co.jp/beams_japan/",
+      "itemsUrl": "https://www.beams.co.jp/search/?search=true&label=0056",
+      "audience": [
+        "men",
+        "women"
+      ],
+      "image": "https://cdn-cms.beams.co.jp/cdn/cms/label/29/list_V3SGZo.jpg",
+      "ended": false,
+      "name": "BEAMS JAPAN"
+    },
+    {
+      "id": "calling",
+      "jp": "コーリング",
+      "url": "https://www.beams.co.jp/calling/",
+      "itemsUrl": "https://www.beams.co.jp/search/?search=true&label=0060",
+      "audience": [
+        "men",
+        "women"
+      ],
+      "image": "https://cdn-cms.beams.co.jp/cdn/cms/label/39/list_keQ1vk.jpg",
+      "ended": false,
+      "name": "Calling"
+    },
+    {
+      "id": "beamsplanets",
+      "jp": "ビームス プラネッツ",
+      "url": "https://www.beams.co.jp/beamsplanets/",
+      "itemsUrl": "https://www.beams.co.jp/search/?search=true&label=0069",
+      "audience": [
+        "men",
+        "women",
+        "kids"
+      ],
+      "image": "https://cdn-cms.beams.co.jp/cdn/cms/label/33/list_mWzxeB.png",
+      "ended": false,
+      "name": "BEAMS Planets"
+    },
+    {
+      "id": "beamscouture",
+      "jp": "ビームス クチュール",
+      "url": "https://www.beams.co.jp/beamscouture/",
+      "itemsUrl": "https://www.beams.co.jp/search/?search=true&label=0018",
+      "audience": [
+        "women"
+      ],
+      "image": "https://cdn-cms.beams.co.jp/cdn/cms/label/34/list_bFFRyc.jpg",
+      "ended": false,
+      "name": "BEAMS COUTURE"
+    },
+    {
+      "id": "bjirushi_market",
+      "jp": "B印マーケット",
+      "url": "https://www.beams.co.jp/bjirushi_market/",
+      "itemsUrl": "https://www.beams.co.jp/search/?search=true&label=0070",
+      "audience": [
+        "men",
+        "women",
+        "kids"
+      ],
+      "image": "https://cdn-cms.beams.co.jp/cdn/cms/label/35/list_hdTTNz.jpg",
+      "ended": false,
+      "name": "B印MARKET"
+    },
+    {
+      "id": "beamscultuart",
+      "jp": "ビームス カルチャート",
+      "url": "https://www.beams.co.jp/beamscultuart/",
+      "itemsUrl": "https://www.beams.co.jp/search/?search=true&label=0871",
+      "audience": [
+        "men",
+        "women",
+        "kids"
+      ],
+      "image": "https://cdn-cms.beams.co.jp/cdn/cms/label/37/list_fgfMRV.jpg",
+      "ended": false,
+      "name": "BEAMS CULTUART"
+    },
+    {
+      "id": "tokyocultuart",
+      "jp": "トーキョー カルチャート by ビームス",
+      "url": "https://www.beams.co.jp/tokyocultuart/",
+      "itemsUrl": "https://www.beams.co.jp/search/?search=true&label=0058",
+      "audience": [
+        "men",
+        "women"
+      ],
+      "image": "https://cdn-cms.beams.co.jp/cdn/cms/label/25/list_T3ETQa.jpg",
+      "ended": false,
+      "name": "TOKYO CULTUART by BEAMS"
+    },
+    {
+      "id": "beamsmangart",
+      "jp": "ビームス マンガート",
+      "url": "https://www.beams.co.jp/beamsmangart/",
+      "itemsUrl": "https://www.beams.co.jp/search/?search=true&label=0751",
+      "audience": [
+        "men",
+        "women",
+        "kids"
+      ],
+      "image": "https://cdn-cms.beams.co.jp/cdn/cms/label/36/list_hicO6k.jpg",
+      "ended": false,
+      "name": "BEAMS MANGART"
+    },
+    {
+      "id": "bprbeams",
+      "jp": "bPrビームス",
+      "url": "https://www.beams.co.jp/bprbeams/",
+      "itemsUrl": "https://www.beams.co.jp/search/?search=true&label=0033",
+      "audience": [
+        "men",
+        "women",
+        "kids"
+      ],
+      "image": "https://cdn-cms.beams.co.jp/cdn/cms/label/15/list_QLheoZ.jpg",
+      "ended": false,
+      "name": "bPr BEAMS"
+    },
+    {
+      "id": "bgallery",
+      "jp": "Bギャラリー",
+      "url": "https://www.beams.co.jp/bgallery/",
+      "itemsUrl": "https://www.beams.co.jp/search/?search=true&label=0074",
+      "audience": [
+        "men",
+        "women"
+      ],
+      "image": "https://cdn-cms.beams.co.jp/cdn/cms/label/28/list_HrLWMy.jpg",
+      "ended": false,
+      "name": "B GALLERY"
+    },
+    {
+      "id": "beamsrecords",
+      "jp": "ビームス レコーズ",
+      "url": "https://www.beams.co.jp/beamsrecords/",
+      "itemsUrl": "https://www.beams.co.jp/search/?search=true&label=0029",
+      "audience": [
+        "men",
+        "women"
+      ],
+      "image": "https://cdn-cms.beams.co.jp/cdn/cms/label/23/list_eangS5.jpg",
+      "ended": false,
+      "name": "BEAMS RECORDS"
+    },
+    {
+      "id": "mmts",
+      "jp": "マミタス",
+      "url": "https://www.beams.co.jp/mmts/",
+      "itemsUrl": "https://www.beams.co.jp/search/?search=true&label=0016",
+      "audience": [
+        "men",
+        "women"
+      ],
+      "image": "https://cdn-cms.beams.co.jp/cdn/cms/label/19/list_eGsb8R.jpg",
+      "ended": false,
+      "name": "mmts"
+    },
+    {
+      "id": "carolinaglaser",
+      "jp": "カロリナ グレイサー",
+      "url": "https://www.beams.co.jp/carolinaglaser/",
+      "itemsUrl": "https://www.beams.co.jp/search/?search=true&label=0062",
+      "audience": [
+        "women"
+      ],
+      "image": "https://cdn-cms.beams.co.jp/cdn/cms/label/24/list_qcRbpu.jpg",
+      "ended": false,
+      "name": "CAROLINA GLASER"
+    },
+    {
+      "id": "pilgrimsurfsupply",
+      "jp": "ピルグリム サーフ+サプライ",
+      "url": "https://www.beams.co.jp/pilgrimsurfsupply/",
+      "itemsUrl": "https://www.beams.co.jp/search/?search=true&label=0036",
+      "audience": [
+        "men",
+        "women"
+      ],
+      "image": "https://cdn-cms.beams.co.jp/cdn/cms/label/22/list_Sgrw9r.jpg",
+      "ended": false,
+      "name": "Pilgrim Surf+Supply"
+    },
+    {
+      "id": "billwallleather",
+      "jp": "ビルウォールレザー",
+      "url": "https://www.beams.co.jp/billwallleather/",
+      "itemsUrl": "https://www.beams.co.jp/search/?search=true&label=0079",
+      "audience": [
+        "men",
+        "women"
+      ],
+      "image": "https://cdn-cms.beams.co.jp/cdn/cms/label/20/list_A94Oen.jpg",
+      "ended": false,
+      "name": "Bill Wall Leather"
+    },
+    {
+      "id": "bming",
+      "jp": "ビーミング by ビームス",
+      "url": "https://www.beams.co.jp/bming/",
+      "itemsUrl": "https://www.beams.co.jp/search/?search=true&label=0091",
+      "audience": [
+        "men",
+        "women",
+        "kids"
+      ],
+      "image": "https://cdn-cms.beams.co.jp/cdn/cms/label/17/list_lj9zFr.jpg",
+      "ended": true,
+      "name": "B:MING by BEAMS"
+    }
+  ]
+}
