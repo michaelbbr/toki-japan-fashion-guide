@@ -94,4 +94,4 @@ Snow Peak UNISEX 附加依據：[官方商品頁](https://ec.snowpeak.co.jp/item
 - 390×844 檢查首頁、品牌索引、男女入口、FREAK’S STORE、Graphpaper、nanamica、PURPLE LABEL 與關係頁：內容寬 375，視窗寬 390，沒有橫向溢出。
 - 手動組合「針織＋¥5,000–未滿 10,000」只找到 SNIDEL ¥9,900；女裝低於 ¥5,000 只找到 FREAK’S STORE ¥3,300。重設保留女裝入口；手機選單開啟與 Escape 關閉已檢查。
 - 本機瀏覽器 warning/error 記錄空。未新增或執行自動化測試；舊版測試結果不當成本次證據。
-- 正式部署檢查待記錄於 PROJECT-STATUS.md。
+- 正式部署已查核：RENT Hobby / Ready，內容版本 b8a0810；正式 /pieces 的 15 張主照片均載入，沒有 CSP 圖片錯誤或瀏覽器 warning/error。日本售價未知的單品不推算；正式篩選與女裝重設已檢查。詳細部署與截圖位置記錄於 PROJECT-STATUS.md。

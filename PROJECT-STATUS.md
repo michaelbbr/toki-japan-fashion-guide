@@ -8,7 +8,9 @@
 - Relationships and public copy audited; verdict publish after corrections. Ledger docs/brand-and-photo-audit-2026-10-14.md. Original unsupported universal fit/sizing claims removed; relationships use full names and source links.
 - Build success: 32 static routes, 0 runtime functions. Manual 390px layout inspection on homepage/index/men/women and four brand/relationship pages found no horizontal overflow. Menu Escape, category + budget filtering and gender reset inspected. Category-only knitwear returns AURALEE and SNIDEL, including unknown Japan price; ¥5,000–10,000 narrows to SNIDEL. No browser warnings/errors observed locally.
 - No automated tests were added or run for this release. The first-edition test results below are historical and do not cover this change.
-- GitHub push and current Production confirmation pending. No paid actions or services used.
+- Production verified: https://toki-japan-fashion-guide.vercel.app/ . Vercel RENT Hobby showed Ready for content commit b8a0810, deployment BJz1fUw9jySkqwBpKFjnywffZdDG. Public manifest lists 32 routes / 15 brands / 0 runtime functions; homepage HTTP 200 and intended image-source policy are active.
+- All 15 primary photos loaded on the public /pieces page; no browser warning/error observed. Public knitwear + ¥5,000–10,000 filter returned SNIDEL; women under ¥5,000 returned FREAK’S STORE, and reset retained /women. Public 848px and 1280px views had no horizontal overflow; the 390px evidence above is local. Screenshot ../outputs/toki-japan-fashion-guide/optimized-home-2026-10-14.jpg.
+- No purchase, upgrade, trial, paid service, paid image generation or new domain. Keep existing non-commercial Hobby constraints; third-party image availability and changing prices remain limitations.
 
 ## V2 design — 2026-10-14
 - User confirmed brand understanding/comparison/Japan shopping direction and requested representative items. Completed written information architecture and visual design preview: docs/superpowers/specs/2026-10-14-toki-discovery-v2-design.md and ../outputs/toki-japan-fashion-guide/design-v2.html.
