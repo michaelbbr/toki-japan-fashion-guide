@@ -2,14 +2,13 @@
 
 Traditional Chinese personal fashion discovery prototype for Taiwan/Hong Kong readers.
 
-First edition: BEAMS, UNITED ARROWS, Snow Peak Apparel, AURALEE, SNIDEL. Includes style/budget discovery, checked product price examples, official buying links, original editorial, official release notes and dated FTI JP search observations.
+Second edition: 15 brand/label pages, including the user's nine additions and an independent THE NORTH FACE PURPLE LABEL page. Separate men/women entries, sourced real product photographs, typed brand relationships, category/budget discovery, buying links, editorial and dated FTI history.
 
 ## Run
 
 Requires Node.js 22+. No product dependencies or package installation.
 
 ```sh
-npm test
 npm run build
 npm run dev
 ```
@@ -36,6 +35,8 @@ npm run build
 
 The importer validates provenance and allowlists public fields. It never contacts a provider and never copies credentials. Invalid inputs preserve the existing output.
 
-All product prices are source-linked examples, not real-time inventory or full brand price ranges. Style labels and related-brand suggestions are editorial. All flatlays are labeled generic AI concepts reused from FTI, not brand product photographs.
+All product prices are source-linked examples, not real-time inventory or full brand price ranges. Style labels and related-brand suggestions are editorial. Official staples, editorial introductory picks and historical versions are labeled separately. Product photos embed exact official/brand-store sources and retain their attribution. The old generic AI atlas is unused by rendered pages and preserved for rollback.
+
+The legacy automated suite was written for the five-brand first edition. It has not been rerun or updated for this release; current review evidence is manual browser inspection and successful static generation, recorded in the claim ledger and project status.
 
 See SOURCES.md for exact URLs/observations, docs/superpowers/specs for scope and PROJECT-STATUS.md for verified delivery status.

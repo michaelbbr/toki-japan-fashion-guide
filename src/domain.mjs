@@ -17,10 +17,20 @@ export function matchBrand(brand, filters={}) {
   if (q && !hay.includes(q)) return false;
   if (filters.style && filters.style!=='all' && !brand.styles.includes(filters.style)) return false;
   if (filters.gender && filters.gender!=='all' && !brand.audience.includes(filters.gender)) return false;
-  if ((filters.budget && filters.budget!=='all') || (filters.category && filters.category!=='all')) {
-    return brand.samples.some(p => (!filters.category || filters.category==='all' || p.category===filters.category) && budgetMatch(p.price,filters.budget));
+  if (filters.budget && filters.budget!=='all') {
+    return brand.samples.some(p => sampleMatches(p,filters));
+  }
+  if (filters.category && filters.category!=='all') {
+    return [...(brand.pieces || []),...brand.samples].some(p=>p.category===filters.category && (!filters.gender || filters.gender==='all' || p.audience?.includes(filters.gender)));
   }
   return true;
+}
+
+export function sampleMatches(sample,filters={}) {
+ if(!Number.isFinite(sample.price))return false;
+ if(filters.category && filters.category!=='all' && sample.category!==filters.category)return false;
+ if(filters.gender && filters.gender!=='all' && !sample.audience?.includes(filters.gender))return false;
+ return budgetMatch(sample.price,filters.budget);
 }
 
 export function summarize(s, now=new Date()) {

@@ -1,4 +1,4 @@
-import {matchBrand,summarize,budgetMatch} from './domain.mjs';
+import {matchBrand,summarize,sampleMatches} from './domain.mjs';
 document.documentElement.classList.add('js');
 const menu=document.querySelector('.menu-toggle'), nav=document.querySelector('#main-nav');
 if(menu) {
@@ -19,12 +19,13 @@ if(form) {
   const grid=document.querySelector('.brand-grid');
   const sort=document.querySelector('#sort');
   const count=document.querySelector('#result-count'), empty=document.querySelector('#empty-results');
-  const names=['q','style','budget','gender'];
+  const names=['q','style','category','budget','gender'];
+  const defaults={q:'',style:'all',category:'all',budget:'all',gender:form.dataset.gender || 'all'};
   function fromUrl() {
     const params=new URLSearchParams(location.search);
     for(const name of names) {
       const control=form.elements.namedItem(name);
-      const val=params.get(name) || (name==='q'?'':'all');
+      const val=name==='gender' && defaults.gender!=='all' ? defaults.gender : params.get(name) || defaults[name];
       if(control instanceof HTMLSelectElement) control.value=Array.from(control.options).some(o=>o.value===val)?val:'all';
       else control.value=val.slice(0,160);
     }
@@ -40,18 +41,22 @@ if(form) {
       const brand=JSON.parse(c.dataset.brand);
       const visible=matchBrand(brand,filters);
       c.hidden=!visible;if(visible)total++;
-      const selectedSamples=brand.samples.filter(s=>budgetMatch(s.price,filters.budget));
+      const selectedSamples=brand.samples.filter(s=>sampleMatches(s,filters));
       if(selectedSamples.length) {
-        const price=Math.min(...selectedSamples.map(s=>s.price));
+        const sample=selectedSamples.sort((a,b)=>a.price-b.price)[0];
+        const price=sample.price;
         c.dataset.price=String(price);
-        c.querySelector('.sample-price').textContent='單品樣本 ¥'+price.toLocaleString('en-US');
+        c.querySelector('.sample-price').textContent=(brand.photoProductName===sample.name?'照片單品價格：':'其他單品價格樣本：')+sample.name+' ¥'+price.toLocaleString('en-US');
+      } else {
+        c.dataset.price=String(Number.MAX_SAFE_INTEGER);
+        c.querySelector('.sample-price').textContent='此分類的日本價格請見官方';
       }
     }
     cards.sort((a,b)=>selected==='price'?Number(a.dataset.price)-Number(b.dataset.price):selected==='name'?a.dataset.name.localeCompare(b.dataset.name):Number(a.dataset.order)-Number(b.dataset.order)).forEach(c=>grid.append(c));
     count.textContent='找到 '+total+' 個品牌';empty.hidden=total!==0;
     if(updateUrl) {
       const params=new URLSearchParams();
-      for(const [k,v] of Object.entries(filters)) if(v && v!=='all') params.set(k,v);
+      for(const [k,v] of Object.entries(filters)) if(v && v!==defaults[k]) params.set(k,v);
       if(selected!=='editorial')params.set('sort',selected);
       const next=location.pathname+(params.size?'?'+params:'');
       if(next!==location.pathname+location.search) history.pushState({},'',next);
@@ -63,7 +68,7 @@ if(form) {
   form.addEventListener('submit',event=>{event.preventDefault();clearTimeout(timer);apply(true);});
   function resetFilters() {
     clearTimeout(timer);
-    for(const name of names) form.elements.namedItem(name).value=name==='q'?'':'all';
+    for(const name of names) form.elements.namedItem(name).value=defaults[name];
     sort.value='editorial';
     apply(true);
   }
@@ -72,6 +77,13 @@ if(form) {
   sort.addEventListener('change',()=>apply(true));
   window.addEventListener('popstate',()=>{fromUrl();apply();});
   fromUrl();apply();
+}
+
+// A unavailable official photograph never falls back to another brand or an AI image.
+for(const img of document.querySelectorAll('.product-photo img')) {
+ const failed=()=>{const figure=img.closest('.product-photo');figure.classList.add('photo-failed');figure.querySelector('.photo-unavailable').hidden=false;};
+ img.addEventListener('error',failed);
+ if(img.complete && !img.naturalWidth)failed();
 }
 
 // A static deployment may outlive its snapshot. Re-evaluate freshness in the browser.

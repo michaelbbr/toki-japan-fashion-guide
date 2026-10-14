@@ -1,5 +1,15 @@
 # TOKI progress — 2026-10-14
 
+## V2 implementation — 2026-10-14
+
+- Latest work supersedes the design-only state below. User edits fetched through 696b0f3 and merged without losing their nine added brands. Build entry repaired after it had been replaced with configuration JSON.
+- 15 complete brand/label entries, separate men/women, category/budget discovery, real product photos, representative-piece index, typed relationships and shopping/comparison pages. Homepage hierarchy and desktop/mobile card layouts refined.
+- All 15 principal product photos loaded in the local browser. Each matches an official/brand-store item or explicitly dated feature. PURPLE LABEL 2020 photo's SKU and clothing classification remain unconfirmed and are marked accordingly. Other historical years and unknown Japan prices stay explicit.
+- Relationships and public copy audited; verdict publish after corrections. Ledger docs/brand-and-photo-audit-2026-10-14.md. Original unsupported universal fit/sizing claims removed; relationships use full names and source links.
+- Build success: 32 static routes, 0 runtime functions. Manual 390px layout inspection on homepage/index/men/women and four brand/relationship pages found no horizontal overflow. Menu Escape, category + budget filtering and gender reset inspected. Category-only knitwear returns AURALEE and SNIDEL, including unknown Japan price; ¥5,000–10,000 narrows to SNIDEL. No browser warnings/errors observed locally.
+- No automated tests were added or run for this release. The first-edition test results below are historical and do not cover this change.
+- GitHub push and current Production confirmation pending. No paid actions or services used.
+
 ## V2 design — 2026-10-14
 - User confirmed brand understanding/comparison/Japan shopping direction and requested representative items. Completed written information architecture and visual design preview: docs/superpowers/specs/2026-10-14-toki-discovery-v2-design.md and ../outputs/toki-japan-fashion-guide/design-v2.html.
 - Men/women are distinct entry experiences with one shared brand identity; items retain their actual labels and clothing scope. Added planned pieces/comparison/shopping page structures and five sourced sample picks.
