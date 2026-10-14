@@ -80,6 +80,69 @@ export const brands=[
  ],
  similar:[{id:'united-arrows',reason:'想比較更簡潔的女裝與通勤方向，可以看 UNITED ARROWS。'}],
  sources:[{label:'官方品牌定位',url:'https://snidel.us/'},{label:'日本 USAGI ONLINE SNIDEL 專區',url:'https://usagi-online.com/brand/snidel/'}]
+ },
+ {
+      id: 'freaks-store',
+      name: "FREAK'S STORE",
+      jp: 'フリークスストア',
+      sublines: ['FREAK\'S STORE (主線/美式休閒)', 'Firsthand (永續時尚選貨店)', 'Aresense (女性質感高階支線)'],
+      fitAdvice: '偏大寬鬆型（Oversized）落肩美式工裝風格，建議按正常尺碼選購即有寬鬆廓形感。'
+ },
+ {
+      id: 'urban-research',
+      name: 'URBAN RESEARCH',
+      jp: 'アーバンリサーチ',
+      sublines: ['URBAN RESEARCH (主線/都市簡約)', 'URBAN RESEARCH DOORS (生活休閒)', 'URBAN RESEARCH ROSSO (成熟品味女裝)', 'KBF (前衛設計女裝)', 'ITEMS (平價基本款)'],
+      fitAdvice: '標準日系剪裁，符合亞洲身形，肩寬與袖長適中；若偏好層次感可選擇大一號。'
+ },
+ {
+      id: 'journal-standard',
+      name: 'JOURNAL STANDARD',
+      jp: 'ジーナルスタンダード',
+      sublines: ['JOURNAL STANDARD (主線/式復古工裝)', 'JOURNAL STANDARD relume (日常親民風格)', 'JOURNAL STANDARD L\'ESSAGE (高質感女裝)', 'JS HOMESTEAD (復古軍工裝)'],
+      fitAdvice: '經典美式復古與工裝剪裁，布料挺括，略帶寬鬆度，按正常尺寸選擇即可。'
+ },
+ {
+      id: 'mont-bell',
+      name: 'mont-bell',
+      jp: 'モンベル',
+      sublines: ['mont-bell (主線/戶外機能)', 'Exclusive Line (日本限定城市機能)'],
+      fitAdvice: '戶外活動標準版型，剪裁貼合俐落；若打算內搭厚實衣物建議選擇大一號。'
+ },
+ {
+      id: 'daiwa-pier39',
+      name: 'DAIWA PIER39',
+      jp: 'ダイワ ピア39',
+      sublines: ['DAIWA PIER39 (都市釣魚與戶外街頭機能)'],
+      fitAdvice: '極致寬鬆 Oversized 版型，豐富機能口袋設計，建議可小一號或按正常尺寸穿出鬆弛廓形。'
+ },
+ {
+      id: 'nanamica',
+      name: 'nanamica',
+      jp: 'ナナミカ',
+      sublines: ['nanamica (主線/GORE-TEX 都市機能)', 'THE NORTH FACE PURPLE LABEL (日本限定紫標)'],
+      fitAdvice: '寬鬆立體剪裁，極簡質感版型偏大且胸寬與衣長充裕，建議選擇正常或偏小尺寸。'
+ },
+ {
+      id: 'graphpaper',
+      name: 'Graphpaper',
+      jp: 'グラフペーパー',
+      sublines: ['Graphpaper (主線/極簡建感廓形)', 'Graphpaper Fine Wool / Thomas Mason 聯名系列'],
+      fitAdvice: '標誌性 One-Size 微寬鬆無性別剪裁，垂墜感佳，適合各種身形展現極簡風格。'
+ },
+ {
+      id: 'mila-owen',
+      name: 'Mila Owen',
+      jp: 'ミラ オーウェ',
+      sublines: ['Mila Owen (主線/NEXT BASIC 都市女裝)'],
+      fitAdvice: '為現代性打造，剪裁立體顯瘦，符合亞洲女性身形比例，建議購正常女裝尺寸。'
+ },
+ {
+      id: 'clane',
+      name: 'CLANE',
+      jp: 'クラネ',
+      sublines: ['CLANE (松本惠奈主理/ORIGINAL STANDARD 女性現代選品)', 'CLANE HOMME (男裝系列)'],
+      fitAdvice: '獨特立體剪裁與設計感線條，落肩廓形具結構感，正常尺寸穿著即具時尚高級感。'
  }
 ];
 
