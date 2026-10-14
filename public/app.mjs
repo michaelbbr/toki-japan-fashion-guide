@@ -19,8 +19,10 @@ if(form) {
   const grid=document.querySelector('.brand-grid');
   const sort=document.querySelector('#sort');
   const count=document.querySelector('#result-count'), empty=document.querySelector('#empty-results');
-  const names=['q','style','category','budget','gender'];
-  const defaults={q:'',style:'all',category:'all',budget:'all',gender:form.dataset.gender || 'all'};
+  const names=['q','shelf','style','category','budget','gender'];
+  const more=document.querySelector('#show-more-brands');
+  let visibleLimit=12;
+  const defaults={q:'',shelf:'all',style:'all',category:'all',budget:'all',gender:form.dataset.gender || 'all'};
   function fromUrl() {
     const params=new URLSearchParams(location.search);
     for(const name of names) {
@@ -32,6 +34,7 @@ if(form) {
     sort.value=['editorial','name','price'].includes(params.get('sort'))?params.get('sort'):'editorial';
   }
   function apply(updateUrl=false) {
+    if(updateUrl)visibleLimit=12;
     const filters=Object.fromEntries(new FormData(form));
     filters.q=String(filters.q || '').slice(0,160);
     form.elements.namedItem('q').value=filters.q;
@@ -40,7 +43,8 @@ if(form) {
     for(const c of cards) {
       const brand=JSON.parse(c.dataset.brand);
       const visible=matchBrand(brand,filters);
-      c.hidden=!visible;if(visible)total++;
+      c.dataset.matches=String(visible);if(visible)total++;
+      document.querySelector('[data-index-brand="'+brand.id+'"]')?.toggleAttribute('hidden',!visible);
       const selectedSamples=brand.samples.filter(s=>sampleMatches(s,filters));
       if(selectedSamples.length) {
         const sample=selectedSamples.sort((a,b)=>a.price-b.price)[0];
@@ -53,7 +57,11 @@ if(form) {
       }
     }
     cards.sort((a,b)=>selected==='price'?Number(a.dataset.price)-Number(b.dataset.price):selected==='name'?a.dataset.name.localeCompare(b.dataset.name):Number(a.dataset.order)-Number(b.dataset.order)).forEach(c=>grid.append(c));
-    count.textContent='找到 '+total+' 個品牌';empty.hidden=total!==0;
+    let displayed=0;
+    for(const card of cards){card.hidden=card.dataset.matches!=='true'||displayed>=visibleLimit;if(!card.hidden)displayed++;}
+    count.textContent='找到 '+total+' 個品牌 · 目前顯示 '+displayed+' 個';empty.hidden=total!==0;
+    document.querySelector('.brand-name-index summary').textContent='我知道名字：品牌名稱索引（目前 '+total+' 個）';
+    more.hidden=displayed>=total;more.textContent='再看 '+Math.min(12,total-displayed)+' 個品牌 →';
     if(updateUrl) {
       const params=new URLSearchParams();
       for(const [k,v] of Object.entries(filters)) if(v && v!==defaults[k]) params.set(k,v);
@@ -75,6 +83,7 @@ if(form) {
   form.addEventListener('reset',event=>{event.preventDefault();resetFilters();});
   document.querySelector('#empty-reset').addEventListener('click',()=>{resetFilters();form.elements.namedItem('q').focus();});
   sort.addEventListener('change',()=>apply(true));
+  more.addEventListener('click',()=>{visibleLimit+=12;apply();});
   window.addEventListener('popstate',()=>{fromUrl();apply();});
   fromUrl();apply();
 }

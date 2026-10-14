@@ -156,3 +156,45 @@ Full ledger: docs/brand-and-photo-audit-2026-10-14.md. All checked 2026-10-14; i
   - https://auralee.jp/store
 - AURALEE store scope: Tokyo Minamiaoyama store; distinct Shinjuku men's 6F / women's 3F; Hankyu Umeda women's 3F. District sorting uses the verified address and name, not inferred inventory.
 - Coverage is explicitly 3 cities, 2 brands, 10 stores/counters. Google Maps links are address-based map searches, with no API/account/payment integration.
+
+## 35 additional product-bound guides — 2026-10-14
+
+Primary public sources, title/item/photo binding, market/classification exceptions in docs/brand-expansion-audit-2026-10-14.md. Raw third-party documents stay ignored.
+
+| Brand | Exact item | Source | Verified date |
+|---|---|---|---|
+| UNIQLO | E465185-000 · 2026 FW 專題 | https://www.uniqlo.com/jp/ja/contents/feature/masterpiece/product/airism-cotton-oversized-t-shirt/ | 2026-10-14 |
+| GU | 360441 | https://www.gu-global.com/jp/ja/products/E360441-000/00 | 2026-10-14 |
+| 無印良品 MUJI | 4550723268943 | https://www.muji.com/jp/ja/store/cmdty/detail/4550723268943 | 2026-10-14 |
+| GLOBAL WORK | 816132 | https://www.dot-st.com/globalwork/disp/item/816132/ | 2026-10-14 |
+| niko and ... | 741553 | https://www.dot-st.com/nikoand/disp/item/741553/ | 2026-10-14 |
+| LOWRYS FARM | 1064945 | https://www.dot-st.com/lowrysfarm/disp/item/1064945/ | 2026-10-14 |
+| JEANASIS | 1075999 | https://www.dot-st.com/jeanasis/disp/item/1075999/ | 2026-10-14 |
+| HARE | 679096 | https://www.dot-st.com/hare/disp/item/679096/ | 2026-10-14 |
+| RAGEBLUE | 1079794 | https://www.dot-st.com/rageblue/disp/item/1079794/ | 2026-10-14 |
+| BAYFLOW | 1057058 | https://www.dot-st.com/bayflow/disp/item/1057058/ | 2026-10-14 |
+| LEPSIM | 826786 | https://www.dot-st.com/lepsim/disp/item/826786/ | 2026-10-14 |
+| UNITED TOKYO | 136500002106 | https://united-tokyo.com/shop/g/g136500002106/ | 2026-10-14 |
+| PUBLIC TOKYO | 156240005166 | https://public-tokyo.com/shop/g/g156240005166/ | 2026-10-14 |
+| CULLNI | 26-AW-021 | https://cullni.com/products/detail.php?product_id=2005&c=626 | 2026-10-14 |
+| ATON | JKAGLW0304-335-02 | https://aton-tokyo.com/collections/men-all/products/linen-wool-tweed-short-coat | 2026-10-14 |
+| YOKE | YK26FW01362B_GRY_1 | https://yoketokyo.com/products/wool-cashmere-fleece-reversible-blouson | 2026-10-14 |
+| ssstein | ST.1530 | https://ssstein.com/products/st-1530-wool-melton-oversized-investigated-coat | 2026-10-14 |
+| MARKAWARE | A26C18PT01C31 | https://markaware.jp/collections/new-in-26ss/products/2-2-96-wool-flannel-double-pleated-straight-trousers-black | 2026-10-14 |
+| COMOLI | C03-05004 | https://www.comoli.jp/mailorder/cotton_ls_t-shirt_c | 2026-10-14 |
+| beautiful people | 1646102024 | https://beautiful-people.jp/collections/new-arrivals/products/selvedge-denim-o-d-relax-blouson | 2026-10-14 |
+| ISSEY MIYAKE | IM63FJ123 | https://www.isseymiyake.com/products/im63fj123 | 2026-10-14 |
+| NEEDLES | TY349C  -0099-0002 | https://onlinestore.nepenthes.co.jp/products/track-jacket-poly-smooth-40 | 2026-10-14 |
+| Engineered Garments | TX189A  -0199-0001 | https://onlinestore.nepenthes.co.jp/products/bedford-jacket-heavyweight-ripstop-1 | 2026-10-14 |
+| SOUTH2 WEST8 | TY970B  -0750-0002 | https://onlinestore.nepenthes.co.jp/products/warm-up-jacket-nylon-tussah-3 | 2026-10-14 |
+| RHODOLIRION | TX1070A -0105-9999 | https://onlinestore.nepenthes.co.jp/products/chunky-knit-bolero | 2026-10-14 |
+| GRAMICCI | G102-OGT | https://gramicci.jp/c/mens/longpants_m/gramicci-pant | 2026-10-14 |
+| TAION | TAION-001-C001-XS | https://taion-wear.jp/collections/down-vest/products/taion-001 | 2026-10-14 |
+| DANTON | DT-A0700 WNN / DNB262M103-0003 | https://danton.com/en-us/products/dnb262m103-0003 | 2026-10-14 |
+| ORCIVAL | OR-C0430 MAZ-R | https://orcival.jp/en-os/products/mens-light-french-terry-boat-neck-pullover | 2026-10-14 |
+| Goldwin | GL76177 | https://www.goldwin.co.jp/ap/item/i/m/GL76177 | 2026-10-14 |
+| and wander | 5746281048S022 | https://mix.tokyo/products/5746281048 | 2026-10-14 |
+| FRAY I.D | FWNT264102 | https://mitsui-shopping-park.com/ec/p/1620200006763?mallColor=0101 | 2026-10-14 |
+| LILY BROWN | LWNT265014 | https://mitsui-shopping-park.com/ec/p/1620300007728 | 2026-10-14 |
+| gelato pique | PWNT264047OWHTF | https://gelatopique.us/products/smoothie-eyelet-short-cardigan | 2026-10-14 |
+| emmi | 13WNT265012 | https://mitsui-shopping-park.com/ec/p/1620700015157 | 2026-10-14 |

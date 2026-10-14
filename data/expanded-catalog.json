@@ -1,0 +1,1674 @@
+{
+  "checkedAt": "2026-10-14",
+  "brands": [
+    {
+      "id": "uniqlo",
+      "profile": {
+        "name": "UNIQLO",
+        "jp": "ユニクロ",
+        "aliases": [
+          "uniqlo"
+        ],
+        "styles": [
+          "city",
+          "minimal"
+        ],
+        "audience": [
+          "men",
+          "women"
+        ],
+        "audienceBasis": "official",
+        "shelf": "everyday",
+        "type": "日常服飾",
+        "tagline": "從一件日常 T-shirt 開始。",
+        "intro": "官方 Masterpiece 專題介紹 AIRism Cotton 寬版 T-shirt；本頁保留 2026 秋冬專題版本，從袖長與寬版比例認識日常基本款。",
+        "why": "如果想從日常基本輪廓找方向，可以先看「AIRism Cotton 寬版 T-shirt」。這是編輯探索建議。",
+        "look": [
+          "AIRism Cotton 寬版 T-shirt的輪廓與細節",
+          "照片只對應本頁款名與貨號",
+          "同款尺寸、材質與市場版本逐一確認"
+        ],
+        "shopping": "以本頁官方／品牌通路為起點，核對日本販售、市場版本與尺寸表，再安排試穿。現貨、門市和是否販售這款，請在出發前向官方確認。",
+        "official": "https://www.uniqlo.com/jp/ja/",
+        "shop": "https://www.uniqlo.com/jp/ja/",
+        "companySource": null
+      },
+      "piece": {
+        "name": "AIRism Cotton 寬版 T-shirt",
+        "originalName": "エアリズムコットンオーバーサイズTシャツ",
+        "sku": "E465185-000 · 2026 FW 專題",
+        "category": "tops",
+        "audience": [],
+        "role": "官方專題 · 2026 FW 版本",
+        "price": null,
+        "note": "先看這款的領口、肩線與衣長，再對照自己的衣櫥。官方單品性別分類尚未確認。",
+        "priceNote": "官網可能切換國際市場；日本價格請另查",
+        "source": "https://www.uniqlo.com/jp/ja/contents/feature/masterpiece/product/airism-cotton-oversized-t-shirt/",
+        "image": "https://www.uniqlo.com/jp/ja/contents/feature/masterpiece/common/img/product/item_03_kv.jpg?260115",
+        "credit": "UNIQLO 官方商品／專題"
+      }
+    },
+    {
+      "id": "gu",
+      "profile": {
+        "name": "GU",
+        "jp": "ジーユー",
+        "aliases": [
+          "gu"
+        ],
+        "styles": [
+          "city",
+          "minimal"
+        ],
+        "audience": [
+          "men",
+          "women"
+        ],
+        "audienceBasis": "official",
+        "shelf": "everyday",
+        "type": "日常服飾",
+        "tagline": "用衛衣輪廓，試試不同的日常比例。",
+        "intro": "官方把這款 Heavyweight Sweat Pullover 列為 UNISEX。以領口、袖口與寬版比例作探索入口，男女尺寸依同款實寸核對。",
+        "why": "如果想從日常基本輪廓找方向，可以先看「Heavyweight Sweat Pullover」。這是編輯探索建議。",
+        "look": [
+          "Heavyweight Sweat Pullover的輪廓與細節",
+          "照片只對應本頁款名與貨號",
+          "同款尺寸、材質與市場版本逐一確認"
+        ],
+        "shopping": "以本頁官方／品牌通路為起點，核對日本販售、市場版本與尺寸表，再安排試穿。現貨、門市和是否販售這款，請在出發前向官方確認。",
+        "official": "https://www.gu-global.com/jp/ja/",
+        "shop": "https://www.gu-global.com/jp/ja/",
+        "companySource": null
+      },
+      "piece": {
+        "name": "Heavyweight Sweat Pullover",
+        "originalName": "ヘビーウェイトスウェットプルオーバー",
+        "sku": "360441",
+        "category": "tops",
+        "audience": [
+          "men",
+          "women"
+        ],
+        "role": "編輯入門選品",
+        "price": 2990,
+        "note": "先看這款的領口、肩線與衣長，再對照自己的衣櫥。",
+        "priceNote": "2026-10-14 日本通路列價樣本；售價／庫存可能變動",
+        "source": "https://www.gu-global.com/jp/ja/products/E360441-000/00",
+        "image": "https://image.uniqlo.com/GU/ST3/jp/imagesgoods/360441/item/jpgoods_55_360441_3x4.jpg",
+        "credit": "GU 官方商品／專題"
+      }
+    },
+    {
+      "id": "muji",
+      "profile": {
+        "name": "無印良品 MUJI",
+        "jp": "ムジ／無印良品",
+        "aliases": [
+          "muji"
+        ],
+        "styles": [
+          "minimal",
+          "city"
+        ],
+        "audience": [
+          "men",
+          "women"
+        ],
+        "audienceBasis": "official",
+        "shelf": "everyday",
+        "type": "日常服飾",
+        "tagline": "從材質和基本輪廓，整理日常衣櫥。",
+        "intro": "日本官方商品頁列出女裝雙面起毛法蘭絨立領上衣。MUJI 也販售生活用品；本站只取服飾單品作穿搭探索，不把生活商品價格混入衣服預算。",
+        "why": "如果想從日常基本輪廓找方向，可以先看「法蘭絨立領長袖上衣」。這是編輯探索建議。",
+        "look": [
+          "法蘭絨立領長袖上衣的輪廓與細節",
+          "照片只對應本頁款名與貨號",
+          "同款尺寸、材質與市場版本逐一確認"
+        ],
+        "shopping": "以本頁官方／品牌通路為起點，核對日本販售、市場版本與尺寸表，再安排試穿。現貨、門市和是否販售這款，請在出發前向官方確認。",
+        "official": "https://www.muji.com/jp/ja/store",
+        "shop": "https://www.muji.com/jp/ja/store",
+        "companySource": null
+      },
+      "piece": {
+        "name": "法蘭絨立領長袖上衣",
+        "originalName": "婦人 両面起毛 甘撚りフランネル スタンドカラー長袖ブラウス",
+        "sku": "4550723268943",
+        "category": "tops",
+        "audience": [
+          "women"
+        ],
+        "role": "編輯入門選品",
+        "price": 3990,
+        "note": "先看這款的領口、肩線與衣長，再對照自己的衣櫥。",
+        "priceNote": "2026-10-14 日本通路列價樣本；售價／庫存可能變動",
+        "source": "https://www.muji.com/jp/ja/store/cmdty/detail/4550723268943",
+        "image": "https://www.muji.com/public/media/img/item/4550723268943_org.jpg",
+        "credit": "無印良品 MUJI 官方商品／專題"
+      }
+    },
+    {
+      "id": "globalwork",
+      "profile": {
+        "name": "GLOBAL WORK",
+        "jp": "グローバルワーク",
+        "aliases": [
+          "globalwork"
+        ],
+        "styles": [
+          "city",
+          "minimal"
+        ],
+        "audience": [
+          "men",
+          "women"
+        ],
+        "audienceBasis": "official",
+        "shelf": "everyday",
+        "type": "日常服飾",
+        "tagline": "日常與通勤，先從一條褲子連起來。",
+        "intro": "從官方 Utsukushilhouette 錐形褲看褲管、腰圍與褲長，認識日常褲裝。系列名稱保留原文；不把商品名稱解讀成顯瘦或身形保證。",
+        "why": "如果想從日常基本輪廓找方向，可以先看「Utsukushilhouette 錐形褲」。這是編輯探索建議。",
+        "look": [
+          "Utsukushilhouette 錐形褲的輪廓與細節",
+          "照片只對應本頁款名與貨號",
+          "同款尺寸、材質與市場版本逐一確認"
+        ],
+        "shopping": "以本頁官方／品牌通路為起點，核對日本販售、市場版本與尺寸表，再安排試穿。現貨、門市和是否販售這款，請在出發前向官方確認。",
+        "official": "https://www.dot-st.com/globalwork/",
+        "shop": "https://www.dot-st.com/globalwork/info/storelist/",
+        "companySource": "https://www.adastria.co.jp/brands/"
+      },
+      "piece": {
+        "name": "Utsukushilhouette 錐形褲",
+        "originalName": "ウツクシルエットテーパードパンツ/816132",
+        "sku": "816132",
+        "category": "bottoms",
+        "audience": [
+          "women"
+        ],
+        "role": "編輯入門選品",
+        "price": 4990,
+        "note": "先看這款的腰圍、褲管與長度，再對照自己的衣櫥。",
+        "priceNote": "2026-10-14 日本通路列價樣本；售價／庫存可能變動",
+        "source": "https://www.dot-st.com/globalwork/disp/item/816132/",
+        "image": "https://pdimg.dot-st.com/images/globalwork/goods/itemImg81/816132/item_816132_main_88_1786360543.jpg",
+        "credit": "GLOBAL WORK／and ST 官方通路"
+      }
+    },
+    {
+      "id": "nikoand",
+      "profile": {
+        "name": "niko and ...",
+        "jp": "ニコアンド",
+        "aliases": [
+          "nikoand"
+        ],
+        "styles": [
+          "city",
+          "outdoor"
+        ],
+        "audience": [
+          "men",
+          "women"
+        ],
+        "audienceBasis": "official",
+        "shelf": "everyday",
+        "type": "日常服飾",
+        "tagline": "有一點復古感，也有自己的日常。",
+        "intro": "官方 Henley 領針織以條紋與領口細節作探索入口。服裝、雜貨和店內外部品牌分開辨認；本頁照片對應 niko and ... 自有商品。",
+        "why": "如果想從日常基本輪廓找方向，可以先看「Henley 領條紋針織」。這是編輯探索建議。",
+        "look": [
+          "Henley 領條紋針織的輪廓與細節",
+          "照片只對應本頁款名與貨號",
+          "同款尺寸、材質與市場版本逐一確認"
+        ],
+        "shopping": "以本頁官方／品牌通路為起點，核對日本販售、市場版本與尺寸表，再安排試穿。現貨、門市和是否販售這款，請在出發前向官方確認。",
+        "official": "https://www.dot-st.com/nikoand/",
+        "shop": "https://www.dot-st.com/nikoand/info/storelist/",
+        "companySource": "https://www.adastria.co.jp/brands/"
+      },
+      "piece": {
+        "name": "Henley 領條紋針織",
+        "originalName": "≪10/8 みきてぃさん紹介≫【洗濯可】モールヘンリーニットプルオーバー",
+        "sku": "741553",
+        "category": "knitwear",
+        "audience": [],
+        "role": "編輯入門選品",
+        "price": 5500,
+        "note": "先看這款的編織、領型與長度，再對照自己的衣櫥。 本款官方性別分類尚待確認，不納入男女限定的品類／價格篩選。",
+        "priceNote": "2026-10-14 日本通路列價樣本；售價／庫存可能變動",
+        "source": "https://www.dot-st.com/nikoand/disp/item/741553/",
+        "image": "https://pdimg.dot-st.com/images/nikoand/goods/itemImg74/741553/item_741553_main_50_1789545391.jpg",
+        "credit": "niko and ...／and ST 官方通路"
+      }
+    },
+    {
+      "id": "lowrysfarm",
+      "profile": {
+        "name": "LOWRYS FARM",
+        "jp": "ローリーズファーム",
+        "aliases": [
+          "lowrysfarm"
+        ],
+        "styles": [
+          "city",
+          "feminine"
+        ],
+        "audience": [
+          "women"
+        ],
+        "audienceBasis": "official",
+        "shelf": "women",
+        "type": "女裝／居家服飾",
+        "tagline": "把柔和細節，放進休閒搭配。",
+        "intro": "以官方荷葉邊 Polo 針織觀察領口、袖長與短版比例。LOWRYS FARM 的完整名稱保留在商品與來源中，不把同集團品牌合併成一個品牌。",
+        "why": "如果想從上衣細節與層次找方向，可以先看「荷葉邊 Polo 針織」。這是編輯探索建議。",
+        "look": [
+          "荷葉邊 Polo 針織的輪廓與細節",
+          "照片只對應本頁款名與貨號",
+          "同款尺寸、材質與市場版本逐一確認"
+        ],
+        "shopping": "以本頁官方／品牌通路為起點，核對日本販售、市場版本與尺寸表，再安排試穿。現貨、門市和是否販售這款，請在出發前向官方確認。",
+        "official": "https://www.dot-st.com/lowrysfarm/",
+        "shop": "https://www.dot-st.com/lowrysfarm/info/storelist/",
+        "companySource": "https://www.adastria.co.jp/brands/"
+      },
+      "piece": {
+        "name": "荷葉邊 Polo 針織",
+        "originalName": "フリルポロニットプルオーバーLS",
+        "sku": "1064945",
+        "category": "knitwear",
+        "audience": [],
+        "role": "編輯入門選品",
+        "price": 5990,
+        "note": "先看這款的編織、領型與長度，再對照自己的衣櫥。 本款官方性別分類尚待確認，不納入男女限定的品類／價格篩選。",
+        "priceNote": "2026-10-14 日本通路列價樣本；售價／庫存可能變動",
+        "source": "https://www.dot-st.com/lowrysfarm/disp/item/1064945/",
+        "image": "https://pdimg.dot-st.com/images/lowrysfarm/goods/itemImg106/1064945/item_1064945_main_15_1791962623.jpg",
+        "credit": "LOWRYS FARM／and ST 官方通路"
+      }
+    },
+    {
+      "id": "jeanasis",
+      "profile": {
+        "name": "JEANASIS",
+        "jp": "ジーナシス",
+        "aliases": [
+          "jeanasis"
+        ],
+        "styles": [
+          "city",
+          "feminine"
+        ],
+        "audience": [
+          "women"
+        ],
+        "audienceBasis": "official",
+        "shelf": "women",
+        "type": "女裝／居家服飾",
+        "tagline": "從金屬鈕扣與線條，找到搭配重點。",
+        "intro": "這款官方預約商品有 Napoleon 開襟衫的排列細節。用它認識針織與造型層次；預約、到貨與現貨狀態請看原商品頁。",
+        "why": "如果想從上衣細節與層次找方向，可以先看「14G Napoleon 針織開襟衫」。這是編輯探索建議。",
+        "look": [
+          "14G Napoleon 針織開襟衫的輪廓與細節",
+          "照片只對應本頁款名與貨號",
+          "同款尺寸、材質與市場版本逐一確認"
+        ],
+        "shopping": "以本頁官方／品牌通路為起點，核對日本販售、市場版本與尺寸表，再安排試穿。現貨、門市和是否販售這款，請在出發前向官方確認。",
+        "official": "https://www.dot-st.com/jeanasis/",
+        "shop": "https://www.dot-st.com/jeanasis/info/storelist/",
+        "companySource": "https://www.adastria.co.jp/brands/"
+      },
+      "piece": {
+        "name": "14G Napoleon 針織開襟衫",
+        "originalName": "【先行予約】14GナポレオンカーディガンLS",
+        "sku": "1075999",
+        "category": "knitwear",
+        "audience": [],
+        "role": "編輯入門選品 · 預約版本",
+        "price": 7700,
+        "note": "先看這款的編織、領型與長度，再對照自己的衣櫥。 本款官方性別分類尚待確認，不納入男女限定的品類／價格篩選。",
+        "priceNote": "2026-10-14 日本通路列價樣本；售價／庫存可能變動",
+        "source": "https://www.dot-st.com/jeanasis/disp/item/1075999/",
+        "image": "https://pdimg.dot-st.com/images/jeanasis/goods/itemImg107/1075999/item_1075999_main_15_1785476018.jpg",
+        "credit": "JEANASIS／and ST 官方通路"
+      }
+    },
+    {
+      "id": "hare",
+      "profile": {
+        "name": "HARE",
+        "jp": "ハレ",
+        "aliases": [
+          "hare"
+        ],
+        "styles": [
+          "minimal",
+          "city"
+        ],
+        "audience": [
+          "men",
+          "women"
+        ],
+        "audienceBasis": "official",
+        "shelf": "contemporary",
+        "type": "城市服飾",
+        "tagline": "讓大衣的結構，成為整套穿搭的主角。",
+        "intro": "本頁以官方 Woollytech KANAGU 立領大衣觀察金具、領型與長度。商品系列名不等同純羊毛成分，材質必須依該款官方規格核對。",
+        "why": "如果想從城市搭配的結構找方向，可以先看「Woollytech KANAGU 立領大衣」。這是編輯探索建議。",
+        "look": [
+          "Woollytech KANAGU 立領大衣的輪廓與細節",
+          "照片只對應本頁款名與貨號",
+          "同款尺寸、材質與市場版本逐一確認"
+        ],
+        "shopping": "以本頁官方／品牌通路為起點，核對日本販售、市場版本與尺寸表，再安排試穿。現貨、門市和是否販售這款，請在出發前向官方確認。",
+        "official": "https://www.dot-st.com/hare/",
+        "shop": "https://www.dot-st.com/hare/info/storelist/",
+        "companySource": "https://www.adastria.co.jp/brands/"
+      },
+      "piece": {
+        "name": "Woollytech KANAGU 立領大衣",
+        "originalName": "【WEB先行予約】ウーリーテックKANAGUスタンドコート",
+        "sku": "679096",
+        "category": "outerwear",
+        "audience": [],
+        "role": "編輯入門選品 · 預約版本",
+        "price": 18920,
+        "note": "先看這款的領型、口袋與衣長，再對照自己的衣櫥。官方單品性別分類尚未確認。",
+        "priceNote": "2026-10-14 日本通路列價樣本；售價／庫存可能變動",
+        "source": "https://www.dot-st.com/hare/disp/item/679096/",
+        "image": "https://pdimg.dot-st.com/images/hare/goods/itemImg67/679096/item_679096_main_93_1788868888.jpg",
+        "credit": "HARE／and ST 官方通路"
+      }
+    },
+    {
+      "id": "rageblue",
+      "profile": {
+        "name": "RAGEBLUE",
+        "jp": "レイジブルー",
+        "aliases": [
+          "rageblue"
+        ],
+        "styles": [
+          "city",
+          "minimal"
+        ],
+        "audience": [
+          "men",
+          "women"
+        ],
+        "audienceBasis": "official",
+        "shelf": "everyday",
+        "type": "日常服飾",
+        "tagline": "休閒，也可以從針織領口開始。",
+        "intro": "官方這款針織 Polo 使用羊毛混紡與起毛表面，適合觀察針織如何加入日常休閒。店內合作商品與 RAGEBLUE 自有款分開標示。",
+        "why": "如果想從日常基本輪廓找方向，可以先看「羊毛混紡 Shaggy Knit Polo」。這是編輯探索建議。",
+        "look": [
+          "羊毛混紡 Shaggy Knit Polo的輪廓與細節",
+          "照片只對應本頁款名與貨號",
+          "同款尺寸、材質與市場版本逐一確認"
+        ],
+        "shopping": "以本頁官方／品牌通路為起點，核對日本販售、市場版本與尺寸表，再安排試穿。現貨、門市和是否販售這款，請在出發前向官方確認。",
+        "official": "https://www.dot-st.com/rageblue/",
+        "shop": "https://www.dot-st.com/rageblue/info/storelist/",
+        "companySource": "https://www.adastria.co.jp/brands/"
+      },
+      "piece": {
+        "name": "羊毛混紡 Shaggy Knit Polo",
+        "originalName": "ウール混/シャギーニットポロ",
+        "sku": "1079794",
+        "category": "knitwear",
+        "audience": [],
+        "role": "編輯入門選品",
+        "price": 8990,
+        "note": "先看這款的編織、領型與長度，再對照自己的衣櫥。 本款官方性別分類尚待確認，不納入男女限定的品類／價格篩選。",
+        "priceNote": "2026-10-14 日本通路列價樣本；售價／庫存可能變動",
+        "source": "https://www.dot-st.com/rageblue/disp/item/1079794/",
+        "image": "https://pdimg.dot-st.com/images/rageblue/goods/itemImg107/1079794/item_1079794_main_76_1790243601.jpg",
+        "credit": "RAGEBLUE／and ST 官方通路"
+      }
+    },
+    {
+      "id": "bayflow",
+      "profile": {
+        "name": "BAYFLOW",
+        "jp": "ベイフロー",
+        "aliases": [
+          "bayflow"
+        ],
+        "styles": [
+          "city",
+          "outdoor"
+        ],
+        "audience": [
+          "men",
+          "women"
+        ],
+        "audienceBasis": "official",
+        "shelf": "everyday",
+        "type": "日常服飾",
+        "tagline": "從丹寧與寬鬆上衣，開始週末衣櫥。",
+        "intro": "官方商品名把這款丹寧襯衫描述為可像外套般披穿。本站用它觀察襯衫與輕外套之間的穿搭方式；這是編輯探索建議。",
+        "why": "如果想從日常基本輪廓找方向，可以先看「Oversized 丹寧襯衫」。這是編輯探索建議。",
+        "look": [
+          "Oversized 丹寧襯衫的輪廓與細節",
+          "照片只對應本頁款名與貨號",
+          "同款尺寸、材質與市場版本逐一確認"
+        ],
+        "shopping": "以本頁官方／品牌通路為起點，核對日本販售、市場版本與尺寸表，再安排試穿。現貨、門市和是否販售這款，請在出發前向官方確認。",
+        "official": "https://www.dot-st.com/bayflow/",
+        "shop": "https://www.dot-st.com/bayflow/info/storelist/",
+        "companySource": "https://www.adastria.co.jp/brands/"
+      },
+      "piece": {
+        "name": "Oversized 丹寧襯衫",
+        "originalName": "[アウター感覚で羽織れる]オーバーサイズデニムシャツ",
+        "sku": "1057058",
+        "category": "tops",
+        "audience": [],
+        "role": "編輯入門選品",
+        "price": 5890,
+        "note": "先看這款的領口、肩線與衣長，再對照自己的衣櫥。 本款官方性別分類尚待確認，不納入男女限定的品類／價格篩選。",
+        "priceNote": "2026-10-14 日本官方 30%OFF 促銷樣本",
+        "source": "https://www.dot-st.com/bayflow/disp/item/1057058/",
+        "image": "https://pdimg.dot-st.com/images/bayflow/goods/itemImg105/1057058/item_1057058_main_87_1786095854.jpg",
+        "credit": "BAYFLOW／and ST 官方通路"
+      }
+    },
+    {
+      "id": "lepsim",
+      "profile": {
+        "name": "LEPSIM",
+        "jp": "レプシィム",
+        "aliases": [
+          "lepsim"
+        ],
+        "styles": [
+          "minimal",
+          "feminine"
+        ],
+        "audience": [
+          "women"
+        ],
+        "audienceBasis": "official",
+        "shelf": "women",
+        "type": "女裝／居家服飾",
+        "tagline": "日常針織，留一點配色變化。",
+        "intro": "從官方配色羅紋拉鍊開襟衫觀察線條、領口與上下開合。商品屬 LEPSIM，與同集團其他品牌的價格、尺寸和照片分開整理。",
+        "why": "如果想從上衣細節與層次找方向，可以先看「配色羅紋拉鍊開襟衫」。這是編輯探索建議。",
+        "look": [
+          "配色羅紋拉鍊開襟衫的輪廓與細節",
+          "照片只對應本頁款名與貨號",
+          "同款尺寸、材質與市場版本逐一確認"
+        ],
+        "shopping": "以本頁官方／品牌通路為起點，核對日本販售、市場版本與尺寸表，再安排試穿。現貨、門市和是否販售這款，請在出發前向官方確認。",
+        "official": "https://www.dot-st.com/lepsim/",
+        "shop": "https://www.dot-st.com/lepsim/info/storelist/",
+        "companySource": "https://www.adastria.co.jp/brands/"
+      },
+      "piece": {
+        "name": "配色羅紋拉鍊開襟衫",
+        "originalName": "《満たされニットシリーズ》配色リブZIPカーディガン",
+        "sku": "826786",
+        "category": "knitwear",
+        "audience": [],
+        "role": "編輯入門選品",
+        "price": 7700,
+        "note": "先看這款的編織、領型與長度，再對照自己的衣櫥。 本款官方性別分類尚待確認，不納入男女限定的品類／價格篩選。",
+        "priceNote": "2026-10-14 日本通路列價樣本；售價／庫存可能變動",
+        "source": "https://www.dot-st.com/lepsim/disp/item/826786/",
+        "image": "https://pdimg.dot-st.com/images/lepsim/goods/itemImg82/826786/item_826786_main_73_1790737510.jpg",
+        "credit": "LEPSIM／and ST 官方通路"
+      }
+    },
+    {
+      "id": "unitedtokyo",
+      "profile": {
+        "name": "UNITED TOKYO",
+        "jp": "ユナイテッド トウキョウ",
+        "aliases": [
+          "unitedtokyo"
+        ],
+        "styles": [
+          "minimal",
+          "city"
+        ],
+        "audience": [
+          "men",
+          "women"
+        ],
+        "audienceBasis": "official",
+        "shelf": "contemporary",
+        "type": "城市服飾",
+        "tagline": "襯衫的素材與線條，值得單獨看。",
+        "intro": "官方男裝頁列出 Outlast 長袖襯衫，作為素材與城市服裝的探索例子。完整名稱是 UNITED TOKYO；商品不併入名字相似的 UNITED ARROWS。",
+        "why": "如果想從城市搭配的結構找方向，可以先看「Outlast 長袖襯衫」。這是編輯探索建議。",
+        "look": [
+          "Outlast 長袖襯衫的輪廓與細節",
+          "照片只對應本頁款名與貨號",
+          "同款尺寸、材質與市場版本逐一確認"
+        ],
+        "shopping": "以本頁官方／品牌通路為起點，核對日本販售、市場版本與尺寸表，再安排試穿。現貨、門市和是否販售這款，請在出發前向官方確認。",
+        "official": "https://united-tokyo.com/",
+        "shop": "https://united-tokyo.com/",
+        "companySource": null
+      },
+      "piece": {
+        "name": "Outlast 長袖襯衫",
+        "originalName": "アウトラストロングスリーブシャツ",
+        "sku": "136500002106",
+        "category": "tops",
+        "audience": [
+          "men"
+        ],
+        "role": "編輯入門選品",
+        "price": 18700,
+        "note": "先看這款的領口、肩線與衣長，再對照自己的衣櫥。",
+        "priceNote": "2026-10-14 日本通路列價樣本；售價／庫存可能變動",
+        "source": "https://united-tokyo.com/shop/g/g136500002106/",
+        "image": "https://united-tokyo.com/img/goods/S/136500002106_e3bfe894d29e4ea796a885704381e163.jpg",
+        "credit": "UNITED TOKYO 官方商品／專題"
+      }
+    },
+    {
+      "id": "publictokyo",
+      "profile": {
+        "name": "PUBLIC TOKYO",
+        "jp": "パブリック トウキョウ",
+        "aliases": [
+          "publictokyo"
+        ],
+        "styles": [
+          "city",
+          "minimal"
+        ],
+        "audience": [
+          "men",
+          "women"
+        ],
+        "audienceBasis": "official",
+        "shelf": "contemporary",
+        "type": "城市服飾",
+        "tagline": "從日常 Chino，試試桶形比例。",
+        "intro": "官方男裝入口介紹 PUBLIC CHINOS Barrel Easy Pants。以褲型與腰圍作探索入口，名稱中的 PUBLIC TOKYO 保留在照片、來源和品牌頁中。",
+        "why": "如果想從城市搭配的結構找方向，可以先看「PUBLIC CHINOS Barrel Easy Pants」。這是編輯探索建議。",
+        "look": [
+          "PUBLIC CHINOS Barrel Easy Pants的輪廓與細節",
+          "照片只對應本頁款名與貨號",
+          "同款尺寸、材質與市場版本逐一確認"
+        ],
+        "shopping": "以本頁官方／品牌通路為起點，核對日本販售、市場版本與尺寸表，再安排試穿。現貨、門市和是否販售這款，請在出發前向官方確認。",
+        "official": "https://public-tokyo.com/",
+        "shop": "https://public-tokyo.com/",
+        "companySource": null
+      },
+      "piece": {
+        "name": "PUBLIC CHINOS Barrel Easy Pants",
+        "originalName": "PUBLIC CHINOS バレルイージー",
+        "sku": "156240005166",
+        "category": "bottoms",
+        "audience": [
+          "men"
+        ],
+        "role": "編輯入門選品",
+        "price": 24200,
+        "note": "先看這款的腰圍、褲管與長度，再對照自己的衣櫥。",
+        "priceNote": "2026-10-14 日本通路列價樣本；售價／庫存可能變動",
+        "source": "https://public-tokyo.com/shop/g/g156240005166/",
+        "image": "https://public-tokyo.com/img/goods/S/156240005166_2ecab12a6e5a45e49763b59405abee83.jpg",
+        "credit": "PUBLIC TOKYO 官方商品／專題"
+      }
+    },
+    {
+      "id": "cullni",
+      "profile": {
+        "name": "CULLNI",
+        "jp": "クルニ",
+        "aliases": [
+          "cullni"
+        ],
+        "styles": [
+          "minimal",
+          "city"
+        ],
+        "audience": [
+          "men",
+          "women"
+        ],
+        "audienceBasis": "editorial",
+        "shelf": "contemporary",
+        "type": "城市服飾",
+        "tagline": "留意領型、織面與衣服的結構。",
+        "intro": "以官方 26-AW-021 混紗網眼襯衫外套觀察開襟、領型與織面。本頁只說明這件衣服的細節，不把同場造型中的褲子當成同一件商品。",
+        "why": "如果想從城市搭配的結構找方向，可以先看「Mix Yarn Mesh 襯衫外套」。這是編輯探索建議。",
+        "look": [
+          "Mix Yarn Mesh 襯衫外套的輪廓與細節",
+          "照片只對應本頁款名與貨號",
+          "同款尺寸、材質與市場版本逐一確認"
+        ],
+        "shopping": "以本頁官方／品牌通路為起點，核對日本販售、市場版本與尺寸表，再安排試穿。現貨、門市和是否販售這款，請在出發前向官方確認。",
+        "official": "https://cullni.com/",
+        "shop": "https://cullni.com/",
+        "companySource": null
+      },
+      "piece": {
+        "name": "Mix Yarn Mesh 襯衫外套",
+        "originalName": "Mix Yarn Mesh Notched Lapel Shirt Blouson",
+        "sku": "26-AW-021",
+        "category": "tops",
+        "audience": [],
+        "role": "編輯入門選品",
+        "price": 44000,
+        "note": "先看這款的領口、肩線與衣長，再對照自己的衣櫥。官方單品性別分類尚未確認。",
+        "priceNote": "2026-10-14 日本通路列價樣本；售價／庫存可能變動",
+        "source": "https://cullni.com/products/detail.php?product_id=2005&c=626",
+        "image": "https://img.the-park-store.com/cullni/product/26-AW-021/color/26-AW-021_367.jpg?v=20261005191222",
+        "credit": "CULLNI 官方商品／專題"
+      }
+    },
+    {
+      "id": "aton",
+      "profile": {
+        "name": "ATON",
+        "jp": "エイトン",
+        "aliases": [
+          "aton"
+        ],
+        "styles": [
+          "minimal"
+        ],
+        "audience": [
+          "men",
+          "women"
+        ],
+        "audienceBasis": "official",
+        "shelf": "designer",
+        "type": "設計師服飾",
+        "tagline": "從一件短大衣，慢慢看材質。",
+        "intro": "官方男裝商品頁列出 Linen Wool Tweed Short Coat，並提供羊毛、亞麻混紡與版型說明。從布面與大衣長度認識品牌，是本站的編輯入門方式。",
+        "why": "如果想從剪裁與布面找方向，可以先看「Linen Wool Tweed Short Coat」。這是編輯探索建議。",
+        "look": [
+          "Linen Wool Tweed Short Coat的輪廓與細節",
+          "照片只對應本頁款名與貨號",
+          "同款尺寸、材質與市場版本逐一確認"
+        ],
+        "shopping": "以本頁官方／品牌通路為起點，核對日本販售、市場版本與尺寸表，再安排試穿。現貨、門市和是否販售這款，請在出發前向官方確認。",
+        "official": "https://aton-tokyo.com/",
+        "shop": "https://aton-tokyo.com/",
+        "companySource": null
+      },
+      "piece": {
+        "name": "Linen Wool Tweed Short Coat",
+        "originalName": "LINEN WOOL TWEED | SHORT COAT",
+        "sku": "JKAGLW0304-335-02",
+        "category": "outerwear",
+        "audience": [
+          "men"
+        ],
+        "role": "編輯入門選品",
+        "price": null,
+        "note": "先看這款的領型、口袋與衣長，再對照自己的衣櫥。",
+        "priceNote": "官網可能切換國際市場；日本價格請另查",
+        "source": "https://aton-tokyo.com/collections/men-all/products/linen-wool-tweed-short-coat",
+        "image": "https://aton-tokyo.com/cdn/shop/files/20260414_aton_58_056_grande.jpg?v=1789142116",
+        "credit": "ATON 官方商品／專題"
+      }
+    },
+    {
+      "id": "yoke",
+      "profile": {
+        "name": "YOKE",
+        "jp": "ヨーク",
+        "aliases": [
+          "yoke"
+        ],
+        "styles": [
+          "minimal",
+          "city"
+        ],
+        "audience": [
+          "men",
+          "women"
+        ],
+        "audienceBasis": "official",
+        "shelf": "designer",
+        "type": "設計師服飾",
+        "tagline": "一件外套，兩種材質表情。",
+        "intro": "官方 About Us 介紹可不分性別穿著的設計方向。這款雙面外套結合不同表面，本站從口袋與兩面結構切入，不把國際站價格換算成日本售價。",
+        "why": "如果想從剪裁與布面找方向，可以先看「Wool Cashmere Reversible Blouson」。這是編輯探索建議。 官方品牌概念提到 UNISEX，但本款性別未明示。",
+        "look": [
+          "Wool Cashmere Reversible Blouson的輪廓與細節",
+          "照片只對應本頁款名與貨號",
+          "同款尺寸、材質與市場版本逐一確認"
+        ],
+        "shopping": "以本頁官方／品牌通路為起點，核對日本販售、市場版本與尺寸表，再安排試穿。現貨、門市和是否販售這款，請在出發前向官方確認。",
+        "official": "https://yoketokyo.com/",
+        "shop": "https://yoketokyo.com/",
+        "companySource": null
+      },
+      "piece": {
+        "name": "Wool Cashmere Reversible Blouson",
+        "originalName": "Wool Cashmere Fleece Reversible Blouson",
+        "sku": "YK26FW01362B_GRY_1",
+        "category": "outerwear",
+        "audience": [],
+        "role": "編輯入門選品",
+        "price": null,
+        "note": "先看這款的領型、口袋與衣長，再對照自己的衣櫥。官方單品性別分類尚未確認。",
+        "priceNote": "官網可能切換國際市場；日本價格請另查",
+        "source": "https://yoketokyo.com/products/wool-cashmere-fleece-reversible-blouson",
+        "image": "https://yoketokyo.com/cdn/shop/files/20260323_yoke306046_1200x630.jpg?v=1782063677",
+        "credit": "YOKE 官方商品／專題"
+      }
+    },
+    {
+      "id": "ssstein",
+      "profile": {
+        "name": "ssstein",
+        "jp": "シュタイン",
+        "aliases": [
+          "ssstein"
+        ],
+        "styles": [
+          "minimal",
+          "city"
+        ],
+        "audience": [
+          "men",
+          "women"
+        ],
+        "audienceBasis": "editorial",
+        "shelf": "designer",
+        "type": "設計師服飾",
+        "tagline": "從大衣輪廓，認識留白與份量。",
+        "intro": "官方商品頁列出 ST.1530 羊毛 Melton 大衣與 Loose Fit 輪廓。先比較肩線、身幅與衣長，再判斷想要的份量；男女探索入口為編輯建議，單品性別尚未確認。",
+        "why": "如果想從剪裁與布面找方向，可以先看「Wool Melton Oversized Coat」。這是編輯探索建議。",
+        "look": [
+          "Wool Melton Oversized Coat的輪廓與細節",
+          "照片只對應本頁款名與貨號",
+          "同款尺寸、材質與市場版本逐一確認"
+        ],
+        "shopping": "以本頁官方／品牌通路為起點，核對日本販售、市場版本與尺寸表，再安排試穿。現貨、門市和是否販售這款，請在出發前向官方確認。",
+        "official": "https://ssstein.com/",
+        "shop": "https://ssstein.com/",
+        "companySource": null
+      },
+      "piece": {
+        "name": "Wool Melton Oversized Coat",
+        "originalName": "WOOL MELTON OVERSIZED INVESTIGATED COAT",
+        "sku": "ST.1530",
+        "category": "outerwear",
+        "audience": [],
+        "role": "編輯入門選品",
+        "price": 134200,
+        "note": "官方商品頁列出 ST.1530 羊毛 Melton 大衣與 Loose Fit 輪廓。先比較肩線、身幅與衣長，再判斷想要的份量；男女探索入口為編輯建議，單品性別尚未確認。",
+        "priceNote": "2026-10-14 日本通路列價樣本；售價／庫存可能變動",
+        "source": "https://ssstein.com/products/st-1530-wool-melton-oversized-investigated-coat",
+        "image": "https://ssstein.com/cdn/shop/files/ST.1530_BLACK_1.jpg?v=1779078787",
+        "credit": "ssstein 官方商品／專題"
+      }
+    },
+    {
+      "id": "markaware",
+      "profile": {
+        "name": "MARKAWARE",
+        "jp": "マーカウェア",
+        "aliases": [
+          "markaware"
+        ],
+        "styles": [
+          "minimal",
+          "city"
+        ],
+        "audience": [
+          "men"
+        ],
+        "audienceBasis": "editorial",
+        "shelf": "designer",
+        "type": "設計師服飾",
+        "tagline": "從打摺與落點，看見褲裝比例。",
+        "intro": "本頁照片為 MARKAWARE 的雙摺直筒褲；官方商品說明比較其腰間空間與直筒輪廓。marka 在官方品牌索引另列，不把兩個完整品牌名稱當成同一個品牌。",
+        "why": "如果想從剪裁與布面找方向，可以先看「Double Pleated Straight Trousers」。這是編輯探索建議。",
+        "look": [
+          "Double Pleated Straight Trousers的輪廓與細節",
+          "照片只對應本頁款名與貨號",
+          "同款尺寸、材質與市場版本逐一確認"
+        ],
+        "shopping": "以本頁官方／品牌通路為起點，核對日本販售、市場版本與尺寸表，再安排試穿。現貨、門市和是否販售這款，請在出發前向官方確認。",
+        "official": "https://markaware.jp/",
+        "shop": "https://markaware.jp/",
+        "companySource": null
+      },
+      "piece": {
+        "name": "Double Pleated Straight Trousers",
+        "originalName": "2/2/96 四⼦撚りフラノ / ダブルプリーテッドストレートトラウザーズ, Black",
+        "sku": "A26C18PT01C31",
+        "category": "bottoms",
+        "audience": [],
+        "role": "編輯入門選品",
+        "price": 57200,
+        "note": "先看這款的腰圍、褲管與長度，再對照自己的衣櫥。官方單品性別分類尚未確認。",
+        "priceNote": "2026-10-14 日本通路列價樣本；售價／庫存可能變動",
+        "source": "https://markaware.jp/collections/new-in-26ss/products/2-2-96-wool-flannel-double-pleated-straight-trousers-black",
+        "image": "https://cdn.shopify.com/s/files/1/0562/3493/4421/files/20260214_7935.jpg?v=1781846271",
+        "credit": "MARKAWARE 官方商品／專題"
+      }
+    },
+    {
+      "id": "comoli",
+      "profile": {
+        "name": "COMOLI",
+        "jp": "コモリ",
+        "aliases": [
+          "comoli"
+        ],
+        "styles": [
+          "minimal",
+          "city"
+        ],
+        "audience": [
+          "men",
+          "women"
+        ],
+        "audienceBasis": "editorial",
+        "shelf": "designer",
+        "type": "設計師服飾",
+        "tagline": "簡單上衣，也可以仔細看比例。",
+        "intro": "官方 MAIL ORDER 列出 C03-05004 Cotton Long Sleeve T-shirt、材質、尺寸與價格。以這件實際服裝認識基本輪廓；男女探索入口為編輯建議，官方單品性別未註明。",
+        "why": "如果想從剪裁與布面找方向，可以先看「Cotton Long Sleeve T-shirt」。這是編輯探索建議。",
+        "look": [
+          "Cotton Long Sleeve T-shirt的輪廓與細節",
+          "照片只對應本頁款名與貨號",
+          "同款尺寸、材質與市場版本逐一確認"
+        ],
+        "shopping": "以本頁官方／品牌通路為起點，核對日本販售、市場版本與尺寸表，再安排試穿。現貨、門市和是否販售這款，請在出發前向官方確認。",
+        "official": "https://www.comoli.jp/",
+        "shop": "https://www.comoli.jp/",
+        "companySource": null
+      },
+      "piece": {
+        "name": "Cotton Long Sleeve T-shirt",
+        "originalName": "COTTON L/S T-SHIRT",
+        "sku": "C03-05004",
+        "category": "tops",
+        "audience": [],
+        "role": "編輯入門選品",
+        "price": 19800,
+        "note": "官方 MAIL ORDER 列出 C03-05004 Cotton Long Sleeve T-shirt、材質、尺寸與價格。以這件實際服裝認識基本輪廓；男女探索入口為編輯建議，官方單品性別未註明。",
+        "priceNote": "2026-10-14 官方通販列價樣本；含稅方式請見原頁",
+        "source": "https://www.comoli.jp/mailorder/cotton_ls_t-shirt_c",
+        "image": "https://comoli-cache.titanicrising.workers.dev/?url=https%3A%2F%2Fimages.ctfassets.net%2Fm6x3y03ljcug%2F722dlMfDCiWkHMcgfxfjwv%2Fb3ebceb9185044b6ab9949b8d95c6294%2Fcotton_ls_t-shirt_c3.jpg",
+        "credit": "COMOLI 官方商品／專題"
+      }
+    },
+    {
+      "id": "beautifulpeople",
+      "profile": {
+        "name": "beautiful people",
+        "jp": "ビューティフルピープル",
+        "aliases": [
+          "beautifulpeople"
+        ],
+        "styles": [
+          "minimal",
+          "city"
+        ],
+        "audience": [
+          "men",
+          "women"
+        ],
+        "audienceBasis": "editorial",
+        "shelf": "designer",
+        "type": "設計師服飾",
+        "tagline": "用丹寧外套，觀察方形輪廓。",
+        "intro": "官方這款 Selvedge Denim Relax Blouson 介紹方形輪廓與 Relax Fit。觀察衣長、肩線與洗色；男女探索入口為編輯建議，這款官方性別分類未確認。",
+        "why": "如果想從剪裁與布面找方向，可以先看「Selvedge Denim Relax Blouson」。這是編輯探索建議。",
+        "look": [
+          "Selvedge Denim Relax Blouson的輪廓與細節",
+          "照片只對應本頁款名與貨號",
+          "同款尺寸、材質與市場版本逐一確認"
+        ],
+        "shopping": "以本頁官方／品牌通路為起點，核對日本販售、市場版本與尺寸表，再安排試穿。現貨、門市和是否販售這款，請在出發前向官方確認。",
+        "official": "https://beautiful-people.jp/",
+        "shop": "https://beautiful-people.jp/",
+        "companySource": null
+      },
+      "piece": {
+        "name": "Selvedge Denim Relax Blouson",
+        "originalName": "selvedge denim o/d relax blouson",
+        "sku": "1646102024",
+        "category": "outerwear",
+        "audience": [],
+        "role": "編輯入門選品",
+        "price": null,
+        "note": "官方這款 Selvedge Denim Relax Blouson 介紹方形輪廓與 Relax Fit。觀察衣長、肩線與洗色；男女探索入口為編輯建議，這款官方性別分類未確認。",
+        "priceNote": "官網可能切換國際市場；日本價格請另查",
+        "source": "https://beautiful-people.jp/collections/new-arrivals/products/selvedge-denim-o-d-relax-blouson",
+        "image": "https://beautiful-people.jp/cdn/shop/files/2601b_257.jpg?crop=center&height=1200&v=1782128915&width=1200",
+        "credit": "beautiful people 官方商品／專題"
+      }
+    },
+    {
+      "id": "issey",
+      "profile": {
+        "name": "ISSEY MIYAKE",
+        "jp": "イッセイ ミヤケ",
+        "aliases": [
+          "issey"
+        ],
+        "styles": [
+          "minimal",
+          "feminine"
+        ],
+        "audience": [
+          "women"
+        ],
+        "audienceBasis": "official",
+        "shelf": "designer",
+        "type": "設計師服飾",
+        "tagline": "從一片褶紋，觀察衣服的線條。",
+        "intro": "官方主品牌商品 IM63FJ123 為女裝上衣。本頁使用 ISSEY MIYAKE 主品牌實品；PLEATS PLEASE、HOMME PLISSÉ 等完整標籤在官網另列，不把它們的商品混入主品牌照片。",
+        "why": "如果想從剪裁與布面找方向，可以先看「Glossed Panels Pleats 上衣」。這是編輯探索建議。",
+        "look": [
+          "Glossed Panels Pleats 上衣的輪廓與細節",
+          "照片只對應本頁款名與貨號",
+          "同款尺寸、材質與市場版本逐一確認"
+        ],
+        "shopping": "以本頁官方／品牌通路為起點，核對日本販售、市場版本與尺寸表，再安排試穿。現貨、門市和是否販售這款，請在出發前向官方確認。",
+        "official": "https://www.isseymiyake.com/collections/isseymiyake",
+        "shop": "https://www.isseymiyake.com/collections/isseymiyake",
+        "companySource": null
+      },
+      "piece": {
+        "name": "Glossed Panels Pleats 上衣",
+        "originalName": "GLOSSED PANELS PLEATS",
+        "sku": "IM63FJ123",
+        "category": "tops",
+        "audience": [
+          "women"
+        ],
+        "role": "編輯入門選品",
+        "price": 71500,
+        "note": "先看這款的領口、肩線與衣長，再對照自己的衣櫥。",
+        "priceNote": "2026-10-14 日本通路列價樣本；售價／庫存可能變動",
+        "source": "https://www.isseymiyake.com/products/im63fj123",
+        "image": "https://www.isseymiyake.com/cdn/shop/files/IM63FJ123-m-01.jpg?v=1790728524",
+        "credit": "ISSEY MIYAKE 官方商品／專題"
+      }
+    },
+    {
+      "id": "needles",
+      "profile": {
+        "name": "NEEDLES",
+        "jp": "ニードルズ",
+        "aliases": [
+          "needles"
+        ],
+        "styles": [
+          "city"
+        ],
+        "audience": [
+          "men",
+          "women"
+        ],
+        "audienceBasis": "editorial",
+        "shelf": "designer",
+        "type": "設計師服飾",
+        "tagline": "從配色與刺繡，認識運動服的另一種表情。",
+        "intro": "NEPENTHES 官方通路把這款 Track Jacket 稱為定番的 2026 秋冬新色。品牌欄為 NEEDLES，與同通路的 Engineered Garments 等品牌分開辨識。",
+        "why": "如果想從剪裁與布面找方向，可以先看「Track Jacket — Poly Smooth」。這是編輯探索建議。",
+        "look": [
+          "Track Jacket — Poly Smooth的輪廓與細節",
+          "照片只對應本頁款名與貨號",
+          "同款尺寸、材質與市場版本逐一確認"
+        ],
+        "shopping": "以本頁官方／品牌通路為起點，核對日本販售、市場版本與尺寸表，再安排試穿。現貨、門市和是否販售這款，請在出發前向官方確認。",
+        "official": "https://nepenthes.co.jp/",
+        "shop": "https://nepenthes.co.jp/",
+        "companySource": null
+      },
+      "piece": {
+        "name": "Track Jacket — Poly Smooth",
+        "originalName": "Track Jacket - Poly Smooth",
+        "sku": "TY349C  -0099-0002",
+        "category": "outerwear",
+        "audience": [],
+        "role": "官方定番 · 目前收錄版本",
+        "price": 28600,
+        "note": "先看這款的領型、口袋與衣長，再對照自己的衣櫥。官方單品性別分類尚未確認。",
+        "priceNote": "2026-10-14 日本通路列價樣本；售價／庫存可能變動",
+        "source": "https://onlinestore.nepenthes.co.jp/products/track-jacket-poly-smooth-40",
+        "image": "https://onlinestore.nepenthes.co.jp/cdn/shop/files/TY349_C-Black_1_1200x1200.jpg?v=1787985897",
+        "credit": "NEEDLES／NEPENTHES 官方通路"
+      }
+    },
+    {
+      "id": "engineered",
+      "profile": {
+        "name": "Engineered Garments",
+        "jp": "エンジニアド ガーメンツ",
+        "aliases": [
+          "engineered"
+        ],
+        "styles": [
+          "city",
+          "outdoor"
+        ],
+        "audience": [
+          "men",
+          "women"
+        ],
+        "audienceBasis": "editorial",
+        "shelf": "designer",
+        "type": "設計師服飾",
+        "tagline": "工裝細節，放進一件日常外套。",
+        "intro": "官方通路稱 Bedford Jacket 為定番，並介紹四個貼袋與補強細節。這款棉質 Ripstop 版本有自己的照片和貨號，不把不同布料版混在一起。",
+        "why": "如果想從剪裁與布面找方向，可以先看「Bedford Jacket — Cotton Ripstop」。這是編輯探索建議。",
+        "look": [
+          "Bedford Jacket — Cotton Ripstop的輪廓與細節",
+          "照片只對應本頁款名與貨號",
+          "同款尺寸、材質與市場版本逐一確認"
+        ],
+        "shopping": "以本頁官方／品牌通路為起點，核對日本販售、市場版本與尺寸表，再安排試穿。現貨、門市和是否販售這款，請在出發前向官方確認。",
+        "official": "https://nepenthes.co.jp/",
+        "shop": "https://nepenthes.co.jp/",
+        "companySource": null
+      },
+      "piece": {
+        "name": "Bedford Jacket — Cotton Ripstop",
+        "originalName": "Bedford Jacket - Heavyweight Cotton Ripstop",
+        "sku": "TX189A  -0199-0001",
+        "category": "outerwear",
+        "audience": [],
+        "role": "官方定番 · 目前收錄版本",
+        "price": 42900,
+        "note": "先看這款的領型、口袋與衣長，再對照自己的衣櫥。官方單品性別分類尚未確認。",
+        "priceNote": "2026-10-14 日本通路列價樣本；售價／庫存可能變動",
+        "source": "https://onlinestore.nepenthes.co.jp/products/bedford-jacket-heavyweight-ripstop-1",
+        "image": "https://onlinestore.nepenthes.co.jp/cdn/shop/files/BEDFORDJACKETBK006-1_307af90d-86c4-41c5-bd77-5a91ddce82db_1200x1200.jpg?v=1784182674",
+        "credit": "Engineered Garments／NEPENTHES 官方通路"
+      }
+    },
+    {
+      "id": "south2",
+      "profile": {
+        "name": "SOUTH2 WEST8",
+        "jp": "サウスツー ウエストエイト",
+        "aliases": [
+          "south2"
+        ],
+        "styles": [
+          "outdoor",
+          "city"
+        ],
+        "audience": [
+          "men",
+          "women"
+        ],
+        "audienceBasis": "editorial",
+        "shelf": "outdoor",
+        "type": "戶外／休閒服飾",
+        "tagline": "從戶外輪廓，找到自己的色塊。",
+        "intro": "官方通路這款 Warm Up Jacket 介紹尼龍表布、網眼內層與配色拼接。完整商品品牌為 SOUTH2 WEST8；同通路販售的其他品牌不併入本頁。",
+        "why": "如果想從戶外與日常之間的穿法找方向，可以先看「Warm Up Jacket — Nylon Tussah」。這是編輯探索建議。",
+        "look": [
+          "Warm Up Jacket — Nylon Tussah的輪廓與細節",
+          "照片只對應本頁款名與貨號",
+          "同款尺寸、材質與市場版本逐一確認"
+        ],
+        "shopping": "以本頁官方／品牌通路為起點，核對日本販售、市場版本與尺寸表，再安排試穿。現貨、門市和是否販售這款，請在出發前向官方確認。",
+        "official": "https://nepenthes.co.jp/",
+        "shop": "https://nepenthes.co.jp/",
+        "companySource": null
+      },
+      "piece": {
+        "name": "Warm Up Jacket — Nylon Tussah",
+        "originalName": "Warm Up Jacket - Nylon Tussah",
+        "sku": "TY970B  -0750-0002",
+        "category": "outerwear",
+        "audience": [],
+        "role": "編輯入門選品",
+        "price": 38500,
+        "note": "先看這款的領型、口袋與衣長，再對照自己的衣櫥。官方單品性別分類尚未確認。",
+        "priceNote": "2026-10-14 日本通路列價樣本；售價／庫存可能變動",
+        "source": "https://onlinestore.nepenthes.co.jp/products/warm-up-jacket-nylon-tussah-3",
+        "image": "https://onlinestore.nepenthes.co.jp/cdn/shop/files/0T3A8069-0_1200x1200.jpg?v=1789878817",
+        "credit": "SOUTH2 WEST8／NEPENTHES 官方通路"
+      }
+    },
+    {
+      "id": "rhodolirion",
+      "profile": {
+        "name": "RHODOLIRION",
+        "jp": "ロドリリオン",
+        "aliases": [
+          "rhodolirion"
+        ],
+        "styles": [
+          "feminine",
+          "city"
+        ],
+        "audience": [
+          "women"
+        ],
+        "audienceBasis": "editorial",
+        "shelf": "women",
+        "type": "女裝／居家服飾",
+        "tagline": "層次搭配，從一件針織 Bolero 開始。",
+        "intro": "官方通路列出 Chunky Knit Bolero，介紹其袖式輪廓與前後兩穿結構。本站把它放在女裝探索入口；這是編輯分類，商品仍逐款看實寸。",
+        "why": "如果想從上衣細節與層次找方向，可以先看「Chunky Knit Bolero」。這是編輯探索建議。",
+        "look": [
+          "Chunky Knit Bolero的輪廓與細節",
+          "照片只對應本頁款名與貨號",
+          "同款尺寸、材質與市場版本逐一確認"
+        ],
+        "shopping": "以本頁官方／品牌通路為起點，核對日本販售、市場版本與尺寸表，再安排試穿。現貨、門市和是否販售這款，請在出發前向官方確認。",
+        "official": "https://nepenthes.co.jp/",
+        "shop": "https://nepenthes.co.jp/",
+        "companySource": null
+      },
+      "piece": {
+        "name": "Chunky Knit Bolero",
+        "originalName": "Chunky Knit Bolero",
+        "sku": "TX1070A -0105-9999",
+        "category": "knitwear",
+        "audience": [],
+        "role": "編輯入門選品",
+        "price": 36300,
+        "note": "先看這款的編織、領型與長度，再對照自己的衣櫥。",
+        "priceNote": "2026-10-14 日本通路列價樣本；售價／庫存可能變動",
+        "source": "https://onlinestore.nepenthes.co.jp/products/chunky-knit-bolero",
+        "image": "https://onlinestore.nepenthes.co.jp/cdn/shop/files/TX1070A-0_1200x1200.jpg?v=1789876084",
+        "credit": "RHODOLIRION／NEPENTHES 官方通路"
+      }
+    },
+    {
+      "id": "gramicci",
+      "profile": {
+        "name": "GRAMICCI",
+        "jp": "グラミチ",
+        "aliases": [
+          "gramicci"
+        ],
+        "styles": [
+          "outdoor",
+          "city"
+        ],
+        "audience": [
+          "men",
+          "women"
+        ],
+        "audienceBasis": "official",
+        "shelf": "outdoor",
+        "type": "戶外／休閒服飾",
+        "tagline": "一條褲子，連起戶外與城市日常。",
+        "intro": "日本官方商城列出 G102-OGT Gramicci Pant，並提供腰圍與褲長等尺寸。本站以這條實際褲裝作戶外與休閒的探索入口，不把日本販售品牌一律稱作日本起源品牌。",
+        "why": "如果想從戶外與日常之間的穿法找方向，可以先看「Gramicci Pant」。這是編輯探索建議。",
+        "look": [
+          "Gramicci Pant的輪廓與細節",
+          "照片只對應本頁款名與貨號",
+          "同款尺寸、材質與市場版本逐一確認"
+        ],
+        "shopping": "以本頁官方／品牌通路為起點，核對日本販售、市場版本與尺寸表，再安排試穿。現貨、門市和是否販售這款，請在出發前向官方確認。",
+        "official": "https://gramicci.jp/",
+        "shop": "https://gramicci.jp/",
+        "companySource": null
+      },
+      "piece": {
+        "name": "Gramicci Pant",
+        "originalName": "GRAMICCI PANT",
+        "sku": "G102-OGT",
+        "category": "bottoms",
+        "audience": [
+          "men"
+        ],
+        "role": "編輯入門選品",
+        "price": 14300,
+        "note": "先看這款的腰圍、褲管與長度，再對照自己的衣櫥。",
+        "priceNote": "2026-10-14 日本通路列價樣本；售價／庫存可能變動",
+        "source": "https://gramicci.jp/c/mens/longpants_m/gramicci-pant",
+        "image": "https://gramicci.itembox.cloud/product/007/000000000716/000000000716-17.jpg?size=l&w=ODAw&t=20260703105544",
+        "credit": "GRAMICCI 官方商品／專題"
+      }
+    },
+    {
+      "id": "taion",
+      "profile": {
+        "name": "TAION",
+        "jp": "タイオン",
+        "aliases": [
+          "taion"
+        ],
+        "styles": [
+          "outdoor",
+          "minimal"
+        ],
+        "audience": [
+          "men",
+          "women"
+        ],
+        "audienceBasis": "official",
+        "shelf": "outdoor",
+        "type": "戶外／休閒服飾",
+        "tagline": "羽絨背心，從中層穿法看起。",
+        "intro": "官方稱 TAION-001 為定番男裝內搭羽絨背心。女裝與其他領型有不同商品和貨號；本頁這張照片只對應 TAION-001。",
+        "why": "如果想從戶外與日常之間的穿法找方向，可以先看「Basic V-neck Inner Down Vest」。這是編輯探索建議。",
+        "look": [
+          "Basic V-neck Inner Down Vest的輪廓與細節",
+          "照片只對應本頁款名與貨號",
+          "同款尺寸、材質與市場版本逐一確認"
+        ],
+        "shopping": "以本頁官方／品牌通路為起點，核對日本販售、市場版本與尺寸表，再安排試穿。現貨、門市和是否販售這款，請在出發前向官方確認。",
+        "official": "https://taion-wear.jp/",
+        "shop": "https://taion-wear.jp/",
+        "companySource": null
+      },
+      "piece": {
+        "name": "Basic V-neck Inner Down Vest",
+        "originalName": "ベーシック Vネックボタン インナーダウンベスト<TAION-001>",
+        "sku": "TAION-001-C001-XS",
+        "category": "outerwear",
+        "audience": [
+          "men"
+        ],
+        "role": "官方定番 · 目前收錄版本",
+        "price": 5940,
+        "note": "先看這款的領型、口袋與衣長，再對照自己的衣櫥。",
+        "priceNote": "2026-10-14 日本通路列價樣本；售價／庫存可能變動",
+        "source": "https://taion-wear.jp/collections/down-vest/products/taion-001",
+        "image": "https://taion-wear.jp/cdn/shop/files/001_1_a33e5a33-fcbe-4e3c-b54d-7ad1cde5e7e4.webp?v=1787211587&width=1024",
+        "credit": "TAION 官方商品／專題"
+      }
+    },
+    {
+      "id": "danton",
+      "profile": {
+        "name": "DANTON",
+        "jp": "ダントン",
+        "aliases": [
+          "danton"
+        ],
+        "styles": [
+          "city",
+          "outdoor"
+        ],
+        "audience": [
+          "men",
+          "women"
+        ],
+        "audienceBasis": "official",
+        "shelf": "outdoor",
+        "type": "戶外／休閒服飾",
+        "tagline": "從立領與鈕扣，認識休閒外套。",
+        "intro": "官方這款男裝 Double Face Boa 立領外套提供完整貨號與規格。DANTON 在日本有官方店舖入口，本站收錄在日本可探索的品牌，不推定所有品牌皆源自日本。",
+        "why": "如果想從戶外與日常之間的穿法找方向，可以先看「Double Face Boa 立領外套」。這是編輯探索建議。",
+        "look": [
+          "Double Face Boa 立領外套的輪廓與細節",
+          "照片只對應本頁款名與貨號",
+          "同款尺寸、材質與市場版本逐一確認"
+        ],
+        "shopping": "以本頁官方／品牌通路為起點，核對日本販售、市場版本與尺寸表，再安排試穿。現貨、門市和是否販售這款，請在出發前向官方確認。",
+        "official": "https://danton.com/ja-jp",
+        "shop": "https://danton.com/ja-jp",
+        "companySource": null
+      },
+      "piece": {
+        "name": "Double Face Boa 立領外套",
+        "originalName": "Men's Double Face Boa Stand Collar Cardigan",
+        "sku": "DT-A0700 WNN / DNB262M103-0003",
+        "category": "outerwear",
+        "audience": [
+          "men"
+        ],
+        "role": "編輯入門選品",
+        "price": null,
+        "note": "先看這款的領型、口袋與衣長，再對照自己的衣櫥。",
+        "priceNote": "官網可能切換國際市場；日本價格請另查",
+        "source": "https://danton.com/en-us/products/dnb262m103-0003",
+        "image": "https://danton.com/cdn/shop/files/DNB262M103-0003_color_DK.Blue.jpg?v=1790221081",
+        "credit": "DANTON 官方商品／專題"
+      }
+    },
+    {
+      "id": "orcival",
+      "profile": {
+        "name": "ORCIVAL",
+        "jp": "オーシバル",
+        "aliases": [
+          "orcival"
+        ],
+        "styles": [
+          "city",
+          "minimal"
+        ],
+        "audience": [
+          "men",
+          "women"
+        ],
+        "audienceBasis": "official",
+        "shelf": "everyday",
+        "type": "日常服飾",
+        "tagline": "从船領線條，開始日常上衣的變化。",
+        "intro": "日本官方商品頁列出男裝 Light French Terry Boat Neck Pullover 與貨號 OR-C0430 MAZ-R。可以從船領、袖口與插肩輪廓開始看，條紋不是每一款商品都具備的元素。",
+        "why": "如果想從日常基本輪廓找方向，可以先看「Light French Terry 船領上衣」。這是編輯探索建議。",
+        "look": [
+          "Light French Terry 船領上衣的輪廓與細節",
+          "照片只對應本頁款名與貨號",
+          "同款尺寸、材質與市場版本逐一確認"
+        ],
+        "shopping": "以本頁官方／品牌通路為起點，核對日本販售、市場版本與尺寸表，再安排試穿。現貨、門市和是否販售這款，請在出發前向官方確認。",
+        "official": "https://orcival.jp/",
+        "shop": "https://orcival.jp/",
+        "companySource": null
+      },
+      "piece": {
+        "name": "Light French Terry 船領上衣",
+        "originalName": "Men's Light French Terry Boat Neck Pullover",
+        "sku": "OR-C0430 MAZ-R",
+        "category": "tops",
+        "audience": [
+          "men"
+        ],
+        "role": "編輯入門選品",
+        "price": 15950,
+        "note": "先看這款的領口、肩線與衣長，再對照自己的衣櫥。",
+        "priceNote": "2026-10-14 日本通路列價樣本；售價／庫存可能變動",
+        "source": "https://orcival.jp/en-os/products/mens-light-french-terry-boat-neck-pullover",
+        "image": "https://orcival.jp/cdn/shop/files/OR-C0430_MAZ_ecru.jpg?v=1787110140&width=2048",
+        "credit": "ORCIVAL 官方商品／專題"
+      }
+    },
+    {
+      "id": "goldwin",
+      "profile": {
+        "name": "Goldwin",
+        "jp": "ゴールドウイン",
+        "aliases": [
+          "goldwin"
+        ],
+        "styles": [
+          "outdoor",
+          "minimal"
+        ],
+        "audience": [
+          "men",
+          "women"
+        ],
+        "audienceBasis": "official",
+        "shelf": "outdoor",
+        "type": "戶外／休閒服飾",
+        "tagline": "城市褲型，也能從機能品牌找到。",
+        "intro": "官方把 GL76177 Baggy Straight Pants 明確列為 UNISEX。商品品牌是 Goldwin 自有品牌，不把官方商城販售的 THE NORTH FACE 等其他品牌視作 Goldwin 單品。",
+        "why": "如果想從戶外與日常之間的穿法找方向，可以先看「Baggy Straight Pants」。這是編輯探索建議。",
+        "look": [
+          "Baggy Straight Pants的輪廓與細節",
+          "照片只對應本頁款名與貨號",
+          "同款尺寸、材質與市場版本逐一確認"
+        ],
+        "shopping": "以本頁官方／品牌通路為起點，核對日本販售、市場版本與尺寸表，再安排試穿。現貨、門市和是否販售這款，請在出發前向官方確認。",
+        "official": "https://jp.goldwin.global/",
+        "shop": "https://jp.goldwin.global/",
+        "companySource": null
+      },
+      "piece": {
+        "name": "Baggy Straight Pants",
+        "originalName": "バギーストレートパンツ（ユニセックス）",
+        "sku": "GL76177",
+        "category": "bottoms",
+        "audience": [
+          "men",
+          "women"
+        ],
+        "role": "編輯入門選品",
+        "price": 31900,
+        "note": "先看這款的腰圍、褲管與長度，再對照自己的衣櫥。",
+        "priceNote": "2026-10-14 日本通路列價樣本；售價／庫存可能變動",
+        "source": "https://www.goldwin.co.jp/ap/item/i/m/GL76177",
+        "image": "https://itemimg.goldwin.co.jp/itemimg/GDW09/A0GDW0001NRB/01_001.jpg",
+        "credit": "Goldwin 官方商品／專題"
+      }
+    },
+    {
+      "id": "andwander",
+      "profile": {
+        "name": "and wander",
+        "jp": "アンドワンダー",
+        "aliases": [
+          "andwander"
+        ],
+        "styles": [
+          "outdoor",
+          "city"
+        ],
+        "audience": [
+          "men",
+          "women"
+        ],
+        "audienceBasis": "official",
+        "shelf": "outdoor",
+        "type": "戶外／休閒服飾",
+        "tagline": "從格紋與口袋，看戶外服裝的日常面。",
+        "intro": "官網連到的 mix.tokyo 通路列出羊毛混紡格紋拉鍊外套，商品品牌明確為 and wander。本頁依已核對的女裝收藏分類呈現這件衣服，不單憑模特兒外觀判斷性別。",
+        "why": "如果想從戶外與日常之間的穿法找方向，可以先看「Wool Shaggy Check Zip Jacket」。這是編輯探索建議。",
+        "look": [
+          "Wool Shaggy Check Zip Jacket的輪廓與細節",
+          "照片只對應本頁款名與貨號",
+          "同款尺寸、材質與市場版本逐一確認"
+        ],
+        "shopping": "以本頁官方／品牌通路為起點，核對日本販售、市場版本與尺寸表，再安排試穿。現貨、門市和是否販售這款，請在出發前向官方確認。",
+        "official": "https://www.andwander.com/",
+        "shop": "https://www.andwander.com/",
+        "companySource": null
+      },
+      "piece": {
+        "name": "Wool Shaggy Check Zip Jacket",
+        "originalName": "wool shaggy check zip jacket | ウール シャギー チェック ジップ ジャケット",
+        "sku": "5746281048S022",
+        "category": "outerwear",
+        "audience": [
+          "women"
+        ],
+        "role": "編輯入門選品",
+        "price": 47000,
+        "note": "官方商品收藏標記含女裝範圍。先看格紋、拉鍊與口袋，再核對各尺碼實寸。",
+        "priceNote": "2026-10-14 官方通路列價；含稅方式請見原頁",
+        "source": "https://mix.tokyo/products/5746281048",
+        "image": "https://mix.tokyo/cdn/shop/files/5746281048-040_MAIN.jpg?v=1790852579&width=1024",
+        "credit": "and wander 官方商品／專題"
+      }
+    },
+    {
+      "id": "frayid",
+      "profile": {
+        "name": "FRAY I.D",
+        "jp": "フレイ アイディー",
+        "aliases": [
+          "frayid"
+        ],
+        "styles": [
+          "feminine",
+          "minimal"
+        ],
+        "audience": [
+          "women"
+        ],
+        "audienceBasis": "official",
+        "shelf": "women",
+        "type": "女裝／居家服飾",
+        "tagline": "柔和線條裡，留一點不對稱。",
+        "intro": "品牌通路的 2way Peplum 針織上衣結合異材質與不對稱下擺。以這件真實商品觀察造型線條；同集團的 SNIDEL、LILY BROWN、Mila Owen 商品各有自己的名稱和來源。",
+        "why": "如果想從上衣細節與層次找方向，可以先看「2way Peplum 針織上衣」。這是編輯探索建議。",
+        "look": [
+          "2way Peplum 針織上衣的輪廓與細節",
+          "照片只對應本頁款名與貨號",
+          "同款尺寸、材質與市場版本逐一確認"
+        ],
+        "shopping": "以本頁官方／品牌通路為起點，核對日本販售、市場版本與尺寸表，再安排試穿。現貨、門市和是否販售這款，請在出發前向官方確認。",
+        "official": "https://fray-id.com/",
+        "shop": "https://fray-id.com/",
+        "companySource": "https://www.ms-lab.com/"
+      },
+      "piece": {
+        "name": "2way Peplum 針織上衣",
+        "originalName": "2wayアシメフレアペプラムニット",
+        "sku": "FWNT264102",
+        "category": "knitwear",
+        "audience": [
+          "women"
+        ],
+        "role": "編輯入門選品",
+        "price": 16940,
+        "note": "先看這款的編織、領型與長度，再對照自己的衣櫥。",
+        "priceNote": "2026-10-14 日本通路列價樣本；售價／庫存可能變動",
+        "source": "https://mitsui-shopping-park.com/ec/p/1620200006763?mallColor=0101",
+        "image": "https://mitsui-shopping-park.com/ec/ecstatic/product/color/1620200006763_0101.jpg",
+        "credit": "FRAY I.D／三井 &mall 品牌店"
+      }
+    },
+    {
+      "id": "lilybrown",
+      "profile": {
+        "name": "LILY BROWN",
+        "jp": "リリー ブラウン",
+        "aliases": [
+          "lilybrown"
+        ],
+        "styles": [
+          "feminine",
+          "city"
+        ],
+        "audience": [
+          "women"
+        ],
+        "audienceBasis": "official",
+        "shelf": "women",
+        "type": "女裝／居家服飾",
+        "tagline": "從編織與金屬細節，找到一件上衣的重點。",
+        "intro": "日本品牌通路這款 Bulky Knit Top 有短版與金屬飾件細節。查核時為 2026 年 11 月到貨預約品，發布日與現貨狀態不互相替代。",
+        "why": "如果想從上衣細節與層次找方向，可以先看「Bulky Knit Top」。這是編輯探索建議。",
+        "look": [
+          "Bulky Knit Top的輪廓與細節",
+          "照片只對應本頁款名與貨號",
+          "同款尺寸、材質與市場版本逐一確認"
+        ],
+        "shopping": "以本頁官方／品牌通路為起點，核對日本販售、市場版本與尺寸表，再安排試穿。現貨、門市和是否販售這款，請在出發前向官方確認。",
+        "official": "https://lily-brw.com/",
+        "shop": "https://lily-brw.com/",
+        "companySource": "https://www.ms-lab.com/"
+      },
+      "piece": {
+        "name": "Bulky Knit Top",
+        "originalName": "バルキーニットトップス",
+        "sku": "LWNT265014",
+        "category": "knitwear",
+        "audience": [
+          "women"
+        ],
+        "role": "編輯入門選品 · 預約版本",
+        "price": 12980,
+        "note": "先看這款的編織、領型與長度，再對照自己的衣櫥。",
+        "priceNote": "2026-10-14 日本通路列價樣本；售價／庫存可能變動",
+        "source": "https://mitsui-shopping-park.com/ec/p/1620300007728",
+        "image": "https://mitsui-shopping-park.com/ec/ecstatic/product/color/1620300007728_0101.jpg",
+        "credit": "LILY BROWN／三井 &mall 品牌店"
+      }
+    },
+    {
+      "id": "gelatopique",
+      "profile": {
+        "name": "gelato pique",
+        "jp": "ジェラート ピケ",
+        "aliases": [
+          "gelatopique"
+        ],
+        "styles": [
+          "feminine",
+          "minimal"
+        ],
+        "audience": [
+          "women"
+        ],
+        "audienceBasis": "official",
+        "shelf": "women",
+        "type": "女裝／居家服飾",
+        "tagline": "居家衣櫥，也有可以細看的針織。",
+        "intro": "官方國際站這款 Smoothie Eyelet Short Cardigan 有鏤空編織與短版開襟輪廓。照片來自品牌自身商品頁；日本販售與價格另查，不把國際站售價直接當日本售價。",
+        "why": "如果想從上衣細節與層次找方向，可以先看「Smoothie Eyelet Short Cardigan」。這是編輯探索建議。",
+        "look": [
+          "Smoothie Eyelet Short Cardigan的輪廓與細節",
+          "照片只對應本頁款名與貨號",
+          "同款尺寸、材質與市場版本逐一確認"
+        ],
+        "shopping": "以本頁官方／品牌通路為起點，核對日本販售、市場版本與尺寸表，再安排試穿。現貨、門市和是否販售這款，請在出發前向官方確認。",
+        "official": "https://gelatopique.com/",
+        "shop": "https://gelatopique.com/",
+        "companySource": "https://www.ms-lab.com/"
+      },
+      "piece": {
+        "name": "Smoothie Eyelet Short Cardigan",
+        "originalName": "Smoothie Eyelet Short Cardigan",
+        "sku": "PWNT264047OWHTF",
+        "category": "knitwear",
+        "audience": [
+          "women"
+        ],
+        "role": "編輯入門選品",
+        "price": null,
+        "note": "先看這款的編織、領型與長度，再對照自己的衣櫥。",
+        "priceNote": "官網可能切換國際市場；日本價格請另查",
+        "source": "https://gelatopique.us/products/smoothie-eyelet-short-cardigan",
+        "image": "https://gelatopique.us/cdn/shop/files/PWNT264047_p_32_LL.jpg?v=1784301384&width=1024",
+        "credit": "gelato pique 官方商品／專題"
+      }
+    },
+    {
+      "id": "emmi",
+      "profile": {
+        "name": "emmi",
+        "jp": "エミ",
+        "aliases": [
+          "emmi"
+        ],
+        "styles": [
+          "minimal",
+          "feminine"
+        ],
+        "audience": [
+          "women"
+        ],
+        "audienceBasis": "official",
+        "shelf": "women",
+        "type": "女裝／居家服飾",
+        "tagline": "用一件針織連帽上衣，連起日常與休閒。",
+        "intro": "品牌通路把這款 Big Silhouette Knit Hoodie 列為女裝針織。emmi 店內也販售鞋履與其他品牌，這張照片使用 emmi 自有服裝，不借用 ASICS、adidas 或 SALOMON 商品代表它。",
+        "why": "如果想從上衣細節與層次找方向，可以先看「Big Silhouette Knit Hoodie」。這是編輯探索建議。",
+        "look": [
+          "Big Silhouette Knit Hoodie的輪廓與細節",
+          "照片只對應本頁款名與貨號",
+          "同款尺寸、材質與市場版本逐一確認"
+        ],
+        "shopping": "以本頁官方／品牌通路為起點，核對日本販售、市場版本與尺寸表，再安排試穿。現貨、門市和是否販售這款，請在出發前向官方確認。",
+        "official": "https://emmi.jp/",
+        "shop": "https://emmi.jp/",
+        "companySource": "https://www.ms-lab.com/"
+      },
+      "piece": {
+        "name": "Big Silhouette Knit Hoodie",
+        "originalName": "ビックシルエットニットフーディー",
+        "sku": "13WNT265012",
+        "category": "knitwear",
+        "audience": [
+          "women"
+        ],
+        "role": "編輯入門選品 · 預約版本",
+        "price": 16940,
+        "note": "先看這款的編織、領型與長度，再對照自己的衣櫥。",
+        "priceNote": "2026-10-14 日本通路列價樣本；售價／庫存可能變動",
+        "source": "https://mitsui-shopping-park.com/ec/p/1620700015157",
+        "image": "https://mitsui-shopping-park.com/ec/ecstatic/product/color/1620700015157_0202.jpg",
+        "credit": "emmi／三井 &mall 品牌店"
+      }
+    }
+  ]
+}

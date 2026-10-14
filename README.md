@@ -1,3 +1,7 @@
+# TOKI — 50-guide edition
+
+50 independently named brand/label guides, each with a real exact item photo and primary source. Original 15 preserved, 35 added. BEAMS label index is separate. 76 static routes, no runtime functions. Six exploration shelves, name index and 12-at-a-time photo browsing. Unknown classification/JPY samples stay explicitly unknown.
+
 # TOKI｜日本品牌選物誌
 
 Traditional Chinese personal fashion discovery prototype for Taiwan/Hong Kong readers.

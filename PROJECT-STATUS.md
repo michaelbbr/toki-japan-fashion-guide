@@ -1,5 +1,13 @@
 # TOKI progress — 2026-10-14
 
+## 50-guide edition — implementation complete, Production pending
+
+- Responds to user feedback that 15 brands were too few. Original 15 retained; 35 new product-bound guides bring catalog to 50, with 76 static routes / 0 functions. BEAMS 35-name label index remains a separate guide.
+- New names cover GU, UNIQLO, MUJI, Adastria brands, TOKYO brands, ATON/YOKE/ssstein/COMOLI/MARKAWARE/NEEDLES/EG, Goldwin/GRAMICCI/TAION/DANTON/and wander, and MASH women/homewear brands. Exact complete names in data/expanded-catalog.json.
+- Each new identity has guide copy, original product name, item identifier, real official/brand-store photo, source/date and honest market/classification limits. Some products have unconfirmed sex and are excluded from gender-specific category/budget matches. No fake popularity or sizing advice.
+- Directory uses six shelf shortcuts, direct name index, existing search/style/type/budget/gender filters and batches of 12. Initial 12, final 50, shelf 8, under ¥5,000 women 3, YOKE search 1 and reset inspected manually. Build success; desktop no horizontal overflow. See docs/brand-expansion-audit-2026-10-14.md for exact limits and source ledger.
+- Existing Hobby/static hosting; no money spent. Public deployment and remaining image review pending.
+
 ## Clear entry points and full BEAMS index — 2026-10-14
 
 - User feedback: the old relationship page was not intuitive, BEAMS BOY alone misrepresented the available labels, and the site gave no obvious start. This version replaces the long all-brand list with seven family entry cards and dedicated family guides.

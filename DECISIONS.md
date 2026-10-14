@@ -22,3 +22,7 @@ Recheck when sources change, imagery breaks, new official product/price evidence
 - Improved typography and a solid sticky header help orientation; grouping links land below the header. Do not combine scroll padding and large anchor margins to add unnecessary gaps.
 
 Reconsider after actual reader feedback, official label/store changes or expansion to more verified brand/region records. No usability success/conversion metric is claimed from a visual review.
+
+## 2026-10-14 — A usable first brand edition
+
+Expand from 15 to 50 complete identities without counting BEAMS label-index rows as new guides. Preserve real exact product photos. Six editorial shelf shortcuts, a direct alphabetical name index and 12-at-a-time photo browsing keep the larger directory navigable. Unknown item sex and market prices remain unknown; gender entry suggestions can be editorial only when clearly marked. No purchases or paid services.

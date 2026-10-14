@@ -1,4 +1,8 @@
-import {pieces, profiles, relationships} from './editorial.mjs';
+import {pieces as currentPieces, profiles as currentProfiles, relationships as currentRelationships} from './editorial.mjs';
+import {expandedPieces,expandedProfiles,expandedRelationships} from './expanded.mjs';
+const pieces={...currentPieces,...expandedPieces};
+const profiles={...currentProfiles,...expandedProfiles};
+const relationships={...currentRelationships,...expandedRelationships};
 export const checkedAt="2026-10-14";
 export const styles=[
   {
@@ -370,13 +374,14 @@ const additions=Object.entries(profiles).map(([id,profile])=>({
  ...profile,newIn:profile.official,
  samples:[],similar:[],sources:[{label:'官方品牌／購物入口',url:profile.official},{label:'官方商品／專題',url:pieces[id][0].source}],
 }));
+const originalShelves={'beams':'select','united-arrows':'select','snow-peak':'outdoor','auralee':'designer','snidel':'women','freaks-store':'select','urban-research':'select','journal-standard':'select','mont-bell':'outdoor','daiwa-pier39':'outdoor','nanamica':'outdoor','graphpaper':'designer','mila-owen':'women','clane':'designer','purple-label':'outdoor'};
 export const brands=[...originalBrands,...additions].map(brand=>{
  const selected=pieces[brand.id] || [];
  const samples=[...(brand.samples || [])];
  for(const p of selected)for(const s of samples)if(s.url===p.source && s.name===p.originalName){s.category=p.category;s.audience=p.audience;}
  for(const p of selected) if(Number.isFinite(p.price) && !samples.some(s=>s.name===p.originalName && s.price===p.price))
   samples.push({name:p.originalName,price:p.price,category:p.category,audience:p.audience,note:p.priceNote,url:p.source});
- return {...brand,pieces:selected,relationships:relationships[brand.id] || [],samples,
+ return {...brand,shelf:brand.shelf||originalShelves[brand.id],pieces:selected,relationships:relationships[brand.id] || [],samples,
   fitAdvice:'請用這一款官方尺寸表的肩寬、身幅、衣長或腰圍，對照自己已有的衣服；不同款式與版本不要套用同一個尺碼建議。'};
 });
 export const releases=[

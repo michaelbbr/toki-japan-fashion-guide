@@ -15,6 +15,7 @@ export function matchBrand(brand, filters={}) {
   const styleWords={city:'City Boy 城市日常 城市休閒',minimal:'Clean Minimal 簡約 質感',outdoor:'Outdoor 山系 機能 戶外',feminine:'City Girl 柔美 女性 甜美'};
   const hay=[brand.name,brand.jp,brand.tagline,...brand.aliases,...brand.styles.map(s=>styleWords[s] || s)].join(' ').normalize('NFKC').toLocaleLowerCase();
   if (q && !hay.includes(q)) return false;
+  if (filters.shelf && filters.shelf!=='all' && brand.shelf!==filters.shelf) return false;
   if (filters.style && filters.style!=='all' && !brand.styles.includes(filters.style)) return false;
   if (filters.gender && filters.gender!=='all' && !brand.audience.includes(filters.gender)) return false;
   if (filters.budget && filters.budget!=='all') {
