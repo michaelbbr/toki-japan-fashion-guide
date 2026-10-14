@@ -41,6 +41,8 @@ The parent reports 10 passing Node tests and successful local checks for 15 norm
 
 ## Nonblocking improvements
 
+Completion addendum by implementing agent, 2026-10-14: both P3 findings below were resolved before source commit 556c3c4. The 160-character limit now applies to input, matching and serialization; mobile navigation is hidden only after JS enhancement. Public Production subsequently showed Ready on RENT Hobby; 15 content routes, 6 assets and custom HTTP 404 passed, as did public combined filters/back/reset. This addendum records deployment evidence separately from the original source-only review.
+
 1. **P3 — long query reload consistency**, public/app.mjs:28 and scripts/build.mjs:30. URL hydration truncates at 160 characters while the input/application path does not. For example, a pasted value containing 160 spaces followed by `BEAMS` matches BEAMS before reload but becomes whitespace (all brands) after reload. Apply the same normalization/length limit before matching and serializing, and add `maxlength="160"` for input feedback, or remove the hydration-only limit. This is a bounded edge case, not an injection issue.
 2. **P3 — mobile navigation without JavaScript**, public/styles.css:14. Mobile navigation is hidden until JS adds `.open`, so with JS unavailable its visible menu button cannot expose links. Use a progressive-enhancement class to hide the nav only once JS is ready, or supply a no-script navigation fallback. Ordinary static content and footer/home recovery links remain available.
 
