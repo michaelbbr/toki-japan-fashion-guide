@@ -20,7 +20,7 @@ export const pieces = {
   }],
   'auralee': [{
     name:'Super Fine Wool 羅紋針織',originalName:'SUPER FINE WOOL RIB KNIT V-NECK P/O',sku:'A26AV03RK',category:'knitwear',audience:['men'],role:'編輯入門選品',price:null,
-    note:'從官方列出的羊毛、羅紋與寬鬆輪廓，認識品牌的材質選擇；沒有假設作者已實穿。',priceNote:'官方頁依地區切換貨幣；不以美金推算日本售價',
+    note:'從羊毛、羅紋與寬鬆輪廓，認識品牌的材質選擇。',priceNote:'日本地區售價請至官方確認',
     source:'https://auralee.jp/item/detail/1_1_A26AV03RK_1/6501',
     image:'https://auralee.jp/photo/2026AW/A26AV03RK/z-A26AV03RK_6501-1.jpg',credit:'AURALEE 官方商品頁',
   }],
