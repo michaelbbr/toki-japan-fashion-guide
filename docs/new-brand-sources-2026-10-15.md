@@ -48,3 +48,5 @@
 | FTI 可代表今日人氣 | unsupported claim | 只有過期快照 | 公開入口、資料及運算均撤下 | remove |
 
 發布判定：publish after fixes；完成公開驗收再更新。
+
+補充：green label relaxing 的 ¥14,960 為2026春季歷史專題樣本，保留供了解商品，但排除現行單件預算配對。
