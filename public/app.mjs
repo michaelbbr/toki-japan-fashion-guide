@@ -1,5 +1,6 @@
 import './journey.mjs';
-import {matchBrand,summarize,sampleMatches} from './domain.mjs';
+import {budgetOptions} from './discovery-options.mjs';
+import {matchBrand,sampleMatches} from './domain.mjs';
 document.documentElement.classList.add('js');
 const menu=document.querySelector('.menu-toggle'), nav=document.querySelector('#main-nav');
 if(menu) {
@@ -20,6 +21,7 @@ if(form) {
   const grid=document.querySelector('.brand-grid');
   const sort=document.querySelector('#sort');
   const count=document.querySelector('#result-count'), empty=document.querySelector('#empty-results');
+  function syncBudget(){const category=form.elements.namedItem('category').value,control=form.elements.namedItem('budget'),old=control.value;control.replaceChildren(...[{id:'all',name:category==='all'?'先選品類／不限預算':'不限預算'},...budgetOptions(category)].map(x=>new Option(x.name,x.id)));control.value=[...control.options].some(o=>o.value===old)?old:'all';}
   const names=['q','style','category','budget','gender'];
   const more=document.querySelector('#show-more-brands');
   let visibleLimit=Infinity;
@@ -27,6 +29,7 @@ if(form) {
   function fromUrl() {
     const params=new URLSearchParams(location.search);
     for(const name of names) {
+      if(name==='budget')syncBudget();
       const control=form.elements.namedItem(name);
       const val=name==='gender' && defaults.gender!=='all' ? defaults.gender : params.get(name) || defaults[name];
       if(control instanceof HTMLSelectElement) control.value=Array.from(control.options).some(o=>o.value===val)?val:'all';
@@ -43,6 +46,10 @@ if(form) {
   function apply(updateUrl=false) {
     if(updateUrl)visibleLimit=Infinity;
     const gender=form.elements.namedItem('gender').value,styleControl=form.elements.namedItem('style');
+    const categoryControl=form.elements.namedItem('category');
+    for(const option of categoryControl.options){const hidden=gender==='men'&&['dress','skirt'].includes(option.value);option.disabled=hidden;option.hidden=hidden;}
+    if(categoryControl.selectedOptions[0]?.disabled)categoryControl.value='all';
+    syncBudget();
     for(const option of styleControl.options){
       const available=option.value==='all'||cards.some(c=>{const b=JSON.parse(c.dataset.brand);return (gender==='all'||b.audience.includes(gender))&&b.styles.includes(option.value);});
       option.disabled=!available;option.hidden=!available;
@@ -130,6 +137,7 @@ if(areaForm){
   const districtControl=areaForm.elements.namedItem('district');
   for(const option of districtControl.options)option.disabled=option.value!=='all'&&!districts.has(option.value);
   if(values.district!=='all'&&!districts.has(values.district)){values.district='all';districtControl.value='all';}
+  for(const link of document.querySelectorAll('[data-official-brand]'))link.hidden=values.brand!=='all'&&link.dataset.officialBrand!==values.brand;
   let total=0;
   for(const card of storeCards){const data=JSON.parse(card.dataset.store);card.hidden=!controls.every(k=>values[k]==='all'||values[k]===data[k]);if(!card.hidden)total++;}
   areaCount.textContent='找到 '+total+' 個門市／櫃位';areaEmpty.hidden=total!==0;
@@ -147,23 +155,4 @@ for(const img of document.querySelectorAll('.product-photo img,.outfit-photo img
  const failed=()=>{const figure=img.closest('.product-photo,.outfit-photo');figure.classList.add('photo-failed');figure.querySelector('.photo-unavailable').hidden=false;};
  img.addEventListener('error',failed);
  if(img.complete && !img.naturalWidth)failed();
-}
-
-// A static deployment may outlive its snapshot. Re-evaluate freshness in the browser.
-if(document.querySelector('.observation')) {
-  fetch('/data/fti-snapshots.json').then(r=>{if(!r.ok)throw new Error('data unavailable');return r.json();}).then(data=>{
-    const byName=new Map(Object.entries(data.snapshots));
-    for(const el of document.querySelectorAll('.observation')) {
-      const heading=el.querySelector('h3')?.textContent;
-      const query=el.querySelector('.muted')?.textContent;
-      let raw;
-      for(const [id,s] of byName) if(query?.includes(s.query) || heading?.toLowerCase()===id) raw=s;
-      if(!raw)continue;
-      if(summarize(raw).state==='stale') {
-        const badge=el.querySelector('.status');
-        badge.textContent='歷史觀測 · 待更新';badge.className='status stale';
-        el.querySelector('.momentum')?.remove();
-      }
-    }
-  }).catch(()=>{document.querySelectorAll('.observation .momentum').forEach(e=>e.remove());});
 }

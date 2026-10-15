@@ -1,6 +1,8 @@
+import {newOutfits} from './new-edition.mjs';
 // Outfit imagery and exact product photography have separate provenance.
 export const outfitCheckedAt='2026-10-15';
 export const outfits={
+ ...newOutfits,
   "beams": {
     "image": "https://cdn-cms.beams.co.jp/cdn/cms/styling/1242463/main_TRERrf.jpg",
     "source": "https://www.beams.co.jp/styling/beams/1242463/",

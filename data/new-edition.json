@@ -1,0 +1,1230 @@
+{
+  "checkedAt": "2026-10-15",
+  "brands": [
+    {
+      "id": "beamsplus",
+      "profile": {
+        "name": "BEAMS PLUS",
+        "jp": "ビームス プラス",
+        "aliases": [
+          "BEAMS PLUS"
+        ],
+        "styles": [
+          "city",
+          "americana",
+          "workwear"
+        ],
+        "audience": [
+          "men"
+        ],
+        "audienceBasis": "official",
+        "type": "BEAMS 服裝標籤",
+        "tagline": "美式經典、工裝與復古層次。",
+        "intro": "美式經典、工裝與復古層次。 先從「Open Collar Panel」的實際造型觀察輪廓與搭配。以美式服裝傳統為設計基礎。",
+        "why": "喜歡1950 年代襯衫的寬鬆比例與拼色細節，可以從這款開始比較。風格為本站編輯探索方向。",
+        "look": [
+          "1950 年代襯衫的寬鬆比例與拼色細節。",
+          "點開具名商品，比較材質與實寸",
+          "旅行前核對日本門市與販售版本"
+        ],
+        "shopping": "從官方商品頁核對款名、貨號及尺寸，再查日本門市。照片和價格保留查核版本，並不保證出發時有貨。",
+        "official": "https://www.beams.co.jp/beamsplus/",
+        "shop": "https://www.beams.co.jp/shop/"
+      },
+      "piece": {
+        "name": "Open Collar Panel",
+        "originalName": "Open Collar Panel",
+        "sku": "38112060139",
+        "kind": "shirt",
+        "category": "tops",
+        "audience": [
+          "men"
+        ],
+        "role": "編輯入門選品",
+        "price": 24200,
+        "priceNote": "查核時日本列價／含稅",
+        "note": "先看這款的輪廓、材質與尺寸；款名與貨號對應本張商品圖。",
+        "source": "https://www.beams.co.jp/item/beamsplus/shirt/38112060139/",
+        "image": "https://cdn.beams.co.jp/img/goods/38112060139/S2/38112060139_C_1.jpg",
+        "credit": "BEAMS PLUS 官方商品／專題"
+      },
+      "outfit": {
+        "image": "https://cdn-cms.beams.co.jp/cdn/cms/styling/1242007/main_5INE4o.jpg",
+        "source": "https://www.beams.co.jp/styling/beamsplus/1242007/",
+        "credit": "官方穿搭示例",
+        "checkedAt": "2026-10-15",
+        "note": "官方標籤真人穿搭；與本頁價格樣本不必為同款，整套可能搭配他牌。"
+      },
+      "relationships": [
+        {
+          "id": "beams",
+          "name": "BEAMS",
+          "kind": "官方標籤",
+          "note": "官方以完整名稱分別提供品牌或商品入口；本頁商品與價格不混入主品牌。",
+          "url": "https://www.beams.co.jp/label/"
+        }
+      ]
+    },
+    {
+      "id": "beamsboy",
+      "profile": {
+        "name": "BEAMS BOY",
+        "jp": "ビームス ボーイ",
+        "aliases": [
+          "BEAMS BOY"
+        ],
+        "styles": [
+          "city",
+          "workwear",
+          "americana",
+          "vintage"
+        ],
+        "audience": [
+          "women"
+        ],
+        "audienceBasis": "official",
+        "type": "BEAMS 服裝標籤",
+        "tagline": "把工裝與男裝細節穿進女裝。",
+        "intro": "把工裝與男裝細節穿進女裝。 先從「ワイド チノ パンツ」的實際造型觀察輪廓與搭配。將男裝細節放進女裝；BOY 是女裝標籤。",
+        "why": "喜歡寬版斜紋褲與層次搭配，可以從這款開始比較。風格為本站編輯探索方向。",
+        "look": [
+          "寬版斜紋褲與層次搭配。",
+          "點開具名商品，比較材質與實寸",
+          "旅行前核對日本門市與販售版本"
+        ],
+        "shopping": "從官方商品頁核對款名、貨號及尺寸，再查日本門市。照片和價格保留查核版本，並不保證出發時有貨。",
+        "official": "https://www.beams.co.jp/beamsboy/",
+        "shop": "https://www.beams.co.jp/shop/"
+      },
+      "piece": {
+        "name": "ワイド チノ パンツ",
+        "originalName": "ワイド チノ パンツ",
+        "sku": "13241175791",
+        "kind": "bottoms",
+        "category": "bottoms",
+        "audience": [
+          "women"
+        ],
+        "role": "編輯入門選品",
+        "price": 16940,
+        "priceNote": "查核時日本列價／含稅",
+        "note": "先看這款的輪廓、材質與尺寸；款名與貨號對應本張商品圖。",
+        "source": "https://www.beams.co.jp/item/beamsboy/pants/13241175791/",
+        "image": "https://cdn.beams.co.jp/img/goods/13241175791/S2/13241175791_C_3.jpg",
+        "credit": "BEAMS BOY 官方商品／專題"
+      },
+      "outfit": {
+        "image": "https://cdn.beams.co.jp/img/goods/13241175791/O/13241175791_D_1.jpg",
+        "source": "https://www.beams.co.jp/item/beamsboy/pants/13241175791/",
+        "credit": "官方穿搭示例",
+        "checkedAt": "2026-10-15",
+        "note": "造型可能搭配其他品牌；不推定整套商品歸屬或現貨。"
+      },
+      "relationships": [
+        {
+          "id": "beams",
+          "name": "BEAMS",
+          "kind": "官方標籤",
+          "note": "官方以完整名稱分別提供品牌或商品入口；本頁商品與價格不混入主品牌。",
+          "url": "https://www.beams.co.jp/label/"
+        }
+      ]
+    },
+    {
+      "id": "raybeams",
+      "profile": {
+        "name": "Ray BEAMS",
+        "jp": "レイ ビームス",
+        "aliases": [
+          "Ray BEAMS"
+        ],
+        "styles": [
+          "city",
+          "feminine",
+          "girly"
+        ],
+        "audience": [
+          "women"
+        ],
+        "audienceBasis": "official",
+        "type": "BEAMS 服裝標籤",
+        "tagline": "從有細節的女裝開始混搭。",
+        "intro": "從有細節的女裝開始混搭。 先從「ジャカード フリルカラー ペプラム ブラウス」的實際造型觀察輪廓與搭配。BEAMS 首個女裝標籤。",
+        "why": "喜歡荷葉邊罩衫如何搭簡單褲裝，可以從這款開始比較。風格為本站編輯探索方向。",
+        "look": [
+          "荷葉邊罩衫如何搭簡單褲裝。",
+          "點開具名商品，比較材質與實寸",
+          "旅行前核對日本門市與販售版本"
+        ],
+        "shopping": "從官方商品頁核對款名、貨號及尺寸，再查日本門市。照片和價格保留查核版本，並不保證出發時有貨。",
+        "official": "https://www.beams.co.jp/raybeams/",
+        "shop": "https://www.beams.co.jp/shop/"
+      },
+      "piece": {
+        "name": "ジャカード フリルカラー ペプラム ブラウス",
+        "originalName": "ジャカード フリルカラー ペプラム ブラウス",
+        "sku": "61111853462",
+        "kind": "shirt",
+        "category": "tops",
+        "audience": [
+          "women"
+        ],
+        "role": "編輯入門選品",
+        "price": 14960,
+        "priceNote": "查核時日本列價／含稅",
+        "note": "先看這款的輪廓、材質與尺寸；款名與貨號對應本張商品圖。",
+        "source": "https://www.beams.co.jp/item/raybeams/shirt/61111853462/",
+        "image": "https://cdn.beams.co.jp/img/goods/61111853462/O/61111853462_D_5.jpg",
+        "credit": "Ray BEAMS 官方商品／專題"
+      },
+      "outfit": {
+        "image": "https://cdn.beams.co.jp/img/goods/61111853462/O/61111853462_D_1.jpg",
+        "source": "https://www.beams.co.jp/item/raybeams/shirt/61111853462/",
+        "credit": "官方穿搭示例",
+        "checkedAt": "2026-10-15",
+        "note": "造型可能搭配其他品牌；不推定整套商品歸屬或現貨。"
+      },
+      "relationships": [
+        {
+          "id": "beams",
+          "name": "BEAMS",
+          "kind": "官方標籤",
+          "note": "官方以完整名稱分別提供品牌或商品入口；本頁商品與價格不混入主品牌。",
+          "url": "https://www.beams.co.jp/label/"
+        }
+      ]
+    },
+    {
+      "id": "beamsheart",
+      "profile": {
+        "name": "BEAMS HEART",
+        "jp": "ビームス ハート",
+        "aliases": [
+          "BEAMS HEART"
+        ],
+        "styles": [
+          "city",
+          "minimal"
+        ],
+        "audience": [
+          "women"
+        ],
+        "audienceBasis": "official",
+        "type": "BEAMS 服裝標籤",
+        "tagline": "先從日常針織與休閒衣櫥開始。",
+        "intro": "先從日常針織與休閒衣櫥開始。 先從「襟 ループ編み ポロ ニット」的實際造型觀察輪廓與搭配。官方以較容易入手的商品定位介紹，男／女裝分款。本頁先整理女裝單品；其他服裝範圍請從官方完整分類繼續看。",
+        "why": "喜歡Polo 領針織與日常褲裝，可以從這款開始比較。風格為本站編輯探索方向。",
+        "look": [
+          "Polo 領針織與日常褲裝。",
+          "點開具名商品，比較材質與實寸",
+          "旅行前核對日本門市與販售版本"
+        ],
+        "shopping": "從官方商品頁核對款名、貨號及尺寸，再查日本門市。照片和價格保留查核版本，並不保證出發時有貨。",
+        "official": "https://www.beams.co.jp/beamsheart/",
+        "shop": "https://www.beams.co.jp/shop/"
+      },
+      "piece": {
+        "name": "襟 ループ編み ポロ ニット",
+        "originalName": "襟 ループ編み ポロ ニット",
+        "sku": "43150474138",
+        "kind": "knitwear",
+        "category": "knitwear",
+        "audience": [
+          "women"
+        ],
+        "role": "編輯入門選品",
+        "price": 6930,
+        "priceNote": "查核時日本列價／含稅",
+        "note": "先看這款的輪廓、材質與尺寸；款名與貨號對應本張商品圖。",
+        "source": "https://www.beams.co.jp/item/beamsheart/tops/43150474138/",
+        "image": "https://cdn.beams.co.jp/img/goods/43150474138/O/43150474138_C_1.jpg",
+        "credit": "BEAMS HEART 官方商品／專題"
+      },
+      "outfit": {
+        "image": "https://cdn.beams.co.jp/img/goods/43150474138/O/43150474138_D_1.jpg",
+        "source": "https://www.beams.co.jp/item/beamsheart/tops/43150474138/",
+        "credit": "官方穿搭示例",
+        "checkedAt": "2026-10-15",
+        "note": "造型可能搭配其他品牌；不推定整套商品歸屬或現貨。"
+      },
+      "relationships": [
+        {
+          "id": "beams",
+          "name": "BEAMS",
+          "kind": "官方標籤",
+          "note": "官方以完整名稱分別提供品牌或商品入口；本頁商品與價格不混入主品牌。",
+          "url": "https://www.beams.co.jp/label/"
+        }
+      ]
+    },
+    {
+      "id": "demiluxebeams",
+      "profile": {
+        "name": "Demi-Luxe BEAMS",
+        "jp": "デミルクス ビームス",
+        "aliases": [
+          "Demi-Luxe BEAMS"
+        ],
+        "styles": [
+          "minimal",
+          "smart",
+          "feminine"
+        ],
+        "audience": [
+          "women"
+        ],
+        "audienceBasis": "official",
+        "type": "BEAMS 服裝標籤",
+        "tagline": "乾淨輪廓，連接日常與通勤。",
+        "intro": "乾淨輪廓，連接日常與通勤。 先從「フラッフィー ボートネック ニット」的實際造型觀察輪廓與搭配。面向女性的基本款與當季設計。",
+        "why": "喜歡船領針織的領口與垂墜，可以從這款開始比較。風格為本站編輯探索方向。",
+        "look": [
+          "船領針織的領口與垂墜。",
+          "點開具名商品，比較材質與實寸",
+          "旅行前核對日本門市與販售版本"
+        ],
+        "shopping": "從官方商品頁核對款名、貨號及尺寸，再查日本門市。照片和價格保留查核版本，並不保證出發時有貨。",
+        "official": "https://www.beams.co.jp/demiluxebeams/",
+        "shop": "https://www.beams.co.jp/shop/"
+      },
+      "piece": {
+        "name": "フラッフィー ボートネック ニット",
+        "originalName": "フラッフィー ボートネック ニット",
+        "sku": "64150581673",
+        "kind": "knitwear",
+        "category": "knitwear",
+        "audience": [
+          "women"
+        ],
+        "role": "編輯入門選品",
+        "price": 22000,
+        "priceNote": "查核時日本列價／含稅",
+        "note": "先看這款的輪廓、材質與尺寸；款名與貨號對應本張商品圖。",
+        "source": "https://www.beams.co.jp/item/demiluxebeams/tops/64150581673/",
+        "image": "https://cdn.beams.co.jp/img/goods/64150581673/S2/64150581673_C_1.jpg",
+        "credit": "Demi-Luxe BEAMS 官方商品／專題"
+      },
+      "outfit": {
+        "image": "https://cdn.beams.co.jp/img/goods/64150581673/O/64150581673_D_1.jpg",
+        "source": "https://www.beams.co.jp/item/demiluxebeams/tops/64150581673/",
+        "credit": "官方穿搭示例",
+        "checkedAt": "2026-10-15",
+        "note": "造型可能搭配其他品牌；不推定整套商品歸屬或現貨。"
+      },
+      "relationships": [
+        {
+          "id": "beams",
+          "name": "BEAMS",
+          "kind": "官方標籤",
+          "note": "官方以完整名稱分別提供品牌或商品入口；本頁商品與價格不混入主品牌。",
+          "url": "https://www.beams.co.jp/label/"
+        }
+      ]
+    },
+    {
+      "id": "beamsf",
+      "profile": {
+        "name": "BEAMS F",
+        "jp": "ビームスF",
+        "aliases": [
+          "BEAMS F"
+        ],
+        "styles": [
+          "smart"
+        ],
+        "audience": [
+          "men"
+        ],
+        "audienceBasis": "official",
+        "type": "BEAMS 服裝標籤",
+        "tagline": "從經典西裝外套認識正式男裝。",
+        "intro": "從經典西裝外套認識正式男裝。 先從「HANDMADE WILLIAM HALSTEAD ウール ダブルブレスト クレイジーボタン ブレザー」的實際造型觀察輪廓與搭配。BEAMS 的男裝正裝標籤。",
+        "why": "喜歡雙排釦西裝外套與羊毛面料，可以從這款開始比較。風格為本站編輯探索方向。",
+        "look": [
+          "雙排釦西裝外套與羊毛面料。",
+          "點開具名商品，比較材質與實寸",
+          "旅行前核對日本門市與販售版本"
+        ],
+        "shopping": "從官方商品頁核對款名、貨號及尺寸，再查日本門市。照片和價格保留查核版本，並不保證出發時有貨。",
+        "official": "https://www.beams.co.jp/beamsf/",
+        "shop": "https://www.beams.co.jp/shop/"
+      },
+      "piece": {
+        "name": "HANDMADE WILLIAM HALSTEAD ウール ダブルブレスト クレイジーボタン ブレザー",
+        "originalName": "HANDMADE WILLIAM HALSTEAD ウール ダブルブレスト クレイジーボタン ブレザー",
+        "sku": "21161418015",
+        "kind": "outerwear",
+        "category": "outerwear",
+        "audience": [
+          "men"
+        ],
+        "role": "編輯入門選品",
+        "price": 165000,
+        "priceNote": "查核時日本列價／含稅",
+        "note": "先看這款的輪廓、材質與尺寸；款名與貨號對應本張商品圖。",
+        "source": "https://www.beams.co.jp/item/beamsf/jacket/21161418015/",
+        "image": "https://cdn.beams.co.jp/img/goods/21161418015/S2/21161418015_C_1.jpg",
+        "credit": "BEAMS F 官方商品／專題"
+      },
+      "outfit": {
+        "image": "https://cdn-cms.beams.co.jp/cdn/cms/styling/1243378/main_lfT6T3_d.jpg",
+        "source": "https://www.beams.co.jp/styling/beamsf/1243378/",
+        "credit": "官方穿搭示例",
+        "checkedAt": "2026-10-15",
+        "note": "官方標籤真人穿搭；與本頁價格樣本不必為同款，整套可能搭配他牌。"
+      },
+      "relationships": [
+        {
+          "id": "beams",
+          "name": "BEAMS",
+          "kind": "官方標籤",
+          "note": "官方以完整名稱分別提供品牌或商品入口；本頁商品與價格不混入主品牌。",
+          "url": "https://www.beams.co.jp/label/"
+        }
+      ]
+    },
+    {
+      "id": "brilla_per_il_gusto",
+      "profile": {
+        "name": "Brilla per il gusto",
+        "jp": "ブリッラ ペル イル グスト",
+        "aliases": [
+          "Brilla per il gusto"
+        ],
+        "styles": [
+          "smart",
+          "minimal"
+        ],
+        "audience": [
+          "men"
+        ],
+        "audienceBasis": "official",
+        "type": "BEAMS 服裝標籤",
+        "tagline": "成熟男裝，也有輕鬆的針織層次。",
+        "intro": "成熟男裝，也有輕鬆的針織層次。 先從「ビエラヤーン ウール ハイゲージ クルーネック ニット」的實際造型觀察輪廓與搭配。官方定位為精緻、奢華感的男裝風格。",
+        "why": "喜歡細針羊毛針織的領口與質地，可以從這款開始比較。風格為本站編輯探索方向。",
+        "look": [
+          "細針羊毛針織的領口與質地。",
+          "點開具名商品，比較材質與實寸",
+          "旅行前核對日本門市與販售版本"
+        ],
+        "shopping": "從官方商品頁核對款名、貨號及尺寸，再查日本門市。照片和價格保留查核版本，並不保證出發時有貨。",
+        "official": "https://www.beams.co.jp/brilla_per_il_gusto/",
+        "shop": "https://www.beams.co.jp/shop/"
+      },
+      "piece": {
+        "name": "ビエラヤーン ウール ハイゲージ クルーネック ニット",
+        "originalName": "ビエラヤーン ウール ハイゲージ クルーネック ニット",
+        "sku": "24150312151",
+        "kind": "knitwear",
+        "category": "knitwear",
+        "audience": [
+          "men"
+        ],
+        "role": "編輯入門選品",
+        "price": 26400,
+        "priceNote": "查核時日本列價／含稅",
+        "note": "先看這款的輪廓、材質與尺寸；款名與貨號對應本張商品圖。",
+        "source": "https://www.beams.co.jp/item/brilla_per_il_gusto/tops/24150312151/",
+        "image": "https://cdn.beams.co.jp/img/goods/24150312151/O/24150312151_C_1.jpg",
+        "credit": "Brilla per il gusto 官方商品／專題"
+      },
+      "outfit": {
+        "image": "https://cdn-cms.beams.co.jp/cdn/cms/label/6/list_m8WCVp.jpg",
+        "source": "https://www.beams.co.jp/brilla_per_il_gusto/",
+        "credit": "官方穿搭示例",
+        "checkedAt": "2026-10-15",
+        "note": "造型可能搭配其他品牌；不推定整套商品歸屬或現貨。"
+      },
+      "relationships": [
+        {
+          "id": "beams",
+          "name": "BEAMS",
+          "kind": "官方標籤",
+          "note": "官方以完整名稱分別提供品牌或商品入口；本頁商品與價格不混入主品牌。",
+          "url": "https://www.beams.co.jp/label/"
+        }
+      ]
+    },
+    {
+      "id": "effebeams",
+      "profile": {
+        "name": "EFFE BEAMS",
+        "jp": "エッフェ ビームス",
+        "aliases": [
+          "EFFE BEAMS"
+        ],
+        "styles": [
+          "smart",
+          "minimal",
+          "feminine"
+        ],
+        "audience": [
+          "women"
+        ],
+        "audienceBasis": "official",
+        "type": "BEAMS 服裝標籤",
+        "tagline": "從絲質針織與俐落輪廓開始看。",
+        "intro": "從絲質針織與俐落輪廓開始看。 先從「シルク ロングスリーブ ニット」的實際造型觀察輪廓與搭配。官方介紹為高品質女裝線。",
+        "why": "喜歡絲質長袖針織的觸感與輪廓，可以從這款開始比較。風格為本站編輯探索方向。",
+        "look": [
+          "絲質長袖針織的觸感與輪廓。",
+          "點開具名商品，比較材質與實寸",
+          "旅行前核對日本門市與販售版本"
+        ],
+        "shopping": "從官方商品頁核對款名、貨號及尺寸，再查日本門市。照片和價格保留查核版本，並不保證出發時有貨。",
+        "official": "https://www.beams.co.jp/effebeams/",
+        "shop": "https://www.beams.co.jp/shop/"
+      },
+      "piece": {
+        "name": "シルク ロングスリーブ ニット",
+        "originalName": "シルク ロングスリーブ ニット",
+        "sku": "64151464092",
+        "kind": "knitwear",
+        "category": "knitwear",
+        "audience": [
+          "women"
+        ],
+        "role": "編輯入門選品",
+        "price": 47300,
+        "priceNote": "查核時日本列價／含稅",
+        "note": "先看這款的輪廓、材質與尺寸；款名與貨號對應本張商品圖。",
+        "source": "https://www.beams.co.jp/item/effebeams/tops/64151464092/",
+        "image": "https://cdn.beams.co.jp/img/goods/64151464092/O/64151464092_C_1.jpg",
+        "credit": "EFFE BEAMS 官方商品／專題"
+      },
+      "outfit": {
+        "image": "https://cdn.beams.co.jp/img/goods/64151464092/O/64151464092_D_2.jpg",
+        "source": "https://www.beams.co.jp/item/effebeams/tops/64151464092/",
+        "credit": "官方穿搭示例",
+        "checkedAt": "2026-10-15",
+        "note": "造型可能搭配其他品牌；不推定整套商品歸屬或現貨。"
+      },
+      "relationships": [
+        {
+          "id": "beams",
+          "name": "BEAMS",
+          "kind": "官方標籤",
+          "note": "官方以完整名稱分別提供品牌或商品入口；本頁商品與價格不混入主品牌。",
+          "url": "https://www.beams.co.jp/label/"
+        }
+      ]
+    },
+    {
+      "id": "doors",
+      "profile": {
+        "name": "URBAN RESEARCH DOORS",
+        "jp": "アーバンリサーチ ドアーズ",
+        "aliases": [
+          "URBAN RESEARCH DOORS"
+        ],
+        "styles": [
+          "city",
+          "natural",
+          "outdoor"
+        ],
+        "audience": [
+          "women"
+        ],
+        "audienceBasis": "official",
+        "type": "URBAN RESEARCH 服裝標籤",
+        "tagline": "舒服日常，加一點戶外與生活感。",
+        "intro": "舒服日常，加一點戶外與生活感。 先從「ライトダウンキルトミドルコート」的實際造型觀察輪廓與搭配。本頁先整理女裝單品；其他服裝範圍請從官方完整分類繼續看。",
+        "why": "喜歡輕羽絨鋪棉外套的長度與層次，可以從這款開始比較。風格為本站編輯探索方向。",
+        "look": [
+          "輕羽絨鋪棉外套的長度與層次。",
+          "點開具名商品，比較材質與實寸",
+          "旅行前核對日本門市與販售版本"
+        ],
+        "shopping": "從官方商品頁核對款名、貨號及尺寸，再查日本門市。照片和價格保留查核版本，並不保證出發時有貨。",
+        "official": "https://www.urban-research.jp/shop/label/doors/",
+        "shop": "https://www.urban-research.jp/shop/label/doors/"
+      },
+      "piece": {
+        "name": "ライトダウンキルトミドルコート",
+        "originalName": "ライトダウンキルトミドルコート",
+        "sku": "DR26430-2070614",
+        "kind": "outerwear",
+        "category": "outerwear",
+        "audience": [
+          "women"
+        ],
+        "role": "編輯入門選品",
+        "price": 18700,
+        "priceNote": "查核時日本列價／含稅",
+        "note": "先看這款的輪廓、材質與尺寸；款名與貨號對應本張商品圖。",
+        "source": "https://www.urban-research.jp/shop/g/gDR26430-2070614/",
+        "image": "https://www.urban-research.jp/img/goods/26doors/DR26430-2070614/1032_a_314.jpg",
+        "credit": "URBAN RESEARCH DOORS 官方商品／專題"
+      },
+      "outfit": {
+        "image": "https://www.urban-research.jp/img/goods/26doors/DR26430-2070614/1032_b_316.jpg?a=20261013171522483",
+        "source": "https://www.urban-research.jp/shop/g/gDR26430-2070614/",
+        "credit": "官方穿搭示例",
+        "checkedAt": "2026-10-15",
+        "note": "造型可能搭配其他品牌；不推定整套商品歸屬或現貨。"
+      },
+      "relationships": [
+        {
+          "id": "urban-research",
+          "name": "URBAN RESEARCH",
+          "kind": "官方品牌／標籤",
+          "note": "官方以完整名稱分別提供品牌或商品入口；本頁商品與價格不混入主品牌。",
+          "url": "https://www.urban-research.jp/shop/label/doors/"
+        }
+      ]
+    },
+    {
+      "id": "rosso",
+      "profile": {
+        "name": "URBAN RESEARCH ROSSO",
+        "jp": "アーバンリサーチ ロッソ",
+        "aliases": [
+          "URBAN RESEARCH ROSSO"
+        ],
+        "styles": [
+          "smart",
+          "feminine"
+        ],
+        "audience": [
+          "women"
+        ],
+        "audienceBasis": "official",
+        "type": "URBAN RESEARCH 服裝標籤",
+        "tagline": "柔和線條，配出俐落城市感。",
+        "intro": "柔和線條，配出俐落城市感。 先從「ラメニットカーディガン＋スカートセット」的實際造型觀察輪廓與搭配。",
+        "why": "喜歡針織開襟衫與裙裝的成套比例，可以從這款開始比較。風格為本站編輯探索方向。",
+        "look": [
+          "針織開襟衫與裙裝的成套比例。",
+          "點開具名商品，比較材質與實寸",
+          "旅行前核對日本門市與販售版本"
+        ],
+        "shopping": "從官方商品頁核對款名、貨號及尺寸，再查日本門市。照片和價格保留查核版本，並不保證出發時有貨。",
+        "official": "https://www.urban-research.jp/shop/label/rosso/",
+        "shop": "https://www.urban-research.jp/shop/label/rosso/"
+      },
+      "piece": {
+        "name": "ラメニットカーディガン＋スカートセット",
+        "originalName": "ラメニットカーディガン＋スカートセット",
+        "sku": "RA26430-2063005",
+        "kind": "knitwear",
+        "category": "knitwear",
+        "audience": [
+          "women"
+        ],
+        "role": "編輯入門選品 · 兩件套組",
+        "price": 19800,
+        "priceNote": "查核時日本列價／含稅；兩件套組，非單件價",
+        "note": "開襟衫與裙子的套組，不以整組價當單件預算。",
+        "source": "https://www.urban-research.jp/shop/g/gRA26430-2063005/",
+        "image": "https://www.urban-research.jp/img/goods/26rosso/RA26430-2063005/1022_a_500.jpg",
+        "credit": "URBAN RESEARCH ROSSO 官方商品／專題"
+      },
+      "outfit": {
+        "image": "https://www.urban-research.jp/img/goods/26rosso/RA26430-2063005/1022_b_503.jpg?a=20261015160345850",
+        "source": "https://www.urban-research.jp/shop/g/gRA26430-2063005/",
+        "credit": "官方穿搭示例",
+        "checkedAt": "2026-10-15",
+        "note": "造型可能搭配其他品牌；不推定整套商品歸屬或現貨。"
+      },
+      "relationships": [
+        {
+          "id": "urban-research",
+          "name": "URBAN RESEARCH",
+          "kind": "官方品牌／標籤",
+          "note": "官方以完整名稱分別提供品牌或商品入口；本頁商品與價格不混入主品牌。",
+          "url": "https://www.urban-research.jp/shop/label/rosso/"
+        }
+      ]
+    },
+    {
+      "id": "kbf",
+      "profile": {
+        "name": "KBF",
+        "jp": "ケービーエフ",
+        "aliases": [
+          "KBF"
+        ],
+        "styles": [
+          "city",
+          "mode"
+        ],
+        "audience": [
+          "women"
+        ],
+        "audienceBasis": "official",
+        "type": "URBAN RESEARCH 服裝標籤",
+        "tagline": "用輪廓與細節，替日常加點變化。",
+        "intro": "用輪廓與細節，替日常加點變化。 先從「ベロアペプラムトップス」的實際造型觀察輪廓與搭配。",
+        "why": "喜歡絲絨感上衣與腰部輪廓，可以從這款開始比較。風格為本站編輯探索方向。",
+        "look": [
+          "絲絨感上衣與腰部輪廓。",
+          "點開具名商品，比較材質與實寸",
+          "旅行前核對日本門市與販售版本"
+        ],
+        "shopping": "從官方商品頁核對款名、貨號及尺寸，再查日本門市。照片和價格保留查核版本，並不保證出發時有貨。",
+        "official": "https://www.urban-research.jp/shop/label/kbf/",
+        "shop": "https://www.urban-research.jp/shop/label/kbf/"
+      },
+      "piece": {
+        "name": "ベロアペプラムトップス",
+        "originalName": "ベロアペプラムトップス",
+        "sku": "KB26430-2015019",
+        "kind": "tops",
+        "category": "tops",
+        "audience": [
+          "women"
+        ],
+        "role": "編輯入門選品",
+        "price": 6600,
+        "priceNote": "查核時日本列價／含稅",
+        "note": "先看這款的輪廓、材質與尺寸；款名與貨號對應本張商品圖。",
+        "source": "https://www.urban-research.jp/shop/g/gKB26430-2015019/",
+        "image": "https://www.urban-research.jp/img/goods/26kbf/KB26430-2015019/105_a_200.jpg",
+        "credit": "KBF 官方商品／專題"
+      },
+      "outfit": {
+        "image": "https://www.urban-research.jp/img/goods/26kbf/KB26430-2015019/105_b_204.jpg?a=20261014142336290",
+        "source": "https://www.urban-research.jp/shop/g/gKB26430-2015019/",
+        "credit": "官方穿搭示例",
+        "checkedAt": "2026-10-15",
+        "note": "造型可能搭配其他品牌；不推定整套商品歸屬或現貨。"
+      },
+      "relationships": [
+        {
+          "id": "urban-research",
+          "name": "URBAN RESEARCH",
+          "kind": "官方品牌／標籤",
+          "note": "官方以完整名稱分別提供品牌或商品入口；本頁商品與價格不混入主品牌。",
+          "url": "https://www.urban-research.jp/shop/label/kbf/"
+        }
+      ]
+    },
+    {
+      "id": "iena",
+      "profile": {
+        "name": "IENA",
+        "jp": "イエナ",
+        "aliases": [
+          "IENA"
+        ],
+        "styles": [
+          "smart",
+          "minimal",
+          "feminine"
+        ],
+        "audience": [
+          "women"
+        ],
+        "audienceBasis": "official",
+        "type": "服飾品牌／選貨店",
+        "tagline": "從柔和針織與乾淨比例開始。",
+        "intro": "從柔和針織與乾淨比例開始。 先從「接結スキッパーニット」的實際造型觀察輪廓與搭配。",
+        "why": "喜歡開領針織與寬褲的平衡，可以從這款開始比較。風格為本站編輯探索方向。",
+        "look": [
+          "開領針織與寬褲的平衡。",
+          "點開具名商品，比較材質與實寸",
+          "旅行前核對日本門市與販售版本"
+        ],
+        "shopping": "從官方商品頁核對款名、貨號及尺寸，再查日本門市。照片和價格保留查核版本，並不保證出發時有貨。",
+        "official": "https://baycrews.jp/brand/detail/iena",
+        "shop": "https://baycrews.jp/brand/detail/iena"
+      },
+      "piece": {
+        "name": "接結スキッパーニット",
+        "originalName": "接結スキッパーニット",
+        "sku": "26080900710030",
+        "kind": "knitwear",
+        "category": "knitwear",
+        "audience": [
+          "women"
+        ],
+        "role": "編輯入門選品",
+        "price": 23100,
+        "priceNote": "查核時日本列價／含稅",
+        "note": "先看這款的輪廓、材質與尺寸；款名與貨號對應本張商品圖。",
+        "source": "https://baycrews.jp/item/detail/iena/cutsew/26080900710030",
+        "image": "https://images.baycrews.jp/itemimages/i/26/080/900/26080900710030_ma_045_N_org.jpg?resize=400%3A480",
+        "credit": "IENA 官方商品／專題"
+      },
+      "outfit": {
+        "image": "https://images.baycrews.jp/itemimages/i/26/080/900/26080900710030_dt_N_004_org.jpg?resize=400%3A480",
+        "source": "https://baycrews.jp/item/detail/iena/cutsew/26080900710030",
+        "credit": "官方穿搭示例",
+        "checkedAt": "2026-10-15",
+        "note": "造型可能搭配其他品牌；不推定整套商品歸屬或現貨。"
+      },
+      "relationships": []
+    },
+    {
+      "id": "edifice",
+      "profile": {
+        "name": "EDIFICE",
+        "jp": "エディフィス",
+        "aliases": [
+          "EDIFICE"
+        ],
+        "styles": [
+          "smart",
+          "minimal",
+          "city"
+        ],
+        "audience": [
+          "men"
+        ],
+        "audienceBasis": "official",
+        "type": "服飾品牌／選貨店",
+        "tagline": "俐落男裝，從襯衫與日常層次開始。",
+        "intro": "俐落男裝，從襯衫與日常層次開始。 先從「マグワッシャー フラットカラー シャツ」的實際造型觀察輪廓與搭配。",
+        "why": "喜歡寬鬆襯衫的面料與領型，可以從這款開始比較。風格為本站編輯探索方向。",
+        "look": [
+          "寬鬆襯衫的面料與領型。",
+          "點開具名商品，比較材質與實寸",
+          "旅行前核對日本門市與販售版本"
+        ],
+        "shopping": "從官方商品頁核對款名、貨號及尺寸，再查日本門市。照片和價格保留查核版本，並不保證出發時有貨。",
+        "official": "https://baycrews.jp/brand/detail/edifice",
+        "shop": "https://baycrews.jp/brand/detail/edifice"
+      },
+      "piece": {
+        "name": "マグワッシャー フラットカラー シャツ",
+        "originalName": "マグワッシャー フラットカラー シャツ",
+        "sku": "26050300609030",
+        "kind": "shirt",
+        "category": "tops",
+        "audience": [
+          "men"
+        ],
+        "role": "編輯入門選品",
+        "price": 23100,
+        "priceNote": "查核時日本列價／含稅",
+        "note": "先看這款的輪廓、材質與尺寸；款名與貨號對應本張商品圖。",
+        "source": "https://baycrews.jp/item/detail/edifice/cutsew/26050300609030",
+        "image": "https://images.baycrews.jp/itemimages/i/26/050/300/26050300609030_ma_040_N_org.jpg?resize=400%3A480",
+        "credit": "EDIFICE 官方商品／專題"
+      },
+      "outfit": {
+        "image": "https://media.like-s.com/images/f8f8b43e-d497-4a42-80ec-1c94fd450be4?fit=inside&w=1108&h=1477",
+        "source": "https://baycrews.jp/blog/detail/100012248",
+        "credit": "官方穿搭示例 · 2026 秋冬",
+        "checkedAt": "2026-10-15",
+        "note": "官方 Style 01 的 EDIFICE 造型；與本頁襯衫樣本不是同一款，整套可能搭配他牌。"
+      },
+      "relationships": []
+    },
+    {
+      "id": "relume",
+      "profile": {
+        "name": "JOURNAL STANDARD relume",
+        "jp": "ジャーナルスタンダード レリューム",
+        "aliases": [
+          "JOURNAL STANDARD relume"
+        ],
+        "styles": [
+          "city",
+          "natural"
+        ],
+        "audience": [
+          "women"
+        ],
+        "audienceBasis": "official",
+        "type": "服飾品牌／選貨店",
+        "tagline": "輕鬆休閒，先看一件有細節的襯衫。",
+        "intro": "輕鬆休閒，先看一件有細節的襯衫。 先從「カットワークエンブロイダリーシャツ」的實際造型觀察輪廓與搭配。本頁先整理女裝單品；其他服裝範圍請從官方完整分類繼續看。",
+        "why": "喜歡刺繡襯衫的細節與輕鬆搭法，可以從這款開始比較。風格為本站編輯探索方向。",
+        "look": [
+          "刺繡襯衫的細節與輕鬆搭法。",
+          "點開具名商品，比較材質與實寸",
+          "旅行前核對日本門市與販售版本"
+        ],
+        "shopping": "從官方商品頁核對款名、貨號及尺寸，再查日本門市。照片和價格保留查核版本，並不保證出發時有貨。",
+        "official": "https://baycrews.jp/brand/detail/js-relume",
+        "shop": "https://baycrews.jp/brand/detail/js-relume"
+      },
+      "piece": {
+        "name": "カットワークエンブロイダリーシャツ",
+        "originalName": "カットワークエンブロイダリーシャツ",
+        "sku": "26050462700010",
+        "kind": "shirt",
+        "category": "tops",
+        "audience": [
+          "women"
+        ],
+        "role": "編輯入門選品",
+        "price": 8470,
+        "priceNote": "查核時促銷價／含稅；原價 ¥12,100",
+        "note": "先看這款的輪廓、材質與尺寸；款名與貨號對應本張商品圖。",
+        "source": "https://baycrews.jp/item/detail/js-relume/cutsew/26050462700010",
+        "image": "https://images.baycrews.jp/itemimages/i/26/050/462/26050462700010_ma_016_N_org.jpg?resize=400%3A480",
+        "credit": "JOURNAL STANDARD relume 官方商品／專題"
+      },
+      "outfit": {
+        "image": "https://images.baycrews.jp/itemimages/i/26/050/462/26050462700010_dt_N_001_org.jpg?resize=400%3A480",
+        "source": "https://baycrews.jp/item/detail/js-relume/cutsew/26050462700010",
+        "credit": "官方穿搭示例",
+        "checkedAt": "2026-10-15",
+        "note": "造型可能搭配其他品牌；不推定整套商品歸屬或現貨。"
+      },
+      "relationships": [
+        {
+          "id": "journal-standard",
+          "name": "JOURNAL STANDARD",
+          "kind": "獨立完整標籤",
+          "note": "官方以完整名稱分別提供品牌或商品入口；本頁商品與價格不混入主品牌。",
+          "url": "https://baycrews.jp/brand/detail/js-relume"
+        }
+      ]
+    },
+    {
+      "id": "spickandspan",
+      "profile": {
+        "name": "Spick & Span",
+        "jp": "スピック アンド スパン",
+        "aliases": [
+          "Spick & Span"
+        ],
+        "styles": [
+          "city",
+          "smart",
+          "minimal"
+        ],
+        "audience": [
+          "women"
+        ],
+        "audienceBasis": "official",
+        "type": "服飾品牌／選貨店",
+        "tagline": "從通勤到週末，都能穿的清爽輪廓。",
+        "intro": "從通勤到週末，都能穿的清爽輪廓。 先從「ウォッシャブルヨークブラウス」的實際造型觀察輪廓與搭配。",
+        "why": "喜歡罩衫肩線與日常褲裝的比例，可以從這款開始比較。風格為本站編輯探索方向。",
+        "look": [
+          "罩衫肩線與日常褲裝的比例。",
+          "點開具名商品，比較材質與實寸",
+          "旅行前核對日本門市與販售版本"
+        ],
+        "shopping": "從官方商品頁核對款名、貨號及尺寸，再查日本門市。照片和價格保留查核版本，並不保證出發時有貨。",
+        "official": "https://baycrews.jp/brand/detail/spickandspan",
+        "shop": "https://baycrews.jp/brand/detail/spickandspan"
+      },
+      "piece": {
+        "name": "ウォッシャブルヨークブラウス",
+        "originalName": "ウォッシャブルヨークブラウス",
+        "sku": "26051200201010",
+        "kind": "shirt",
+        "category": "tops",
+        "audience": [
+          "women"
+        ],
+        "role": "編輯入門選品",
+        "price": 17600,
+        "priceNote": "查核時日本列價／含稅",
+        "note": "先看這款的輪廓、材質與尺寸；款名與貨號對應本張商品圖。",
+        "source": "https://baycrews.jp/item/detail/spickandspan/cutsew/26051200201010",
+        "image": "https://images.baycrews.jp/itemimages/i/26/051/200/26051200201010_ma_040_N_org.jpg?resize=400%3A480",
+        "credit": "Spick & Span 官方商品／專題"
+      },
+      "outfit": {
+        "image": "https://images.baycrews.jp/itemimages/i/26/051/200/26051200201010_dt_N_001_org.jpg?resize=400%3A480",
+        "source": "https://baycrews.jp/item/detail/spickandspan/cutsew/26051200201010",
+        "credit": "官方穿搭示例",
+        "checkedAt": "2026-10-15",
+        "note": "造型可能搭配其他品牌；不推定整套商品歸屬或現貨。"
+      },
+      "relationships": []
+    },
+    {
+      "id": "ships",
+      "profile": {
+        "name": "SHIPS",
+        "jp": "シップス",
+        "aliases": [
+          "SHIPS"
+        ],
+        "styles": [
+          "city",
+          "smart"
+        ],
+        "audience": [
+          "men"
+        ],
+        "audienceBasis": "official",
+        "type": "服飾品牌",
+        "tagline": "先看一件能放進日常衣櫥的襯衫。",
+        "intro": "先看一件能放進日常衣櫥的襯衫。 先從「SHIPS: Drymix(R) ワンポイントロゴボタンダウンシャツ」的實際造型觀察輪廓與搭配。本頁先整理男裝單品；其他服裝範圍請從官方完整分類繼續看。",
+        "why": "喜歡扣領襯衫的領型與實際尺寸，可以從這款開始比較。風格為本站編輯探索方向。",
+        "look": [
+          "扣領襯衫的領型與實際尺寸。",
+          "點開具名商品，比較材質與實寸",
+          "旅行前核對日本門市與販售版本"
+        ],
+        "shopping": "這次樣本為 WEB 限定；不保證門市能試穿。從官方商品頁核對款名、貨號及尺寸，再查日本門市。照片和價格保留查核版本，並不保證出發時有貨。",
+        "official": "https://www.shipsltd.co.jp/",
+        "shop": "https://www.shipsltd.co.jp/"
+      },
+      "piece": {
+        "name": "SHIPS: Drymix(R) ワンポイントロゴボタンダウンシャツ",
+        "originalName": "SHIPS: Drymix(R) ワンポイントロゴボタンダウンシャツ",
+        "sku": "111135786",
+        "kind": "shirt",
+        "category": "tops",
+        "audience": [
+          "men"
+        ],
+        "role": "編輯入門選品",
+        "price": 10450,
+        "priceNote": "查核時日本列價／含稅",
+        "note": "先看這款的輪廓、材質與尺寸；款名與貨號對應本張商品圖。此款為 WEB 限定。",
+        "source": "https://www.shipsltd.co.jp/g/g111135786/",
+        "image": "https://www.shipsltd.co.jp/img/goods/111135786/B/111135786_18.jpg",
+        "credit": "SHIPS 官方商品／專題"
+      },
+      "outfit": {
+        "image": "https://www.shipsltd.co.jp/img/goods/111135786/1S/111135786_02_01.jpg",
+        "source": "https://www.shipsltd.co.jp/g/g111135786/",
+        "credit": "官方穿搭示例",
+        "checkedAt": "2026-10-15",
+        "note": "造型可能搭配其他品牌；不推定整套商品歸屬或現貨。"
+      },
+      "relationships": []
+    },
+    {
+      "id": "nanga",
+      "profile": {
+        "name": "NANGA",
+        "jp": "ナンガ",
+        "aliases": [
+          "NANGA"
+        ],
+        "styles": [
+          "outdoor",
+          "city"
+        ],
+        "audience": [
+          "men"
+        ],
+        "audienceBasis": "official",
+        "type": "戶外服飾品牌",
+        "tagline": "從羽絨外套看戶外服飾的細節。",
+        "intro": "從羽絨外套看戶外服飾的細節。 先從「オーロラテックス ダウンジャケット」的實際造型觀察輪廓與搭配。本頁先整理男裝單品；其他服裝範圍請從官方完整分類繼續看。",
+        "why": "喜歡AURORA TEX 羽絨外套的版型與分層，可以從這款開始比較。風格為本站編輯探索方向。",
+        "look": [
+          "AURORA TEX 羽絨外套的版型與分層。",
+          "點開具名商品，比較材質與實寸",
+          "旅行前核對日本門市與販售版本"
+        ],
+        "shopping": "從官方商品頁核對款名、貨號及尺寸，再查日本門市。照片和價格保留查核版本，並不保證出發時有貨。",
+        "official": "https://store.nanga.jp/",
+        "shop": "https://store.nanga.jp/"
+      },
+      "piece": {
+        "name": "オーロラテックス ダウンジャケット",
+        "originalName": "オーロラテックス ダウンジャケット",
+        "sku": "ND2441-1A001",
+        "kind": "outerwear",
+        "category": "outerwear",
+        "audience": [
+          "men"
+        ],
+        "role": "編輯入門選品",
+        "price": 49500,
+        "priceNote": "查核時日本列價／含稅",
+        "note": "先看這款的輪廓、材質與尺寸；款名與貨號對應本張商品圖。",
+        "source": "https://store.nanga.jp/products/aurora-down-jacket-mens",
+        "image": "https://store.nanga.jp/cdn/shop/files/ND2441-1A001_BLK_1.jpg?v=1783566293",
+        "credit": "NANGA 官方商品／專題"
+      },
+      "outfit": {
+        "image": "https://store.nanga.jp/cdn/shop/files/ND2441-1A001_BLK_3.jpg?v=1783569779&width=1100",
+        "source": "https://store.nanga.jp/products/aurora-down-jacket-mens",
+        "credit": "官方穿搭示例",
+        "checkedAt": "2026-10-15",
+        "note": "造型可能搭配其他品牌；不推定整套商品歸屬或現貨。"
+      },
+      "relationships": []
+    },
+    {
+      "id": "wego",
+      "profile": {
+        "name": "WEGO",
+        "jp": "ウィゴー",
+        "aliases": [
+          "WEGO"
+        ],
+        "styles": [
+          "street",
+          "city"
+        ],
+        "audience": [
+          "men",
+          "women"
+        ],
+        "audienceBasis": "official",
+        "type": "服飾品牌",
+        "tagline": "圖像、寬鬆比例與輕鬆街頭感。",
+        "intro": "圖像、寬鬆比例與輕鬆街頭感。 先從「アソートグラフィックプルオーバー」的實際造型觀察輪廓與搭配。",
+        "why": "喜歡圖像衛衣與寬褲的比例，可以從這款開始比較。風格為本站編輯探索方向。",
+        "look": [
+          "圖像衛衣與寬褲的比例。",
+          "點開具名商品，比較材質與實寸",
+          "旅行前核對日本門市與販售版本"
+        ],
+        "shopping": "從官方商品頁核對款名、貨號及尺寸，再查日本門市。照片和價格保留查核版本，並不保證出發時有貨。",
+        "official": "https://wego.jp/pages/wego",
+        "shop": "https://wego.jp/pages/wego"
+      },
+      "piece": {
+        "name": "アソートグラフィックプルオーバー",
+        "originalName": "アソートグラフィックプルオーバー",
+        "sku": "WE26AU09-M0020",
+        "kind": "tshirt",
+        "category": "tops",
+        "audience": [
+          "men",
+          "women"
+        ],
+        "role": "編輯入門選品",
+        "price": 2999,
+        "priceNote": "查核時列價／含稅；可能為期間促銷",
+        "note": "先看這款的輪廓、材質與尺寸；款名與貨號對應本張商品圖。",
+        "source": "https://wego.jp/products/we26au09-m0020",
+        "image": "https://wego.jp/cdn/shop/files/WE26AU09-M0020main120.jpg?v=1791879034",
+        "credit": "WEGO 官方商品／專題"
+      },
+      "outfit": {
+        "image": "https://wego.jp/cdn/shop/files/WE26AU09-M0020main120.jpg?v=1791879034",
+        "source": "https://wego.jp/products/we26au09-m0020",
+        "credit": "官方穿搭示例",
+        "checkedAt": "2026-10-15",
+        "note": "造型可能搭配其他品牌；不推定整套商品歸屬或現貨。"
+      },
+      "relationships": []
+    },
+    {
+      "id": "beautyandyouth",
+      "profile": {
+        "name": "BEAUTY&YOUTH UNITED ARROWS",
+        "jp": "ビューティーアンドユース ユナイテッドアローズ",
+        "aliases": [
+          "BEAUTY&YOUTH UNITED ARROWS"
+        ],
+        "styles": [
+          "city",
+          "smart",
+          "minimal"
+        ],
+        "audience": [
+          "men"
+        ],
+        "audienceBasis": "official",
+        "type": "服飾品牌",
+        "tagline": "輕鬆穿搭，也在意乾淨的比例。",
+        "intro": "輕鬆穿搭，也在意乾淨的比例。 先從「GRANDE TAPERED Fit Wool Gauze Regular Shirt」的實際造型觀察輪廓與搭配。本頁先整理男裝單品；其他服裝範圍請從官方完整分類繼續看。",
+        "why": "喜歡寬鬆羊毛紗襯衫的輪廓，可以從這款開始比較。風格為本站編輯探索方向。",
+        "look": [
+          "寬鬆羊毛紗襯衫的輪廓。",
+          "點開具名商品，比較材質與實寸",
+          "旅行前核對日本門市與販售版本"
+        ],
+        "shopping": "從官方商品頁核對款名、貨號及尺寸，再查日本門市。照片和價格保留查核版本，並不保證出發時有貨。",
+        "official": "https://store.united-arrows.co.jp/brand/by/",
+        "shop": "https://store.united-arrows.co.jp/brand/by/"
+      },
+      "piece": {
+        "name": "GRANDE TAPERED Fit Wool Gauze Regular Shirt",
+        "originalName": "GRANDE TAPERED Fit Wool Gauze Regular Shirt",
+        "sku": "12111000031",
+        "kind": "shirt",
+        "category": "tops",
+        "audience": [
+          "men"
+        ],
+        "role": "編輯入門選品",
+        "price": null,
+        "priceNote": "國際站價格不換算成日本售價",
+        "note": "先看這款的輪廓、材質與尺寸；款名與貨號對應本張商品圖。",
+        "source": "https://united-arrows-global.com/en-us/products/12111000031",
+        "image": "https://united-arrows-global.com/cdn/shop/files/hvh1qNdZnH9qPhiAyaqizv3m0QzzCroUtG-2ZSR6fs1HQwFG2dUi0rmz9JNvLruOklqgpnPzQ4GJS2QoCpsTwnPslYNS1IzeBmHW0lfV_s0.jpg?v=1789392404&width=1024",
+        "credit": "BEAUTY&YOUTH UNITED ARROWS 官方商品／專題"
+      },
+      "outfit": {
+        "image": "https://united-arrows-global.com/cdn/shop/files/js5ZsffSPshxaO_5P5H1W7-XuLoh4ev95d4jmnYjNKp4B5-dB4_lcXcfUAudK5oGlUERgn1MGTDMF8cXfhnYJzIy52poyaRXCvREfOEV_s0.jpg?v=1789392405&width=1440",
+        "source": "https://united-arrows-global.com/en-us/products/12111000031",
+        "credit": "官方穿搭示例",
+        "checkedAt": "2026-10-15",
+        "note": "造型可能搭配其他品牌；不推定整套商品歸屬或現貨。"
+      },
+      "relationships": [
+        {
+          "id": "united-arrows",
+          "name": "UNITED ARROWS",
+          "kind": "同公司品牌／標籤",
+          "note": "官方以完整名稱分別提供品牌或商品入口；本頁商品與價格不混入主品牌。",
+          "url": "https://store.united-arrows.co.jp/brand/by/"
+        }
+      ]
+    },
+    {
+      "id": "greenlabel",
+      "profile": {
+        "name": "green label relaxing",
+        "jp": "グリーンレーベル リラクシング",
+        "aliases": [
+          "green label relaxing"
+        ],
+        "styles": [
+          "smart",
+          "city",
+          "minimal"
+        ],
+        "audience": [
+          "women"
+        ],
+        "audienceBasis": "official",
+        "type": "服飾品牌",
+        "tagline": "從日常與通勤之間，找一件好搭的衣服。",
+        "intro": "從日常與通勤之間，找一件好搭的衣服。 先從「2026 SPRING Layering Shirt」的實際造型觀察輪廓與搭配。本頁先整理女裝單品；其他服裝範圍請從官方完整分類繼續看。",
+        "why": "喜歡輕薄襯衫與層次搭配，可以從這款開始比較。風格為本站編輯探索方向。",
+        "look": [
+          "輕薄襯衫與層次搭配。",
+          "點開具名商品，比較材質與實寸",
+          "旅行前核對日本門市與販售版本"
+        ],
+        "shopping": "從官方商品頁核對款名、貨號及尺寸，再查日本門市。照片和價格保留查核版本，並不保證出發時有貨。",
+        "official": "https://store.united-arrows.co.jp/brand/glr/",
+        "shop": "https://store.united-arrows.co.jp/brand/glr/"
+      },
+      "piece": {
+        "name": "2026 SPRING Layering Shirt",
+        "originalName": "2026 SPRING Layering Shirt",
+        "sku": "3611-100-0012",
+        "kind": "shirt",
+        "category": "tops",
+        "audience": [
+          "women"
+        ],
+        "role": "編輯入門選品 · 2026 春季專題",
+        "price": 14960,
+        "priceNote": "查核時日本列價／含稅",
+        "note": "先看這款的輪廓、材質與尺寸；款名與貨號對應本張商品圖。",
+        "source": "https://collection.united-arrows-global.com/s/all/preview/2026spring/women/glw/352/",
+        "image": "https://collection.united-arrows-global.com/s/all/preview/2026spring/wp-content/uploads/GLW019_a.jpg",
+        "credit": "green label relaxing 官方商品／專題"
+      },
+      "outfit": {
+        "image": "https://united-arrows-global.com/cdn/shop/files/GLRW.jpg?v=1786945887&width=900",
+        "source": "https://united-arrows-global.com/",
+        "credit": "官方品牌穿搭形象",
+        "checkedAt": "2026-10-15",
+        "note": "造型可能搭配其他品牌；不推定整套商品歸屬或現貨。"
+      },
+      "relationships": [
+        {
+          "id": "united-arrows",
+          "name": "UNITED ARROWS",
+          "kind": "同公司品牌／標籤",
+          "note": "官方以完整名稱分別提供品牌或商品入口；本頁商品與價格不混入主品牌。",
+          "url": "https://store.united-arrows.co.jp/brand/glr/"
+        }
+      ]
+    }
+  ]
+}

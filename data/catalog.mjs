@@ -1,39 +1,13 @@
 import {pieces as currentPieces, profiles as currentProfiles, relationships as currentRelationships} from './editorial.mjs';
 import {expandedPieces,expandedProfiles,expandedRelationships} from './expanded.mjs';
-const pieces={...currentPieces,...expandedPieces};
-const profiles={...currentProfiles,...expandedProfiles};
-const relationships={...currentRelationships,...expandedRelationships};
-export const checkedAt="2026-10-14";
-export const styles=[
-  {
-    "id": "city",
-    "name": "City Boy",
-    "zh": "城市日常",
-    "note": "鬆弛輪廓、層次和一點美式感。",
-    "cell": 5
-  },
-  {
-    "id": "minimal",
-    "name": "Clean & Minimal",
-    "zh": "簡約質感",
-    "note": "從剪裁、觸感和自然色調開始。",
-    "cell": 1
-  },
-  {
-    "id": "outdoor",
-    "name": "Outdoor",
-    "zh": "山系與機能",
-    "note": "把戶外的實用細節帶進日常。",
-    "cell": 2
-  },
-  {
-    "id": "feminine",
-    "name": "City Girl",
-    "zh": "柔美城市感",
-    "note": "讓柔和線條與俐落單品一起出現。",
-    "cell": 3
-  }
-];
+import {newProfiles,newPieces,newRelationships} from './new-edition.mjs';
+import {styleOptions,extraStyleTags} from './discovery-options.mjs';
+import {pieceKind} from '../src/domain.mjs';
+const pieces={...currentPieces,...expandedPieces,...newPieces};
+const profiles={...currentProfiles,...expandedProfiles,...newProfiles};
+const relationships={...currentRelationships,...expandedRelationships,...newRelationships};
+export const checkedAt="2026-10-15";
+export const styles=styleOptions;
 const originalBrands=[
   {
     "id": "beams",
@@ -376,12 +350,12 @@ const additions=Object.entries(profiles).map(([id,profile])=>({
 }));
 const originalShelves={'beams':'select','united-arrows':'select','snow-peak':'outdoor','auralee':'designer','snidel':'women','freaks-store':'select','urban-research':'select','journal-standard':'select','mont-bell':'outdoor','daiwa-pier39':'outdoor','nanamica':'outdoor','graphpaper':'designer','mila-owen':'women','clane':'designer','purple-label':'outdoor'};
 export const brands=[...originalBrands,...additions].map(brand=>{
- const selected=pieces[brand.id] || [];
+ const selected=(pieces[brand.id] || []).map(p=>({...p,kind:pieceKind(p),checkedAt:p.checkedAt||(newPieces[brand.id]?'2026-10-15':'2026-10-14')}));
  const samples=[...(brand.samples || [])];
- for(const p of selected)for(const s of samples)if(s.url===p.source && s.name===p.originalName){s.category=p.category;s.audience=p.audience;}
+ for(const p of selected)for(const s of samples)if(s.url===p.source && s.name===p.originalName){s.category=p.category;s.audience=p.audience;s.checkedAt=p.checkedAt;}
  for(const p of selected) if(Number.isFinite(p.price) && !samples.some(s=>s.name===p.originalName && s.price===p.price))
-  samples.push({name:p.originalName,price:p.price,category:p.category,audience:p.audience,note:p.priceNote,url:p.source});
- return {...brand,shelf:brand.shelf||originalShelves[brand.id],pieces:selected,relationships:relationships[brand.id] || [],samples,
+  samples.push({name:p.originalName,price:p.price,kind:p.kind,role:p.role,category:p.category,audience:p.audience,note:p.priceNote,url:p.source,checkedAt:p.checkedAt});
+ return {...brand,styles:[...new Set([...brand.styles,...Object.entries(extraStyleTags).filter(([,ids])=>ids.includes(brand.id)).map(([id])=>id)])],shelf:brand.shelf||originalShelves[brand.id],pieces:selected,relationships:relationships[brand.id] || [],samples,
   fitAdvice:'請用這一款官方尺寸表的肩寬、身幅、衣長或腰圍，對照自己已有的衣服；不同款式與版本不要套用同一個尺碼建議。'};
 });
 export const releases=[

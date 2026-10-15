@@ -74,3 +74,10 @@
 - 詳細計畫／來源 docs/landing-revision-2026-10-15.md、docs/outfit-sources-2026-10-15.md；免費Hobby限制持續，未購買或開啟付費服務。
 - 正式站驗收完成：Production Ready a86853d，部署 EidyJmAHSCrvcf9iH8EbCZUy1vSG。公開首頁、品牌、指南、引導、樣式與manifest均HTTP200，自訂404為404。公開目錄50品牌／50張穿搭主圖全部載入，無站點圖片錯誤；瀏覽器擴充功能警告與本站無關。
 - 正式站1280px分類點選／直連第一排品牌163px可見；390px男裝點選城市風格32品牌全部顯示，第一張161px、無橫向溢出。公開截圖 ../outputs/toki-japan-fashion-guide/landing-live-revision-2026-10-15.png、brands-style-live-revision-2026-10-15.png、brands-style-mobile-live-2026-10-15.png。
+
+## 2026-10-15 品類與預算、地區、風格及品牌擴充
+- 已實作五步引導，品類對應單件預算；歷史／套組排除，結果列具名配對商品。
+- 47都道府縣與不限、12風格（男裝10）、70個品牌與服裝標籤指南；舊50筆保留。新增北海道札幌與福岡天神BEAMS，詳細門市12筆；地址不足時仍提供官方入口。
+- 品牌卡3:4固定框＋40px圖說，手機風格圖固定比例；移除公開台灣／香港與FTI。
+- 已建置97靜態路由、0函式；人工核對男裝外套4萬以上配對2品牌、T-shirt／衛衣3000以下為GU與WEGO、女裝12風格、47地區、北海道具名地址、沖繩未建檔官方入口、重整保留、手機無橫向溢出。未新增或執行自動測試。
+- 來源 docs/new-brand-sources-2026-10-15.md；執行計畫 docs/discovery-correction-2026-10-15.md。尚待提交部署及公開驗收。

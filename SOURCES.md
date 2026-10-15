@@ -210,3 +210,9 @@ Primary public sources, title/item/photo binding, market/classification exceptio
 - 50品牌逐張照片來源與角色見 docs/outfit-sources-2026-10-15.md；實際URL、查核日與備註在 data/outfits.mjs。官方商品／型錄／集團品牌頁是來源；COMOLI用具名通路1LDK歷史穿搭，非官方型錄。
 - 保留2024 Mila Owen、2020 PURPLE LABEL、2019 COMOLI年份；UNIQLO官方活動穿搭照標明角色。MUJI／and wander／nanamica另有女裝方向圖例，來源同各官方頁。
 - 圖片只從明列來源載入，不下載重製或付費生成，不推定授權範圍以外用途、整套同品牌、現貨、人氣或價格。代表實品來源維持原商品紀錄。
+
+## 2026-10-15 品類與品牌擴充
+- 新增 20 筆逐項商品、價格、圖片、穿搭與範圍依據見 [來源與主張表](docs/new-brand-sources-2026-10-15.md)。
+- 北海道札幌：https://www.beams.co.jp/shop/sp/；福岡天神：https://www.beams.co.jp/shop/fkp/。只支持具名據點，非當地完整分店名冊。
+- 日本47都道府縣：https://www.japan.travel/tw/destinations/ 。
+- 歷史比對：可用 Git 版本與上一版 50 筆均未缺項；歷史 FTI registry 的 54 筆為13品牌下單品，不能算54品牌。新增指南不以名稱索引灌數。
