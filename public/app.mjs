@@ -22,7 +22,7 @@ if(form) {
   const count=document.querySelector('#result-count'), empty=document.querySelector('#empty-results');
   const names=['q','style','category','budget','gender'];
   const more=document.querySelector('#show-more-brands');
-  let visibleLimit=12;
+  let visibleLimit=Infinity;
   const defaults={q:'',style:'all',category:'all',budget:'all',gender:form.dataset.gender || 'all'};
   function fromUrl() {
     const params=new URLSearchParams(location.search);
@@ -41,7 +41,7 @@ if(form) {
     if(next!==location.pathname+location.search+location.hash)history.replaceState({},'',next);
   }
   function apply(updateUrl=false) {
-    if(updateUrl)visibleLimit=12;
+    if(updateUrl)visibleLimit=Infinity;
     const gender=form.elements.namedItem('gender').value,styleControl=form.elements.namedItem('style');
     for(const option of styleControl.options){
       const available=option.value==='all'||cards.some(c=>{const b=JSON.parse(c.dataset.brand);return (gender==='all'||b.audience.includes(gender))&&b.styles.includes(option.value);});
@@ -63,7 +63,7 @@ if(form) {
         const sample=selectedSamples.sort((a,b)=>a.price-b.price)[0];
         const price=sample.price;
         c.dataset.price=String(price);
-        c.querySelector('.sample-price').textContent=(brand.photoProductName===sample.name?'照片單品價格：':'其他單品價格樣本：')+sample.name+' ¥'+price.toLocaleString('en-US');
+        c.querySelector('.sample-price').textContent=(brand.photoProductName===null?'參考單品價格：':brand.photoProductName===sample.name?'照片單品價格：':'其他單品價格樣本：')+sample.name+' ¥'+price.toLocaleString('en-US');
       } else {
         c.dataset.price=String(Number.MAX_SAFE_INTEGER);
         c.querySelector('.sample-price').textContent='此分類的日本價格請見官方';
@@ -97,8 +97,22 @@ if(form) {
   document.querySelector('#empty-reset').addEventListener('click',()=>{resetFilters();form.elements.namedItem('q').focus();});
   sort.addEventListener('change',()=>apply(true));
   more.addEventListener('click',()=>{visibleLimit+=12;apply();});
-  window.addEventListener('popstate',()=>{visibleLimit=12;fromUrl();apply();});
+  window.addEventListener('popstate',()=>{visibleLimit=Infinity;fromUrl();apply();});
+  function showBrandResults(){
+    const result=document.querySelector('#brand-results');
+    result.focus({preventScroll:true});
+    result.scrollIntoView({block:'start',behavior:'instant'});
+  }
+  for(const link of document.querySelectorAll('.shelf-shortcuts a'))link.addEventListener('click',event=>{
+    event.preventDefault();
+    const target=new URL(link.href);
+    form.elements.namedItem('style').value=target.searchParams.get('style')||'all';
+    apply(true);
+    history.replaceState({},'',location.pathname+location.search+'#brand-results');
+    showBrandResults();
+  });
   fromUrl();apply();
+  if(location.hash==='#brand-results')requestAnimationFrame(()=>requestAnimationFrame(showBrandResults));
 }
 
 const areaForm=document.querySelector('#area-filter');
@@ -129,8 +143,8 @@ if(areaForm){
 }
 
 // An unavailable official photograph never falls back to another brand or an AI image.
-for(const img of document.querySelectorAll('.product-photo img')) {
- const failed=()=>{const figure=img.closest('.product-photo');figure.classList.add('photo-failed');figure.querySelector('.photo-unavailable').hidden=false;};
+for(const img of document.querySelectorAll('.product-photo img,.outfit-photo img')) {
+ const failed=()=>{const figure=img.closest('.product-photo,.outfit-photo');figure.classList.add('photo-failed');figure.querySelector('.photo-unavailable').hidden=false;};
  img.addEventListener('error',failed);
  if(img.complete && !img.naturalWidth)failed();
 }

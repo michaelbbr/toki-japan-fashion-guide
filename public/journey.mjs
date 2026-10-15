@@ -24,7 +24,7 @@ if(root){
   root.querySelector('#trip-next').textContent=['下一步：選預算 →','下一步：選地區 →','下一步：選穿衣喜好 →','看看適合逛的品牌 →'][n];
   root.querySelector('#trip-skip').textContent=n===3?'不限制風格，看結果 →':'這步先不限 →';
   adjustStyles();
-  if(focus){steps[n].querySelector('h3').focus({preventScroll:true});root.scrollIntoView({block:'start',behavior:'instant'});}
+  if(focus){steps[n].querySelector('h3').focus({preventScroll:true});steps[n].scrollIntoView({block:'start',behavior:'instant'});}
  }
  function save(result){
   const url=new URL(location.href);
@@ -59,7 +59,7 @@ if(root){
   root.querySelector('#trip-all').href=(v.gender==='all'?'/brands':'/'+v.gender)+(params.size?'?'+params:'');
   root.querySelector('#trip-area').href='/areas'+(allowed.city.includes(v.city)&&!['all','other'].includes(v.city)?'?city='+v.city:'');
   if(write)save(true);
-  if(focus){root.querySelector('#trip-result-title').focus({preventScroll:true});root.scrollIntoView({block:'start',behavior:'instant'});}
+  if(focus){root.querySelector('#trip-result-title').focus({preventScroll:true});results.scrollIntoView({block:'start',behavior:'instant'});}
  }
  form.addEventListener('submit',event=>{event.preventDefault();if(step<3)showStep(step+1);else{limit=6;render();}});
  root.querySelector('#trip-back').addEventListener('click',()=>showStep(step-1));

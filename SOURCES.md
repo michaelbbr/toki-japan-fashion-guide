@@ -205,3 +205,8 @@ Primary public sources, title/item/photo binding, market/classification exceptio
 - GU 官方 https://www.gu-global.com/jp/ja/ 、MUJI 日本官方 https://www.muji.com/jp/ja/store 、SNIDEL 官方 https://snidel.com/ ：重讀入口；不主張日本限定、最便宜或現貨。
 - 四步選圖沿用 catalog 各單品 source/image/sku 和 2026-10-14 查核日；ATON 男裝、MUJI 女裝、GU UNISEX 等範圍保留來源。不以照片模特性別推定商品分類。
 - 已核對門市來源與範圍維持 data/areas.mjs 10筆、3城市、2品牌；缺收錄不代表無店。完整主張表：docs/travel-finder-plan-2026-10-15.md。
+
+## 2026-10-15 品牌穿搭圖片
+- 50品牌逐張照片來源與角色見 docs/outfit-sources-2026-10-15.md；實際URL、查核日與備註在 data/outfits.mjs。官方商品／型錄／集團品牌頁是來源；COMOLI用具名通路1LDK歷史穿搭，非官方型錄。
+- 保留2024 Mila Owen、2020 PURPLE LABEL、2019 COMOLI年份；UNIQLO官方活動穿搭照標明角色。MUJI／and wander／nanamica另有女裝方向圖例，來源同各官方頁。
+- 圖片只從明列來源載入，不下載重製或付費生成，不推定授權範圍以外用途、整套同品牌、現貨、人氣或價格。代表實品來源維持原商品紀錄。
