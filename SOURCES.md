@@ -1,4 +1,4 @@
-# Sources — checked 2026-10-14
+# Sources — updated 2026-10-15
 
 ## V2 design references — not deployed
 - https://www.beams.co.jp/special/beamsboy/26ss/vol1.html — official 2026 SS BOY TEN identifies B.D.SHIRT as a staple of the WOMEN label BEAMS BOY; feature sample ¥15,950. Does not prove current stock or describe BEAMS men's main label.

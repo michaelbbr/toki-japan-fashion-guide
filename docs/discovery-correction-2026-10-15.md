@@ -12,8 +12,8 @@
 |---|---|---|---|---|
 | 品類與價格相符 | verified fact | 具名商品來源、SKU與分類，價格快照日期保留 | 必須同一件商品同時符合 | keep |
 | 12類風格 | opinion or inference | 本站編輯標籤及具名穿搭示例 | 非官方全品牌定義或人氣排名 | qualify |
-| 品牌數 | verified fact | 目前資料與可用歷史逐版核對，新增來源另記 | 不把名稱索引當完整指南 | research |
+| 品牌數 | verified fact | 50筆全部保留＋20筆官方商品來源；詳見 new-brand-sources-2026-10-15.md | 70指南，不把名稱索引灌數 | cite |
 | 目的地有店 | current or unstable fact | 官方門市頁，查核日2026-10-15 | 僅具名已核對據點 | cite |
 | 泛稱預算可比較所有衣服 | unsupported claim | T-shirt、褲子與外套不同 | 不支持 | remove |
 
-發布判定：publish after fixes；公開驗收後更新。
+發布判定：publish；c23b27c 正式部署與公開人工驗收完成。

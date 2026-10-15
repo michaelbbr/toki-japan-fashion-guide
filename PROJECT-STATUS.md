@@ -81,3 +81,9 @@
 - 品牌卡3:4固定框＋40px圖說，手機風格圖固定比例；移除公開台灣／香港與FTI。
 - 已建置97靜態路由、0函式；人工核對男裝外套4萬以上配對2品牌、T-shirt／衛衣3000以下為GU與WEGO、女裝12風格、47地區、北海道具名地址、沖繩未建檔官方入口、重整保留、手機無橫向溢出。未新增或執行自動測試。
 - 來源 docs/new-brand-sources-2026-10-15.md；執行計畫 docs/discovery-correction-2026-10-15.md。尚待提交部署及公開驗收。
+
+- 正式站完成：內容提交 3ed55a8，最後圖片／歷史價格修正 c23b27c；Vercel Production success，部署 HT68Syti3F2NU4gjvTfYgoJKH7Sw。https://toki-japan-fashion-guide.vercel.app/ 。97靜態路由／70指南／0函式。
+- 公開人工驗收：70張品牌主圖全部載入、無失敗；1280px品牌卡約495px同高、40px圖說；風格索引12張皆368px。390px手機12種女裝／10種男裝、全47都道府縣、褲子專屬預算及福岡結果正常，手機結果先顯示品牌名，無橫向溢出。男裝褲子／不限預算／福岡得到3個已收錄單品品牌。
+- 公開撤除確認：首頁無台灣／香港或FTI文案；/trends為308轉向/brands，FTI快照404，本機研究頁404。未新增或執行自動測試。
+- 公開畫面：../outputs/toki-japan-fashion-guide/brands-70-live-2026-10-15.png、category-budget-mobile-live-2026-10-15.png。維持既有免費Hobby，無新增付費服務。
+- 範圍限制：地址目前只涵蓋BEAMS／AURALEE部分12據點，不是全國門市名冊；價錢和品類依具名已收錄樣本，沒有價格資料的品牌只能在不限預算時顯示。下一步擴充同品類價格與官方門市資料。
