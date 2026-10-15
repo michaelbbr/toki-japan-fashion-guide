@@ -5,6 +5,7 @@ import {escapeHtml as e} from '../src/domain.mjs';
 import {shell,photo,brandCard,pieceCard,directory,styleCards,relationshipRows,lead,sectionHead,routeLink,sourceLink,yen,tags} from '../src/view.mjs';
 import {observation} from '../src/observations.mjs';
 import {startHero,familyHub,familyPage,areasPage} from '../src/discovery.mjs';
+import {travelFinder} from '../src/journey.mjs';
 import {familyGuides} from '../data/label-guide.mjs';
 const site=process.env.SITE_URL || 'https://toki-japan-fashion-guide.vercel.app';
 const out=path.resolve('dist');
@@ -21,24 +22,25 @@ function journals(){return `<div class="journal-grid">${articles.map(a=>`<a clas
 
 add('/','日本服飾品牌，從這裡開始找','按男裝、女裝、風格、預算、地區探索日本服飾品牌。',`
 ${startHero()}
+${travelFinder()}
 <div class="editorial-strip"><div class="wrap"><span>EXPLORE. COMPARE. MAKE IT YOURS.</span><p>看懂品牌，也知道從哪件開始。</p></div></div>
 <section class="wrap section">${sectionHead('FIND YOUR MOOD','先從喜歡的風格開始。','/styles','所有風格')}${styleCards()}</section>
-<section class="wrap section">${sectionHead('THE BRAND EDIT','先認識這 6 個品牌。','/brands',`全部 ${brands.length} 個品牌`)}<div class="brand-grid">${['beams','auralee','snidel','freaks-store','graphpaper','clane'].map((id,i)=>brandCard(byId.get(id),i)).join('')}</div></section>
-<section class="wrap section">${sectionHead('START WITH ONE PIECE','不知道買什麼？先看真實單品。','/pieces','全部代表單品')}<div class="piece-grid">${['urban-research','snidel','clane'].map(id=>pieceCard(byId.get(id))).join('')}</div></section>
+<section class="wrap section">${sectionHead('THE BRAND EDIT','從這 6 家認識不同選擇。','/brands',`全部 ${brands.length} 個品牌`)}<div class="brand-grid">${['gu','muji','beams','snidel','mont-bell','globalwork'].map((id,i)=>brandCard(byId.get(id),i)).join('')}</div></section>
+<section class="wrap section">${sectionHead('START WITH ONE PIECE','不知道買什麼？先看真實單品。','/pieces','全部代表單品')}<div class="piece-grid">${['gu','snidel','clane'].map(id=>pieceCard(byId.get(id))).join('')}</div></section>
 <section class="wrap feature-note"><div><p class="eyebrow">READ THE DIFFERENCE</p><h2>BEAMS PLUS、BOY、F，<br>差在哪？</h2><p>從穿著方向選標籤，再看實際商品。也能認識同公司品牌、合作線與面料名稱。</p>${routeLink('/relationships','品牌支線怎麼選','button light')}</div><div class="feature-lines"><span>01 / 完整品牌名稱</span><span>02 / 真實單品與來源</span><span>03 / 按用途比較</span>${routeLink('/compare','閱讀品牌比較')}</div></section>
 <section class="wrap section">${sectionHead('THE JOURNAL','出發前，先看這兩篇。','/journal','全部筆記')}${journals()}</section>`);
-add('/brands','日本品牌索引','用風格、品類與具名價格樣本探索日本品牌。',lead('THE BRAND INDEX','認識下一個，<em>喜歡的品牌。</em>',`先從 ${brands.length} 個品牌裡找方向：日常基本、選貨店、設計師、戶外與女裝。` )+directory(),'brands');
+add('/start','四步找到想逛的日本品牌','依服裝類型、單件日圓預算、旅遊地區與穿衣喜好挑選品牌。',travelFinder(true),'start');
+add('/brands','日本品牌索引','認識日本品牌、先看什麼單品，以及官方購物入口。',lead('BEFORE YOUR JAPAN TRIP','去日本，<em>有哪些品牌可以逛？</em>',`收錄 ${brands.length} 個品牌與標籤。不用先懂時尚，從常穿的衣服、單件預算開始看。` )+directory(),'brands');
 for(const g of ['men','women']){
  const title=g==='men'?'男裝':'女裝';
- const first=brands.filter(b=>b.audience.includes(g)).flatMap(b=>b.pieces.filter(p=>p.audience.includes(g)).map(p=>[b,p]));
- add('/'+g,title+'品牌探索','從具名單品和品牌入口探索日本'+title+'。',lead('YOUR WARDROBE / '+g.toUpperCase(),title+'，<em>從日常開始。</em>','品牌入口包含官方服飾範圍與標示的編輯探索建議；單品按已核實分類呈現，未確認者保留註記。')+`<div class="wrap audience-links">${routeLink('/men','男裝')}${routeLink('/women','女裝')}${routeLink('/brands','全部品牌')}</div><section class="wrap section">${sectionHead('FIRST PIECES','先認識這幾件。','/pieces','全部單品')}<div class="piece-grid">${first.slice(0,3).map(([b,p])=>pieceCard(b,p)).join('')}</div></section>`+directory(g),g);
+ add('/'+g,title+'品牌探索','給第一次去日本買衣服的旅客：認識'+title+'品牌、單品與官方購物入口。',lead('SHOP FOR YOUR JAPAN TRIP',title+'，<em>這趟想逛哪幾家？</em>','先看品牌在賣什麼、適合從哪件開始。不熟風格也沒關係，可以用四步引導幫你挑。')+`<div class="wrap audience-links">${routeLink('/men','男裝')}${routeLink('/women','女裝')}${routeLink('/brands','全部品牌')}</div>`+directory(g),g);
 }
 add('/styles','風格索引','城市日常、簡約、山系與柔美城市風格。',lead('THE STYLE INDEX','找到喜歡的，<em>穿衣方向。</em>','這些是編輯分類；圖例是具名品牌的真實單品。')+`<section class="wrap section">${styleCards()}</section>`);
 add('/pieces','品牌代表單品','用真實商品圖認識官方定番、系列與編輯選品。',lead('THE PIECE INDEX','先認識一件，<em>再認識品牌。</em>','有官方依據才標定番；編輯選品與歷史版本各自標示。每張照片對應具體商品與來源。')+`<section class="wrap section"><div class="piece-grid">${brands.flatMap(b=>b.pieces.map(p=>pieceCard(b,p))).join('')}</div></section>`,'pieces');
 for(const b of brands){
  const related=b.similar.filter(r=>byId.has(r.id));
  add('/brands/'+b.id,b.name+' 品牌指南',b.tagline+' 代表單品、價格樣本與官方關係。',`<div class="wrap breadcrumb"><a href="/brands">品牌索引</a><span>/</span><span>${e(b.name)}</span></div><section class="wrap brand-hero"><div><p class="eyebrow">${e(b.type)}</p><h1>${e(b.name)}</h1><p class="brand-jp">${e(b.jp)}</p><h2>${e(b.tagline)}</h2><div class="tags">${tags(b)}</div><div class="hero-actions">${b.id==='beams'?routeLink('/relationships/beams','先選 BEAMS 標籤','button dark'):routeLink('#pieces','先看代表單品','button dark')}${sourceLink(b.official,'官方入口')}</div>${b.audienceBasis==='editorial'?'<p class="scope-note">本頁男女入口為編輯探索建議，並不推定每款皆為 UNISEX。</p>':''}<p class="tiny">品牌內容查核 ${checkedAt}</p></div>${photo(b,b.pieces[0],'brand-hero-art',true)}</section><div class="wrap detail-layout"><aside class="detail-nav" aria-label="品牌頁內導覽"><span class="eyebrow">IN THIS GUIDE</span><a href="#pieces">代表單品</a><a href="#about">認識品牌</a><a href="#prices">價格參考</a>${b.relationships.length?'<a href="#relationships">品牌關係</a>':''}<a href="#buying">日本購物</a><a href="#fit">尺寸怎麼看</a><a href="#trend">歷史觀測</a></aside><div class="detail-body">
-<section id="pieces"><p class="eyebrow">START WITH THESE PIECES</p><h2>先看這幾件。</h2><div class="brand-piece-list">${b.pieces.map(p=>pieceCard(b,p)).join('')}</div></section>
+<section class="travel-quick"><div><strong>第一次先看什麼？</strong><p>${e(b.look[0])}</p></div><div><strong>準備去哪裡買？</strong><p>先看官方購物／店舖資訊，確認服裝類型與庫存。</p>${sourceLink(b.shop,'官方購物／查店入口')}</div></section><section id="pieces"><p class="eyebrow">START WITH THESE PIECES</p><h2>先看這幾件。</h2><div class="brand-piece-list">${b.pieces.map(p=>pieceCard(b,p)).join('')}</div></section>
 <section id="about"><p class="eyebrow">GET TO KNOW</p><h2>把品牌放回日常。</h2><p>${e(b.intro)}</p><h3>誰可以從這裡開始？</h3><p>${e(b.why)}</p><ul class="focus-list">${b.look.map(t=>`<li>${e(t)}</li>`).join('')}</ul></section>
 <section id="prices"><p class="eyebrow">PRICE NOTES</p><h2>價格，跟著單品看。</h2><p class="notice">具名樣本不代表全品牌價格；是否與上方照片同款，請看商品名稱。</p><div class="price-list">${b.samples.length?b.samples.map(s=>`<div><div><h3>${e(s.name)}</h3><p>${e(s.note)}</p>${sourceLink(s.url,'價格來源')}</div><strong>${yen(s.price)}</strong></div>`).join(''):'<p>日本價格尚未核實，請開啟官方商品頁確認。</p>'}</div></section>
 ${b.relationships.length?`<section id="relationships"><p class="eyebrow">BRAND, LABEL OR COLLABORATION?</p><h2>支線與名稱，怎麼分？</h2>${relationshipRows(b)}</section>`:''}

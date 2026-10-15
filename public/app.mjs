@@ -1,3 +1,4 @@
+import './journey.mjs';
 import {matchBrand,summarize,sampleMatches} from './domain.mjs';
 document.documentElement.classList.add('js');
 const menu=document.querySelector('.menu-toggle'), nav=document.querySelector('#main-nav');
@@ -19,10 +20,10 @@ if(form) {
   const grid=document.querySelector('.brand-grid');
   const sort=document.querySelector('#sort');
   const count=document.querySelector('#result-count'), empty=document.querySelector('#empty-results');
-  const names=['q','shelf','style','category','budget','gender'];
+  const names=['q','style','category','budget','gender'];
   const more=document.querySelector('#show-more-brands');
   let visibleLimit=12;
-  const defaults={q:'',shelf:'all',style:'all',category:'all',budget:'all',gender:form.dataset.gender || 'all'};
+  const defaults={q:'',style:'all',category:'all',budget:'all',gender:form.dataset.gender || 'all'};
   function fromUrl() {
     const params=new URLSearchParams(location.search);
     for(const name of names) {
@@ -32,9 +33,21 @@ if(form) {
       else control.value=val.slice(0,160);
     }
     sort.value=['editorial','name','price'].includes(params.get('sort'))?params.get('sort'):'editorial';
+    // Retired mixed-axis categories and invalid direct links never strand a visitor.
+    const normalized=new URLSearchParams();
+    for(const [key,value] of new FormData(form))if(value&&value!==defaults[key])normalized.set(key,value);
+    if(sort.value!=='editorial')normalized.set('sort',sort.value);
+    const next=location.pathname+(normalized.size?'?'+normalized:'')+location.hash;
+    if(next!==location.pathname+location.search+location.hash)history.replaceState({},'',next);
   }
   function apply(updateUrl=false) {
     if(updateUrl)visibleLimit=12;
+    const gender=form.elements.namedItem('gender').value,styleControl=form.elements.namedItem('style');
+    for(const option of styleControl.options){
+      const available=option.value==='all'||cards.some(c=>{const b=JSON.parse(c.dataset.brand);return (gender==='all'||b.audience.includes(gender))&&b.styles.includes(option.value);});
+      option.disabled=!available;option.hidden=!available;
+    }
+    if(styleControl.selectedOptions[0]?.disabled)styleControl.value='all';
     const filters=Object.fromEntries(new FormData(form));
     filters.q=String(filters.q || '').slice(0,160);
     form.elements.namedItem('q').value=filters.q;
@@ -62,12 +75,12 @@ if(form) {
     count.textContent='找到 '+total+' 個品牌 · 目前顯示 '+displayed+' 個';empty.hidden=total!==0;
     document.querySelector('.brand-name-index summary').textContent='我知道名字：品牌名稱索引（目前 '+total+' 個）';
     more.hidden=displayed>=total;more.textContent='再看 '+Math.min(12,total-displayed)+' 個品牌 →';
-    if(updateUrl) {
+    {
       const params=new URLSearchParams();
       for(const [k,v] of Object.entries(filters)) if(v && v!==defaults[k]) params.set(k,v);
       if(selected!=='editorial')params.set('sort',selected);
-      const next=location.pathname+(params.size?'?'+params:'');
-      if(next!==location.pathname+location.search) history.pushState({},'',next);
+      const next=location.pathname+(params.size?'?'+params:'')+(updateUrl?'':location.hash);
+      if(next!==location.pathname+location.search+location.hash) history[updateUrl?'pushState':'replaceState']({},'',next);
     }
   }
   let timer;
@@ -84,7 +97,7 @@ if(form) {
   document.querySelector('#empty-reset').addEventListener('click',()=>{resetFilters();form.elements.namedItem('q').focus();});
   sort.addEventListener('change',()=>apply(true));
   more.addEventListener('click',()=>{visibleLimit+=12;apply();});
-  window.addEventListener('popstate',()=>{fromUrl();apply();});
+  window.addEventListener('popstate',()=>{visibleLimit=12;fromUrl();apply();});
   fromUrl();apply();
 }
 

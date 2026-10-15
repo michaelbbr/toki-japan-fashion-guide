@@ -198,3 +198,10 @@ Primary public sources, title/item/photo binding, market/classification exceptio
 | LILY BROWN | LWNT265014 | https://mitsui-shopping-park.com/ec/p/1620300007728 | 2026-10-14 |
 | gelato pique | PWNT264047OWHTF | https://gelatopique.us/products/smoothie-eyelet-short-cardigan | 2026-10-14 |
 | emmi | 13WNT265012 | https://mitsui-shopping-park.com/ec/p/1620700015157 | 2026-10-14 |
+
+
+## 2026-10-15：旅行引導資料範圍
+- BEAMS 官方區域查店 https://www.beams.co.jp/shop/ ：重讀官方地區與店舖索引；各店營業調整與販售範圍另查。
+- GU 官方 https://www.gu-global.com/jp/ja/ 、MUJI 日本官方 https://www.muji.com/jp/ja/store 、SNIDEL 官方 https://snidel.com/ ：重讀入口；不主張日本限定、最便宜或現貨。
+- 四步選圖沿用 catalog 各單品 source/image/sku 和 2026-10-14 查核日；ATON 男裝、MUJI 女裝、GU UNISEX 等範圍保留來源。不以照片模特性別推定商品分類。
+- 已核對門市來源與範圍維持 data/areas.mjs 10筆、3城市、2品牌；缺收錄不代表無店。完整主張表：docs/travel-finder-plan-2026-10-15.md。

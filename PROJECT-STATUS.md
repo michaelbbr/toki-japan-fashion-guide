@@ -53,3 +53,12 @@
 - Production HTTP checks passed for 15 content routes, 6 assets and custom HTTP 404. Public browser combined budget/style filters, back and reset passed; no browser warnings/errors. Screenshot: ../outputs/toki-japan-fashion-guide/home-desktop.jpg. Local detailed test evidence remains ignored under evidence/.
 - Future zero-cost constraint persists in AGENTS.md: personal noncommercial Hobby only. No functions, database, paid API, analytics or scheduled collectors. FTI has 3 dated histories and 2 missing brands; no current popularity ranking claimed.
 - Next editorial work: broaden the brand catalog using the retained planning shortlist and dated official sources. No paid expansion authorized.
+
+
+## 旅行新手引導改版 — 2026-10-15
+- 定位更新為給不熟日本服飾的台港旅客，出發前挑想逛的品牌。首頁與 /start 提供服裝類型、單件日圓預算、目的地、穿衣喜好四步引導；可跳過、返回、圖選／問題選、保存結果網址、分批顯示與零結果放寬。
+- 移除把性別／居家服／店型混合的 shelf 公開篩選；男女頁只列該服裝範圍有品牌的風格。舊 /men?shelf=women 自動正規化到正常男裝清單（38 個、首批 12 個）。全站保留 50 品牌，建置 77 路由、0 函式。
+- 結果依已確認性別的非歷史單品價格配對；不限預算仍可找缺價格品牌。地區僅優先已收錄當地據點，不把未收錄視為沒有門市。門市範圍仍是 3 城市／2 品牌／10 據點。
+- 人工檢查：男裝四步→低於5000／東京／寬鬆休閒為 GU；結果重整保留。女裝圖例 GU／MUJI／and wander／SNIDEL 均載入；低於5000／柔和細節為0結果，放寬後49品牌，更多6→12成功。鍵盤空白鍵可選，修正步驟聚焦造成的平滑滾動點選干擾。390×844 步驟、結果、圖片選擇無橫向溢出，手機滑鼠選項可選。
+- 人工檢查使用獨立 Edge 任務分頁，未接管既有分頁。未新增或執行自動測試。建置成功；公開部署待完成。
+- 圖片證據：../outputs/toki-japan-fashion-guide/travel-mobile-2026-10-15.png。來源與主張清單：docs/travel-finder-plan-2026-10-15.md。

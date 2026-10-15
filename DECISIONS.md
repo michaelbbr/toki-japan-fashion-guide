@@ -26,3 +26,10 @@ Reconsider after actual reader feedback, official label/store changes or expansi
 ## 2026-10-14 — A usable first brand edition
 
 Expand from 15 to 50 complete identities without counting BEAMS label-index rows as new guides. Preserve real exact product photos. Six editorial shelf shortcuts, a direct alphabetical name index and 12-at-a-time photo browsing keep the larger directory navigable. Unknown item sex and market prices remain unknown; gender entry suggestions can be editorial only when clearly marked. No purchases or paid services.
+
+
+## 2026-10-15：旅行購衣新手優先
+- 使用者明確目標為不熟日本服飾、旅日時想知道哪些牌子可買的台港旅客。首頁主動線改成四步選品牌；品牌名索引、支線研究放在後續深入入口。
+- 性別、風格、品類、預算分開；撤下混合性別和店型的 shelf 選單。預算是單件日圓參考，排除歷史款配對，不推定全品牌價帶。
+- 風格用具名真實單品示例及白話問題；所有步驟可選不限。地區資料不足時誠實提供範圍及官方入口，不能把缺資料寫成當地無店。
+- 不新增收費服務，沿用既有 GitHub／Vercel Hobby 靜態部署。
