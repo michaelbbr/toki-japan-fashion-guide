@@ -1,0 +1,331 @@
+/* TOKI / Luxury Editorial. Shared tokens and components, loaded after legacy layouts. */
+:root {
+  --paper: #f9f8f6;
+  --ink: #1a1a1a;
+  --surface: #ebe5de;
+  --muted: #6c6863;
+  --gold: #d4af37;
+  --gold-text: #82651e;
+  --olive: var(--gold-text);
+  --line: rgb(26 26 26 / 17%);
+  --serif: "Playfair Display", "Noto Serif TC", serif;
+  --sans: "Inter", "Noto Sans TC", sans-serif;
+  --ease-editorial: cubic-bezier(.25,.46,.45,.94);
+  --space-section: clamp(48px, 6vw, 96px);
+  --shadow-image: 0 8px 32px rgb(26 26 26 / 10%);
+}
+
+html { scroll-padding-top: 120px; }
+body { font-size: 16px; line-height: 1.8; }
+button, input, select, textarea, .button, .tag { border-radius: 0; }
+.wrap { width: min(1472px, calc(100% - 128px)); }
+main, .site-footer { position: relative; z-index: 1; }
+.editorial-grid { position: fixed; inset: 0; pointer-events: none; z-index: 0; }
+.editorial-grid i { position: absolute; inset-block: 0; width: 1px; background: rgb(26 26 26 / 5%); }
+.editorial-grid i:nth-child(1) { left: max(64px, calc((100vw - 1472px)/2)); }
+.editorial-grid i:nth-child(2) { left: 38%; }
+.editorial-grid i:nth-child(3) { left: 66%; }
+.editorial-grid i:nth-child(4) { right: max(64px, calc((100vw - 1472px)/2)); }
+.luxury-theme::after {
+  content: ""; position: fixed; inset: 0; z-index: 50; pointer-events: none; opacity: .025;
+  background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='grain'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.8' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Cpath filter='url(%23grain)' opacity='.7' d='M0 0h180v180H0z'/%3E%3C/svg%3E");
+}
+
+/* Type remains spacious enough for traditional Chinese glyphs. */
+h1, h2, h3 { font-family: var(--serif); font-weight: 400; letter-spacing: -.035em; }
+h1 { line-height: 1.4; }
+em { color: var(--gold-text); }
+.eyebrow { font-size: 10px; font-weight: 500; letter-spacing: .27em; }
+.text-link { font-size: 14px; transition: color 500ms ease-out, border-color 500ms ease-out; }
+.text-link:hover { color: var(--gold-text); border-color: var(--gold); }
+:is(a,button,input,select,summary):focus-visible { outline: 1px solid var(--gold-text); outline-offset: 5px; }
+.section { padding-block: var(--space-section); }
+.section-title h2, .directory-head h2 { font-size: clamp(30px, 3vw, 44px); }
+.page-intro { padding-block: 60px 40px; }
+.page-intro h1, .city-index>h1, .city-guide-head h1, .trip-heading h1, .travel-budget h1 {
+  font-size: clamp(36px, 4.2vw, 58px); line-height: 1.45;
+}
+.page-intro>p:not(.eyebrow), .city-index>p:not(.eyebrow) { font-size: 16px; max-width: 780px; }
+
+/* Masthead, photo mode and rectangular controls. */
+.site-header { height: 100px; background: rgb(249 248 246 / 97%); border-color: var(--line); }
+.nav-inner { gap: 30px; }
+.wordmark { font-family: var(--serif); font-size: 48px; letter-spacing: -.075em; gap: 20px; white-space: nowrap; }
+.wordmark span { letter-spacing: .18em; font-size: 10px; }
+#main-nav { margin-left: auto; gap: 26px; }
+#main-nav a { font-size: 12px; transition: color 500ms ease-out; }
+#main-nav a:hover { color: var(--gold-text); }
+#main-nav a[aria-current=page]:after { height: 1px; background: var(--gold); }
+.header-tools { display: flex; align-items: center; }
+.photo-toggle { background: transparent; color: var(--muted); border: 0; border-bottom: 1px solid var(--line); min-height: 44px; padding: 8px 0; font-size: 11px; letter-spacing: .08em; white-space: nowrap; }
+.photo-toggle[aria-pressed=true] { color: var(--ink); border-bottom-color: var(--gold); }
+.photo-toggle:hover { color: var(--gold-text); }
+.button { min-height: 48px; padding: 14px 26px; font-size: 12px; letter-spacing: .08em; font-weight: 500; position: relative; isolation: isolate; overflow: hidden; transition: color 500ms ease-out, box-shadow 500ms ease-out, border-color 500ms ease-out; }
+.button:hover { transform: none; }
+.button.dark { background: var(--ink); color: var(--paper); border-color: var(--ink); box-shadow: 0 4px 16px rgb(26 26 26 / 12%); }
+.button.dark::before { content: ""; position: absolute; inset: 0; background: var(--gold); transform: translateX(-101%); z-index: -1; transition: transform 500ms var(--ease-editorial); }
+.button.dark:is(:hover,:focus-visible) { color: var(--ink); box-shadow: 0 8px 24px rgb(26 26 26 / 17%); }
+.button.dark:is(:hover,:focus-visible)::before { transform: translateX(0); }
+.button.light { background: transparent; color: var(--ink); }
+.button.light:hover { background: var(--ink); color: var(--paper); }
+input:not([type=radio]):not([type=checkbox]), select { color: var(--ink); background: transparent; border-radius: 0; }
+input::placeholder { font-family: var(--serif); font-style: italic; color: var(--muted); }
+select:focus-visible, input:not([type=radio]):focus-visible { border-bottom-color: var(--gold-text); }
+input[type=radio], input[type=checkbox] { accent-color: var(--ink); }
+
+/* Authentic photographs, cinematic reveal; one accessible global color control. */
+:is(.outfit-photo,.product-photo,.label-image) img {
+  filter: grayscale(1); transition: filter 1700ms var(--ease-editorial), transform 1700ms var(--ease-editorial);
+}
+:is(a,article,.landing-look,.trip-style):is(:hover,:focus-within) > :is(.outfit-photo,.product-photo,.label-image) img,
+.brand-image:is(:hover,:focus-visible) img,
+.landing-look:is(:hover,:focus-within) img,
+.city-shop-picture:is(:hover,:focus-within) img,
+.trip-style:is(:hover,:focus-within) img,
+.label-card:is(:hover,:focus-within) img,
+.piece-card:is(:hover,:focus-within) img { filter: grayscale(0); }
+[data-photo-color=original] :is(.outfit-photo,.product-photo,.label-image) img { filter: none; }
+.brand-image:hover img, .landing-look>a:hover img { transform: scale(1.025); }
+.outfit-photo, .product-photo, .label-image { background: var(--surface); }
+.photo-unavailable { color: var(--muted); }
+html:not(.js) .header-tools { display: none; }
+html:not(.js) :is(.outfit-photo,.product-photo,.label-image) img { filter: none; }
+
+/* Landing: an asymmetric cover and four clear editorial entries. */
+.editorial-landing { grid-template-columns: minmax(0,7fr) minmax(0,5fr); gap: 0 clamp(40px,5vw,76px); padding-block: 54px 30px; }
+.landing-editorial-copy header { max-width: 720px; }
+.editorial-landing h1 { font-size: clamp(42px,4.25vw,65px); line-height: 1.36; letter-spacing: -.055em; margin: 23px 0 24px; }
+.editorial-landing h1 em { color: var(--ink); }
+.landing-dot { width: 28px; height: 1px; border-radius: 0; background: var(--gold-text); margin-right: 12px; }
+.editorial-landing .purpose-description { font-size: 15px; max-width: 530px; line-height: 1.9; }
+.landing-choose { margin: 32px 0 12px; font-size: 13px; }
+.landing-choose>span { letter-spacing: .22em; font-size: 9px; }
+.editorial-landing .entry-grid { gap: 0 28px; }
+.editorial-landing .entry-card { background: transparent; border: 0; border-top: 1px solid var(--ink); padding: 18px 0 22px; transition: color 500ms ease-out, border-color 500ms ease-out; }
+.editorial-landing .entry-card:hover { background: transparent; border-color: var(--gold); transform: none; }
+.editorial-landing .entry-card>.eyebrow { font-size: 9px; letter-spacing: .2em; }
+.editorial-landing .entry-card h2 { font: 400 23px/1.5 var(--serif); letter-spacing: -.04em; }
+.editorial-landing .entry-card>div { margin: 8px 0; }
+.editorial-landing .entry-card>p { font-size: 12px; line-height: 1.85; max-width: 280px; }
+.entry-arrow { color: var(--gold-text); transition: transform 500ms ease-out; }
+.entry-card:hover .entry-arrow { transform: translate(3px,-3px); }
+.landing-editorial-visual { background: var(--ink); color: var(--paper); border: 0; padding: 26px 25px 27px; box-shadow: var(--shadow-image); position: relative; }
+.landing-editorial-visual::after { content: "TOKI / THE JAPAN EDIT"; position: absolute; writing-mode: vertical-rl; top: 68px; right: -27px; font: 9px var(--sans); letter-spacing: .26em; color: var(--muted); }
+.landing-photo-heading { margin-bottom: 22px; }
+.landing-photo-heading>span:first-child { font-family: var(--serif); font-size: 20px; letter-spacing: .025em; }
+.landing-photo-heading>span:last-child { color: var(--surface); font-size: 9px; letter-spacing: .2em; }
+.landing-photo-pair { gap: 12px; }
+.landing-look .outfit-photo { height: 405px; aspect-ratio: auto; background: var(--surface); box-shadow: inset 0 0 0 1px rgb(26 26 26 / 8%); }
+.landing-look .outfit-photo img { object-fit: cover; object-position: center top; }
+.landing-look-caption { border-bottom: 1px solid rgb(249 248 246 / 22%); padding: 12px 0 9px; }
+.landing-look-caption strong { font: 14px var(--serif); letter-spacing: .02em; }
+.landing-look-caption>span { color: var(--surface); letter-spacing: .18em; }
+.landing-look-source { color: rgb(249 248 246 / 75%); font-size: 10px; margin-top: 8px; }
+.landing-look-source:hover { color: var(--gold); }
+.landing-editorial-line { font: italic 29px/1.3 var(--serif); color: var(--gold); margin-top: 23px; }
+.landing-editorial-line>span { color: var(--surface); font-size: 11px; letter-spacing: .01em; }
+.landing-edition { margin-top: 34px; border-color: var(--line); padding-top: 19px; font-size: 11px; }
+.landing-edition>span:last-child { letter-spacing: .2em; font-size: 9px; }
+
+/* Unified paper surfaces and fine rules across guides and results. */
+:is(.destination-tile,.family-tile,.label-card,.relation-grid article,.relationship-card,.piece-card,.trip-result,.guide-tool-grid>a,.area-store-grid article,.mini-label-guide>a,.start-other>a,.style-card) {
+  border-radius: 0; background: var(--paper); border-color: var(--line); box-shadow: 0 2px 8px rgb(26 26 26 / 2%);
+  transition: box-shadow 700ms ease-out, border-color 700ms ease-out, background 700ms ease-out;
+}
+:is(.destination-tile,.family-tile,.label-card,.guide-tool-grid>a,.style-card):hover { background: var(--paper); border-color: var(--gold-text); box-shadow: 0 8px 24px rgb(26 26 26 / 6%); }
+.destination-tile { padding: 27px 25px; border: 0; border-top: 1px solid var(--ink); min-height: 210px; }
+.destination-tile strong { font-size: 35px; margin-block: 12px; }
+.destination-tile strong span, .store-location, .label-topline, .city-shop-top, .piece-meta { color: var(--gold-text); }
+.destination-grid { gap: 28px; }
+.destination-tile p { font-size: 14px; line-height: 1.85; }
+.destination-tile small { font-size: 11px; letter-spacing: .02em; }
+.family-featured, .family-advice, .area-coverage, .travel-quick, .city-visit, .brand-city-links, .city-special-band, .feature-note, .observation, .directory-journey, .label-jumps>a { background: var(--surface); border-color: var(--line); }
+.tag, .status, .relation-type, .label-topline>span:first-child { background: transparent; color: var(--muted); border-color: var(--line); border-radius: 0; }
+.tag:hover, .label-jumps>a:hover, .mini-label-guide>a:hover { background: var(--surface); }
+.tag { padding: 6px 9px; }
+.directory-journey { border-block: 1px solid var(--line); background: transparent; padding-inline: 0; }
+.shelf-shortcuts a { background: transparent; border: 0; border-top: 1px solid var(--line); border-bottom: 1px solid var(--line); padding: 15px 12px; color: var(--ink); transition: color 500ms ease-out, border-color 500ms ease-out; }
+.shelf-shortcuts a:hover { background: transparent; color: var(--gold-text); border-color: var(--gold); }
+.brand-copy h3, .city-shop h3, .label-copy h3, .relation-grid h3, .area-store-grid h2, .compact-label-grid strong { font-family: var(--serif); font-weight: 400; }
+.brand-copy h3 { font-size: 30px; line-height: 1.4; }
+.brand-copy>.brand-tagline { font-size: 14px!important; line-height: 1.9; }
+.brand-copy .travel-card-start { color: var(--ink); font-size: 13px; }
+.travel-card-start strong { color: var(--muted); }
+.card-foot { padding-top: 18px; }
+.brand-grid { gap: 52px 28px; }
+.brand-card { background: transparent; }
+.brand-image { box-shadow: 0 4px 24px rgb(26 26 26 / 7%); }
+.brand-hero h1 { font-size: clamp(40px,5vw,72px); line-height: 1.2; font-weight: 400; }
+.brand-hero>.outfit-photo { box-shadow: var(--shadow-image); }
+.detail-body #about>h2+p { display: flow-root; }
+.detail-body #about>h2+p::first-letter, .story-lead::first-letter { font: 400 3.5em/.95 var(--serif); float: left; margin: .1em .14em 0 0; color: var(--ink); }
+.search-box { background: transparent; padding: 12px 0; border: 0; border-bottom: 1px solid var(--ink); }
+.search-box input { font-size: 16px; }
+.filter-selects select, .trip-destination select, .area-filter select, .city-shopping-filter select, .budget-entry select { border: 0; border-bottom: 1px solid var(--line); min-height: 48px; font-size: 15px; background: transparent; }
+.filter-selects label, .filter-note, .result-bar, .area-count { color: var(--muted); }
+.filter-note { font-size: 12px; }
+.city-shopping-filter { padding: 24px 0; background: transparent; border-block: 1px solid var(--line); }
+.city-neighborhoods[open] .city-route-grid a { background: transparent; border-color: var(--line); transition: color 500ms ease-out, border-color 500ms ease-out; }
+.city-neighborhoods[open] .city-route-grid a:hover { border-color: var(--gold); background: var(--surface); }
+.city-guide-head { padding-block: 40px; }
+.city-results-heading h2 { font-size: 30px; }
+.city-shop { padding-block: 32px; gap: 36px; }
+.city-shop h3 { font-size: 33px; }
+.city-shop-picture figcaption { background: var(--surface); color: var(--muted); }
+.city-shop-picture .outfit-photo { box-shadow: 0 4px 20px rgb(26 26 26 / 6%); }
+.city-shop dt { color: var(--muted); }
+.city-brand-details summary { border-bottom: 1px solid var(--line); padding-block: 8px; min-height: 44px; }
+.city-brand-details[open] summary { color: var(--gold-text); border-color: var(--gold); }
+.city-brand-details[open]>div { animation: editorial-reveal 700ms ease-out both; }
+.prose p, .detail-body p, .story-text p { font-size: 16px; line-height: 1.95; }
+.detail-body h2, .prose h2 { font-size: 31px; }
+.story h1 { font-size: clamp(38px,4.5vw,60px); }
+
+/* Both guided journeys use the same selection language. */
+.travel-budget>header { max-width: 900px; }
+.travel-budget-options { gap: 18px; }
+.travel-budget-choice>span { background: transparent; border: 0; border-top: 1px solid var(--ink); box-shadow: none; padding-block: 24px; transition: background 700ms ease-out, border-color 700ms ease-out; }
+.travel-budget-choice input { top: 29px; accent-color: var(--ink); }
+.travel-budget-choice input:checked+span { border-color: var(--gold-text); background: var(--surface); }
+.travel-budget-choice strong { font: 400 22px/1.5 var(--serif); }
+.travel-budget-choice small { font-size: 13px; }
+.travel-budget-choice input:focus-visible+span { outline: 1px solid var(--gold-text); }
+.budget-progress { letter-spacing: .12em; }
+.budget-progress [aria-current] { color: var(--gold-text); font-weight: 500; }
+.budget-plan { background: var(--surface); border: 0; border-top: 1px solid var(--gold-text); }
+.budget-plan strong { font-family: var(--serif); font-weight: 400; }
+.budget-brand-reason .brand-city-links { background: var(--surface); }
+.budget-brand-grid { gap: 38px 28px; }
+.trip-choice, .trip-style { background: transparent; border-color: var(--line); }
+.trip-choice strong { font-family: var(--serif); font-weight: 400; }
+.trip-choice small, .trip-note, .trip-restart, .trip-result-notes { color: var(--muted); }
+.trip-choice:has(input:checked), .trip-style:has(input:checked) { background: var(--surface); outline: 1px solid var(--gold-text); }
+.trip-choice:focus-within, .trip-style:focus-within { outline: 1px solid var(--gold-text); }
+.trip-choice input, .trip-style input { accent-color: var(--ink); }
+.trip-progress li { color: var(--muted); }
+.trip-progress li span { font-family: var(--sans); }
+.trip-progress li[aria-current] { color: var(--ink); border-bottom: 1px solid var(--gold-text); }
+.trip-progress .done { color: var(--gold-text); }
+.trip-style-modes button { border-color: var(--line); min-height: 48px; transition: background 500ms ease-out, color 500ms ease-out; }
+.trip-style-modes button[aria-pressed=true] { background: var(--ink); color: var(--paper); }
+.trip-reason>p:first-child { background: var(--surface); color: var(--ink); }
+.trip-destination select { padding-inline: 0; }
+
+/* An ink-colored colophon brings the publication together. */
+.site-footer { background: var(--ink); color: var(--paper); margin-top: 32px; border: 0; }
+.footer-main { padding-block: 55px 48px; gap: 60px; }
+.footer-logo { font-family: var(--serif); font-size: 52px; letter-spacing: -.07em; }
+.site-footer p, .footer-bottom { color: rgb(249 248 246 / 72%); }
+.footer-main p { font-size: 13px; line-height: 1.9; }
+.footer-links { font-size: 12px; gap: 18px 45px; }
+.footer-links a { transition: color 500ms ease-out; }
+.footer-links a:hover { color: var(--gold); }
+.footer-bottom { border-color: rgb(249 248 246 / 20%); padding-block: 22px; font-size: 9px; letter-spacing: .16em; }
+
+@keyframes editorial-reveal { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: translateY(0); } }
+@media(min-width:1600px) {
+  .editorial-landing { padding-top: 70px; }
+  .landing-look .outfit-photo { height: 460px; }
+}
+@media(max-width:1100px) {
+  .wrap { width: calc(100% - 72px); }
+  .nav-inner { gap: 22px; }
+  .wordmark span { display: none; }
+  #main-nav { gap: 20px; }
+  .editorial-landing { gap: 0 36px; }
+  .editorial-landing h1 { font-size: 43px; }
+  .landing-editorial-visual { padding: 22px 18px; }
+  .landing-look .outfit-photo { height: 355px; }
+  .landing-photo-heading>span:first-child { font-size: 16px; }
+  .landing-photo-heading>span:last-child { font-size: 8px; }
+  .editorial-grid i:nth-child(1) { left: 36px; }
+  .editorial-grid i:nth-child(4) { right: 36px; }
+}
+@media(max-width:760px) {
+  .wrap { width: calc(100% - 48px); }
+  .site-header { height: 82px; }
+  .nav-inner { gap: 18px; }
+  .wordmark { font-size: 40px; }
+  .menu-toggle { display: block; order: 3; font-size: 12px; min-height: 44px; color: var(--ink); padding: 8px 0; }
+  .header-tools { margin-left: auto; }
+  .photo-toggle { font-size: 10px; }
+  #main-nav { display: none; position: absolute; left: 0; right: 0; top: 82px; margin: 0; padding: 24px; border-bottom: 1px solid var(--line); background: var(--paper); }
+  #main-nav.open { display: grid; grid-template-columns: 1fr 1fr; gap: 10px 30px; }
+  #main-nav a { min-height: 48px; }
+  .editorial-landing { grid-template-columns: 1fr; padding-block: 34px 28px; gap: 32px; }
+  .editorial-landing h1 { font-size: clamp(33px,7vw,45px); line-height: 1.4; margin: 20px 0; }
+  .editorial-landing .purpose-description { font-size: 14px; line-height: 1.9; }
+  .landing-choose { margin: 26px 0 12px; }
+  .landing-choose>span { font-size: 8px; }
+  .editorial-landing .entry-grid { grid-template-columns: 1fr 1fr; gap: 0 22px; }
+  .editorial-landing .entry-card { padding: 15px 0 18px; }
+  .editorial-landing .entry-card>.eyebrow { display: block; font-size: 8px; }
+  .editorial-landing .entry-card h2 { font-size: 21px; }
+  .editorial-landing .entry-card>div { gap: 7px; margin: 8px 0; }
+  .editorial-landing .entry-card>p { font-size: 12px; line-height: 1.8; }
+  .entry-arrow { font-size: 17px; }
+  .landing-editorial-visual { padding: 24px 20px; margin-top: 5px; }
+  .landing-editorial-visual::after { display: none; }
+  .landing-photo-heading>span:first-child { font-size: 19px; }
+  .landing-photo-heading>span:last-child { font-size: 9px; }
+  .landing-look .outfit-photo { height: auto; aspect-ratio: 3/4; }
+  .landing-look-caption { display: flex; }
+  .landing-look-caption strong { font-size: 14px; }
+  .landing-look-caption>span { display: inline; font-size: 8px; }
+  .landing-editorial-line { font-size: 29px; }
+  .landing-edition { padding-top: 17px; margin-top: 0; grid-column: auto; display: block; }
+  .landing-edition>span:last-child { display: block; margin-top: 8px; }
+  .editorial-grid i { background: rgb(26 26 26 / 4%); }
+  .editorial-grid i:nth-child(1) { left: 24px; }
+  .editorial-grid i:nth-child(2), .editorial-grid i:nth-child(3) { display: none; }
+  .editorial-grid i:nth-child(4) { right: 24px; }
+  .page-intro { padding-block: 36px 26px; }
+  .page-intro h1, .city-index>h1, .city-guide-head h1, .trip-heading h1, .travel-budget h1 { font-size: 33px; line-height: 1.45; }
+  .city-guide-head { padding-block: 26px; }
+  .city-results-heading h2 { font-size: 26px; }
+  .city-shop { gap: 8px 18px; padding-block: 25px; }
+  .city-shop h3 { font-size: 26px; }
+  .city-difference, .city-shop dd { font-size: 14px; }
+  .city-shopping-filter { padding-block: 18px; }
+  .destination-grid { gap: 22px 18px; }
+  .destination-tile { padding: 20px 0; min-height: 205px; }
+  .destination-tile strong { font-size: 29px; }
+  .destination-tile p { font-size: 13px; }
+  .destination-special .destination-tile { padding-inline: 0; }
+  .city-special h2 { font-size: 27px; }
+  .brand-copy h3 { font-size: 28px; }
+  .brand-copy>.brand-tagline { font-size: 14px!important; }
+  .brand-copy .tag { font-size: 11px; }
+  .sample-price { font-size: 12px!important; }
+  .brand-hero h1 { font-size: 43px; }
+  .prose p, .detail-body p, .story-text p { font-size: 15px; }
+  .travel-budget-choice>span { padding-block: 16px; }
+  .travel-budget-choice input { top: 21px; }
+  .travel-budget-choice strong { font-size: 21px; }
+  .travel-budget-choice small { font-size: 12px; }
+  .travel-budget-options { gap: 10px; }
+  .budget-way-options { gap: 16px; }
+  .budget-plan strong { font-size: 21px; }
+  .budget-plan { padding: 18px; }
+  .budget-progress { letter-spacing: .05em; }
+  .footer-main { gap: 32px; padding-block: 40px 32px; }
+  .footer-logo { font-size: 45px; }
+  .footer-bottom { letter-spacing: .07em; }
+}
+@media(max-width:380px) {
+  .wrap { width: calc(100% - 40px); }
+  .editorial-landing .entry-grid { gap: 0 16px; }
+  .editorial-landing .entry-card h2 { font-size: 19px; }
+  .editorial-landing .entry-arrow { display: none; }
+  .landing-choose>span { display: none; }
+  .nav-inner { gap: 14px; }
+}
+@media(prefers-reduced-motion:reduce) {
+  html { scroll-behavior: auto; }
+  *, *::before, *::after { transition-duration: 0ms!important; animation: none!important; }
+  .brand-image:hover img, .landing-look>a:hover img, .entry-card:hover .entry-arrow { transform: none; }
+}
+@media print {
+  .editorial-grid, .luxury-theme::after, .header-tools { display: none; }
+  :is(.outfit-photo,.product-photo,.label-image) img { filter: none; }
+}

@@ -152,3 +152,10 @@
 ### 整趟預算正式完成
 - 內容提交96a608c5aaaf8c9115c0d4cba6e06aef76105d95，Vercel部署4d4AKWfaGRRMZZKA1rq8ZY8ikawJ success。正式/budget已人工操作總額→買法→結果，30,000／多件／男裝5個樣本品牌、每件分配10,000；error log空。首頁預算入口已顯示整趟購衣說明。
 - 正式網址https://toki-japan-fashion-guide.vercel.app/budget 。證據evidence/travel-budget-entry-production-2026-10-16.png、travel-budget-buying-way-production-2026-10-16.png、travel-budget-result-production-2026-10-16.png（本機保存）。維持186路由／150指南／0函式與免費靜態服務。有限預算只配對已收錄樣本；不代表所有可買商品或即時庫存。
+
+## Luxury／Editorial 視覺 — 2026-10-16
+- 套用使用者提供的Luxury／Editorial參考。集中主題editorial-luxury.css：暖白#F9F8F6、炭黑#1A1A1A、taupe與少量金；Playfair Display／Inter搭配繁中Noto字型。大字標題、細線、四條背景格線、紙感顆粒、慢速影像、金色滑入按鈕與炭黑頁尾。
+- LP保持用途與四入口，改7/5非對稱構圖、細線入口、等高真人男女穿搭的炭黑版面與直排旁註。預算、城市、品牌、支線與文章共用元件樣式；沒有改價格、地址、分類及推薦資料。
+- 圖片預設黑白，hover／focus顯原色；頁首可鍵盤／觸控切原色並保留本次瀏覽偏好。來源及原圖不變。無JS時顯原色；減少動態偏好取消動畫，按鈕至少48px、輸入保留焦點。
+- 本機人工檢視：桌機LP兩圖載入且同高405px，390×844手機375px無溢出，四入口下緣y708。原色Enter可切、換頁保留；手機選單可開。SHINYAKOZUKA長標題與真實商品圖無溢出；東京男裝20、運動休閒6、30,000多件男裝5樣本品牌，問答入口可見。error log空。
+- 186靜態路由／150指南／0函式建置成功，未新增或執行自動化測試；沒有安裝框架、依賴或付費服務。規劃docs/luxury-editorial-plan-2026-10-16.md；正式部署另記。

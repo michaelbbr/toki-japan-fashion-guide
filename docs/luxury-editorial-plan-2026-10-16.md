@@ -1,0 +1,15 @@
+# TOKI Luxury / Editorial
+
+## Scope and implementation
+- Apply the user's Luxury / Editorial reference to the existing static Node templates, native CSS and browser modules. Keep 186 routes, 150 brand/label guides, sourced real photographs and the existing city/budget journeys. No React, Tailwind migration, dependency installation or paid services are required for this visual change.
+- Centralize palette, fonts, spacing, borders, shadows and motion in editorial-luxury.css, loaded last. Reuse current component classes. Shell supplies the shared fonts, four decorative grid rules and one photo-color control.
+- Warm alabaster #F9F8F6, charcoal #1A1A1A, taupe #EBE5DE, warm grey #6C6863, metallic gold #D4AF37. Gold on a light surface is reserved for decoration; smaller text uses darker #82651E for readability.
+- Playfair Display and Inter for Latin, Noto Serif TC and Noto Sans TC for traditional Chinese coverage. Chinese headlines use generous line-height rather than the reference's compressed Latin metrics.
+- Landing keeps its purpose and four choices. Fine top rules, enlarged type, asymmetric 7/5 grid, charcoal photo spread, equal-height real men's/women's images, gold italic English caption and a vertical side label replace the previous boxed-card look. Dark colophon provides visual rhythm without adding fake content or testimonials.
+- City, brand, label, article and both guided journey components share the new surface, type and input/button treatments. Prices, sources, brands, addresses and recommendation rules are unchanged.
+- Photographs start monochrome and reveal original color over 1700ms on hover/focus. A visible, keyboard-accessible original-color toggle works on touch devices and retains the choice only for the browser session. Real product images retain their original files and sources; no generated replacement imagery.
+- Gold button reveal uses a pseudo-element in an isolated stacking context, so existing buttons whose text is updated by the journeys remain compatible. Primary hover text is charcoal on gold for contrast.
+- Mobile keeps the four entries in a compact editorial 2×2 layout, reduces decorative elements and preserves readable Chinese. Reduced motion disables transforms/animation; interactive controls retain visible keyboard focus and 48px button targets.
+
+## Completion
+Build: 186 static routes, 150 guides, 0 functions. Bounded local manual inspection: desktop landing photos loaded and equal at 405px; mobile landing 375px content width with four entry cards ending at y708; Tokyo men still shows 20 stores; men's Athleisure shows Nike, adidas, PUMA, Champion, lululemon and On; budget 30,000/more/men still gives 5 sourced sample brands; SHINYAKOZUKA detail and its actual item photograph load with no mobile overflow. Photo mode can be toggled with Enter, remains selected on navigation, and the mobile menu opens. Sampled browser error logs empty. No automated tests added or run. Record production deployment and screenshots in PROJECT-STATUS.md.
