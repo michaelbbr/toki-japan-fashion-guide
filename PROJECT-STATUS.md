@@ -170,3 +170,8 @@
 - 移除背景格線DOM／樣式與首頁裝飾線。照片預設原色，hover改輕微提亮／增色及縮放；黑白模式、原色按鈕與舊偏好模組撤除。照片與來源不變。
 - 本機人工檢視：兩圖成功載入且filter=none；BEAMS建議8／顯示6，ArrowDown及Esc可用、Enter完整8品牌；山跟道別名1個，直達山と道。捲動後頁首top0／sticky；390×844手機375px無溢出、四入口下緣y757。沒有改150指南、42據點或預算／城市規則。
 - 186路由／150指南／0函式建置成功，未新增或執行自動化測試，無新增依賴／購買／付費服務。詳docs/sticky-brand-search-2026-10-16.md，正式檢查另記。
+
+### 常駐搜尋／原色照片正式完成
+- 內容提交9b657189a61c45c1adaab0d4890c47e3be2bcaf3，Vercel部署9uQF2KieXwu4KJR774XYvofCnYPA success。正式首頁有全站品牌搜尋，格線DOM為0；兩張穿搭成功載入、computed filter=none。山跟道建議1筆，可直達山と道指南；error log空。
+- 正式手機375px無橫向溢出；東京男裝仍20店，捲至結果後頁首top0、搜尋輸入top69仍可見。預覽尺寸已恢復。證據evidence/sticky-search-color-home-production-2026-10-16.png、evidence/sticky-search-mobile-production-2026-10-16.png。
+- 正式https://toki-japan-fashion-guide.vercel.app/ 。150指南／42據點／186路由／0函式保留；沒有新增依賴、付費服務或支出。有限範圍人工檢視，未新增或執行自動化測試。
