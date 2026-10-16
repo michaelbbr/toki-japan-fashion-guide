@@ -53,3 +53,9 @@ Expand from 15 to 50 complete identities without counting BEAMS label-index rows
 - Photo directions are separate from editorial brand audiences. Men/women never borrow each other’s photo. A missing photo stays visibly pending; the brand is retained. Outfit sources are separate from exact representative product sources. Historical and collaboration imagery retain their scope.
 - Athleisure is distinct from Street/Outdoor; general retailers are not assigned sports style just for stocking sweatshirts. Category-specific budgets apply to actual sourced products.
 - Keep the LP’s single main action and zero-cost static Hobby deployment. Revisit any paid/commercial architecture only with explicit user approval.
+
+## 2026-10-16 — 城市帶路，品牌資料作深入閱讀
+- 使用者明確定位：日本旅行購衣新手，要先知道目的地可逛什麼、品牌差在哪與實際位置。首頁主入口改選城市；六大城市先給少量起點，再依街區、服裝類型深入。
+- 47 都道府縣平鋪選單被本次要求取代。地方入口須有具名選貨店／直營店的理由：宇都宮 ARKnets、鎌倉山と道；公司／研發所在地不直接當零售地點。
+- 150 品牌與標籤完整保留。選地區後只配對本站已有當地具名據點的品牌，不再只把某些品牌排前、其餘照列而讓人誤以為都在當地。品牌頁、引導與城市頁互通。
+- 官方店表支持地址與店型，不保證照片款式或現貨；真人穿搭作風格參考，代表單品來源、價格日期及版本範圍另列。持續使用既有免費靜態部署，0付費。

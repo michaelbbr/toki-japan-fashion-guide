@@ -222,3 +222,6 @@ Primary public sources, title/item/photo binding, market/classification exceptio
 Every new product keeps its exact primary Japan brand/retailer URL, identifier, photograph and checked date in data/extended-edition.json. Independent outfit provenance, direction and historical credits are in data/photo-directions.json and [the image ledger](docs/150-brand-image-ledger-2026-10-15.md). Legacy name union is retained in data/brand-retention.json; old FTI is not loaded publicly.
 
 Japan retail entry: [ISETAN MEN’S THE ROW](https://www.imn.jp/brand/the-row) and [Supreme official stores](https://supreme.com/stores?slide=modal). Global product prices are not Japan prices.
+
+## 城市購物導覽 — 2026-10-16
+主要城市與具名門市、ARKnets 分店、山と道新址、富山 Goldwin 已知與未知，見 [官方來源與主張稽核](docs/city-shopping-sources-2026-10-16.md)。每筆店址保留來源及原查核日期；品牌穿搭與具名單品資料分開，門市名冊不視為即時庫存。

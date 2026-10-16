@@ -108,3 +108,11 @@
 - Live homepage shows the single guided entry and 150-brand link. Live men’s Athleisure shows exactly 6 entries, with all 6 photos loaded and matching 455px image heights; GU and BEAMS absent. Public SHINYAKOZUKA search returns 1 and its outfit photo loaded; 山跟道 search returns 1.
 - Browser log warnings observed were from a separately installed browser extension; no TOKI source warning/error observed in that log sample. This is a bounded manual inspection, not a claim to automated or exhaustive browser coverage.
 - Screenshot: ../outputs/toki-japan-fashion-guide/brands-150-home-live-2026-10-15.png. Existing static Hobby deployment retained; no paid plan, domain, provider, API or purchase added. Some women-specific outfit photos and full nationwide store coverage remain explicitly pending.
+
+## 城市購物入口 — 2026-10-16
+- 首頁改為選旅行城市，六大城市東京／大阪／京都／福岡／名古屋／札幌；宇都宮 ARKnets 與鎌倉山と道另放目的型逛店。完整150品牌／標籤保留，8個城市獨立頁，共32個具名門市／櫃位。
+- 城市先顯示少量入門起點，每店有穿搭、差異、先看什麼、地址、官方與免費地圖入口。東京深入街區選項收合；代表單品展開才出現真實照片、款名、樣本價格與原查核日。
+- 引導目的地收斂為已有具名內容的8個目的地與不限；指定地區只配對有已核對當地門市的品牌。品牌頁與引導互連城市地址；保留服裝性別與舊地區網址相容。
+- 官方查證：山と道鎌倉現址為由比濱2-5-19，現列金土日11–18。ARKnets依ARK／RIPE／Pier Lounge／DEAR分開，女裝篩選只出DEAR。富山Goldwin公司／研發背景未當作可逛門市，未知零售資訊留收合說明。
+- 本機人工檢查：一般桌機首頁→東京→青山直接定位COS與AURALEE；390×844手機首頁、東京男裝結果、真實單品圖與來源。結果頂端y≈137，頁寬375／內容375無橫向溢出。女裝神宮前無結果→保留女裝恢復全城7店；舊hokkaido+goldwin+men網址導至札幌1店；東京引導只找到10個有據點的品牌／標籤。頁面error log空。
+- 建置185靜態路由／150指南／0函式；未新增或執行自動化測試。使用者免費條件維持；公開部署檢查待本節後續紀錄。規劃與查證見docs/city-shopping-plan-2026-10-16.md、docs/city-shopping-sources-2026-10-16.md。

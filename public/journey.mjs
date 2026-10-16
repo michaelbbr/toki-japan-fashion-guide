@@ -56,7 +56,7 @@ if(root){
    const categoryPieces=b.pieces.filter(p=>categoryMatches(p,v.category)&&(v.gender==='all'||p.audience.includes(v.gender)));
    const samples=categoryPieces.filter(p=>Number.isFinite(p.price)&&(v.gender==='all'||p.audience.includes(v.gender))&&!/歷史|202[0-5]|舊型|套組/.test(p.role+' '+p.priceNote));
    const budget=v.budget==='all'||samples.some(p=>budgetMatch(p.price,v.budget));
-   const match=gender&&style&&budget&&(v.category==='all'||categoryPieces.length>0);
+   const match=gender&&style&&budget&&(v.city==='all'||b.cities.includes(v.city))&&(v.category==='all'||categoryPieces.length>0);
    const matchedPiece=v.budget==='all'?categoryPieces[0]:samples.find(p=>budgetMatch(p.price,v.budget));
    const copy=originalCopy.get(el);
    el.querySelector('.sample-price').textContent=matchedPiece?(Number.isFinite(matchedPiece.price)?'參考單品價格：'+matchedPiece.name+' ¥'+matchedPiece.price.toLocaleString('en-US'):'這款的日本價格請見官方'):copy.price;
@@ -66,14 +66,14 @@ if(root){
    el.hidden=!match||shown>=limit;
    if(!el.hidden){shown++;el.querySelector('[data-trip-reason]').textContent='符合：'+labels.gender[v.gender]+' · '+labels.style[v.style]+(v.category!=='all'?' · '+labels.category[v.category]:'')+(v.budget!=='all'?' · '+samples.filter(p=>budgetMatch(p.price,v.budget)).map(p=>p.name+' ¥'+p.price.toLocaleString('en-US')).join('；'):'');}
    const shop=el.querySelector('[data-trip-store]');
-   if(shop){shop.href='/areas?brand='+encodeURIComponent(b.id)+(b.cities.includes(v.city)?'&city='+v.city:'');shop.textContent=b.cities.includes(v.city)?labels.city[v.city]+'有本站已核對據點 →':'看本站已收錄據點 →';}
+   if(shop){shop.href='/areas?brand='+encodeURIComponent(b.id)+(b.cities.includes(v.city)?'&city='+v.city:'')+(v.gender==='all'?'':'&gender='+v.gender);shop.textContent=b.cities.includes(v.city)?labels.city[v.city]+'有本站已核對據點 →':'看本站已收錄據點 →';}
   }
   root.querySelector('#trip-summary').textContent=keys.map(k=>labels[k][v[k]]).join(' / ')+'。找到 '+total+' 個品牌，目前顯示 '+shown+' 個。';
   root.querySelector('#trip-empty').hidden=total!==0;
   root.querySelector('#trip-more').hidden=shown>=total;
   const params=new URLSearchParams();for(const key of ['style','category','budget'])if(v[key]!=='all')params.set(key,v[key]);
   root.querySelector('#trip-all').href=(v.gender==='all'?'/brands':'/'+v.gender)+(params.size?'?'+params:'');
-  root.querySelector('#trip-area').href='/areas'+(allowed.city.includes(v.city)&&!['all','other'].includes(v.city)?'?city='+v.city:'');
+  const areaParams=new URLSearchParams();if(allowed.city.includes(v.city)&&v.city!=='all')areaParams.set('city',v.city);if(v.gender!=='all')areaParams.set('gender',v.gender);root.querySelector('#trip-area').href='/areas'+(areaParams.size?'?'+areaParams:'');
   if(write)save(true);
   if(focus){root.querySelector('#trip-result-title').focus({preventScroll:true});results.scrollIntoView({block:'start',behavior:'instant'});}
  }

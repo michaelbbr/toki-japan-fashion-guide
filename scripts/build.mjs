@@ -4,6 +4,8 @@ import {brands,styles,articles,releases,checkedAt} from '../data/catalog.mjs';
 import {escapeHtml as e} from '../src/domain.mjs';
 import {shell,photo,outfitPhoto,lookFor,firstLook,brandCard,pieceCard,directory,styleCards,relationshipRows,lead,sectionHead,routeLink,sourceLink,yen,tags} from '../src/view.mjs';
 import {startHero,familyHub,familyPage,areasPage} from '../src/discovery.mjs';
+import {cityGuide,brandCityLinks} from '../src/city-guide.mjs';
+import {shoppingCities,shoppingStores,citySlug} from '../data/shopping-guides.mjs';
 import {travelFinder} from '../src/journey.mjs';
 import {outfits} from '../data/outfits.mjs';
 import {familyGuides} from '../data/label-guide.mjs';
@@ -19,11 +21,13 @@ for(const b of brands){
  if(!b.styles.length || !b.audience.length || !b.pieces.length)throw new Error('Incomplete brand: '+b.id);
  for(const p of b.pieces)if(!p.sku || !p.source.startsWith('https://') || !p.image.startsWith('https://'))throw new Error('Missing product/photo provenance: '+b.id);
 }
+for(const s of shoppingStores){if(!s.audience?.length||!s.difference||!s.buy||!s.source.startsWith('https://')||!s.address)throw new Error('Incomplete shopping store: '+s.id);for(const id of s.brands)if(!byId.has(id))throw new Error('Unknown store brand: '+id);}
+for(const c of shoppingCities)for(const id of c.start)if(!shoppingStores.some(s=>s.id===id&&s.city===c.id))throw new Error('Unknown city starter: '+id);
 const pages=new Map();
 const add=(url,title,description,body,active)=>pages.set(url,shell(title,description,url,body,active));
 function journals(){return `<div class="journal-grid">${articles.map(a=>`<a class="journal-card" href="/journal/${a.slug}"><p class="eyebrow">${e(a.eyebrow)} · ${e(a.readTime)}</p><h3>${e(a.title)}</h3><p>${e(a.intro)}</p><span class="text-link">閱讀筆記 →</span></a>`).join('')}</div>`;}
 
-add('/','去日本買衣服，先找到喜歡的品牌','去日本買衣服的品牌指南：從穿搭、預算與目的地找到想逛的品牌。',startHero());
+add('/','去日本，知道去哪逛、買什麼','先選東京、大阪、京都、福岡、名古屋或札幌，認識品牌差別、值得看的衣服與實際店址。',startHero());
 add('/start','五步找到想逛的日本品牌','依服裝類型、想買品類、單件日圓預算、旅遊地區與穿衣喜好挑選品牌。',travelFinder(true),'start');
 add('/brands','日本可買品牌索引','認識在日本可買到的品牌、先看什麼單品，以及官方購物入口。',lead('BEFORE YOUR JAPAN TRIP','去日本，<em>有哪些品牌可以逛？</em>',`收錄 ${brands.length} 個品牌與標籤。包含日本品牌、國際品牌與小眾設計師。從常穿的衣服、單件預算開始看。` )+`<div class="wrap audience-links">${routeLink('/brands','全部品牌')}${routeLink('/men','男裝')}${routeLink('/women','女裝')}</div>`+directory(),'brands');
 for(const g of ['men','women']){
@@ -40,7 +44,7 @@ for(const b of brands){
 <section id="about"><p class="eyebrow">GET TO KNOW</p><h2>把品牌放回日常。</h2><p>${e(b.intro)}</p><h3>誰可以從這裡開始？</h3><p>${e(b.why)}</p><ul class="focus-list">${b.look.map((t,i)=>`<li ${i===0?'data-look-choices="'+e(JSON.stringify(Object.fromEntries(['all','men','women'].map(g=>[g,firstLook(b,g)]))))+'"':''}>${e(t)}</li>`).join('')}</ul></section>
 <section id="prices"><p class="eyebrow">PRICE NOTES</p><h2>價格，跟著單品看。</h2><p class="notice">具名樣本不代表全品牌價格；是否與上方照片同款，請看商品名稱。</p><div class="price-list">${b.samples.length?b.samples.map(s=>`<div data-price-audience="${e((s.audience||[]).join(' '))}"><div><h3>${e(s.name)}</h3><p>${e(s.note)} · 查核 ${e(s.checkedAt||'2026-10-14')}</p>${sourceLink(s.url,'價格來源')}</div><strong>${yen(s.price)}</strong></div>`).join(''):'<p>日本價格尚未核實，請開啟官方商品頁確認。</p>'}</div></section>
 ${b.relationships.length?`<section id="relationships"><p class="eyebrow">BRAND, LABEL OR COLLABORATION?</p><h2>支線與名稱，怎麼分？</h2>${relationshipRows(b)}</section>`:''}
-<section id="buying"><p class="eyebrow">SHOP IN JAPAN</p><h2>想試穿，再安排逛店。</h2><p>${e(b.shopping)}</p>${sourceLink(b.shop,'官方購物／店舖入口','button light')}<p class="notice">門市、商品範圍、售價與庫存，出發前請再確認。${routeLink('/shopping','日本逛店指南')}</p></section>
+<section id="buying"><p class="eyebrow">SHOP IN JAPAN</p><h2>想試穿，再安排逛店。</h2>${brandCityLinks(b)}<p>${e(b.shopping)}</p>${sourceLink(b.shop,'官方購物／店舖入口','button light')}<p class="notice">門市、商品範圍、售價與庫存，出發前請再確認。${routeLink('/shopping','日本逛店指南')}</p></section>
 <section id="fit"><p class="eyebrow">FIT NOTES</p><h2>尺寸從實寸開始。</h2><p>${e(b.fitAdvice)}</p></section>
 ${related.length?`<section><p class="eyebrow">KEEP EXPLORING</p><h2>沿著喜歡的方向，繼續看。</h2><div class="related-list">${related.map(r=>routeLink('/brands/'+r.id,`<strong>${e(byId.get(r.id).name)}</strong><span>${e(r.reason)}</span>`)).join('')}</div><p class="notice">編輯探索建議，非隸屬或人氣排名。</p></section>`:''}
 <section class="source-list"><details><summary>本頁來源與圖片說明</summary><ul>${b.sources.map(s=>`<li>${sourceLink(s.url,s.label)}</li>`).join('')}${b.pieces.map(p=>`<li>${sourceLink(p.source,p.originalName+' · 商品與圖片')}</li>`).join('')}</ul><p>原創整理與編輯選品；照片由具名官方／品牌銷售來源載入，權利屬原權利人。圖片不保證現貨，也不等同作者實穿。</p></details></section></div></div>`,'brands');
@@ -48,7 +52,8 @@ ${related.length?`<section><p class="eyebrow">KEEP EXPLORING</p><h2>沿著喜歡
 add('/relationships','品牌支線怎麼選','從穿著需求理解 BEAMS 等品牌的標籤差別。',familyHub(),'relationships');
 for(const [id,g] of Object.entries(familyGuides))add('/relationships/'+id,g.title,g.summary,familyPage(id),'relationships');
 add('/brands/beams/labels','BEAMS 完整標籤指南','14 個入門選擇與 35 項官方名稱索引。',familyPage('beams'),'relationships');
-add('/areas','按地區找日本品牌與門市','按城市、街區與品牌尋找首批已核實的門市。',areasPage(),'areas');
+add('/areas','按城市安排日本服飾逛店','主要城市的品牌差別、值得看的衣服、已核對店址，另有宇都宮 ARKnets 和鎌倉山と道。',areasPage(),'areas');
+for(const c of shoppingCities)add('/areas/'+citySlug(c),'去'+c.name+'，可以逛哪些服飾品牌？',c.intro,cityGuide(c),'areas');
 add('/compare','品牌探索比較','依用途與完整標籤比較品牌，品類與價格樣本分開看。',lead('READ THE DIFFERENCE','看起來都喜歡，<em>怎麼選？</em>','先比較探索方式，再挑同類單品；以下是編輯建議，沒有品牌總分。')+`<section class="wrap section"><div class="comparison"><div class="compare-head"><span>第一次逛選貨店</span><a href="/brands/beams">BEAMS</a><a href="/brands/united-arrows">UNITED ARROWS</a></div>${[['品牌類型','選貨店／自有品牌','選貨店／自有品牌'],['編輯探索方向','休閒、層次與多種標籤','簡潔日常與通勤用途'],['先看什麼','完整標籤與常穿的上衣','主品牌與同用途的服裝'],['價格怎麼比','同品類、同購買單位','同品類、同購買單位']].map(row=>`<div class="compare-row">${row.map(t=>`<span>${t}</span>`).join('')}</div>`).join('')}</div><p class="notice">T-shirt、針織、外套與套組不混作品牌高低排名。</p></section>`);
 add('/shopping','日本逛店指南','從想看的單品與官方店型，整理日本旅行購物清單。',lead('TAKE YOUR STYLE TO JAPAN','把喜歡的品牌，<em>放進下一趟旅行。</em>','先記下想試的單品，再核對店舖、完整標籤與服裝範圍。')+`<section class="wrap section shopping-grid"><article><p class="eyebrow">01 / BEFORE YOU GO</p><h2>挑三個想看的品牌。</h2><p>品牌、日文品名、貨號與預算，讓清單更具體。</p>${routeLink('/pieces','認識代表單品')}</article><article><p class="eyebrow">02 / CHECK THE STORE</p><h2>先確認店型。</h2><p>男裝／女裝、服裝／裝備與販售標籤分開核對。</p>${routeLink('/relationships','看懂品牌與標籤')}</article><article><p class="eyebrow">03 / YOUR OWN ROUTE</p><h2>按城市與街區找門市。</h2><p>核對官方位置、交通方式與營業時間，安排符合旅程的動線。</p>${routeLink('/areas','按地區找門市')}</article></section><section class="wrap section">${sectionHead('OFFICIAL ENTRY POINTS','從官方入口核對店舖。')}<div class="store-links">${brands.map(b=>`<div><a href="/brands/${b.id}">${e(b.name)}</a>${sourceLink(b.shop,'購物／店舖入口')}</div>`).join('')}</div></section>`,'shopping');
 add('/releases','新品筆記','官方新品日期與消息，保留查核日。',lead('NEW & NOTED','新品消息，<em>保留確認的日期。</em>','以日本時間 JST 表示；日期已過不代表目前有貨。')+`<section class="wrap section release-list">${releases.map(r=>`<article><div class="release-date"><span>${r.date?'官方公布日期':'日期未公布'}</span><strong>${r.date?r.date.slice(5,10).replace('-',' / '):'TBA'}</strong><small>${e(r.dateLabel)}</small></div><div><p class="eyebrow">${e(byId.get(r.brand).name)}</p><h2>${e(r.name)}</h2><p>${e(r.note)}</p>${sourceLink(r.url,'官方消息')}<p class="tiny">消息查核 ${r.checkedAt||'2026-10-14'}</p></div></article>`).join('')}</section>`);

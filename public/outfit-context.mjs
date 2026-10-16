@@ -9,6 +9,7 @@ export function applyOutfitContext(root,gender){
   if(source){source.hidden=!look;let a=source.querySelector('a');if(look){if(!a){a=document.createElement('a');a.target='_blank';a.rel='noopener noreferrer';a.className='text-link';a.textContent='穿搭照片來源 ↗';source.append(a);}a.href=look.source;}}
  }
  for(const a of root.querySelectorAll('[data-brand-guide]')){const u=new URL(a.href);if(g==='all')u.searchParams.delete('gender');else u.searchParams.set('gender',g);a.href=u.pathname+u.search+u.hash;}
+ for(const a of root.querySelectorAll('[data-shop-audience]'))a.hidden=g!=='all'&&!a.dataset.shopAudience.split(' ').includes(g);
  for(const a of root.querySelectorAll('.tags a')){const u=new URL(a.href);if(u.searchParams.has('style')){u.pathname=g==='all'?'/brands':'/'+g;a.href=u.pathname+u.search+u.hash;}}
  for(const text of root.querySelectorAll('[data-look-choices]'))text.textContent=JSON.parse(text.dataset.lookChoices)[g];
  const pieces=[...root.querySelectorAll('.brand-piece-list [data-piece-audience]')];

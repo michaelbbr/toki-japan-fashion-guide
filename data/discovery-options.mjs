@@ -36,15 +36,10 @@ export const extraStyleTags={
  smart:['united-arrows','unitedtokyo','publictokyo','mila-owen','ships','greenlabel','beautyandyouth','demiluxebeams','effebeams','beamsf','brilla_per_il_gusto','coen','iena','edifice'],
  girly:['snidel','lilybrown','lowrysfarm','rhodolirion','frayid','celford','raybeams']
 };
+// Curated trip destinations with concrete shopping guides; legacy IDs remain stable.
 export const prefectureGroups=[
- ['北海道',[['hokkaido','北海道（札幌・小樽等）']]],
- ['東北',[['aomori','青森'],['iwate','岩手'],['miyagi','宮城（仙台）'],['akita','秋田'],['yamagata','山形'],['fukushima','福島']]],
- ['關東',[['tokyo','東京'],['kanagawa','神奈川（橫濱・箱根）'],['chiba','千葉'],['saitama','埼玉'],['ibaraki','茨城'],['tochigi','栃木'],['gunma','群馬']]],
- ['中部',[['niigata','新潟'],['toyama','富山'],['ishikawa','石川（金澤）'],['fukui','福井'],['yamanashi','山梨'],['nagano','長野'],['gifu','岐阜'],['shizuoka','靜岡'],['aichi','愛知（名古屋）'],['mie','三重']]],
- ['關西',[['shiga','滋賀'],['kyoto','京都'],['osaka','大阪'],['hyogo','兵庫（神戶）'],['nara','奈良'],['wakayama','和歌山']]],
- ['中國・四國',[['tottori','鳥取'],['shimane','島根'],['okayama','岡山'],['hiroshima','廣島'],['yamaguchi','山口'],['tokushima','德島'],['kagawa','香川（高松）'],['ehime','愛媛'],['kochi','高知']]],
- ['九州',[['fukuoka','福岡（博多・天神）'],['saga','佐賀'],['nagasaki','長崎'],['kumamoto','熊本'],['oita','大分'],['miyazaki','宮崎'],['kagoshima','鹿兒島']]],
- ['沖繩',[['okinawa','沖繩（那霸等）']]]
+ ['主要城市',[['tokyo','東京'],['osaka','大阪'],['kyoto','京都'],['fukuoka','福岡'],['aichi','名古屋'],['hokkaido','札幌（北海道）']]],
+ ['為了這家店去',[['tochigi','宇都宮・栃木（ARKnets）'],['kamakura','鎌倉（山と道）']]]
 ];
 export const destinations=prefectureGroups.flatMap(([region,list])=>list.map(([id,name])=>({id,name,region})));
 export function budgetOptions(category){
