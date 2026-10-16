@@ -127,3 +127,7 @@
 - 新增/budget：服裝類別→品類→同品類單件日圓預算，使用既有budgetOptions與品牌篩選，進入結果直接定位；男裝不提供裙裝／洋裝。150指南、8城市、32據點與五步引導保留。
 - 本機人工檢視：桌機四入口2×2；390×844手機單欄四入口都在初始畫面可見，內容375px／頁寬375px無橫向溢出。男裝T-shirt選3000-6000進入/men?category=tshirt&budget=3000-6000#brand-results，找到1個有核實樣本的品牌。價格樣本不代表全品牌價帶或現貨。
 - 建置186路由／150指南／0函式。未新增或執行自動化測試；無新增依賴、付費API或服務。規劃docs/landing-four-entries-2026-10-16.md；公開頁檢查另記。
+
+### LP 四入口已上線
+- 內容提交14c33a45592774b479e1b514486db027a545334d；Vercel部署7aoRMqtCCH69sKBsVAMGrEGifpjD success。正式首頁已人工確認四個入口，1440px無橫向溢出。公開/budget選外套後顯示低於10000／10000-20000／20000-40000／40000以上的日圓單件預算，error log空。
+- 正式畫面證據evidence/landing-four-entries-production-2026-10-16.png（本機保存）。網址https://toki-japan-fashion-guide.vercel.app/ 。維持原免費靜態專案；150品牌與標籤完整保留。
