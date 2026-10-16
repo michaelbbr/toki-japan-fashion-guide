@@ -131,3 +131,9 @@
 ### LP 四入口已上線
 - 內容提交14c33a45592774b479e1b514486db027a545334d；Vercel部署7aoRMqtCCH69sKBsVAMGrEGifpjD success。正式首頁已人工確認四個入口，1440px無橫向溢出。公開/budget選外套後顯示低於10000／10000-20000／20000-40000／40000以上的日圓單件預算，error log空。
 - 正式畫面證據evidence/landing-four-entries-production-2026-10-16.png（本機保存）。網址https://toki-japan-fashion-guide.vercel.app/ 。維持原免費靜態專案；150品牌與標籤完整保留。
+
+## 東京完整結果與 LP 主視覺 — 2026-10-16
+- 修正東京男裝預設只剩2店根因：starter改為all；無district參數的舊直連會列完整符合結果。只看入門需主動選，寫入district=starter，重新整理後仍保留。城市入口直接定位結果。
+- 10個新具名東京門市：BEAMS PLUS、COMOLI、FREAK’S STORE、UNITED ARROWS、DSM、UNIQLO、MUJI、ATON、Nike、Patagonia。東京22據點／男裝20／女裝16；總42，既有32保留，150品牌指南全數保留。Nike採現行官網1-13-14原宿Quest1F。來源docs/tokyo-store-expansion-sources-2026-10-16.md。
+- LP保留四入口，改左右編輯構圖、真人男女穿搭、等高430px照片與來源、清楚層次；手機先看四選項，照片接續在下方。
+- 本機人工檢查：/areas/tokyo?gender=men#city-results直接20店，焦點在結果、y≈137；自選starter→2店→重新整理保留→切all回20。桌機兩張官方照片成功載入且等高；390×844手機四入口在初始畫面可見。186路由／150指南／0函式建置成功；未新增或執行自動化測試。公開檢查另記。

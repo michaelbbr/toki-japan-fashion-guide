@@ -225,3 +225,6 @@ Japan retail entry: [ISETAN MEN’S THE ROW](https://www.imn.jp/brand/the-row) a
 
 ## 城市購物導覽 — 2026-10-16
 主要城市與具名門市、ARKnets 分店、山と道新址、富山 Goldwin 已知與未知，見 [官方來源與主張稽核](docs/city-shopping-sources-2026-10-16.md)。每筆店址保留來源及原查核日期；品牌穿搭與具名單品資料分開，門市名冊不視為即時庫存。
+
+## 東京門市擴充 — 2026-10-16
+新增10個具名官方門市／櫃位與Nike現行店址修正，見 [東京查證表](docs/tokyo-store-expansion-sources-2026-10-16.md)。東京22筆、男裝20／女裝16；原32據點保留。LP圖片沿用已核對AURALEE男裝／CLANE女裝官方穿搭來源，不推論人氣。

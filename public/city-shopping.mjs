@@ -11,7 +11,7 @@ if(guide){
   brand=p.get('brand');
   const selectedRoute=routes.find(a=>new URL(a.href).searchParams.get('route')===p.get('route'));
   routeIds=selectedRoute?JSON.parse(selectedRoute.dataset.cityRoute):null;
-  const d=p.get('district')||(brand||routeIds?'all':'starter');
+  const d=p.get('district')||'all';
   district.value=[...district.options].some(o=>o.value===d)?d:'all';
  }
  function apply(write=false,focus=false){
@@ -28,11 +28,11 @@ if(guide){
   if(selectedRoute){if(!routeOption){routeOption=document.createElement('option');routeOption.value='route';routeOption.dataset.activeRoute='';district.append(routeOption);}routeOption.textContent=selectedRoute.querySelector('strong').textContent.replace(' →','');district.value='route';}
   else if(routeOption){routeOption.remove();if(!district.value)district.value='all';}
   const nextStep=guide.querySelector('.city-more a'),nextUrl=new URL(nextStep.href);if(gender.value==='all')nextUrl.searchParams.delete('trip-gender');else nextUrl.searchParams.set('trip-gender',gender.value);nextStep.href=nextUrl.pathname+nextUrl.search;
-  heading.textContent=selectedRoute?selectedRoute.querySelector('strong').textContent.replace(' →','')+'，從這裡逛。':brand?'這個品牌，去哪裡逛？':district.value==='starter'?'第一次，從這裡開始。':district.value==='all'?'這座城市，還可以逛這些店。':district.value+'，可以逛什麼？';
+  heading.textContent=selectedRoute?selectedRoute.querySelector('strong').textContent.replace(' →','')+'，從這裡逛。':brand?'這個品牌，去哪裡逛？':district.value==='starter'?'第一次，從這裡開始。':district.value==='all'?guide.dataset.cityName+'，可以逛這些店。':district.value+'，可以逛什麼？';
   count.textContent='找到 '+total+' 個已整理逛店起點'+(gender.value==='all'?'':' · '+(gender.value==='men'?'男裝':'女裝'));
   guide.querySelector('.city-shopping-empty').hidden=total!==0;
   guide.querySelector('#city-shopping-all').hidden=!brand&&!routeIds&&district.value==='all';
-  if(write){const p=new URLSearchParams();if(gender.value!=='all')p.set('gender',gender.value);if(brand)p.set('brand',brand);if(selectedRoute)p.set('route',new URL(selectedRoute.href).searchParams.get('route'));else if(district.value!=='starter')p.set('district',district.value);const next=location.pathname+(p.size?'?'+p:'')+'#city-results';if(next!==location.pathname+location.search+location.hash)history.pushState({},'',next);}
+  if(write){const p=new URLSearchParams();if(gender.value!=='all')p.set('gender',gender.value);if(brand)p.set('brand',brand);if(selectedRoute)p.set('route',new URL(selectedRoute.href).searchParams.get('route'));else if(district.value!=='all')p.set('district',district.value);const next=location.pathname+(p.size?'?'+p:'')+'#city-results';if(next!==location.pathname+location.search+location.hash)history.pushState({},'',next);}
   if(focus){results.focus({preventScroll:true});results.scrollIntoView({block:'start',behavior:'instant'});}
  }
  form.addEventListener('submit',event=>{event.preventDefault();apply(true,true);});

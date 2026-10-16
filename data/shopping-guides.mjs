@@ -1,4 +1,5 @@
 import {stores as previousStores} from './areas.mjs';
+import {extraTokyoStores} from './tokyo-stores.mjs';
 export const shoppingCheckedAt='2026-10-16';
 const both=['men','women'];
 const profiles={
@@ -52,9 +53,9 @@ const newStores=[
  store('yamatomichi-kamakura','yamatomichi','kamakura','由比濱','山と道 鎌倉','神奈川県鎌倉市由比ヶ浜2丁目5-19','https://www.yamatomichi.com/stores/14741',{visit:'現行店址在由比濱，別導航至舊材木座店。官方現列金、土、日 11:00–18:00；臨時公告及活動規則另查。',hours:'金・土・日 11:00–18:00'})
 ];
 // Catalog links are limited to existing guides; the official scope text also names other stocked labels.
-export const shoppingStores=[...enriched,...newStores].map(s=>({...s,brand:s.brand==='daiwapier39'?'daiwa-pier39':s.brand,photo:s.photo==='daiwapier39'?'daiwa-pier39':s.photo,brands:s.brands.map(id=>id==='daiwapier39'?'daiwa-pier39':id==='arcteryx'?'arc-teryx':id).filter(id=>!['internationalgallerybeams','lemaire','maisonmargiela'].includes(id))}));
+export const shoppingStores=[...enriched,...newStores,...extraTokyoStores].map(s=>({...s,brand:s.brand==='daiwapier39'?'daiwa-pier39':s.brand,photo:s.photo==='daiwapier39'?'daiwa-pier39':s.photo,brands:s.brands.map(id=>id==='daiwapier39'?'daiwa-pier39':id==='arcteryx'?'arc-teryx':id).filter(id=>!['internationalgallerybeams','lemaire','maisonmargiela'].includes(id))}));
 export const shoppingCities=[
- {id:'tokyo',name:'東京',en:'TOKYO',major:true,teaser:'原宿入門、青山簡約、代官山機能',intro:'先從原宿幾家風格不同的店開始；喜歡簡約或設計感，再換一個街區深入逛。',start:['beams-harajuku','beams-women-harajuku','goldwin-harajuku'],routes:[['harajuku','原宿入門','日常休閒、女裝混搭、機能服，先比較三個方向。',['beams-harajuku','beams-women-harajuku','goldwin-harajuku']],['aoyama','青山・簡約','COS 與 AURALEE：都乾淨，從材質和剪裁看差別。',['cos-aoyama','auralee-tokyo']],['jingumae','神宮前・設計選貨','NEPENTHES 與 ENGINEERED GARMENTS，從混搭到工裝。',['nepenthes-tokyo','engineered-tokyo']],['daikanyama','代官山・日常機能','想把機能融入日常，從 nanamica 開始。',['nanamica-daikanyama']],['shinjuku','新宿','車站周邊選貨與 AURALEE 男女裝櫃位。',['beams-shinjuku','auralee-shinjuku-men','auralee-shinjuku-women']]]},
+ {id:'tokyo',name:'東京',en:'TOKYO',major:true,teaser:'原宿入門、青山簡約、代官山機能',intro:'從原宿、澀谷到青山與銀座，日常選貨、簡約設計、運動服與戶外品牌都能逛。先看全部店家，再按你要去的街區縮小範圍。',start:['beams-harajuku','beams-women-harajuku','goldwin-harajuku'],routes:[['harajuku','原宿入門','日常休閒、女裝混搭、機能服，先比較三個方向。',['beams-harajuku','beams-women-harajuku','beamsplus-harajuku','goldwin-harajuku','nike-harajuku']],['aoyama','青山・簡約','COS 與 AURALEE：都乾淨，從材質和剪裁看差別。',['cos-aoyama','auralee-tokyo','comoli-aoyama','aton-aoyama']],['jingumae','神宮前・設計選貨','NEPENTHES 與 ENGINEERED GARMENTS，從混搭到工裝。',['nepenthes-tokyo','engineered-tokyo']],['daikanyama','代官山・日常機能','想把機能融入日常，從 nanamica 開始。',['nanamica-daikanyama']],['shibuya','澀谷・日常與通勤','從 BEAMS、FREAK’S STORE 的休閒，看到 UNITED ARROWS 的俐落。',['beams-shibuya','freaks-shibuya','ua-shibuya','patagonia-shibuya']],['ginza','銀座・基本款與設計選貨','UNIQLO、無印良品與 DSM，按不同穿衣需求逛。',['uniqlo-ginza','muji-ginza','dsm-ginza']],['shinjuku','新宿','車站周邊選貨與 AURALEE 男女裝櫃位。',['beams-shinjuku','auralee-shinjuku-men','auralee-shinjuku-women']]]},
  {id:'osaka',name:'大阪',en:'OSAKA',major:true,teaser:'梅田選貨、女裝質感、京町堀設計',intro:'第一次可從梅田開始比較休閒與質感女裝；想看設計選貨再前往京町堀。這兩區分開安排交通。',start:['beams-umeda','auralee-umeda-women','nepenthes-osaka']},
  {id:'kyoto',name:'京都',en:'KYOTO',major:true,teaser:'三條日常、機能直營、五條輕量健行',intro:'三條周邊先看日常服與 Goldwin；對輕量健行有興趣，再另外安排五條的山と道。',start:['beams-kyoto','goldwin-kyoto','yamatomichi-kyoto']},
  {id:'fukuoka',name:'福岡',en:'FUKUOKA',major:true,teaser:'天神入門、大名機能、博多設計選貨',intro:'先比較天神的多標籤選貨和大名的日常機能；NEPENTHES HAKATA 在店屋町，需另外前往。',start:['beams-fukuoka','nanamica-fukuoka','nepenthes-hakata']},
