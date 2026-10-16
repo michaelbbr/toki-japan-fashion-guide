@@ -1,11 +1,12 @@
-import {cityLanding,cityIndex} from './city-guide.mjs';
+import {cityIndex} from './city-guide.mjs';
+import {landing} from './landing.mjs';
 import {brands} from '../data/catalog.mjs';
 import {beamsLabels,labelGroups,labelIndexSource,labelCheckedAt,familyGuides} from '../data/label-guide.mjs';
 import {escapeHtml as e} from './domain.mjs';
 import {sourceLink,routeLink,lead,sectionHead,photo,outfitPhoto} from './view.mjs';
 const byId=new Map(brands.map(b=>[b.id,b]));
 const scope=p=>p.audience.map(g=>({men:'男裝',women:'女裝',kids:'兒童／家庭'}[g])).join('／');
-export function startHero(){return cityLanding();}
+export function startHero(){return landing();}
 export function familyHub(){
  return lead('BRAND & LABEL GUIDE','同一個品牌，<em>哪條線適合你？</em>','先選你想了解的品牌。下一頁會說明各標籤的差別、適合從哪裡看，以及實際商品入口。')+`<section class="wrap family-hub"><div class="family-steps"><span><b>1</b> 選品牌</span><span><b>2</b> 看標籤差別</span><span><b>3</b> 看商品／找門市</span></div><div class="family-grid">${Object.entries(familyGuides).map(([id,g],i)=>`<a class="family-tile ${id==='beams'?'family-featured':''}" href="/relationships/${id}"><span class="eyebrow">${i===0?'第一次看 BEAMS，從這裡開始':'BRAND GUIDE'}</span><h2>${e(byId.get(id).name)}</h2><p>${e(g.summary)}</p><span class="family-meta">${e(g.hint)}</span><strong>${e(g.next)} →</strong></a>`).join('')}</div><p class="readable-note">各家族頁會標明收錄範圍；同公司品牌、合作線、面料與商品系列分開說明。</p></section>`;
 }

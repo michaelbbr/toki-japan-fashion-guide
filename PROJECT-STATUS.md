@@ -121,3 +121,9 @@
 - GitHub內容提交9209d9f3d87636e72b2c3478fb917d302b1fd29c，Vercel success，部署4wjULd8uKzvHJ9Kceo6w5JjzadVB。正式首頁 https://toki-japan-fashion-guide.vercel.app/ 與東京頁 https://toki-japan-fashion-guide.vercel.app/areas/tokyo 已人工查看；青山選擇直接定位COS與AURALEE，兩張真人照成功呈現，地址／地圖／來源可見，error log空。
 - 正式建置資訊185路由／150品牌與標籤／8城市頁／0函式。截圖evidence/city-shopping-production-tokyo-2026-10-16.png（本機證據，不公開入庫）。無付費功能、購買或升級。
 - 限制：32筆具名據點並非各城市完整門市名錄；樣本不保證現貨。尚無來源的女裝穿搭維持整理中，沒有借用男裝圖。富山Goldwin零售行程尚未核實，不提供公司地址作購物導航。
+
+## LP 四種探索方式 — 2026-10-16
+- 使用者最新要求取代首頁單一路線：用途說明＋按地區逛店、按預算找衣服、不知道怎麼選（逐步問答）、認識更多品牌四入口。首頁不再展開城市或地方選貨清單。
+- 新增/budget：服裝類別→品類→同品類單件日圓預算，使用既有budgetOptions與品牌篩選，進入結果直接定位；男裝不提供裙裝／洋裝。150指南、8城市、32據點與五步引導保留。
+- 本機人工檢視：桌機四入口2×2；390×844手機單欄四入口都在初始畫面可見，內容375px／頁寬375px無橫向溢出。男裝T-shirt選3000-6000進入/men?category=tshirt&budget=3000-6000#brand-results，找到1個有核實樣本的品牌。價格樣本不代表全品牌價帶或現貨。
+- 建置186路由／150指南／0函式。未新增或執行自動化測試；無新增依賴、付費API或服務。規劃docs/landing-four-entries-2026-10-16.md；公開頁檢查另記。

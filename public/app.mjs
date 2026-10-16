@@ -1,4 +1,5 @@
 import './city-shopping.mjs';
+import './budget-entry.mjs';
 import './journey.mjs';
 import {applyOutfitContext} from './outfit-context.mjs';
 import {budgetOptions} from './discovery-options.mjs';
