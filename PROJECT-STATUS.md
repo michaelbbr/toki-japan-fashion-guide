@@ -159,3 +159,8 @@
 - 圖片預設黑白，hover／focus顯原色；頁首可鍵盤／觸控切原色並保留本次瀏覽偏好。來源及原圖不變。無JS時顯原色；減少動態偏好取消動畫，按鈕至少48px、輸入保留焦點。
 - 本機人工檢視：桌機LP兩圖載入且同高405px，390×844手機375px無溢出，四入口下緣y708。原色Enter可切、換頁保留；手機選單可開。SHINYAKOZUKA長標題與真實商品圖無溢出；東京男裝20、運動休閒6、30,000多件男裝5樣本品牌，問答入口可見。error log空。
 - 186靜態路由／150指南／0函式建置成功，未新增或執行自動化測試；沒有安裝框架、依賴或付費服務。規劃docs/luxury-editorial-plan-2026-10-16.md；正式部署另記。
+
+### Luxury／Editorial 正式完成
+- 內容提交0309b0158b13e0a07fd8ea716f67af851a3016a2，Vercel部署6vQXDSEpbB7CJZZeA2vdt4LxpTx7 success。正式首頁人工確認黑白主視覺、四入口、等高405px兩圖成功載入；原色按鈕切換並跨頁保留，預算頁標題和東京男裝20店仍正常，error log空。
+- 正式390×844手機四入口下緣y708，內容375px無橫向溢出。截圖evidence/luxury-editorial-home-production-2026-10-16.png、evidence/luxury-editorial-mobile-production-2026-10-16.png；瀏覽器預覽尺寸已恢復。
+- 正式https://toki-japan-fashion-guide.vercel.app/ 。186路由／150品牌指南／42具名據點／0函式維持；沒有新增購買、升級或付費服務。這是有限範圍人工檢視，未新增或執行自動化測試。
