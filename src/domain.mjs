@@ -17,7 +17,7 @@ export function pieceKind(p){
  if(/skirt|スカート|裙子|長裙|短裙/.test(name))return 'skirt';
  if(/one.?piece|\bdress\b|ワンピース|洋裝|連身裙/.test(name)&&!/shirt|シャツ/.test(name))return 'dress';
  if(p.category==='bottoms')return 'bottoms';
- if(/sweat|\bt[\s-]?shirts?\b|\btee\b|ロンt|tシャツ|スウェット|衛衣|棉t/.test(name))return 'tshirt';
+ if(/sweat|hoodie|\bt[\s-]?shirts?\b|\btee\b|ロンt|tシャツ|スウェット|フーディ|パーカー|衛衣|棉t/.test(name))return 'tshirt';
  if(/knit|cardigan|ニット|カーディガン|針織|毛衣/.test(name)||p.category==='knitwear')return 'knitwear';
  if(/shirt|blouse|シャツ|ブラウス|襯衫|罩衫/.test(name))return 'shirt';
  return p.category;
@@ -28,7 +28,7 @@ export function categoryMatches(p,category='all'){
 
 export function matchBrand(brand, filters={}) {
   const q=(filters.q || '').normalize('NFKC').trim().toLocaleLowerCase();
-  const styleWords={city:'City Boy 城市日常 城市休閒',minimal:'Clean Minimal 簡約 質感',outdoor:'Outdoor 山系 機能 戶外',feminine:'City Girl 柔美 女性',street:'街頭 運動',workwear:'工裝 軍裝',americana:'美式 休閒',vintage:'復古 混搭',mode:'設計感 黑色系',natural:'自然 舒適',smart:'俐落 通勤',girly:'甜美 浪漫'};
+  const styleWords={city:'City Boy 城市日常 城市休閒',minimal:'Clean Minimal 簡約 質感',outdoor:'Outdoor 山系 機能 戶外',feminine:'City Girl 柔美 女性',street:'Street 街頭',athleisure:'Athleisure 運動休閒 瑜伽 運動服',workwear:'工裝 軍裝',americana:'美式 休閒',vintage:'復古 混搭',mode:'設計感 黑色系',natural:'自然 舒適',smart:'俐落 通勤',girly:'甜美 浪漫'};
   const hay=[brand.name,brand.jp,brand.tagline,...brand.aliases,...brand.styles.map(s=>styleWords[s] || s)].join(' ').normalize('NFKC').toLocaleLowerCase();
   if (q && !hay.includes(q)) return false;
   if (filters.shelf && filters.shelf!=='all' && brand.shelf!==filters.shelf) return false;

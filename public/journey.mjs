@@ -57,7 +57,7 @@ if(root){
    const samples=categoryPieces.filter(p=>Number.isFinite(p.price)&&(v.gender==='all'||p.audience.includes(v.gender))&&!/歷史|202[0-5]|舊型|套組/.test(p.role+' '+p.priceNote));
    const budget=v.budget==='all'||samples.some(p=>budgetMatch(p.price,v.budget));
    const match=gender&&style&&budget&&(v.category==='all'||categoryPieces.length>0);
-   const matchedPiece=v.category!=='all'?(v.budget==='all'?categoryPieces[0]:samples.find(p=>budgetMatch(p.price,v.budget))):null;
+   const matchedPiece=v.budget==='all'?categoryPieces[0]:samples.find(p=>budgetMatch(p.price,v.budget));
    const copy=originalCopy.get(el);
    el.querySelector('.sample-price').textContent=matchedPiece?(Number.isFinite(matchedPiece.price)?'參考單品價格：'+matchedPiece.name+' ¥'+matchedPiece.price.toLocaleString('en-US'):'這款的日本價格請見官方'):copy.price;
    el.querySelector('.travel-card-start').textContent=matchedPiece?'先看這件：'+matchedPiece.name:copy.start;

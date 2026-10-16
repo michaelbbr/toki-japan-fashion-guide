@@ -5,13 +5,16 @@ export const itemTypes=[
  {id:'bottoms',name:'褲子',note:'丹寧、休閒褲、西裝褲',cuts:[5000,10000,20000]},
  {id:'outerwear',name:'外套／大衣',note:'夾克、羽絨、大衣',cuts:[10000,20000,40000]},
  {id:'dress',name:'洋裝',note:'連身裙、連身洋裝',cuts:[8000,15000,30000]},
- {id:'skirt',name:'裙子',note:'長裙、短裙',cuts:[5000,10000,20000]}
+ {id:'skirt',name:'裙子',note:'長裙、短裙',cuts:[5000,10000,20000]},
+ {id:'shoes',name:'鞋子',note:'球鞋、戶外鞋與日常鞋履',cuts:[10000,20000,30000]},
+ {id:'bags',name:'包袋',note:'背包、托特包與肩背包',cuts:[10000,30000,60000]}
 ];
 export const styleOptions=[
- ['city','City Casual','城市休閒','寬鬆日常、襯衫與輕鬆層次。','beams','gu'],
+ ['city','City Casual','城市休閒','寬鬆日常、襯衫與輕鬆層次。','beams','muji'],
  ['minimal','Minimal','簡約乾淨','素色、簡潔線條與材質。','aton','muji'],
  ['outdoor','Outdoor','戶外機能','機能外套、口袋與戶外混搭。','mont-bell','andwander'],
- ['street','Street','街頭運動','運動輪廓、圖像與醒目配色。','needles','jeanasis'],
+ ['street','Street','街頭','圖像、寬鬆輪廓與街頭層次。','neighborhood','jeanasis'],
+ ['athleisure','Athleisure','運動休閒','衛衣、運動長褲與輕鬆活動的日常搭配。','lululemon','emmi'],
  ['workwear','Workwear','工裝軍裝','工作服、軍裝口袋與實用細節。','engineered','beamsboy'],
  ['americana','Americana','美式休閒','美式襯衫、丹寧、經典休閒。','beamsplus','rhodolirion'],
  ['vintage','Vintage Mix','復古混搭','復古配色與有年代感的搭配。','needles','lilybrown'],
@@ -23,7 +26,8 @@ export const styleOptions=[
 ].map(([id,name,zh,note,men,women])=>({id,name,zh,note,examples:{men,women,all:men||women},cell:1}));
 // Editorial discovery tags, not an official definition of every item from a brand.
 export const extraStyleTags={
- street:['beams','gu','jeanasis','rageblue','needles','south2','hare','beamsboy','raybeams'],
+ street:['jeanasis','rageblue','needles','south2','hare','raybeams'],
+ athleisure:['emmi'],
  workwear:['beams','engineered','south2','danton','gramicci','beamsboy','beamsplus','freaks-store','journal-standard'],
  americana:['beams','beamsplus','freaks-store','journal-standard','engineered','rhodolirion','ships','bayflow'],
  vintage:['needles','rhodolirion','lilybrown','nikoand','beamsboy','beamsplus','journal-standard','freaks-store'],

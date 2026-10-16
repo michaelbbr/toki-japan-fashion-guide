@@ -1,0 +1,4748 @@
+{
+  "checkedAt": "2026-10-15",
+  "brands": [
+    {
+      "id": "cos",
+      "profile": {
+        "name": "COS",
+        "jp": "コス",
+        "aliases": [
+          "COS"
+        ],
+        "styles": [
+          "minimal"
+        ],
+        "audience": [
+          "men",
+          "women"
+        ],
+        "audienceBasis": "editorial",
+        "type": "服飾品牌",
+        "tagline": "把簡潔輪廓與材質放在日常。",
+        "intro": "先比較針織、寬褲與襯衫的版型。喜歡乾淨穿搭，可把 COS 日本店作為試穿起點。",
+        "why": "先比較針織、寬褲與襯衫的版型。喜歡乾淨穿搭，可把 COS 日本店作為試穿起點。",
+        "look": [
+          "針織：カシミヤカーディガン",
+          "用具名款式與實寸比較，再決定要不要試穿",
+          "出發前確認日本門市及販售品類"
+        ],
+        "shopping": "從本頁的品牌／日本銷售通路入口確認款式與尺寸，再查實際店址及庫存。線上有列出不代表每個日本門市都有貨；本站未提供日本比其他地方便宜的保證。",
+        "official": "https://www.cos.com/ja-jp/",
+        "shop": "https://www.cos.com/ja-jp/",
+        "sources": [
+          {
+            "label": "品牌／日本銷售入口",
+            "url": "https://www.cos.com/ja-jp/men"
+          }
+        ],
+        "coverage": "product"
+      },
+      "pieces": [
+        {
+          "name": "カシミヤカーディガン",
+          "originalName": "カシミヤカーディガン",
+          "sku": "1338803001",
+          "kind": "knitwear",
+          "category": "knitwear",
+          "audience": [
+            "men"
+          ],
+          "role": "編輯入門選品",
+          "price": 35000,
+          "priceNote": "日本官方新著商品頁列價／含稅；同款來源另列",
+          "note": "具名商品／系列的真實圖片；為編輯認識品牌的入口，不宣稱全品牌銷量第一或現貨。",
+          "source": "https://www.cos.com/ja-jp/men/new-arrivals",
+          "image": "https://www.cos.com/ja-jp/photo/contents_block/plp_contents/Oct%2014th%20M%20New%20Arrivals/1338803001.jpg",
+          "credit": "www.cos.com 商品／系列圖片",
+          "checkedAt": "2026-10-15"
+        }
+      ],
+      "relationships": []
+    },
+    {
+      "id": "zara",
+      "profile": {
+        "name": "ZARA",
+        "jp": "ザラ",
+        "aliases": [
+          "ZARA"
+        ],
+        "styles": [
+          "city"
+        ],
+        "audience": [
+          "men",
+          "women"
+        ],
+        "audienceBasis": "editorial",
+        "type": "服飾品牌",
+        "tagline": "用不同輪廓，試出自己的穿法。",
+        "intro": "同樣是丹寧，直筒、寬版和喇叭褲的比例差很多；先在男裝或女裝專區挑輪廓，再看尺寸。",
+        "why": "同樣是丹寧，直筒、寬版和喇叭褲的比例差很多；先在男裝或女裝專區挑輪廓，再看尺寸。",
+        "look": [
+          "褲裝：STRAIGHT ANKLE FIT デニムパンツ",
+          "用具名款式與實寸比較，再決定要不要試穿",
+          "出發前確認日本門市及販售品類"
+        ],
+        "shopping": "從本頁的品牌／日本銷售通路入口確認款式與尺寸，再查實際店址及庫存。線上有列出不代表每個日本門市都有貨；本站未提供日本比其他地方便宜的保證。",
+        "official": "https://www.zara.com/jp/",
+        "shop": "https://www.zara.com/jp/",
+        "sources": [
+          {
+            "label": "品牌／日本銷售入口",
+            "url": "https://www.zara.com/jp/"
+          }
+        ],
+        "coverage": "product"
+      },
+      "pieces": [
+        {
+          "name": "STRAIGHT ANKLE FIT デニムパンツ",
+          "originalName": "STRAIGHT ANKLE FIT デニムパンツ",
+          "sku": "5585/358/727",
+          "kind": "bottoms",
+          "category": "bottoms",
+          "audience": [
+            "men"
+          ],
+          "role": "編輯入門選品",
+          "price": 10990,
+          "priceNote": "日本官方列價；圖片為該商品頁穿著示例",
+          "note": "具名商品／系列的真實圖片；為編輯認識品牌的入口，不宣稱全品牌銷量第一或現貨。",
+          "source": "https://www.zara.com/jp/ja/straight-ankle-fit-%E3%83%86%E3%82%99%E3%83%8B%E3%83%A0%E3%83%8F%E3%82%9A%E3%83%B3%E3%83%84-p05585358.html",
+          "image": "https://static.zara.net/assets/public/3641/cdf6/dd0c40318b02/c01c1d76e892/05585359727-p/05585359727-p.jpg?ts=1789487349606&w=2625",
+          "credit": "www.zara.com 商品／系列圖片",
+          "checkedAt": "2026-10-15"
+        }
+      ],
+      "relationships": []
+    },
+    {
+      "id": "miu-miu",
+      "profile": {
+        "name": "Miu Miu",
+        "jp": "ミュウミュウ",
+        "aliases": [
+          "Miu Miu"
+        ],
+        "styles": [
+          "feminine"
+        ],
+        "audience": [
+          "women"
+        ],
+        "audienceBasis": "editorial",
+        "type": "服飾品牌",
+        "tagline": "學院細節與有個性的女裝。",
+        "intro": "先看裙裝、針織與襯衫如何搭配；日本精品門市的售價與商品範圍請逐款確認。",
+        "why": "先看裙裝、針織與襯衫如何搭配；日本精品門市的售價與商品範圍請逐款確認。",
+        "look": [
+          "單品：ウォッシュドギャバジン スカート",
+          "用具名款式與實寸比較，再決定要不要試穿",
+          "出發前確認日本門市及販售品類"
+        ],
+        "shopping": "從本頁的品牌／日本銷售通路入口確認款式與尺寸，再查實際店址及庫存。線上有列出不代表每個日本門市都有貨；本站未提供日本比其他地方便宜的保證。",
+        "official": "https://www.miumiu.com/jp/ja.html",
+        "shop": "https://www.miumiu.com/jp/ja.html",
+        "sources": [
+          {
+            "label": "品牌／日本銷售入口",
+            "url": "https://www.miumiu.com/jp/ja.html"
+          }
+        ],
+        "coverage": "product"
+      },
+      "pieces": [
+        {
+          "name": "ウォッシュドギャバジン スカート",
+          "originalName": "ウォッシュドギャバジン スカート",
+          "sku": "MG2755_19LW_F0192_S_OOO",
+          "kind": "skirt",
+          "category": "bottoms",
+          "audience": [
+            "women"
+          ],
+          "role": "編輯入門選品",
+          "price": 291500,
+          "priceNote": "日本官方商品頁列價／含稅",
+          "source": "https://www.miumiu.com/jp/ja/p/%E3%82%A6%E3%82%A9%E3%83%83%E3%82%B7%E3%83%A5%E3%83%89%E3%82%AE%E3%83%A3%E3%83%90%E3%82%B8%E3%83%B3-%E3%82%B9%E3%82%AB%E3%83%BC%E3%83%88/MG2755_19LW_F0192_S_OOO",
+          "image": "https://www.miumiu.com/content/dam/miumiubkg_products/M/MG2/MG2755/19LWF0192/MG2755_19LW_F0192_S_OOO_SLF.jpg",
+          "credit": "www.miumiu.com 商品圖片",
+          "note": "以這款觀察品牌的剪裁與細節；為編輯探索選品，未宣稱是官方定番或銷量第一。",
+          "checkedAt": "2026-10-15"
+        }
+      ],
+      "relationships": []
+    },
+    {
+      "id": "the-row",
+      "profile": {
+        "name": "The Row",
+        "jp": "ザ・ロウ",
+        "aliases": [
+          "The Row"
+        ],
+        "styles": [
+          "minimal"
+        ],
+        "audience": [
+          "men",
+          "women"
+        ],
+        "audienceBasis": "editorial",
+        "type": "服飾品牌",
+        "tagline": "從安靜的線條，慢慢看質感。",
+        "intro": "適合想觀察簡約服裝剪裁的人。先看針織的垂墜、肩線與褲裝比例，再決定是否試穿。",
+        "why": "適合想觀察簡約服裝剪裁的人。先看針織的垂墜、肩線與褲裝比例，再決定是否試穿。",
+        "look": [
+          "T-shirt／衛衣：Markhim Sweater",
+          "用具名款式與實寸比較，再決定要不要試穿",
+          "出發前確認日本門市及販售品類"
+        ],
+        "shopping": "從本頁的品牌／日本銷售通路入口確認款式與尺寸，再查實際店址及庫存。線上有列出不代表每個日本門市都有貨；本站未提供日本比其他地方便宜的保證。",
+        "official": "https://www.therow.com/pages/stores",
+        "shop": "https://www.imn.jp/brand/the-row",
+        "sources": [
+          {
+            "label": "品牌／日本銷售入口",
+            "url": "https://www.therow.com/"
+          },
+          {
+            "label": "伊勢丹新宿官方品牌與樓層入口",
+            "url": "https://www.imn.jp/brand/the-row"
+          }
+        ],
+        "coverage": "product"
+      },
+      "pieces": [
+        {
+          "name": "Markhim Sweater",
+          "originalName": "Markhim Sweater",
+          "sku": "R001202Y120CCMS",
+          "kind": "tshirt",
+          "category": "tops",
+          "audience": [
+            "men"
+          ],
+          "role": "編輯入門選品",
+          "price": null,
+          "priceNote": "日本售價未核實，請見品牌日本入口",
+          "source": "https://www.therow.com/products/markhim-top-grey",
+          "image": "https://www.therow.com/cdn/shop/files/R001202Y120CCMF_342c1fb0-e2c3-4e50-a137-b8efcb31dc00_1024x.jpg?v=1784651109",
+          "credit": "www.therow.com 商品圖片",
+          "note": "以這款觀察品牌的剪裁與細節；為編輯探索選品，未宣稱是官方定番或銷量第一。",
+          "checkedAt": "2026-10-15"
+        }
+      ],
+      "relationships": []
+    },
+    {
+      "id": "coach",
+      "profile": {
+        "name": "COACH",
+        "jp": "コーチ",
+        "aliases": [
+          "COACH"
+        ],
+        "styles": [
+          "city"
+        ],
+        "audience": [
+          "men",
+          "women"
+        ],
+        "audienceBasis": "editorial",
+        "type": "服飾品牌",
+        "tagline": "皮革配件之外，也有成衣可看。",
+        "intro": "日本官網把男女裝與包款分開。逛街前先選成衣或皮件，正價店與 Outlet 的商品要分別確認。",
+        "why": "日本官網把男女裝與包款分開。逛街前先選成衣或皮件，正價店與 Outlet 的商品要分別確認。",
+        "look": [
+          "包袋：ゴッサム ジップ トート バッグ",
+          "用具名款式與實寸比較，再決定要不要試穿",
+          "出發前確認日本門市及販售品類"
+        ],
+        "shopping": "從本頁的品牌／日本銷售通路入口確認款式與尺寸，再查實際店址及庫存。線上有列出不代表每個日本門市都有貨；本站未提供日本比其他地方便宜的保證。",
+        "official": "https://japan.coach.com/",
+        "shop": "https://japan.coach.com/",
+        "sources": [
+          {
+            "label": "品牌／日本銷售入口",
+            "url": "https://japan.coach.com/"
+          }
+        ],
+        "coverage": "product"
+      },
+      "pieces": [
+        {
+          "name": "ゴッサム ジップ トート バッグ",
+          "originalName": "ゴッサム ジップ トート バッグ",
+          "sku": "CU116 BLK",
+          "kind": "bags",
+          "category": "bags",
+          "audience": [
+            "men"
+          ],
+          "role": "編輯入門選品",
+          "price": 88000,
+          "priceNote": "日本官方列價／含稅",
+          "note": "具名商品／系列的真實圖片；為編輯認識品牌的入口，不宣稱全品牌銷量第一或現貨。",
+          "source": "https://japan.coach.com/products/gotham-zip-tote-bag/CU116.html?frp=CU116+BLK",
+          "image": "https://coach.scene7.com/is/image/Coach/cu116_blk_a0?$desktopProduct$",
+          "credit": "japan.coach.com 商品／系列圖片",
+          "checkedAt": "2026-10-15"
+        }
+      ],
+      "relationships": []
+    },
+    {
+      "id": "arc-teryx",
+      "profile": {
+        "name": "Arc’teryx",
+        "jp": "アークテリクス",
+        "aliases": [
+          "Arc’teryx"
+        ],
+        "styles": [
+          "outdoor"
+        ],
+        "audience": [
+          "men",
+          "women"
+        ],
+        "audienceBasis": "editorial",
+        "type": "服飾品牌",
+        "tagline": "先分用途，再挑戶外外套。",
+        "intro": "想找山行或旅行外層，可從防護需求與活動量開始比較。戶外服裝與 VEILANCE 等系列需看完整名稱。",
+        "why": "想找山行或旅行外層，可從防護需求與活動量開始比較。戶外服裝與 VEILANCE 等系列需看完整名稱。",
+        "look": [
+          "外套：ARC’TERYX / Nuclei SV Parka",
+          "用具名款式與實寸比較，再決定要不要試穿",
+          "出發前確認日本門市及販售品類"
+        ],
+        "shopping": "從本頁的品牌／日本銷售通路入口確認款式與尺寸，再查實際店址及庫存。線上有列出不代表每個日本門市都有貨；本站未提供日本比其他地方便宜的保證。",
+        "official": "https://www.beams.co.jp/brand/000186/",
+        "shop": "https://www.beams.co.jp/brand/000186/",
+        "sources": [
+          {
+            "label": "品牌／日本銷售入口",
+            "url": "https://www.beams.co.jp/brand/000186/"
+          }
+        ],
+        "coverage": "product"
+      },
+      "pieces": [
+        {
+          "name": "ARC’TERYX / Nuclei SV Parka",
+          "originalName": "ARC’TERYX / Nuclei SV Parka",
+          "sku": "36180973729",
+          "kind": "outerwear",
+          "category": "outerwear",
+          "audience": [
+            "men"
+          ],
+          "role": "編輯入門選品",
+          "price": 84700,
+          "priceNote": "查核時日本通路列價；促銷與庫存以來源為準",
+          "source": "https://www.beams.co.jp/item/pilgrimsurfsupply/blouson/36180973729/?color=19",
+          "image": "https://cdn.beams.co.jp/img/goods/36180973729/O/36180973729_C_1.jpg",
+          "credit": "www.beams.co.jp 商品圖片",
+          "note": "以這款觀察品牌的剪裁與細節；為編輯探索選品，未宣稱是官方定番或銷量第一。",
+          "checkedAt": "2026-10-15"
+        }
+      ],
+      "relationships": []
+    },
+    {
+      "id": "salomon",
+      "profile": {
+        "name": "Salomon",
+        "jp": "サロモン",
+        "aliases": [
+          "Salomon"
+        ],
+        "styles": [
+          "outdoor"
+        ],
+        "audience": [
+          "men",
+          "women"
+        ],
+        "audienceBasis": "editorial",
+        "type": "服飾品牌",
+        "tagline": "從戶外鞋履，延伸到日常搭配。",
+        "intro": "先認識具名鞋款的鞋型與用途，再分辨越野、登山與日常穿搭選品；不以一雙鞋推定全品牌都是運動休閒服。",
+        "why": "先認識具名鞋款的鞋型與用途，再分辨越野、登山與日常穿搭選品；不以一雙鞋推定全品牌都是運動休閒服。",
+        "look": [
+          "鞋履：SALOMON / X-ALP MID LEATHER GORE-TEX（R）",
+          "用具名款式與實寸比較，再決定要不要試穿",
+          "出發前確認日本門市及販售品類"
+        ],
+        "shopping": "從本頁的品牌／日本銷售通路入口確認款式與尺寸，再查實際店址及庫存。線上有列出不代表每個日本門市都有貨；本站未提供日本比其他地方便宜的保證。",
+        "official": "https://www.beams.co.jp/brand/001446/",
+        "shop": "https://www.beams.co.jp/brand/001446/",
+        "sources": [
+          {
+            "label": "品牌／日本銷售入口",
+            "url": "https://www.beams.co.jp/brand/001446/"
+          }
+        ],
+        "coverage": "product"
+      },
+      "pieces": [
+        {
+          "name": "SALOMON / X-ALP MID LEATHER GORE-TEX（R）",
+          "originalName": "SALOMON / X-ALP MID LEATHER GORE-TEX（R）",
+          "sku": "11314846757",
+          "kind": "shoes",
+          "category": "shoes",
+          "audience": [
+            "men"
+          ],
+          "role": "編輯入門選品",
+          "price": 36300,
+          "priceNote": "查核時日本通路列價；促銷與庫存以來源為準",
+          "source": "https://www.beams.co.jp/item/beams/shoes/11314846757/?color=06",
+          "image": "https://cdn.beams.co.jp/img/goods/11314846757/O/11314846757_C_1.jpg",
+          "credit": "www.beams.co.jp 商品圖片",
+          "note": "以這款觀察品牌的剪裁與細節；為編輯探索選品，未宣稱是官方定番或銷量第一。",
+          "checkedAt": "2026-10-15"
+        }
+      ],
+      "relationships": []
+    },
+    {
+      "id": "shinyakozuka",
+      "profile": {
+        "name": "SHINYAKOZUKA",
+        "jp": "シンヤコヅカ",
+        "aliases": [
+          "SHINYAKOZUKA",
+          "Shinya Kozuka"
+        ],
+        "styles": [
+          "mode"
+        ],
+        "audience": [
+          "men"
+        ],
+        "audienceBasis": "editorial",
+        "type": "服飾品牌",
+        "tagline": "大份量輪廓與像畫一般的服裝。",
+        "intro": "第一次可先看寬褲與寬鬆襯衫，觀察褲管份量、衣長和圖案。是想從基本款走向設計感時值得比較的入口。",
+        "why": "第一次可先看寬褲與寬鬆襯衫，觀察褲管份量、衣長和圖案。是想從基本款走向設計感時值得比較的入口。",
+        "look": [
+          "襯衫：【26AW】ルーミー シャツ 長袖 チャック柄 シャツ / ROOMY SHIRT / ブラック - S",
+          "用具名款式與實寸比較，再決定要不要試穿",
+          "出發前確認日本門市及販售品類"
+        ],
+        "shopping": "從本頁的品牌／日本銷售通路入口確認款式與尺寸，再查實際店址及庫存。線上有列出不代表每個日本門市都有貨；本站未提供日本比其他地方便宜的保證。",
+        "official": "https://shinyakozuka.com/",
+        "shop": "https://shinyakozuka.com/",
+        "sources": [
+          {
+            "label": "品牌／日本銷售入口",
+            "url": "https://www.story.style/brands/136"
+          }
+        ],
+        "coverage": "product"
+      },
+      "pieces": [
+        {
+          "name": "【26AW】ルーミー シャツ 長袖 チャック柄 シャツ / ROOMY SHIRT / ブラック - S",
+          "originalName": "【26AW】ルーミー シャツ 長袖 チャック柄 シャツ / ROOMY SHIRT / ブラック - S",
+          "sku": "2602SK77",
+          "kind": "shirt",
+          "category": "tops",
+          "audience": [
+            "men"
+          ],
+          "role": "編輯入門選品",
+          "price": 49500,
+          "priceNote": "查核時日本通路列價；促銷與庫存以來源為準",
+          "source": "https://www.story.style/products/detail/14563",
+          "image": "https://www.story.style/img/zCkaPJhbqUba.jpg",
+          "credit": "www.story.style 商品圖片",
+          "note": "以這款觀察品牌的剪裁與細節；為編輯探索選品，未宣稱是官方定番或銷量第一。",
+          "checkedAt": "2026-10-15"
+        }
+      ],
+      "relationships": []
+    },
+    {
+      "id": "yamatomichi",
+      "profile": {
+        "name": "山と道 Yamatomichi",
+        "jp": "山と道",
+        "aliases": [
+          "山と道 Yamatomichi",
+          "山跟道",
+          "山と道",
+          "Yamatomichi"
+        ],
+        "styles": [
+          "outdoor"
+        ],
+        "audience": [
+          "men",
+          "women"
+        ],
+        "audienceBasis": "editorial",
+        "type": "服飾品牌",
+        "tagline": "從輕量健行，理解衣服的實用細節。",
+        "intro": "先看 5-Pocket Pants 的口袋配置、活動空間與尺寸。鎌倉、京都等官方店舖及經銷資訊由品牌店舖頁核對。",
+        "why": "先看 5-Pocket Pants 的口袋配置、活動空間與尺寸。鎌倉、京都等官方店舖及經銷資訊由品牌店舖頁核對。",
+        "look": [
+          "褲裝：5-Pocket Pants（MEN）",
+          "用具名款式與實寸比較，再決定要不要試穿",
+          "出發前確認日本門市及販售品類"
+        ],
+        "shopping": "從本頁的品牌／日本銷售通路入口確認款式與尺寸，再查實際店址及庫存。線上有列出不代表每個日本門市都有貨；本站未提供日本比其他地方便宜的保證。",
+        "official": "https://www.yamatomichi.com/en/stores",
+        "shop": "https://www.yamatomichi.com/en/stores",
+        "sources": [
+          {
+            "label": "品牌／日本銷售入口",
+            "url": "https://www.yamatomichi.com/en/products/5-pocket-pants-m"
+          }
+        ],
+        "coverage": "product"
+      },
+      "pieces": [
+        {
+          "name": "5-Pocket Pants（MEN）",
+          "originalName": "5-Pocket Pants（MEN）",
+          "sku": "5-Pocket Pants / MEN / 2026",
+          "kind": "bottoms",
+          "category": "bottoms",
+          "audience": [
+            "men"
+          ],
+          "role": "編輯入門選品",
+          "price": null,
+          "priceNote": "日本售價未核實，請見品牌日本入口",
+          "source": "https://www.yamatomichi.com/en/products/5-pocket-pants-m",
+          "image": "https://cdns3.yamatomichi.com/wp-content/uploads/2019/02/2026_5-Pocket-Pants_Daiki_164cm_54kg_SBlack_7880.jpg",
+          "credit": "www.yamatomichi.com 商品圖片",
+          "note": "以這款觀察品牌的剪裁與細節；為編輯探索選品，未宣稱是官方定番或銷量第一。",
+          "checkedAt": "2026-10-15"
+        }
+      ],
+      "relationships": []
+    },
+    {
+      "id": "nike",
+      "profile": {
+        "name": "Nike",
+        "jp": "ナイキ",
+        "aliases": [
+          "Nike"
+        ],
+        "styles": [
+          "athleisure"
+        ],
+        "audience": [
+          "men",
+          "women"
+        ],
+        "audienceBasis": "editorial",
+        "type": "服飾品牌",
+        "tagline": "把運動服的舒適，放進日常。",
+        "intro": "運動休閒入口先看衛衣、運動長褲與日常層次；跑步、訓練和生活系列的需求不同，逐款確認功能。",
+        "why": "運動休閒入口先看衛衣、運動長褲與日常層次；跑步、訓練和生活系列的需求不同，逐款確認功能。",
+        "look": [
+          "單品：NIKE / Solo Fleece pullover hoodie",
+          "用具名款式與實寸比較，再決定要不要試穿",
+          "出發前確認日本門市及販售品類"
+        ],
+        "shopping": "從本頁的品牌／日本銷售通路入口確認款式與尺寸，再查實際店址及庫存。線上有列出不代表每個日本門市都有貨；本站未提供日本比其他地方便宜的保證。",
+        "official": "https://www.beams.co.jp/brand/001194/",
+        "shop": "https://www.beams.co.jp/brand/001194/",
+        "sources": [
+          {
+            "label": "品牌／日本銷售入口",
+            "url": "https://www.beams.co.jp/brand/001194/"
+          }
+        ],
+        "coverage": "product"
+      },
+      "pieces": [
+        {
+          "name": "NIKE / Solo Fleece pullover hoodie",
+          "originalName": "NIKE / Solo Fleece pullover hoodie",
+          "sku": "75131044489",
+          "category": "tops",
+          "audience": [
+            "men"
+          ],
+          "role": "編輯入門選品",
+          "price": 10340,
+          "priceNote": "查核時日本通路列價；促銷與庫存以來源為準",
+          "source": "https://www.beams.co.jp/item/beamst/tops/75131044489/?color=15",
+          "image": "https://cdn.beams.co.jp/img/goods/75131044489/O/75131044489_C_1.jpg",
+          "credit": "www.beams.co.jp 商品圖片",
+          "note": "以這款觀察品牌的剪裁與細節；為編輯探索選品，未宣稱是官方定番或銷量第一。",
+          "checkedAt": "2026-10-15"
+        }
+      ],
+      "relationships": []
+    },
+    {
+      "id": "adidas",
+      "profile": {
+        "name": "adidas",
+        "jp": "アディダス",
+        "aliases": [
+          "adidas"
+        ],
+        "styles": [
+          "athleisure"
+        ],
+        "audience": [
+          "men",
+          "women"
+        ],
+        "audienceBasis": "editorial",
+        "type": "服飾品牌",
+        "tagline": "從運動經典，找到日常穿法。",
+        "intro": "先看運動外套與褲裝的輪廓；Originals、訓練及聯名商品分別比較，不把所有系列當成同一定位。",
+        "why": "先看運動外套與褲裝的輪廓；Originals、訓練及聯名商品分別比較，不把所有系列當成同一定位。",
+        "look": [
+          "外套：adidas × Always / FULL-ZIP Blouson",
+          "用具名款式與實寸比較，再決定要不要試穿",
+          "出發前確認日本門市及販售品類"
+        ],
+        "shopping": "從本頁的品牌／日本銷售通路入口確認款式與尺寸，再查實際店址及庫存。線上有列出不代表每個日本門市都有貨；本站未提供日本比其他地方便宜的保證。",
+        "official": "https://www.beams.co.jp/brand/000128/",
+        "shop": "https://www.beams.co.jp/brand/000128/",
+        "sources": [
+          {
+            "label": "品牌／日本銷售入口",
+            "url": "https://www.beams.co.jp/brand/000128/"
+          }
+        ],
+        "coverage": "product"
+      },
+      "pieces": [
+        {
+          "name": "adidas × Always / FULL-ZIP Blouson",
+          "originalName": "adidas × Always / FULL-ZIP Blouson",
+          "sku": "75180222154",
+          "kind": "outerwear",
+          "category": "outerwear",
+          "audience": [
+            "men"
+          ],
+          "role": "編輯入門選品",
+          "price": 18700,
+          "priceNote": "查核時日本通路列價；促銷與庫存以來源為準",
+          "source": "https://www.beams.co.jp/item/beamst/blouson/75180222154/?color=10",
+          "image": "https://cdn.beams.co.jp/img/goods/75180222154/O/75180222154_C_1.jpg",
+          "credit": "www.beams.co.jp 商品圖片",
+          "note": "本款為具名合作／別注選品；合作品牌仍分開介紹，非隸屬關係。",
+          "checkedAt": "2026-10-15"
+        }
+      ],
+      "relationships": []
+    },
+    {
+      "id": "new-balance",
+      "profile": {
+        "name": "New Balance",
+        "jp": "ニューバランス",
+        "aliases": [
+          "New Balance"
+        ],
+        "styles": [
+          "city"
+        ],
+        "audience": [
+          "men",
+          "women"
+        ],
+        "audienceBasis": "editorial",
+        "type": "服飾品牌",
+        "tagline": "先從鞋型與腳感認識品牌。",
+        "intro": "日本選貨店常提供不同鞋款入口。看完整型號、楦寬與用途，再把鞋子放進平常的衣櫥。",
+        "why": "日本選貨店常提供不同鞋款入口。看完整型號、楦寬與用途，再把鞋子放進平常的衣櫥。",
+        "look": [
+          "鞋履：New Balance / MT10O3XB",
+          "用具名款式與實寸比較，再決定要不要試穿",
+          "出發前確認日本門市及販售品類"
+        ],
+        "shopping": "從本頁的品牌／日本銷售通路入口確認款式與尺寸，再查實際店址及庫存。線上有列出不代表每個日本門市都有貨；本站未提供日本比其他地方便宜的保證。",
+        "official": "https://www.beams.co.jp/brand/001184/",
+        "shop": "https://www.beams.co.jp/brand/001184/",
+        "sources": [
+          {
+            "label": "品牌／日本銷售入口",
+            "url": "https://www.beams.co.jp/brand/001184/"
+          }
+        ],
+        "coverage": "product"
+      },
+      "pieces": [
+        {
+          "name": "New Balance / MT10O3XB",
+          "originalName": "New Balance / MT10O3XB",
+          "sku": "11314810424",
+          "kind": "shoes",
+          "category": "shoes",
+          "audience": [
+            "men"
+          ],
+          "role": "編輯入門選品",
+          "price": 16940,
+          "priceNote": "查核時日本通路列價；促銷與庫存以來源為準",
+          "source": "https://www.beams.co.jp/item/beams/shoes/11314810424/?color=28",
+          "image": "https://cdn.beams.co.jp/img/goods/11314810424/O/11314810424_C_1.jpg",
+          "credit": "www.beams.co.jp 商品圖片",
+          "note": "以這款觀察品牌的剪裁與細節；為編輯探索選品，未宣稱是官方定番或銷量第一。",
+          "checkedAt": "2026-10-15"
+        }
+      ],
+      "relationships": []
+    },
+    {
+      "id": "asics",
+      "profile": {
+        "name": "ASICS",
+        "jp": "アシックス",
+        "aliases": [
+          "ASICS"
+        ],
+        "styles": [
+          "city"
+        ],
+        "audience": [
+          "men",
+          "women"
+        ],
+        "audienceBasis": "editorial",
+        "type": "服飾品牌",
+        "tagline": "運動機能與日常選品，分開看。",
+        "intro": "先分辨跑步鞋、SportStyle 與聯名服飾。這裡保留具名商品來源，聯名不代表兩個品牌合併。",
+        "why": "先分辨跑步鞋、SportStyle 與聯名服飾。這裡保留具名商品來源，聯名不代表兩個品牌合併。",
+        "look": [
+          "T-shirt／衛衣：A.P.C. × ASICS / WIND Tシャツ",
+          "用具名款式與實寸比較，再決定要不要試穿",
+          "出發前確認日本門市及販售品類"
+        ],
+        "shopping": "從本頁的品牌／日本銷售通路入口確認款式與尺寸，再查實際店址及庫存。線上有列出不代表每個日本門市都有貨；本站未提供日本比其他地方便宜的保證。",
+        "official": "https://www.beams.co.jp/brand/000195/",
+        "shop": "https://www.beams.co.jp/brand/000195/",
+        "sources": [
+          {
+            "label": "品牌／日本銷售入口",
+            "url": "https://www.beams.co.jp/brand/000195/"
+          }
+        ],
+        "coverage": "product"
+      },
+      "pieces": [
+        {
+          "name": "A.P.C. × ASICS / WIND Tシャツ",
+          "originalName": "A.P.C. × ASICS / WIND Tシャツ",
+          "sku": "24040075059",
+          "kind": "tshirt",
+          "category": "tops",
+          "audience": [
+            "men"
+          ],
+          "role": "編輯入門選品",
+          "price": 22000,
+          "priceNote": "查核時日本通路列價；促銷與庫存以來源為準",
+          "source": "https://www.beams.co.jp/item/brilla_per_il_gusto/t-shirt/24040075059/?color=01",
+          "image": "https://cdn.beams.co.jp/img/goods/24040075059/O/24040075059_C_1.jpg",
+          "credit": "www.beams.co.jp 商品圖片",
+          "note": "本款為具名合作／別注選品；合作品牌仍分開介紹，非隸屬關係。",
+          "checkedAt": "2026-10-15"
+        }
+      ],
+      "relationships": []
+    },
+    {
+      "id": "onitsuka-tiger",
+      "profile": {
+        "name": "Onitsuka Tiger",
+        "jp": "オニツカタイガー",
+        "aliases": [
+          "Onitsuka Tiger"
+        ],
+        "styles": [
+          "city"
+        ],
+        "audience": [
+          "men",
+          "women"
+        ],
+        "audienceBasis": "editorial",
+        "type": "服飾品牌",
+        "tagline": "從鞋履線條，看有復古感的搭配。",
+        "intro": "先看鞋型、配色及成衣專區。Onitsuka Tiger、NIPPON MADE 與 THE ONITSUKA 的商品範圍請分別確認。",
+        "why": "先看鞋型、配色及成衣專區。Onitsuka Tiger、NIPPON MADE 與 THE ONITSUKA 的商品範圍請分別確認。",
+        "look": [
+          "鞋履：TAI-CHI OG（2026 官方系列示例）",
+          "用具名款式與實寸比較，再決定要不要試穿",
+          "出發前確認日本門市及販售品類"
+        ],
+        "shopping": "從本頁的品牌／日本銷售通路入口確認款式與尺寸，再查實際店址及庫存。線上有列出不代表每個日本門市都有貨；本站未提供日本比其他地方便宜的保證。",
+        "official": "https://www.onitsukatiger.com/jp/ja-jp/",
+        "shop": "https://www.onitsukatiger.com/jp/ja-jp/",
+        "sources": [
+          {
+            "label": "品牌／日本銷售入口",
+            "url": "https://www.onitsukatiger.com/jp/ja-jp/"
+          }
+        ],
+        "coverage": "product"
+      },
+      "pieces": [
+        {
+          "name": "TAI-CHI OG（2026 官方系列示例）",
+          "originalName": "TAI-CHI OG（2026 官方系列示例）",
+          "sku": "TAI-CHI OG / AW2026",
+          "kind": "shoes",
+          "category": "shoes",
+          "audience": [
+            "men",
+            "women"
+          ],
+          "role": "編輯入門選品",
+          "price": null,
+          "priceNote": "日本售價尚未核實；不換算海外站價格",
+          "note": "具名商品／系列的真實圖片；為編輯認識品牌的入口，不宣稱全品牌銷量第一或現貨。",
+          "source": "https://www.onitsukatiger.com/jp/ja-jp/p/tai-chi-og",
+          "image": "https://media-ojp.onitsukatiger.com/media/wysiwyg/taichi/aw-2026/colorway_white_black.jpg?v=1788935789",
+          "credit": "www.onitsukatiger.com 商品／系列圖片",
+          "checkedAt": "2026-10-15"
+        }
+      ],
+      "relationships": []
+    },
+    {
+      "id": "puma",
+      "profile": {
+        "name": "PUMA",
+        "jp": "プーマ",
+        "aliases": [
+          "PUMA"
+        ],
+        "styles": [
+          "athleisure"
+        ],
+        "audience": [
+          "men",
+          "women"
+        ],
+        "audienceBasis": "editorial",
+        "type": "服飾品牌",
+        "tagline": "運動出身，也能有俐落的日常穿搭。",
+        "intro": "從運動生活系列看起，聯名則另看合作對象與商品內容；不把特定聯名的剪裁套用到全品牌。",
+        "why": "從運動生活系列看起，聯名則另看合作對象與商品內容；不把特定聯名的剪裁套用到全品牌。",
+        "look": [
+          "褲裝：PUMA × Scye / チノパンツ",
+          "用具名款式與實寸比較，再決定要不要試穿",
+          "出發前確認日本門市及販售品類"
+        ],
+        "shopping": "從本頁的品牌／日本銷售通路入口確認款式與尺寸，再查實際店址及庫存。線上有列出不代表每個日本門市都有貨；本站未提供日本比其他地方便宜的保證。",
+        "official": "https://www.beams.co.jp/brand/001337/",
+        "shop": "https://www.beams.co.jp/brand/001337/",
+        "sources": [
+          {
+            "label": "品牌／日本銷售入口",
+            "url": "https://www.beams.co.jp/brand/001337/"
+          }
+        ],
+        "coverage": "product"
+      },
+      "pieces": [
+        {
+          "name": "PUMA × Scye / チノパンツ",
+          "originalName": "PUMA × Scye / チノパンツ",
+          "sku": "13241230582",
+          "kind": "bottoms",
+          "category": "bottoms",
+          "audience": [
+            "women"
+          ],
+          "role": "編輯入門選品",
+          "price": 23100,
+          "priceNote": "查核時日本通路列價；促銷與庫存以來源為準",
+          "source": "https://www.beams.co.jp/item/beams_japan/pants/13241230582/?color=24",
+          "image": "https://cdn.beams.co.jp/img/goods/13241230582/O/13241230582_C_2.jpg",
+          "credit": "www.beams.co.jp 商品圖片",
+          "note": "本款為具名合作／別注選品；合作品牌仍分開介紹，非隸屬關係。",
+          "checkedAt": "2026-10-15"
+        },
+        {
+          "name": "【EXCLUSIVE】PUMA / H-STREET REFLECTIVE",
+          "originalName": "【EXCLUSIVE】PUMA / H-STREET REFLECTIVE",
+          "sku": "11314918582",
+          "kind": "shoes",
+          "category": "shoes",
+          "audience": [
+            "men"
+          ],
+          "role": "編輯入門選品",
+          "price": 13750,
+          "priceNote": "日本通路查核列價；以實際商品頁為準",
+          "note": "男裝商品另列，款名與圖片對應同一日本銷售頁。",
+          "source": "https://www.beams.co.jp/item/beams/shoes/11314918582/?color=17",
+          "image": "https://cdn.beams.co.jp/img/goods/11314918582/S2/11314918582_C_1.jpg",
+          "credit": "BEAMS 日本商品圖",
+          "checkedAt": "2026-10-15"
+        }
+      ],
+      "relationships": []
+    },
+    {
+      "id": "reebok",
+      "profile": {
+        "name": "Reebok",
+        "jp": "リーボック",
+        "aliases": [
+          "Reebok"
+        ],
+        "styles": [
+          "city"
+        ],
+        "audience": [
+          "men",
+          "women"
+        ],
+        "audienceBasis": "editorial",
+        "type": "服飾品牌",
+        "tagline": "從經典鞋履與運動生活認識起。",
+        "intro": "先看具名鞋款和尺碼，再探索運動生活服裝。本站鞋款樣本與衣服預算分開。",
+        "why": "先看具名鞋款和尺碼，再探索運動生活服裝。本站鞋款樣本與衣服預算分開。",
+        "look": [
+          "鞋履：【別注】Reebok × POPEYE / CLUB C 85 VINTAGE",
+          "用具名款式與實寸比較，再決定要不要試穿",
+          "出發前確認日本門市及販售品類"
+        ],
+        "shopping": "從本頁的品牌／日本銷售通路入口確認款式與尺寸，再查實際店址及庫存。線上有列出不代表每個日本門市都有貨；本站未提供日本比其他地方便宜的保證。",
+        "official": "https://www.beams.co.jp/brand/001376/",
+        "shop": "https://www.beams.co.jp/brand/001376/",
+        "sources": [
+          {
+            "label": "品牌／日本銷售入口",
+            "url": "https://www.beams.co.jp/brand/001376/"
+          }
+        ],
+        "coverage": "product"
+      },
+      "pieces": [
+        {
+          "name": "【別注】Reebok × POPEYE / CLUB C 85 VINTAGE",
+          "originalName": "【別注】Reebok × POPEYE / CLUB C 85 VINTAGE",
+          "sku": "11314889332",
+          "kind": "shoes",
+          "category": "shoes",
+          "audience": [
+            "men"
+          ],
+          "role": "編輯入門選品",
+          "price": 19800,
+          "priceNote": "查核時日本通路列價；促銷與庫存以來源為準",
+          "source": "https://www.beams.co.jp/item/beams/shoes/11314889332/?color=01",
+          "image": "https://cdn.beams.co.jp/img/goods/11314889332/O/11314889332_C_1.jpg",
+          "credit": "www.beams.co.jp 商品圖片",
+          "note": "本款為具名合作／別注選品；合作品牌仍分開介紹，非隸屬關係。",
+          "checkedAt": "2026-10-15"
+        }
+      ],
+      "relationships": []
+    },
+    {
+      "id": "champion",
+      "profile": {
+        "name": "Champion",
+        "jp": "チャンピオン",
+        "aliases": [
+          "Champion"
+        ],
+        "styles": [
+          "athleisure"
+        ],
+        "audience": [
+          "men",
+          "women"
+        ],
+        "audienceBasis": "editorial",
+        "type": "服飾品牌",
+        "tagline": "從衛衣的份量與版型開始。",
+        "intro": "想穿輕鬆的運動日常，可先比較衛衣布料、袖型與衣長。日本通路的別注版與一般款須看完整款名。",
+        "why": "想穿輕鬆的運動日常，可先比較衛衣布料、袖型與衣長。日本通路的別注版與一般款須看完整款名。",
+        "look": [
+          "T-shirt／衛衣：【別注】Champion × MIN-NANO / スウェット フーディー",
+          "用具名款式與實寸比較，再決定要不要試穿",
+          "出發前確認日本門市及販售品類"
+        ],
+        "shopping": "從本頁的品牌／日本銷售通路入口確認款式與尺寸，再查實際店址及庫存。線上有列出不代表每個日本門市都有貨；本站未提供日本比其他地方便宜的保證。",
+        "official": "https://www.beams.co.jp/brand/000374/",
+        "shop": "https://www.beams.co.jp/brand/000374/",
+        "sources": [
+          {
+            "label": "品牌／日本銷售入口",
+            "url": "https://www.beams.co.jp/brand/000374/"
+          }
+        ],
+        "coverage": "product"
+      },
+      "pieces": [
+        {
+          "name": "【別注】Champion × MIN-NANO / スウェット フーディー",
+          "originalName": "【別注】Champion × MIN-NANO / スウェット フーディー",
+          "sku": "11134748411",
+          "kind": "tshirt",
+          "category": "tops",
+          "audience": [
+            "men"
+          ],
+          "role": "編輯入門選品",
+          "price": 19800,
+          "priceNote": "查核時日本通路列價；促銷與庫存以來源為準",
+          "source": "https://www.beams.co.jp/item/beams/tops/11134748411/?color=10",
+          "image": "https://cdn.beams.co.jp/img/goods/11134748411/O/11134748411_C_1.jpg",
+          "credit": "www.beams.co.jp 商品圖片",
+          "note": "本款為具名合作／別注選品；合作品牌仍分開介紹，非隸屬關係。",
+          "checkedAt": "2026-10-15"
+        }
+      ],
+      "relationships": []
+    },
+    {
+      "id": "descente",
+      "profile": {
+        "name": "DESCENTE",
+        "jp": "デサント",
+        "aliases": [
+          "DESCENTE"
+        ],
+        "styles": [
+          "outdoor"
+        ],
+        "audience": [
+          "men",
+          "women"
+        ],
+        "audienceBasis": "editorial",
+        "type": "服飾品牌",
+        "tagline": "機能服裝，先問自己怎麼穿。",
+        "intro": "先看外套、活動需求與層次。DESCENTE、ALLTERRAIN 等系列以官方完整名稱辨別，山行外層不等同全部運動休閒。",
+        "why": "先看外套、活動需求與層次。DESCENTE、ALLTERRAIN 等系列以官方完整名稱辨別，山行外層不等同全部運動休閒。",
+        "look": [
+          "外套：DESCENTE / ハード シェル ジャケット “ZENCHIKEI LD”(BK00(ブラック)/19,S/16)",
+          "用具名款式與實寸比較，再決定要不要試穿",
+          "出發前確認日本門市及販售品類"
+        ],
+        "shopping": "從本頁的品牌／日本銷售通路入口確認款式與尺寸，再查實際店址及庫存。線上有列出不代表每個日本門市都有貨；本站未提供日本比其他地方便宜的保證。",
+        "official": "https://www.beams.co.jp/brand/007103/",
+        "shop": "https://www.beams.co.jp/brand/007103/",
+        "sources": [
+          {
+            "label": "品牌／日本銷售入口",
+            "url": "https://www.beams.co.jp/brand/007103/"
+          }
+        ],
+        "coverage": "product"
+      },
+      "pieces": [
+        {
+          "name": "DESCENTE / ハード シェル ジャケット “ZENCHIKEI LD”(BK00(ブラック)/19,S/16)",
+          "originalName": "DESCENTE / ハード シェル ジャケット “ZENCHIKEI LD”(BK00(ブラック)/19,S/16)",
+          "sku": "61181271408",
+          "kind": "outerwear",
+          "category": "outerwear",
+          "audience": [
+            "women"
+          ],
+          "role": "編輯入門選品",
+          "price": 60500,
+          "priceNote": "查核時日本通路列價；促銷與庫存以來源為準",
+          "source": "https://www.beams.co.jp/item/beams_japan/blouson/61181271408/?color=19",
+          "image": "https://cdn.beams.co.jp/img/goods/61181271408/O/61181271408_C_1.jpg",
+          "credit": "www.beams.co.jp 商品圖片",
+          "note": "以這款觀察品牌的剪裁與細節；為編輯探索選品，未宣稱是官方定番或銷量第一。",
+          "checkedAt": "2026-10-15"
+        }
+      ],
+      "relationships": []
+    },
+    {
+      "id": "lululemon",
+      "profile": {
+        "name": "lululemon",
+        "jp": "ルルレモン",
+        "aliases": [
+          "lululemon"
+        ],
+        "styles": [
+          "athleisure"
+        ],
+        "audience": [
+          "men",
+          "women"
+        ],
+        "audienceBasis": "editorial",
+        "type": "服飾品牌",
+        "tagline": "運動、通勤與旅行之間的舒適衣櫥。",
+        "intro": "第一次可從 ABC 褲裝或運動上衣開始；同系列有不同剪裁與褲長，需對照日本頁面實寸。",
+        "why": "第一次可從 ABC 褲裝或運動上衣開始；同系列有不同剪裁與褲長，需對照日本頁面實寸。",
+        "look": [
+          "T-shirt／衛衣：Smooth Spacer プルオーバーフーディ ラン グラフィック",
+          "用具名款式與實寸比較，再決定要不要試穿",
+          "出發前確認日本門市及販售品類"
+        ],
+        "shopping": "從本頁的品牌／日本銷售通路入口確認款式與尺寸，再查實際店址及庫存。線上有列出不代表每個日本門市都有貨；本站未提供日本比其他地方便宜的保證。",
+        "official": "https://www.lululemon.co.jp/ja-jp/c/men",
+        "shop": "https://www.lululemon.co.jp/ja-jp/c/men",
+        "sources": [
+          {
+            "label": "品牌／日本銷售入口",
+            "url": "https://www.lululemon.co.jp/ja-jp/c/men"
+          }
+        ],
+        "coverage": "product"
+      },
+      "pieces": [
+        {
+          "name": "Smooth Spacer プルオーバーフーディ ラン グラフィック",
+          "originalName": "Smooth Spacer プルオーバーフーディ ラン グラフィック",
+          "sku": "LM3H75S / 077007",
+          "kind": "tshirt",
+          "category": "tops",
+          "audience": [
+            "men"
+          ],
+          "role": "編輯入門選品",
+          "price": 12400,
+          "priceNote": "日本官方促銷樣本，頁面原列價 ¥18,800；價格以當下為準",
+          "note": "具名商品／系列的真實圖片；為編輯認識品牌的入口，不宣稱全品牌銷量第一或現貨。",
+          "source": "https://www.lululemon.co.jp/ja-jp/p/smooth-spacer-%E3%83%97%E3%83%AB%E3%82%AA%E3%83%BC%E3%83%90%E3%83%BC%E3%83%95%E3%83%BC%E3%83%87%E3%82%A3-%E3%83%A9%E3%83%B3-%E3%82%B0%E3%83%A9%E3%83%95%E3%82%A3%E3%83%83%E3%82%AF/pwf3css6xc.html?dwvar_pwf3css6xc_color=077007",
+          "image": "https://images.lululemon.com/is/image/lululemon/LM3H75S_077007_1?size=800,800",
+          "credit": "www.lululemon.co.jp 商品／系列圖片",
+          "checkedAt": "2026-10-15"
+        }
+      ],
+      "relationships": []
+    },
+    {
+      "id": "on",
+      "profile": {
+        "name": "On",
+        "jp": "オン",
+        "aliases": [
+          "On"
+        ],
+        "styles": [
+          "athleisure"
+        ],
+        "audience": [
+          "men",
+          "women"
+        ],
+        "audienceBasis": "editorial",
+        "type": "服飾品牌",
+        "tagline": "跑步之外，也有休息日的衣服。",
+        "intro": "這裡從 Club Hoodie 等生活服飾認識運動休閒。跑步裝備與休息日單品的用途、布料各自確認。",
+        "why": "這裡從 Club Hoodie 等生活服飾認識運動休閒。跑步裝備與休息日單品的用途、布料各自確認。",
+        "look": [
+          "單品：メンズ Club Hoodie Black",
+          "用具名款式與實寸比較，再決定要不要試穿",
+          "出發前確認日本門市及販售品類"
+        ],
+        "shopping": "從本頁的品牌／日本銷售通路入口確認款式與尺寸，再查實際店址及庫存。線上有列出不代表每個日本門市都有貨；本站未提供日本比其他地方便宜的保證。",
+        "official": "https://www.on.com/ja-jp/",
+        "shop": "https://www.on.com/ja-jp/",
+        "sources": [
+          {
+            "label": "品牌／日本銷售入口",
+            "url": "https://www.on.com/ja-jp/"
+          }
+        ],
+        "coverage": "product"
+      },
+      "pieces": [
+        {
+          "name": "メンズ Club Hoodie Black",
+          "originalName": "メンズ Club Hoodie Black",
+          "sku": "1ME10030553",
+          "category": "tops",
+          "audience": [
+            "men"
+          ],
+          "role": "編輯入門選品",
+          "price": 17600,
+          "priceNote": "查核時日本通路列價；促銷與庫存以來源為準",
+          "source": "https://www.on.com/ja-jp/products/club-hoodie-1me1003/mens/black-apparel-1ME10030553",
+          "image": "https://images.ctfassets.net/hnk2vsx53n6l/3Ff8GKbyUtljBKhpVp9Nic/67104e540d84644ec1def9f11a220144/qebymoflxgidmpl9vptn.png",
+          "credit": "www.on.com 商品圖片",
+          "note": "以這款觀察品牌的剪裁與細節；為編輯探索選品，未宣稱是官方定番或銷量第一。",
+          "checkedAt": "2026-10-15"
+        }
+      ],
+      "relationships": []
+    },
+    {
+      "id": "lacoste",
+      "profile": {
+        "name": "LACOSTE",
+        "jp": "ラコステ",
+        "aliases": [
+          "LACOSTE"
+        ],
+        "styles": [
+          "smart"
+        ],
+        "audience": [
+          "men",
+          "women"
+        ],
+        "audienceBasis": "editorial",
+        "type": "服飾品牌",
+        "tagline": "從 Polo 與乾淨的休閒比例看起。",
+        "intro": "喜歡有領上衣，可以比較 Polo、針織與長褲。日本別注與主線商品須保留完整名稱。",
+        "why": "喜歡有領上衣，可以比較 Polo、針織與長褲。日本別注與主線商品須保留完整名稱。",
+        "look": [
+          "T-shirt／衛衣：【別注】LACOSTE for BEAMS BOY / マルチ ボーダー Tシャツ",
+          "用具名款式與實寸比較，再決定要不要試穿",
+          "出發前確認日本門市及販售品類"
+        ],
+        "shopping": "從本頁的品牌／日本銷售通路入口確認款式與尺寸，再查實際店址及庫存。線上有列出不代表每個日本門市都有貨；本站未提供日本比其他地方便宜的保證。",
+        "official": "https://www.beams.co.jp/brand/000940/",
+        "shop": "https://www.beams.co.jp/brand/000940/",
+        "sources": [
+          {
+            "label": "品牌／日本銷售入口",
+            "url": "https://www.beams.co.jp/brand/000940/"
+          }
+        ],
+        "coverage": "product"
+      },
+      "pieces": [
+        {
+          "name": "【別注】LACOSTE for BEAMS BOY / マルチ ボーダー Tシャツ",
+          "originalName": "【別注】LACOSTE for BEAMS BOY / マルチ ボーダー Tシャツ",
+          "sku": "13140623462",
+          "kind": "tshirt",
+          "category": "tops",
+          "audience": [
+            "women"
+          ],
+          "role": "編輯入門選品",
+          "price": 15400,
+          "priceNote": "查核時日本通路列價；促銷與庫存以來源為準",
+          "source": "https://www.beams.co.jp/item/bsfw/t-shirt/13140623462/?color=15",
+          "image": "https://cdn.beams.co.jp/img/goods/13140623462/O/13140623462_C_1.jpg",
+          "credit": "www.beams.co.jp 商品圖片",
+          "note": "本款為具名合作／別注選品；合作品牌仍分開介紹，非隸屬關係。",
+          "checkedAt": "2026-10-15"
+        },
+        {
+          "name": "LACOSTE / L1312 ロングスリーブ ポロシャツ",
+          "originalName": "LACOSTE / L1312 ロングスリーブ ポロシャツ",
+          "sku": "21120040462",
+          "kind": "shirt",
+          "category": "tops",
+          "audience": [
+            "men"
+          ],
+          "role": "編輯入門選品",
+          "price": 18700,
+          "priceNote": "日本通路查核列價；以實際商品頁為準",
+          "note": "男裝商品另列，款名與圖片對應同一日本銷售頁。",
+          "source": "https://www.beams.co.jp/item/beamsf/shirt/21120040462/?color=01",
+          "image": "https://cdn.beams.co.jp/img/goods/21120040462/S2/21120040462_C_3.jpg",
+          "credit": "BEAMS 日本商品圖",
+          "checkedAt": "2026-10-15"
+        }
+      ],
+      "relationships": []
+    },
+    {
+      "id": "fred-perry",
+      "profile": {
+        "name": "FRED PERRY",
+        "jp": "フレッドペリー",
+        "aliases": [
+          "FRED PERRY"
+        ],
+        "styles": [
+          "smart"
+        ],
+        "audience": [
+          "men",
+          "women"
+        ],
+        "audienceBasis": "editorial",
+        "type": "服飾品牌",
+        "tagline": "有領上衣與英式休閒的層次。",
+        "intro": "先看 Polo 或針織的領口、下襬與合身程度，再搭平常的褲子。別注剪裁請以該款尺寸表為準。",
+        "why": "先看 Polo 或針織的領口、下襬與合身程度，再搭平常的褲子。別注剪裁請以該款尺寸表為準。",
+        "look": [
+          "針織：【別注】FRED PERRY / Drivers Knit 26FW",
+          "用具名款式與實寸比較，再決定要不要試穿",
+          "出發前確認日本門市及販售品類"
+        ],
+        "shopping": "從本頁的品牌／日本銷售通路入口確認款式與尺寸，再查實際店址及庫存。線上有列出不代表每個日本門市都有貨；本站未提供日本比其他地方便宜的保證。",
+        "official": "https://www.beams.co.jp/brand/000633/",
+        "shop": "https://www.beams.co.jp/brand/000633/",
+        "sources": [
+          {
+            "label": "品牌／日本銷售入口",
+            "url": "https://www.beams.co.jp/brand/000633/"
+          }
+        ],
+        "coverage": "product"
+      },
+      "pieces": [
+        {
+          "name": "【別注】FRED PERRY / Drivers Knit 26FW",
+          "originalName": "【別注】FRED PERRY / Drivers Knit 26FW",
+          "sku": "11152025060",
+          "kind": "knitwear",
+          "category": "knitwear",
+          "audience": [
+            "men"
+          ],
+          "role": "編輯入門選品",
+          "price": 28600,
+          "priceNote": "查核時日本通路列價；促銷與庫存以來源為準",
+          "source": "https://www.beams.co.jp/item/beams/tops/11152025060/?color=19",
+          "image": "https://cdn.beams.co.jp/img/goods/11152025060/O/11152025060_C_1.jpg",
+          "credit": "www.beams.co.jp 商品圖片",
+          "note": "本款為具名合作／別注選品；合作品牌仍分開介紹，非隸屬關係。",
+          "checkedAt": "2026-10-15"
+        }
+      ],
+      "relationships": []
+    },
+    {
+      "id": "ralph-lauren",
+      "profile": {
+        "name": "POLO RALPH LAUREN",
+        "jp": "ポロ ラルフ ローレン",
+        "aliases": [
+          "POLO RALPH LAUREN"
+        ],
+        "styles": [
+          "americana"
+        ],
+        "audience": [
+          "men",
+          "women"
+        ],
+        "audienceBasis": "editorial",
+        "type": "服飾品牌",
+        "tagline": "從牛津襯衫，認識美式休閒。",
+        "intro": "本頁聚焦 POLO RALPH LAUREN；同公司的其他標籤價格和風格不併入。襯衫的版型名稱也值得留意。",
+        "why": "本頁聚焦 POLO RALPH LAUREN；同公司的其他標籤價格和風格不併入。襯衫的版型名稱也值得留意。",
+        "look": [
+          "襯衫：【別注】POLO RALPH LAUREN / B WING LS OX BD SHIRT",
+          "用具名款式與實寸比較，再決定要不要試穿",
+          "出發前確認日本門市及販售品類"
+        ],
+        "shopping": "從本頁的品牌／日本銷售通路入口確認款式與尺寸，再查實際店址及庫存。線上有列出不代表每個日本門市都有貨；本站未提供日本比其他地方便宜的保證。",
+        "official": "https://www.beams.co.jp/brand/901190/",
+        "shop": "https://www.beams.co.jp/brand/901190/",
+        "sources": [
+          {
+            "label": "品牌／日本銷售入口",
+            "url": "https://www.beams.co.jp/brand/901190/"
+          }
+        ],
+        "coverage": "product"
+      },
+      "pieces": [
+        {
+          "name": "【別注】POLO RALPH LAUREN / B WING LS OX BD SHIRT",
+          "originalName": "【別注】POLO RALPH LAUREN / B WING LS OX BD SHIRT",
+          "sku": "11111501770",
+          "kind": "shirt",
+          "category": "tops",
+          "audience": [
+            "men"
+          ],
+          "role": "編輯入門選品",
+          "price": 35200,
+          "priceNote": "查核時日本通路列價；促銷與庫存以來源為準",
+          "source": "https://www.beams.co.jp/item/beams/shirt/11111501770/?color=01",
+          "image": "https://cdn.beams.co.jp/img/goods/11111501770/O/11111501770_C_1.jpg",
+          "credit": "www.beams.co.jp 商品圖片",
+          "note": "本款為具名合作／別注選品；合作品牌仍分開介紹，非隸屬關係。",
+          "checkedAt": "2026-10-15"
+        }
+      ],
+      "relationships": []
+    },
+    {
+      "id": "tommy-hilfiger",
+      "profile": {
+        "name": "TOMMY HILFIGER",
+        "jp": "トミー ヒルフィガー",
+        "aliases": [
+          "TOMMY HILFIGER"
+        ],
+        "styles": [
+          "americana"
+        ],
+        "audience": [
+          "men",
+          "women"
+        ],
+        "audienceBasis": "editorial",
+        "type": "服飾品牌",
+        "tagline": "把襯衫與經典配色穿進日常。",
+        "intro": "想找美式學院感，可以先看牛津襯衫、針織與丹寧。TOMMY JEANS、童裝和主線男裝請分開查找。",
+        "why": "想找美式學院感，可以先看牛津襯衫、針織與丹寧。TOMMY JEANS、童裝和主線男裝請分開查找。",
+        "look": [
+          "襯衫：ヘリテージオックスフォードソリッドシャツ",
+          "用具名款式與實寸比較，再決定要不要試穿",
+          "出發前確認日本門市及販售品類"
+        ],
+        "shopping": "從本頁的品牌／日本銷售通路入口確認款式與尺寸，再查實際店址及庫存。線上有列出不代表每個日本門市都有貨；本站未提供日本比其他地方便宜的保證。",
+        "official": "https://japan.tommy.com/",
+        "shop": "https://japan.tommy.com/",
+        "sources": [
+          {
+            "label": "品牌／日本銷售入口",
+            "url": "https://japan.tommy.com/"
+          }
+        ],
+        "coverage": "product"
+      },
+      "pieces": [
+        {
+          "name": "ヘリテージオックスフォードソリッドシャツ",
+          "originalName": "ヘリテージオックスフォードソリッドシャツ",
+          "sku": "5457555",
+          "kind": "shirt",
+          "category": "tops",
+          "audience": [
+            "men"
+          ],
+          "role": "編輯入門選品",
+          "price": 17600,
+          "priceNote": "查核時日本通路列價；促銷與庫存以來源為準",
+          "source": "https://japan.tommy.com/shop/item/MW41250000?shopCode=MEN",
+          "image": "https://japan.tommy.com/img/item/MW41250000/MW41250000_cDCC_a101_pz.jpg",
+          "credit": "japan.tommy.com 商品圖片",
+          "note": "以這款觀察品牌的剪裁與細節；為編輯探索選品，未宣稱是官方定番或銷量第一。",
+          "checkedAt": "2026-10-15"
+        }
+      ],
+      "relationships": []
+    },
+    {
+      "id": "carhartt-wip",
+      "profile": {
+        "name": "Carhartt WIP",
+        "jp": "カーハート ダブリューアイピー",
+        "aliases": [
+          "Carhartt WIP"
+        ],
+        "styles": [
+          "street"
+        ],
+        "audience": [
+          "men",
+          "women"
+        ],
+        "audienceBasis": "editorial",
+        "type": "服飾品牌",
+        "tagline": "工作服的輪廓，穿成城市日常。",
+        "intro": "本頁是 Carhartt WIP。先看 Active Jacket、帆布外套與褲型，不把其他 Carhartt 商品線的版型混在一起。",
+        "why": "本頁是 Carhartt WIP。先看 Active Jacket、帆布外套與褲型，不把其他 Carhartt 商品線的版型混在一起。",
+        "look": [
+          "外套：Active Jacket - Hamilton Brown rigid",
+          "用具名款式與實寸比較，再決定要不要試穿",
+          "出發前確認日本門市及販售品類"
+        ],
+        "shopping": "從本頁的品牌／日本銷售通路入口確認款式與尺寸，再查實際店址及庫存。線上有列出不代表每個日本門市都有貨；本站未提供日本比其他地方便宜的保證。",
+        "official": "https://carhartt-wip.jp/",
+        "shop": "https://carhartt-wip.jp/",
+        "sources": [
+          {
+            "label": "品牌／日本銷售入口",
+            "url": "https://carhartt-wip.jp/"
+          }
+        ],
+        "coverage": "product"
+      },
+      "pieces": [
+        {
+          "name": "Active Jacket - Hamilton Brown rigid",
+          "originalName": "Active Jacket - Hamilton Brown rigid",
+          "sku": "I023083-26F-HZ01-S",
+          "kind": "outerwear",
+          "category": "outerwear",
+          "audience": [
+            "men"
+          ],
+          "role": "編輯入門選品",
+          "price": 41800,
+          "priceNote": "查核時日本通路列價；促銷與庫存以來源為準",
+          "source": "https://carhartt-wip.jp/products/i023083-26f-hz01",
+          "image": "https://carhartt-wip.jp/cdn/shop/files/I023083_HZ_01-ST-01.jpg?v=1760068396&width=1024",
+          "credit": "carhartt-wip.jp 商品圖片",
+          "note": "以這款觀察品牌的剪裁與細節；為編輯探索選品，未宣稱是官方定番或銷量第一。",
+          "checkedAt": "2026-10-15"
+        }
+      ],
+      "relationships": []
+    },
+    {
+      "id": "stussy",
+      "profile": {
+        "name": "Stüssy",
+        "jp": "ステューシー",
+        "aliases": [
+          "Stüssy"
+        ],
+        "styles": [
+          "street"
+        ],
+        "audience": [
+          "men",
+          "women"
+        ],
+        "audienceBasis": "editorial",
+        "type": "服飾品牌",
+        "tagline": "用圖像、上衣與寬褲建立街頭感。",
+        "intro": "先看長袖上衣、襯衫和褲子如何配比例；帶標誌的商品也有不同布料和剪裁，先試穿再決定。",
+        "why": "先看長袖上衣、襯衫和褲子如何配比例；帶標誌的商品也有不同布料和剪裁，先試穿再決定。",
+        "look": [
+          "單品：BASIC STÜSSY THERMAL",
+          "用具名款式與實寸比較，再決定要不要試穿",
+          "出發前確認日本門市及販售品類"
+        ],
+        "shopping": "從本頁的品牌／日本銷售通路入口確認款式與尺寸，再查實際店址及庫存。線上有列出不代表每個日本門市都有貨；本站未提供日本比其他地方便宜的保證。",
+        "official": "https://jp.stussy.com/",
+        "shop": "https://jp.stussy.com/",
+        "sources": [
+          {
+            "label": "品牌／日本銷售入口",
+            "url": "https://jp.stussy.com/"
+          }
+        ],
+        "coverage": "product"
+      },
+      "pieces": [
+        {
+          "name": "BASIC STÜSSY THERMAL",
+          "originalName": "BASIC STÜSSY THERMAL",
+          "sku": "1140356-NAVY-M",
+          "category": "tops",
+          "audience": [
+            "men"
+          ],
+          "role": "編輯入門選品",
+          "price": 18700,
+          "priceNote": "查核時日本通路列價；促銷與庫存以來源為準",
+          "source": "https://jp.stussy.com/collections/tops-shirts/products/1140356-basic-stussy-thermal-navy",
+          "image": "https://jp.stussy.com/cdn/shop/files/1140356_NAVY_1.jpg?v=1778692216&width=1600",
+          "credit": "jp.stussy.com 商品圖片",
+          "note": "以這款觀察品牌的剪裁與細節；為編輯探索選品，未宣稱是官方定番或銷量第一。",
+          "checkedAt": "2026-10-15"
+        }
+      ],
+      "relationships": []
+    },
+    {
+      "id": "supreme",
+      "profile": {
+        "name": "Supreme",
+        "jp": "シュプリーム",
+        "aliases": [
+          "Supreme"
+        ],
+        "styles": [
+          "street"
+        ],
+        "audience": [
+          "men",
+          "women"
+        ],
+        "audienceBasis": "editorial",
+        "type": "服飾品牌",
+        "tagline": "從當季圖像與街頭層次開始。",
+        "intro": "先看官方當季系列及日本店舖資訊。新品、聯名與轉售價格不是同一件事，本站不以轉售溢價當日本定價。",
+        "why": "先看官方當季系列及日本店舖資訊。新品、聯名與轉售價格不是同一件事，本站不以轉售溢價當日本定價。",
+        "look": [
+          "T-shirt／衛衣：Script Tee（Black）",
+          "用具名款式與實寸比較，再決定要不要試穿",
+          "出發前確認日本門市及販售品類"
+        ],
+        "shopping": "從本頁的品牌／日本銷售通路入口確認款式與尺寸，再查實際店址及庫存。線上有列出不代表每個日本門市都有貨；本站未提供日本比其他地方便宜的保證。",
+        "official": "https://supreme.com/stores",
+        "shop": "https://supreme.com/stores?slide=modal",
+        "sources": [
+          {
+            "label": "品牌／日本銷售入口",
+            "url": "https://supreme.com/stores"
+          },
+          {
+            "label": "官方店舖索引",
+            "url": "https://supreme.com/stores?slide=modal"
+          }
+        ],
+        "coverage": "product"
+      },
+      "pieces": [
+        {
+          "name": "Script Tee（Black）",
+          "originalName": "Script Tee（Black）",
+          "sku": "Script Tee / Black / Fall-Winter 2026",
+          "kind": "tshirt",
+          "category": "tops",
+          "audience": [
+            "men"
+          ],
+          "role": "編輯入門選品",
+          "price": null,
+          "priceNote": "日本售價尚未核實；不換算海外站價格",
+          "note": "具名商品／系列的真實圖片；為編輯認識品牌的入口，不宣稱全品牌銷量第一或現貨。",
+          "source": "https://us.supreme.com/products/mcef1bwdhrtyd-fx",
+          "image": "https://us.supreme.com/cdn/shop/files/T62_FW26_ScriptTee_Black_720x.jpg?v=1791214479",
+          "credit": "us.supreme.com 商品／系列圖片",
+          "checkedAt": "2026-10-15"
+        }
+      ],
+      "relationships": []
+    },
+    {
+      "id": "stone-island",
+      "profile": {
+        "name": "Stone Island",
+        "jp": "ストーンアイランド",
+        "aliases": [
+          "Stone Island"
+        ],
+        "styles": [
+          "street"
+        ],
+        "audience": [
+          "men"
+        ],
+        "audienceBasis": "editorial",
+        "type": "服飾品牌",
+        "tagline": "從布料與外套細節辨認風格。",
+        "intro": "喜歡機能感的城市服裝，可先觀察外套面料、口袋與袖章。特定面料名稱不當成另一個獨立品牌。",
+        "why": "喜歡機能感的城市服裝，可先觀察外套面料、口袋與袖章。特定面料名稱不當成另一個獨立品牌。",
+        "look": [
+          "單品：STONE ISLAND / ULTRALIGHT NYLON STRETCH-TC",
+          "用具名款式與實寸比較，再決定要不要試穿",
+          "出發前確認日本門市及販售品類"
+        ],
+        "shopping": "從本頁的品牌／日本銷售通路入口確認款式與尺寸，再查實際店址及庫存。線上有列出不代表每個日本門市都有貨；本站未提供日本比其他地方便宜的保證。",
+        "official": "https://www.beams.co.jp/brand/003470/",
+        "shop": "https://www.beams.co.jp/brand/003470/",
+        "sources": [
+          {
+            "label": "品牌／日本銷售入口",
+            "url": "https://www.beams.co.jp/brand/003470/"
+          }
+        ],
+        "coverage": "product"
+      },
+      "pieces": [
+        {
+          "name": "STONE ISLAND / ULTRALIGHT NYLON STRETCH-TC",
+          "originalName": "STONE ISLAND / ULTRALIGHT NYLON STRETCH-TC",
+          "sku": "11185578411",
+          "category": "tops",
+          "audience": [
+            "men"
+          ],
+          "role": "編輯入門選品",
+          "price": 154000,
+          "priceNote": "查核時日本通路列價；促銷與庫存以來源為準",
+          "source": "https://www.beams.co.jp/item/beams/blouson/11185578411/?color=19",
+          "image": "https://cdn.beams.co.jp/img/goods/11185578411/O/11185578411_C_1.jpg",
+          "credit": "www.beams.co.jp 商品圖片",
+          "note": "以這款觀察品牌的剪裁與細節；為編輯探索選品，未宣稱是官方定番或銷量第一。",
+          "checkedAt": "2026-10-15"
+        }
+      ],
+      "relationships": []
+    },
+    {
+      "id": "apc",
+      "profile": {
+        "name": "A.P.C.",
+        "jp": "アーペーセー",
+        "aliases": [
+          "A.P.C."
+        ],
+        "styles": [
+          "minimal"
+        ],
+        "audience": [
+          "men",
+          "women"
+        ],
+        "audienceBasis": "editorial",
+        "type": "服飾品牌",
+        "tagline": "簡潔的法式日常，從一件開始。",
+        "intro": "先比較丹寧、襯衫或外套的版型；聯名有自己的合作名稱，並不代表品牌隸屬。",
+        "why": "先比較丹寧、襯衫或外套的版型；聯名有自己的合作名稱，並不代表品牌隸屬。",
+        "look": [
+          "外套：A.P.C. / JULIAN フリース フーデット ブルゾン",
+          "用具名款式與實寸比較，再決定要不要試穿",
+          "出發前確認日本門市及販售品類"
+        ],
+        "shopping": "從本頁的品牌／日本銷售通路入口確認款式與尺寸，再查實際店址及庫存。線上有列出不代表每個日本門市都有貨；本站未提供日本比其他地方便宜的保證。",
+        "official": "https://www.beams.co.jp/brand/002325/",
+        "shop": "https://www.beams.co.jp/brand/002325/",
+        "sources": [
+          {
+            "label": "品牌／日本銷售入口",
+            "url": "https://www.beams.co.jp/brand/002325/"
+          }
+        ],
+        "coverage": "product"
+      },
+      "pieces": [
+        {
+          "name": "A.P.C. / JULIAN フリース フーデット ブルゾン",
+          "originalName": "A.P.C. / JULIAN フリース フーデット ブルゾン",
+          "sku": "24180863059",
+          "kind": "outerwear",
+          "category": "outerwear",
+          "audience": [
+            "men"
+          ],
+          "role": "編輯入門選品",
+          "price": 83600,
+          "priceNote": "查核時日本通路列價；促銷與庫存以來源為準",
+          "source": "https://www.beams.co.jp/item/brilla_per_il_gusto/blouson/24180863059/?color=67",
+          "image": "https://cdn.beams.co.jp/img/goods/24180863059/O/24180863059_C_1.jpg",
+          "credit": "www.beams.co.jp 商品圖片",
+          "note": "以這款觀察品牌的剪裁與細節；為編輯探索選品，未宣稱是官方定番或銷量第一。",
+          "checkedAt": "2026-10-15"
+        }
+      ],
+      "relationships": []
+    },
+    {
+      "id": "teatora",
+      "profile": {
+        "name": "TEATORA",
+        "jp": "テアトラ",
+        "aliases": [
+          "TEATORA"
+        ],
+        "styles": [
+          "minimal"
+        ],
+        "audience": [
+          "men"
+        ],
+        "audienceBasis": "editorial",
+        "type": "服飾品牌",
+        "tagline": "讓城市移動更輕鬆的機能服。",
+        "intro": "先看外套與褲裝的收納和材質，再依通勤、旅行與季節挑選。系列名稱是選布料與功能的重要線索。",
+        "why": "先看外套與褲裝的收納和材質，再依通勤、旅行與季節挑選。系列名稱是選布料與功能的重要線索。",
+        "look": [
+          "單品：EATORA / DATA DOME - BR-PLUS",
+          "用具名款式與實寸比較，再決定要不要試穿",
+          "出發前確認日本門市及販售品類"
+        ],
+        "shopping": "從本頁的品牌／日本銷售通路入口確認款式與尺寸，再查實際店址及庫存。線上有列出不代表每個日本門市都有貨；本站未提供日本比其他地方便宜的保證。",
+        "official": "https://www.beams.co.jp/brand/003525/",
+        "shop": "https://www.beams.co.jp/brand/003525/",
+        "sources": [
+          {
+            "label": "品牌／日本銷售入口",
+            "url": "https://www.beams.co.jp/brand/003525/"
+          }
+        ],
+        "coverage": "product"
+      },
+      "pieces": [
+        {
+          "name": "EATORA / DATA DOME - BR-PLUS",
+          "originalName": "EATORA / DATA DOME - BR-PLUS",
+          "sku": "11190297843",
+          "category": "tops",
+          "audience": [
+            "men"
+          ],
+          "role": "編輯入門選品",
+          "price": 165000,
+          "priceNote": "查核時日本通路列價；促銷與庫存以來源為準",
+          "source": "https://www.beams.co.jp/item/beams/coat/11190297843/?color=19",
+          "image": "https://cdn.beams.co.jp/img/goods/11190297843/O/11190297843_C_1.jpg",
+          "credit": "www.beams.co.jp 商品圖片",
+          "note": "以這款觀察品牌的剪裁與細節；為編輯探索選品，未宣稱是官方定番或銷量第一。",
+          "checkedAt": "2026-10-15"
+        }
+      ],
+      "relationships": []
+    },
+    {
+      "id": "dairiku",
+      "profile": {
+        "name": "DAIRIKU",
+        "jp": "ダイリク",
+        "aliases": [
+          "DAIRIKU"
+        ],
+        "styles": [
+          "vintage"
+        ],
+        "audience": [
+          "men"
+        ],
+        "audienceBasis": "editorial",
+        "type": "服飾品牌",
+        "tagline": "用復古色彩與故事感穿搭。",
+        "intro": "先從針織、襯衫或有圖像的上衣觀察搭配；風格入口是復古混搭，不代表商品都是古著。",
+        "why": "先從針織、襯衫或有圖像的上衣觀察搭配；風格入口是復古混搭，不代表商品都是古著。",
+        "look": [
+          "針織：DAIRIKU / DANNY PILLING KNIT",
+          "用具名款式與實寸比較，再決定要不要試穿",
+          "出發前確認日本門市及販售品類"
+        ],
+        "shopping": "從本頁的品牌／日本銷售通路入口確認款式與尺寸，再查實際店址及庫存。線上有列出不代表每個日本門市都有貨；本站未提供日本比其他地方便宜的保證。",
+        "official": "https://www.beams.co.jp/brand/007198/",
+        "shop": "https://www.beams.co.jp/brand/007198/",
+        "sources": [
+          {
+            "label": "品牌／日本銷售入口",
+            "url": "https://www.beams.co.jp/brand/007198/"
+          }
+        ],
+        "coverage": "product"
+      },
+      "pieces": [
+        {
+          "name": "DAIRIKU / DANNY PILLING KNIT",
+          "originalName": "DAIRIKU / DANNY PILLING KNIT",
+          "sku": "11152068979",
+          "kind": "knitwear",
+          "category": "knitwear",
+          "audience": [
+            "men"
+          ],
+          "role": "編輯入門選品",
+          "price": 41800,
+          "priceNote": "查核時日本通路列價；促銷與庫存以來源為準",
+          "source": "https://www.beams.co.jp/item/beams/tops/11152068979/?color=70",
+          "image": "https://cdn.beams.co.jp/img/goods/11152068979/O/11152068979_C_1.jpg",
+          "credit": "www.beams.co.jp 商品圖片",
+          "note": "以這款觀察品牌的剪裁與細節；為編輯探索選品，未宣稱是官方定番或銷量第一。",
+          "checkedAt": "2026-10-15"
+        }
+      ],
+      "relationships": []
+    },
+    {
+      "id": "freshservice",
+      "profile": {
+        "name": "FreshService",
+        "jp": "フレッシュサービス",
+        "aliases": [
+          "FreshService"
+        ],
+        "styles": [
+          "city"
+        ],
+        "audience": [
+          "men"
+        ],
+        "audienceBasis": "editorial",
+        "type": "服飾品牌",
+        "tagline": "寬鬆日常與實用口袋。",
+        "intro": "想找有份量的城市休閒，可先看襯衫、外套與寬褲。觀察衣長與層次，避免只憑標示尺碼選購。",
+        "why": "想找有份量的城市休閒，可先看襯衫、外套與寬褲。觀察衣長與層次，避免只憑標示尺碼選購。",
+        "look": [
+          "褲裝：reshService / PRESWARM（R） TRACK PANTS",
+          "用具名款式與實寸比較，再決定要不要試穿",
+          "出發前確認日本門市及販售品類"
+        ],
+        "shopping": "從本頁的品牌／日本銷售通路入口確認款式與尺寸，再查實際店址及庫存。線上有列出不代表每個日本門市都有貨；本站未提供日本比其他地方便宜的保證。",
+        "official": "https://www.beams.co.jp/brand/007473/",
+        "shop": "https://www.beams.co.jp/brand/007473/",
+        "sources": [
+          {
+            "label": "品牌／日本銷售入口",
+            "url": "https://www.beams.co.jp/brand/007473/"
+          }
+        ],
+        "coverage": "product"
+      },
+      "pieces": [
+        {
+          "name": "reshService / PRESWARM（R） TRACK PANTS",
+          "originalName": "reshService / PRESWARM（R） TRACK PANTS",
+          "sku": "11243883366",
+          "kind": "bottoms",
+          "category": "bottoms",
+          "audience": [
+            "men"
+          ],
+          "role": "編輯入門選品",
+          "price": 28600,
+          "priceNote": "查核時日本通路列價；促銷與庫存以來源為準",
+          "source": "https://www.beams.co.jp/item/beams/pants/11243883366/?color=19",
+          "image": "https://cdn.beams.co.jp/img/goods/11243883366/O/11243883366_C_1.jpg",
+          "credit": "www.beams.co.jp 商品圖片",
+          "note": "以這款觀察品牌的剪裁與細節；為編輯探索選品，未宣稱是官方定番或銷量第一。",
+          "checkedAt": "2026-10-15"
+        }
+      ],
+      "relationships": []
+    },
+    {
+      "id": "rotol",
+      "profile": {
+        "name": "ROTOL",
+        "jp": "ロトル",
+        "aliases": [
+          "ROTOL"
+        ],
+        "styles": [
+          "mode"
+        ],
+        "audience": [
+          "men"
+        ],
+        "audienceBasis": "editorial",
+        "type": "服飾品牌",
+        "tagline": "用剪裁和細節改變基本輪廓。",
+        "intro": "先看外套和上衣的切線、寬度與層次。適合想在日常服裝加入設計感的人。",
+        "why": "先看外套和上衣的切線、寬度與層次。適合想在日常服裝加入設計感的人。",
+        "look": [
+          "外套：ROTOL / VENTILATION 3L SHELL PARKA GEN-4",
+          "用具名款式與實寸比較，再決定要不要試穿",
+          "出發前確認日本門市及販售品類"
+        ],
+        "shopping": "從本頁的品牌／日本銷售通路入口確認款式與尺寸，再查實際店址及庫存。線上有列出不代表每個日本門市都有貨；本站未提供日本比其他地方便宜的保證。",
+        "official": "https://www.beams.co.jp/brand/004616/",
+        "shop": "https://www.beams.co.jp/brand/004616/",
+        "sources": [
+          {
+            "label": "品牌／日本銷售入口",
+            "url": "https://www.beams.co.jp/brand/004616/"
+          }
+        ],
+        "coverage": "product"
+      },
+      "pieces": [
+        {
+          "name": "ROTOL / VENTILATION 3L SHELL PARKA GEN-4",
+          "originalName": "ROTOL / VENTILATION 3L SHELL PARKA GEN-4",
+          "sku": "11189759494",
+          "kind": "outerwear",
+          "category": "outerwear",
+          "audience": [
+            "men"
+          ],
+          "role": "編輯入門選品",
+          "price": 74800,
+          "priceNote": "查核時日本通路列價；促銷與庫存以來源為準",
+          "source": "https://www.beams.co.jp/item/beams/blouson/11189759494/?color=19",
+          "image": "https://cdn.beams.co.jp/img/goods/11189759494/O/11189759494_C_1.jpg",
+          "credit": "www.beams.co.jp 商品圖片",
+          "note": "以這款觀察品牌的剪裁與細節；為編輯探索選品，未宣稱是官方定番或銷量第一。",
+          "checkedAt": "2026-10-15"
+        }
+      ],
+      "relationships": []
+    },
+    {
+      "id": "dulcamara",
+      "profile": {
+        "name": "Dulcamara",
+        "jp": "ドゥルカマラ",
+        "aliases": [
+          "Dulcamara"
+        ],
+        "styles": [
+          "mode"
+        ],
+        "audience": [
+          "men",
+          "women"
+        ],
+        "audienceBasis": "editorial",
+        "type": "服飾品牌",
+        "tagline": "寬鬆、垂墜，也能有俐落感。",
+        "intro": "可從よそいき系列看寬外套與褲裝如何搭配。先比較肩寬、衣長和褲管，理解寬鬆比例。",
+        "why": "可從よそいき系列看寬外套與褲裝如何搭配。先比較肩寬、衣長和褲管，理解寬鬆比例。",
+        "look": [
+          "單品：よそいきルーズWJK - ダークブラウン / 0",
+          "用具名款式與實寸比較，再決定要不要試穿",
+          "出發前確認日本門市及販售品類"
+        ],
+        "shopping": "從本頁的品牌／日本銷售通路入口確認款式與尺寸，再查實際店址及庫存。線上有列出不代表每個日本門市都有貨；本站未提供日本比其他地方便宜的保證。",
+        "official": "https://anlio.jp/collections/Dulcamara",
+        "shop": "https://anlio.jp/collections/Dulcamara",
+        "sources": [
+          {
+            "label": "品牌／日本銷售入口",
+            "url": "https://anlio.jp/collections/Dulcamara"
+          }
+        ],
+        "coverage": "product"
+      },
+      "pieces": [
+        {
+          "name": "よそいきルーズWJK - ダークブラウン / 0",
+          "originalName": "よそいきルーズWJK - ダークブラウン / 0",
+          "sku": "D126-J126_ダークブラウン_0",
+          "category": "tops",
+          "audience": [
+            "men"
+          ],
+          "role": "編輯入門選品",
+          "price": 41800,
+          "priceNote": "查核時日本通路列價；促銷與庫存以來源為準",
+          "source": "https://anlio.jp/products/100132433",
+          "image": "https://anlio.jp/cdn/shop/files/A_26ss53384.jpg?v=1762155425&width=1920",
+          "credit": "anlio.jp 商品圖片",
+          "note": "以這款觀察品牌的剪裁與細節；為編輯探索選品，未宣稱是官方定番或銷量第一。",
+          "checkedAt": "2026-10-15"
+        }
+      ],
+      "relationships": []
+    },
+    {
+      "id": "seesee",
+      "profile": {
+        "name": "SEE SEE",
+        "jp": "シーシー",
+        "aliases": [
+          "SEE SEE"
+        ],
+        "styles": [
+          "city"
+        ],
+        "audience": [
+          "men"
+        ],
+        "audienceBasis": "editorial",
+        "type": "服飾品牌",
+        "tagline": "大輪廓上衣與輕鬆的城市日常。",
+        "intro": "先看 SUPER BIG 上衣與寬褲的比例。URBS 是購買通路／企劃入口，不把 SEE SEE 直接寫成 URBAN RESEARCH 子品牌。",
+        "why": "先看 SUPER BIG 上衣與寬褲的比例。URBS 是購買通路／企劃入口，不把 SEE SEE 直接寫成 URBAN RESEARCH 子品牌。",
+        "look": [
+          "T-shirt／衛衣：SEE SEE FADE SUPER BIG LS TEE",
+          "用具名款式與實寸比較，再決定要不要試穿",
+          "出發前確認日本門市及販售品類"
+        ],
+        "shopping": "從本頁的品牌／日本銷售通路入口確認款式與尺寸，再查實際店址及庫存。線上有列出不代表每個日本門市都有貨；本站未提供日本比其他地方便宜的保證。",
+        "official": "https://www.urban-research.jp/shop/goods/search.aspx?bf_brand=7389&brand=7389&service=item&type=ALL",
+        "shop": "https://www.urban-research.jp/shop/goods/search.aspx?bf_brand=7389&brand=7389&service=item&type=ALL",
+        "sources": [
+          {
+            "label": "品牌／日本銷售入口",
+            "url": "https://www.urban-research.jp/shop/goods/search.aspx?bf_brand=7389&brand=7389&service=item&type=ALL"
+          }
+        ],
+        "coverage": "product"
+      },
+      "pieces": [
+        {
+          "name": "SEE SEE FADE SUPER BIG LS TEE",
+          "originalName": "SEE SEE FADE SUPER BIG LS TEE",
+          "sku": "022BS26110-10103280050004",
+          "kind": "tshirt",
+          "category": "tops",
+          "audience": [
+            "men"
+          ],
+          "role": "編輯入門選品",
+          "price": 17600,
+          "priceNote": "查核時日本通路列價；促銷與庫存以來源為準",
+          "source": "https://www.urban-research.jp/shop/g/gBS26110-1010328/",
+          "image": "https://www.urban-research.jp/img/goods/26urbs/BS26110-1010328/105_a_001.jpg?a=20261016050632000",
+          "credit": "www.urban-research.jp 商品圖片",
+          "note": "以這款觀察品牌的剪裁與細節；為編輯探索選品，未宣稱是官方定番或銷量第一。",
+          "checkedAt": "2026-10-15"
+        }
+      ],
+      "relationships": []
+    },
+    {
+      "id": "setto",
+      "profile": {
+        "name": "SETTO",
+        "jp": "セット",
+        "aliases": [
+          "SETTO"
+        ],
+        "styles": [
+          "natural"
+        ],
+        "audience": [
+          "men",
+          "women"
+        ],
+        "audienceBasis": "editorial",
+        "type": "服飾品牌",
+        "tagline": "從布料與寬鬆輪廓認識日常服。",
+        "intro": "可以先看襯衫的衣長、織物與寬褲搭配。品牌也有袋物，逛店前先確認你要看的品類。",
+        "why": "可以先看襯衫的衣長、織物與寬褲搭配。品牌也有袋物，逛店前先確認你要看的品類。",
+        "look": [
+          "包袋：ZIP TOP TOTE",
+          "用具名款式與實寸比較，再決定要不要試穿",
+          "出發前確認日本門市及販售品類"
+        ],
+        "shopping": "從本頁的品牌／日本銷售通路入口確認款式與尺寸，再查實際店址及庫存。線上有列出不代表每個日本門市都有貨；本站未提供日本比其他地方便宜的保證。",
+        "official": "https://setto.jp/",
+        "shop": "https://setto.jp/",
+        "sources": [
+          {
+            "label": "品牌／日本銷售入口",
+            "url": "https://setto.jp/product/"
+          }
+        ],
+        "coverage": "product"
+      },
+      "pieces": [
+        {
+          "name": "ZIP TOP TOTE",
+          "originalName": "ZIP TOP TOTE",
+          "sku": "官方商品頁識別 104",
+          "kind": "bags",
+          "category": "bags",
+          "audience": [
+            "men",
+            "women"
+          ],
+          "role": "編輯入門選品",
+          "price": null,
+          "priceNote": "日本售價尚未核實；不換算海外站價格",
+          "note": "具名商品／系列的真實圖片；為編輯認識品牌的入口，不宣稱全品牌銷量第一或現貨。",
+          "source": "https://setto.jp/product/detail/104",
+          "image": "https://setto.jp/uploads/view/crop/270x324/t_setto_product/104/IMAGE1.jpg",
+          "credit": "setto.jp 商品／系列圖片",
+          "checkedAt": "2026-10-15"
+        }
+      ],
+      "relationships": []
+    },
+    {
+      "id": "anatomica",
+      "profile": {
+        "name": "ANATOMICA",
+        "jp": "アナトミカ",
+        "aliases": [
+          "ANATOMICA"
+        ],
+        "styles": [
+          "americana"
+        ],
+        "audience": [
+          "men",
+          "women"
+        ],
+        "audienceBasis": "editorial",
+        "type": "服飾品牌",
+        "tagline": "從經典褲型，看版型細節。",
+        "intro": "先看 618 丹寧與外套的輪廓，依洗水版本和實寸比較；同系列不同褲型不套用同一尺寸建議。",
+        "why": "先看 618 丹寧與外套的輪廓，依洗水版本和實寸比較；同系列不同褲型不套用同一尺寸建議。",
+        "look": [
+          "褲裝：618 ORIGINAL / INDIGO NON WASH",
+          "用具名款式與實寸比較，再決定要不要試穿",
+          "出發前確認日本門市及販售品類"
+        ],
+        "shopping": "從本頁的品牌／日本銷售通路入口確認款式與尺寸，再查實際店址及庫存。線上有列出不代表每個日本門市都有貨；本站未提供日本比其他地方便宜的保證。",
+        "official": "https://anatomica.jp/",
+        "shop": "https://anatomica-tokyo.com/products/618-original-indigo-non-wash",
+        "sources": [
+          {
+            "label": "品牌／日本銷售入口",
+            "url": "https://anatomica-tokyo.com/products/618-original-indigo-non-wash"
+          }
+        ],
+        "coverage": "product"
+      },
+      "pieces": [
+        {
+          "name": "618 ORIGINAL / INDIGO NON WASH",
+          "originalName": "618 ORIGINAL / INDIGO NON WASH",
+          "sku": "618 ORIGINAL / INDIGO NON WASH",
+          "kind": "bottoms",
+          "category": "bottoms",
+          "audience": [
+            "men"
+          ],
+          "role": "編輯入門選品",
+          "price": null,
+          "priceNote": "日本售價未核實，請見品牌日本入口",
+          "source": "https://anatomica-tokyo.com/products/618-original-indigo-non-wash",
+          "image": "https://anatomica-tokyo.com/cdn/shop/files/4324_20250308174859.jpg?v=1789900036&width=1920",
+          "credit": "anatomica-tokyo.com 商品圖片",
+          "note": "以這款觀察品牌的剪裁與細節；為編輯探索選品，未宣稱是官方定番或銷量第一。",
+          "checkedAt": "2026-10-15"
+        }
+      ],
+      "relationships": []
+    },
+    {
+      "id": "ciota",
+      "profile": {
+        "name": "CIOTA",
+        "jp": "シオタ",
+        "aliases": [
+          "CIOTA"
+        ],
+        "styles": [
+          "minimal"
+        ],
+        "audience": [
+          "men",
+          "women"
+        ],
+        "audienceBasis": "editorial",
+        "type": "服飾品牌",
+        "tagline": "基本服裝，慢慢比較布料與褲型。",
+        "intro": "先看 5 Pocket Pants 的直筒、錐形與寬版差別，再比較面料。男裝、女裝與 Unisex 依官方分區查看。",
+        "why": "先看 5 Pocket Pants 的直筒、錐形與寬版差別，再比較面料。男裝、女裝與 Unisex 依官方分區查看。",
+        "look": [
+          "褲裝：Straight 5 Pocket Pants",
+          "用具名款式與實寸比較，再決定要不要試穿",
+          "出發前確認日本門市及販售品類"
+        ],
+        "shopping": "從本頁的品牌／日本銷售通路入口確認款式與尺寸，再查實際店址及庫存。線上有列出不代表每個日本門市都有貨；本站未提供日本比其他地方便宜的保證。",
+        "official": "https://www.ciota.jp/",
+        "shop": "https://www.ciota.jp/",
+        "sources": [
+          {
+            "label": "品牌／日本銷售入口",
+            "url": "https://www.ciota.jp/"
+          }
+        ],
+        "coverage": "product"
+      },
+      "pieces": [
+        {
+          "name": "Straight 5 Pocket Pants",
+          "originalName": "Straight 5 Pocket Pants",
+          "sku": "PTLM-21STB-NIW-24",
+          "kind": "bottoms",
+          "category": "bottoms",
+          "audience": [
+            "men"
+          ],
+          "role": "編輯入門選品",
+          "price": 37400,
+          "priceNote": "查核時日本通路列價；促銷與庫存以來源為準",
+          "source": "https://shop.ciota.jp/products/new-straight-5-pocket-pants",
+          "image": "https://shop.ciota.jp/cdn/shop/files/3_5_e7f63af6-3364-4e86-b26b-c8824054abd0_1920x.jpg?v=1725065523",
+          "credit": "shop.ciota.jp 商品圖片",
+          "note": "以這款觀察品牌的剪裁與細節；為編輯探索選品，未宣稱是官方定番或銷量第一。",
+          "checkedAt": "2026-10-15"
+        }
+      ],
+      "relationships": []
+    },
+    {
+      "id": "herill",
+      "profile": {
+        "name": "HERILL",
+        "jp": "ヘリル",
+        "aliases": [
+          "HERILL"
+        ],
+        "styles": [
+          "minimal"
+        ],
+        "audience": [
+          "men"
+        ],
+        "audienceBasis": "editorial",
+        "type": "服飾品牌",
+        "tagline": "用熟悉的衣服，觀察材質與份量。",
+        "intro": "從襯衫、丹寧與針織看寬鬆比例。先對照實寸和布料說明，再決定想試哪一件。",
+        "why": "從襯衫、丹寧與針織看寬鬆比例。先對照實寸和布料說明，再決定想試哪一件。",
+        "look": [
+          "襯衫：Broad Work Shirt",
+          "用具名款式與實寸比較，再決定要不要試穿",
+          "出發前確認日本門市及販售品類"
+        ],
+        "shopping": "從本頁的品牌／日本銷售通路入口確認款式與尺寸，再查實際店址及庫存。線上有列出不代表每個日本門市都有貨；本站未提供日本比其他地方便宜的保證。",
+        "official": "https://store.idealinc.tv/collections/herill",
+        "shop": "https://store.idealinc.tv/collections/herill",
+        "sources": [
+          {
+            "label": "品牌／日本銷售入口",
+            "url": "https://store.idealinc.tv/collections/herill"
+          }
+        ],
+        "coverage": "product"
+      },
+      "pieces": [
+        {
+          "name": "Broad Work Shirt",
+          "originalName": "Broad Work Shirt",
+          "sku": "26-050-HL-8040-10",
+          "kind": "shirt",
+          "category": "tops",
+          "audience": [
+            "men"
+          ],
+          "role": "編輯入門選品",
+          "price": 36000,
+          "priceNote": "日本通路促銷樣本；原列價 ¥46,200，不代表全品牌價格",
+          "source": "https://www.diverse-web.com/products/broad-work-shirt-1",
+          "image": "https://www.diverse-web.com/cdn/shop/files/IMG_4031_4f069666-0d60-43cc-be53-54c62b025006.jpg?v=1770369436&width=1000",
+          "credit": "www.diverse-web.com 商品圖片",
+          "note": "以這款觀察品牌的剪裁與細節；為編輯探索選品，未宣稱是官方定番或銷量第一。",
+          "checkedAt": "2026-10-15"
+        }
+      ],
+      "relationships": []
+    },
+    {
+      "id": "batoner",
+      "profile": {
+        "name": "BATONER",
+        "jp": "バトナー",
+        "aliases": [
+          "BATONER"
+        ],
+        "styles": [
+          "minimal"
+        ],
+        "audience": [
+          "men",
+          "women"
+        ],
+        "audienceBasis": "editorial",
+        "type": "服飾品牌",
+        "tagline": "從針織的織紋與輪廓開始。",
+        "intro": "第一次可把毛衣當作觀察入口：看領口、羅紋、厚薄與肩線，再比較常穿的外套能否套得下。",
+        "why": "第一次可把毛衣當作觀察入口：看領口、羅紋、厚薄與肩線，再比較常穿的外套能否套得下。",
+        "look": [
+          "單品：【EXCLUSIVE】BATONER / HIGH NECK LONG SLEEVE(WHITE/01,1(S)/16)",
+          "用具名款式與實寸比較，再決定要不要試穿",
+          "出發前確認日本門市及販售品類"
+        ],
+        "shopping": "從本頁的品牌／日本銷售通路入口確認款式與尺寸，再查實際店址及庫存。線上有列出不代表每個日本門市都有貨；本站未提供日本比其他地方便宜的保證。",
+        "official": "https://www.beams.co.jp/brand/005911/",
+        "shop": "https://www.beams.co.jp/brand/005911/",
+        "sources": [
+          {
+            "label": "品牌／日本銷售入口",
+            "url": "https://www.beams.co.jp/brand/005911/"
+          }
+        ],
+        "coverage": "product"
+      },
+      "pieces": [
+        {
+          "name": "【EXCLUSIVE】BATONER / HIGH NECK LONG SLEEVE(WHITE/01,1(S)/16)",
+          "originalName": "【EXCLUSIVE】BATONER / HIGH NECK LONG SLEEVE(WHITE/01,1(S)/16)",
+          "sku": "36140265905",
+          "category": "tops",
+          "audience": [
+            "men"
+          ],
+          "role": "編輯入門選品",
+          "price": 22000,
+          "priceNote": "查核時日本通路列價；促銷與庫存以來源為準",
+          "source": "https://www.beams.co.jp/item/pilgrimsurfsupply/t-shirt/36140265905/?color=01",
+          "image": "https://cdn.beams.co.jp/img/goods/36140265905/O/36140265905_C_1.jpg",
+          "credit": "www.beams.co.jp 商品圖片",
+          "note": "本款為具名合作／別注選品；合作品牌仍分開介紹，非隸屬關係。",
+          "checkedAt": "2026-10-15"
+        }
+      ],
+      "relationships": []
+    },
+    {
+      "id": "crepuscule",
+      "profile": {
+        "name": "crepuscule",
+        "jp": "クレプスキュール",
+        "aliases": [
+          "crepuscule"
+        ],
+        "styles": [
+          "natural"
+        ],
+        "audience": [
+          "men",
+          "women"
+        ],
+        "audienceBasis": "editorial",
+        "type": "服飾品牌",
+        "tagline": "把鬆弛的針織穿進日常。",
+        "intro": "喜歡寬鬆上衣，可以先看針織的衣長和下襬；同樣寬版，織法與重量會改變穿起來的樣子。",
+        "why": "喜歡寬鬆上衣，可以先看針織的衣長和下襬；同樣寬版，織法與重量會改變穿起來的樣子。",
+        "look": [
+          "單品：crepuscule / Moss Stitch Skipper",
+          "用具名款式與實寸比較，再決定要不要試穿",
+          "出發前確認日本門市及販售品類"
+        ],
+        "shopping": "從本頁的品牌／日本銷售通路入口確認款式與尺寸，再查實際店址及庫存。線上有列出不代表每個日本門市都有貨；本站未提供日本比其他地方便宜的保證。",
+        "official": "https://www.beams.co.jp/brand/003934/",
+        "shop": "https://www.beams.co.jp/brand/003934/",
+        "sources": [
+          {
+            "label": "品牌／日本銷售入口",
+            "url": "https://www.beams.co.jp/brand/003934/"
+          }
+        ],
+        "coverage": "product"
+      },
+      "pieces": [
+        {
+          "name": "crepuscule / Moss Stitch Skipper",
+          "originalName": "crepuscule / Moss Stitch Skipper",
+          "sku": "75120026894",
+          "category": "tops",
+          "audience": [
+            "men"
+          ],
+          "role": "編輯入門選品",
+          "price": 22000,
+          "priceNote": "查核時日本通路列價；促銷與庫存以來源為準",
+          "source": "https://www.beams.co.jp/item/beamst/shirt/75120026894/?color=19",
+          "image": "https://cdn.beams.co.jp/img/goods/75120026894/O/75120026894_C_1.jpg",
+          "credit": "www.beams.co.jp 商品圖片",
+          "note": "以這款觀察品牌的剪裁與細節；為編輯探索選品，未宣稱是官方定番或銷量第一。",
+          "checkedAt": "2026-10-15"
+        }
+      ],
+      "relationships": []
+    },
+    {
+      "id": "sfc",
+      "profile": {
+        "name": "S.F.C",
+        "jp": "エスエフシー",
+        "aliases": [
+          "S.F.C"
+        ],
+        "styles": [
+          "city"
+        ],
+        "audience": [
+          "men"
+        ],
+        "audienceBasis": "editorial",
+        "type": "服飾品牌",
+        "tagline": "把寬版輪廓穿得簡單。",
+        "intro": "S.F.C 是 STRIPES FOR CREATIVE 的品牌名稱縮寫。先看 SUPER WIDE 褲型與上衣的份量搭配。",
+        "why": "S.F.C 是 STRIPES FOR CREATIVE 的品牌名稱縮寫。先看 SUPER WIDE 褲型與上衣的份量搭配。",
+        "look": [
+          "褲裝：SUPER WIDE DENIM PANTS",
+          "用具名款式與實寸比較，再決定要不要試穿",
+          "出發前確認日本門市及販售品類"
+        ],
+        "shopping": "從本頁的品牌／日本銷售通路入口確認款式與尺寸，再查實際店址及庫存。線上有列出不代表每個日本門市都有貨；本站未提供日本比其他地方便宜的保證。",
+        "official": "https://sfcjapan.com/",
+        "shop": "https://sfcjapan.com/",
+        "sources": [
+          {
+            "label": "品牌／日本銷售入口",
+            "url": "https://sfcjapan.com/"
+          }
+        ],
+        "coverage": "product"
+      },
+      "pieces": [
+        {
+          "name": "SUPER WIDE DENIM PANTS",
+          "originalName": "SUPER WIDE DENIM PANTS",
+          "sku": "SFCFW23P06",
+          "kind": "bottoms",
+          "category": "bottoms",
+          "audience": [
+            "men"
+          ],
+          "role": "編輯入門選品",
+          "price": 29700,
+          "priceNote": "查核時日本通路列價；促銷與庫存以來源為準",
+          "source": "https://www.diverse-web.com/products/super-wide-denim-pants",
+          "image": "https://www.diverse-web.com/cdn/shop/files/386646422_6928220557221628_659474422143515541_n_a02b872e-1382-4135-98eb-10d871b518bc.jpg?v=1697193891&width=1080",
+          "credit": "www.diverse-web.com 商品圖片",
+          "note": "以這款觀察品牌的剪裁與細節；為編輯探索選品，未宣稱是官方定番或銷量第一。",
+          "checkedAt": "2026-10-15"
+        }
+      ],
+      "relationships": []
+    },
+    {
+      "id": "uru",
+      "profile": {
+        "name": "URU",
+        "jp": "ウル",
+        "aliases": [
+          "URU"
+        ],
+        "styles": [
+          "mode"
+        ],
+        "audience": [
+          "men"
+        ],
+        "audienceBasis": "editorial",
+        "type": "服飾品牌",
+        "tagline": "寬鬆線條與柔和的設計感。",
+        "intro": "從襯衫與外套觀察衣長、肩線和垂墜。想保留日常感，也想嘗試不同輪廓時可先比較。",
+        "why": "從襯衫與外套觀察衣長、肩線和垂墜。想保留日常感，也想嘗試不同輪廓時可先比較。",
+        "look": [
+          "針織：URU / V Neck Knit",
+          "用具名款式與實寸比較，再決定要不要試穿",
+          "出發前確認日本門市及販售品類"
+        ],
+        "shopping": "從本頁的品牌／日本銷售通路入口確認款式與尺寸，再查實際店址及庫存。線上有列出不代表每個日本門市都有貨；本站未提供日本比其他地方便宜的保證。",
+        "official": "https://www.beams.co.jp/brand/006205/",
+        "shop": "https://www.beams.co.jp/brand/006205/",
+        "sources": [
+          {
+            "label": "品牌／日本銷售入口",
+            "url": "https://www.beams.co.jp/brand/006205/"
+          }
+        ],
+        "coverage": "product"
+      },
+      "pieces": [
+        {
+          "name": "URU / V Neck Knit",
+          "originalName": "URU / V Neck Knit",
+          "sku": "11152026108",
+          "kind": "knitwear",
+          "category": "knitwear",
+          "audience": [
+            "men"
+          ],
+          "role": "編輯入門選品",
+          "price": 46200,
+          "priceNote": "查核時日本通路列價；促銷與庫存以來源為準",
+          "source": "https://www.beams.co.jp/item/beams/tops/11152026108/?color=17",
+          "image": "https://cdn.beams.co.jp/img/goods/11152026108/O/11152026108_C_1.jpg",
+          "credit": "www.beams.co.jp 商品圖片",
+          "note": "以這款觀察品牌的剪裁與細節；為編輯探索選品，未宣稱是官方定番或銷量第一。",
+          "checkedAt": "2026-10-15"
+        }
+      ],
+      "relationships": []
+    },
+    {
+      "id": "unused",
+      "profile": {
+        "name": "UNUSED",
+        "jp": "アンユーズド",
+        "aliases": [
+          "UNUSED"
+        ],
+        "styles": [
+          "city"
+        ],
+        "audience": [
+          "men",
+          "women"
+        ],
+        "audienceBasis": "editorial",
+        "type": "服飾品牌",
+        "tagline": "日常衣服裡，有值得細看的比例。",
+        "intro": "先看襯衫、針織或褲裝的版型。不要只憑寬鬆風格想像尺寸，逐款對照實寸。",
+        "why": "先看襯衫、針織或褲裝的版型。不要只憑寬鬆風格想像尺寸，逐款對照實寸。",
+        "look": [
+          "外套：UNUSED / Canvas jacket",
+          "用具名款式與實寸比較，再決定要不要試穿",
+          "出發前確認日本門市及販售品類"
+        ],
+        "shopping": "從本頁的品牌／日本銷售通路入口確認款式與尺寸，再查實際店址及庫存。線上有列出不代表每個日本門市都有貨；本站未提供日本比其他地方便宜的保證。",
+        "official": "https://www.beams.co.jp/brand/001691/",
+        "shop": "https://www.beams.co.jp/brand/001691/",
+        "sources": [
+          {
+            "label": "品牌／日本銷售入口",
+            "url": "https://www.beams.co.jp/brand/001691/"
+          }
+        ],
+        "coverage": "product"
+      },
+      "pieces": [
+        {
+          "name": "UNUSED / Canvas jacket",
+          "originalName": "UNUSED / Canvas jacket",
+          "sku": "11189412150",
+          "kind": "outerwear",
+          "category": "outerwear",
+          "audience": [
+            "men"
+          ],
+          "role": "編輯入門選品",
+          "price": 64900,
+          "priceNote": "查核時日本通路列價；促銷與庫存以來源為準",
+          "source": "https://www.beams.co.jp/item/beams/blouson/11189412150/?color=19",
+          "image": "https://cdn.beams.co.jp/img/goods/11189412150/O/11189412150_C_1.jpg",
+          "credit": "www.beams.co.jp 商品圖片",
+          "note": "以這款觀察品牌的剪裁與細節；為編輯探索選品，未宣稱是官方定番或銷量第一。",
+          "checkedAt": "2026-10-15"
+        }
+      ],
+      "relationships": []
+    },
+    {
+      "id": "neighborhood",
+      "profile": {
+        "name": "NEIGHBORHOOD",
+        "jp": "ネイバーフッド",
+        "aliases": [
+          "NEIGHBORHOOD"
+        ],
+        "styles": [
+          "street"
+        ],
+        "audience": [
+          "men"
+        ],
+        "audienceBasis": "editorial",
+        "type": "服飾品牌",
+        "tagline": "從工作服與街頭細節切入。",
+        "intro": "先看襯衫、丹寧與外套的洗水和口袋。喜歡低彩度、有份量的服裝，可從完整造型找比例。",
+        "why": "先看襯衫、丹寧與外套的洗水和口袋。喜歡低彩度、有份量的服裝，可從完整造型找比例。",
+        "look": [
+          "外套：LEATHER DAD JACKET",
+          "用具名款式與實寸比較，再決定要不要試穿",
+          "出發前確認日本門市及販售品類"
+        ],
+        "shopping": "從本頁的品牌／日本銷售通路入口確認款式與尺寸，再查實際店址及庫存。線上有列出不代表每個日本門市都有貨；本站未提供日本比其他地方便宜的保證。",
+        "official": "https://www.neighborhood.jp/",
+        "shop": "https://www.neighborhood.jp/",
+        "sources": [
+          {
+            "label": "品牌／日本銷售入口",
+            "url": "https://www.neighborhood.jp/"
+          }
+        ],
+        "coverage": "product"
+      },
+      "pieces": [
+        {
+          "name": "LEATHER DAD JACKET",
+          "originalName": "LEATHER DAD JACKET",
+          "sku": "262SZNH-JKM03_BLACK_S",
+          "kind": "outerwear",
+          "category": "outerwear",
+          "audience": [
+            "men"
+          ],
+          "role": "編輯入門選品",
+          "price": null,
+          "priceNote": "日本售價未核實，請見品牌日本入口",
+          "source": "https://www.neighborhood.jp/products/262sznh-jkm03",
+          "image": "https://www.neighborhood.jp/cdn/shop/files/012_1_262SZNH-JKM03_BK_d2472dcc-3a7b-4ed9-bf89-1d268afe9b04.jpg?v=1774414535&width=1920",
+          "credit": "www.neighborhood.jp 商品圖片",
+          "note": "以這款觀察品牌的剪裁與細節；為編輯探索選品，未宣稱是官方定番或銷量第一。",
+          "checkedAt": "2026-10-15"
+        }
+      ],
+      "relationships": []
+    },
+    {
+      "id": "wtaps",
+      "profile": {
+        "name": "WTAPS",
+        "jp": "ダブルタップス",
+        "aliases": [
+          "WTAPS"
+        ],
+        "styles": [
+          "street"
+        ],
+        "audience": [
+          "men"
+        ],
+        "audienceBasis": "editorial",
+        "type": "服飾品牌",
+        "tagline": "軍裝細節與城市街頭的組合。",
+        "intro": "從工作褲、襯衫與外套觀察口袋和層次。系列代碼與款名要一起記，逛店時比較好核對。",
+        "why": "從工作褲、襯衫與外套觀察口袋和層次。系列代碼與款名要一起記，逛店時比較好核對。",
+        "look": [
+          "外套：FLORETS / JACKET / POLY. BOA. TEXTILE - BLACK / SMALL",
+          "用具名款式與實寸比較，再決定要不要試穿",
+          "出發前確認日本門市及販售品類"
+        ],
+        "shopping": "從本頁的品牌／日本銷售通路入口確認款式與尺寸，再查實際店址及庫存。線上有列出不代表每個日本門市都有貨；本站未提供日本比其他地方便宜的保證。",
+        "official": "https://wtaps.com/",
+        "shop": "https://wtaps.com/",
+        "sources": [
+          {
+            "label": "品牌／日本銷售入口",
+            "url": "https://wtaps.com/"
+          }
+        ],
+        "coverage": "product"
+      },
+      "pieces": [
+        {
+          "name": "FLORETS / JACKET / POLY. BOA. TEXTILE - BLACK / SMALL",
+          "originalName": "FLORETS / JACKET / POLY. BOA. TEXTILE - BLACK / SMALL",
+          "sku": "2100002258756",
+          "kind": "outerwear",
+          "category": "outerwear",
+          "audience": [
+            "men"
+          ],
+          "role": "編輯入門選品",
+          "price": 64900,
+          "priceNote": "查核時日本通路列價；促銷與庫存以來源為準",
+          "source": "https://wtaps.com/products/262tqdt-jkm03",
+          "image": "https://wtaps.com/cdn/shop/files/010_4_262TQDT-JKM03_BK.jpg?v=1787713391&width=1920",
+          "credit": "wtaps.com 商品圖片",
+          "note": "以這款觀察品牌的剪裁與細節；為編輯探索選品，未宣稱是官方定番或銷量第一。",
+          "checkedAt": "2026-10-15"
+        }
+      ],
+      "relationships": []
+    },
+    {
+      "id": "wackomaria",
+      "profile": {
+        "name": "WACKO MARIA",
+        "jp": "ワコマリア",
+        "aliases": [
+          "WACKO MARIA"
+        ],
+        "styles": [
+          "street"
+        ],
+        "audience": [
+          "men"
+        ],
+        "audienceBasis": "editorial",
+        "type": "服飾品牌",
+        "tagline": "有圖案的上衣，配出自己的節奏。",
+        "intro": "第一次可從襯衫、圖像上衣與打褶長褲搭配觀察。印花、布料與剪裁各有版本，按具名款式比較。",
+        "why": "第一次可從襯衫、圖像上衣與打褶長褲搭配觀察。印花、布料與剪裁各有版本，按具名款式比較。",
+        "look": [
+          "褲裝：DORMEUIL / PLEATED TROUSERS (TYPE-2)",
+          "用具名款式與實寸比較，再決定要不要試穿",
+          "出發前確認日本門市及販售品類"
+        ],
+        "shopping": "從本頁的品牌／日本銷售通路入口確認款式與尺寸，再查實際店址及庫存。線上有列出不代表每個日本門市都有貨；本站未提供日本比其他地方便宜的保證。",
+        "official": "https://wackomaria-paradisetokyo.jp/",
+        "shop": "https://wackomaria-paradisetokyo.jp/",
+        "sources": [
+          {
+            "label": "品牌／日本銷售入口",
+            "url": "https://wackomaria-paradisetokyo.jp/"
+          }
+        ],
+        "coverage": "product"
+      },
+      "pieces": [
+        {
+          "name": "DORMEUIL / PLEATED TROUSERS (TYPE-2)",
+          "originalName": "DORMEUIL / PLEATED TROUSERS (TYPE-2)",
+          "sku": "DORMEUIL / TYPE-2",
+          "kind": "bottoms",
+          "category": "bottoms",
+          "audience": [
+            "men"
+          ],
+          "role": "編輯入門選品",
+          "price": null,
+          "priceNote": "日本售價尚未核實；不換算海外站價格",
+          "note": "具名商品／系列的真實圖片；為編輯認識品牌的入口，不宣稱全品牌銷量第一或現貨。",
+          "source": "https://wackomaria-paradisetokyo.jp/detail/4990",
+          "image": "https://cdn.wackomaria-paradisetokyo.jp/images/commerce/item/53d2def14daddd3f620ac05e21c80417.jpg",
+          "credit": "wackomaria-paradisetokyo.jp 商品／系列圖片",
+          "checkedAt": "2026-10-15"
+        }
+      ],
+      "relationships": []
+    },
+    {
+      "id": "sophnet",
+      "profile": {
+        "name": "SOPHNET.",
+        "jp": "ソフネット",
+        "aliases": [
+          "SOPHNET."
+        ],
+        "styles": [
+          "city"
+        ],
+        "audience": [
+          "men"
+        ],
+        "audienceBasis": "editorial",
+        "type": "服飾品牌",
+        "tagline": "把城市日常與實用細節搭起來。",
+        "intro": "本頁聚焦 SOPHNET.，先看襯衫和外套。SOPH. 官網也售其他標籤，需看商品品牌欄。",
+        "why": "本頁聚焦 SOPHNET.，先看襯衫和外套。SOPH. 官網也售其他標籤，需看商品品牌欄。",
+        "look": [
+          "襯衫：FLANNEL CHECK RELAX-FIT SHIRT",
+          "用具名款式與實寸比較，再決定要不要試穿",
+          "出發前確認日本門市及販售品類"
+        ],
+        "shopping": "從本頁的品牌／日本銷售通路入口確認款式與尺寸，再查實際店址及庫存。線上有列出不代表每個日本門市都有貨；本站未提供日本比其他地方便宜的保證。",
+        "official": "https://www.soph.net/shop/",
+        "shop": "https://www.soph.net/shop/",
+        "sources": [
+          {
+            "label": "品牌／日本銷售入口",
+            "url": "https://www.soph.net/shop/"
+          }
+        ],
+        "coverage": "product"
+      },
+      "pieces": [
+        {
+          "name": "FLANNEL CHECK RELAX-FIT SHIRT",
+          "originalName": "FLANNEL CHECK RELAX-FIT SHIRT",
+          "sku": "SPNT-262005",
+          "kind": "shirt",
+          "category": "tops",
+          "audience": [
+            "men"
+          ],
+          "role": "編輯入門選品",
+          "price": null,
+          "priceNote": "日本售價未核實，請見品牌日本入口",
+          "source": "https://www.soph.net/shop/g/g112620050804/",
+          "image": "https://www.soph.net/img/goods/S/spnt_262005_lightgray.jpg",
+          "credit": "www.soph.net 商品圖片",
+          "note": "以這款觀察品牌的剪裁與細節；為編輯探索選品，未宣稱是官方定番或銷量第一。",
+          "checkedAt": "2026-10-15"
+        }
+      ],
+      "relationships": []
+    },
+    {
+      "id": "uniform-experiment",
+      "profile": {
+        "name": "uniform experiment",
+        "jp": "ユニフォーム エクスペリメント",
+        "aliases": [
+          "uniform experiment"
+        ],
+        "styles": [
+          "street"
+        ],
+        "audience": [
+          "men"
+        ],
+        "audienceBasis": "editorial",
+        "type": "服飾品牌",
+        "tagline": "俐落輪廓裡，放進圖像與軍裝細節。",
+        "intro": "這是 uniform experiment 的獨立指南；與 SOPHNET. 共用官網入口時，商品與價格仍分開記錄。",
+        "why": "這是 uniform experiment 的獨立指南；與 SOPHNET. 共用官網入口時，商品與價格仍分開記錄。",
+        "look": [
+          "外套：MILITARY PEA COAT",
+          "用具名款式與實寸比較，再決定要不要試穿",
+          "出發前確認日本門市及販售品類"
+        ],
+        "shopping": "從本頁的品牌／日本銷售通路入口確認款式與尺寸，再查實際店址及庫存。線上有列出不代表每個日本門市都有貨；本站未提供日本比其他地方便宜的保證。",
+        "official": "https://www.soph.net/shop/",
+        "shop": "https://www.soph.net/shop/",
+        "sources": [
+          {
+            "label": "品牌／日本銷售入口",
+            "url": "https://www.soph.net/shop/"
+          }
+        ],
+        "coverage": "product"
+      },
+      "pieces": [
+        {
+          "name": "MILITARY PEA COAT",
+          "originalName": "MILITARY PEA COAT",
+          "sku": "UE-262000",
+          "kind": "outerwear",
+          "category": "outerwear",
+          "audience": [
+            "men"
+          ],
+          "role": "編輯入門選品",
+          "price": null,
+          "priceNote": "日本售價未核實，請見品牌日本入口",
+          "source": "https://www.soph.net/shop/g/g142620001504/",
+          "image": "https://www.soph.net/img/goods/S/ue_262000_khaki.jpg",
+          "credit": "www.soph.net 商品圖片",
+          "note": "以這款觀察品牌的剪裁與細節；為編輯探索選品，未宣稱是官方定番或銷量第一。",
+          "checkedAt": "2026-10-15"
+        }
+      ],
+      "relationships": []
+    },
+    {
+      "id": "sacai",
+      "profile": {
+        "name": "sacai",
+        "jp": "サカイ",
+        "aliases": [
+          "sacai"
+        ],
+        "styles": [
+          "mode"
+        ],
+        "audience": [
+          "men",
+          "women"
+        ],
+        "audienceBasis": "editorial",
+        "type": "服飾品牌",
+        "tagline": "從拼接與層次，理解設計感。",
+        "intro": "先看外套如何結合不同衣服的細節。記下完整款號，再比較輪廓和穿脫方式。",
+        "why": "先看外套如何結合不同衣服的細節。記下完整款號，再比較輪廓和穿脫方式。",
+        "look": [
+          "外套：SACAI - Denim Jacket - ",
+          "用具名款式與實寸比較，再決定要不要試穿",
+          "出發前確認日本門市及販售品類"
+        ],
+        "shopping": "從本頁的品牌／日本銷售通路入口確認款式與尺寸，再查實際店址及庫存。線上有列出不代表每個日本門市都有貨；本站未提供日本比其他地方便宜的保證。",
+        "official": "https://shop-jp.doverstreetmarket.com/collections/sacai",
+        "shop": "https://shop-jp.doverstreetmarket.com/collections/sacai",
+        "sources": [
+          {
+            "label": "品牌／日本銷售入口",
+            "url": "https://shop-jp.doverstreetmarket.com/collections/sacai"
+          }
+        ],
+        "coverage": "product"
+      },
+      "pieces": [
+        {
+          "name": "SACAI - Denim Jacket - ",
+          "originalName": "SACAI - Denim Jacket - ",
+          "sku": "4570156616159",
+          "kind": "outerwear",
+          "category": "outerwear",
+          "audience": [
+            "men"
+          ],
+          "role": "編輯入門選品",
+          "price": 143000,
+          "priceNote": "查核時日本通路列價；促銷與庫存以來源為準",
+          "source": "https://shop-jp.doverstreetmarket.com/products/sacai-denim-jacket-401",
+          "image": "https://shop-jp.doverstreetmarket.com/cdn/shop/files/4570156616166.jpg?v=1788166442&width=4000",
+          "credit": "shop-jp.doverstreetmarket.com 商品圖片",
+          "note": "以這款觀察品牌的剪裁與細節；為編輯探索選品，未宣稱是官方定番或銷量第一。",
+          "checkedAt": "2026-10-15"
+        }
+      ],
+      "relationships": []
+    },
+    {
+      "id": "hyke",
+      "profile": {
+        "name": "HYKE",
+        "jp": "ハイク",
+        "aliases": [
+          "HYKE"
+        ],
+        "styles": [
+          "minimal"
+        ],
+        "audience": [
+          "men",
+          "women"
+        ],
+        "audienceBasis": "editorial",
+        "type": "服飾品牌",
+        "tagline": "熟悉的服裝細節，重新整理比例。",
+        "intro": "可先看外套與軍裝靈感的輪廓。男裝、女裝通路有不同尺碼與選品，依實際商品頁確認。",
+        "why": "可先看外套與軍裝靈感的輪廓。男裝、女裝通路有不同尺碼與選品，依實際商品頁確認。",
+        "look": [
+          "外套：FLEECE JACKET",
+          "用具名款式與實寸比較，再決定要不要試穿",
+          "出發前確認日本門市及販售品類"
+        ],
+        "shopping": "從本頁的品牌／日本銷售通路入口確認款式與尺寸，再查實際店址及庫存。線上有列出不代表每個日本門市都有貨；本站未提供日本比其他地方便宜的保證。",
+        "official": "https://coverchord.com/collections/men-hyke",
+        "shop": "https://coverchord.com/collections/men-hyke",
+        "sources": [
+          {
+            "label": "品牌／日本銷售入口",
+            "url": "https://coverchord.com/collections/men-hyke"
+          }
+        ],
+        "coverage": "product"
+      },
+      "pieces": [
+        {
+          "name": "FLEECE JACKET",
+          "originalName": "FLEECE JACKET",
+          "sku": "2100000547487",
+          "kind": "outerwear",
+          "category": "outerwear",
+          "audience": [
+            "men"
+          ],
+          "role": "編輯入門選品",
+          "price": 53900,
+          "priceNote": "查核時日本通路列價；促銷與庫存以來源為準",
+          "source": "https://coverchord.com/products/vhyk-j4505?variant=45860392861887",
+          "image": "https://coverchord.com/cdn/shop/files/VHYK-J4505_018_01_c0a28e90-7dbc-485d-9254-f8db51d9e076_1200x.jpg?v=1789883470",
+          "credit": "coverchord.com 商品圖片",
+          "note": "以這款觀察品牌的剪裁與細節；為編輯探索選品，未宣稱是官方定番或銷量第一。",
+          "checkedAt": "2026-10-15"
+        }
+      ],
+      "relationships": []
+    },
+    {
+      "id": "toga",
+      "profile": {
+        "name": "TOGA",
+        "jp": "トーガ",
+        "aliases": [
+          "TOGA"
+        ],
+        "styles": [
+          "mode"
+        ],
+        "audience": [
+          "men",
+          "women"
+        ],
+        "audienceBasis": "editorial",
+        "type": "服飾品牌",
+        "tagline": "用金屬細節與不同材質建立個性。",
+        "intro": "TOGA 有不同服裝標籤；本頁具名男裝選品來自 TOGA VIRILIS。先確認完整標籤，再查商品與店舖。",
+        "why": "TOGA 有不同服裝標籤；本頁具名男裝選品來自 TOGA VIRILIS。先確認完整標籤，再查商品與店舖。",
+        "look": [
+          "T-shirt／衛衣：POLO COLLAR SWEATSHIRTS SP",
+          "用具名款式與實寸比較，再決定要不要試穿",
+          "出發前確認日本門市及販售品類"
+        ],
+        "shopping": "從本頁的品牌／日本銷售通路入口確認款式與尺寸，再查實際店址及庫存。線上有列出不代表每個日本門市都有貨；本站未提供日本比其他地方便宜的保證。",
+        "official": "https://int.toga.jp/",
+        "shop": "https://int.toga.jp/",
+        "sources": [
+          {
+            "label": "品牌／日本銷售入口",
+            "url": "https://int.toga.jp/"
+          }
+        ],
+        "coverage": "product"
+      },
+      "pieces": [
+        {
+          "name": "POLO COLLAR SWEATSHIRTS SP",
+          "originalName": "POLO COLLAR SWEATSHIRTS SP",
+          "sku": "4573407390846",
+          "kind": "tshirt",
+          "category": "tops",
+          "audience": [
+            "men"
+          ],
+          "role": "編輯入門選品",
+          "price": null,
+          "priceNote": "日本售價未核實，請見品牌日本入口",
+          "source": "https://int.toga.jp/products/tv262-jl527",
+          "image": "https://int.toga.jp/cdn/shop/files/TV262-JL527_01_1600x.jpg?v=1790753877",
+          "credit": "int.toga.jp 商品圖片",
+          "note": "以這款觀察品牌的剪裁與細節；為編輯探索選品，未宣稱是官方定番或銷量第一。",
+          "checkedAt": "2026-10-15"
+        }
+      ],
+      "relationships": []
+    },
+    {
+      "id": "undercover",
+      "profile": {
+        "name": "UNDERCOVER",
+        "jp": "アンダーカバー",
+        "aliases": [
+          "UNDERCOVER"
+        ],
+        "styles": [
+          "mode"
+        ],
+        "audience": [
+          "men",
+          "women"
+        ],
+        "audienceBasis": "editorial",
+        "type": "服飾品牌",
+        "tagline": "圖像、文化與服裝設計一起看。",
+        "intro": "先看有圖像的上衣或外套如何搭配，再理解材質與剪裁。聯名服裝會保留合作名稱。",
+        "why": "先看有圖像的上衣或外套如何搭配，再理解材質與剪裁。聯名服裝會保留合作名稱。",
+        "look": [
+          "外套：UNDERCOVER - Cindy Sherman Print Quilted Blouson - ",
+          "用具名款式與實寸比較，再決定要不要試穿",
+          "出發前確認日本門市及販售品類"
+        ],
+        "shopping": "從本頁的品牌／日本銷售通路入口確認款式與尺寸，再查實際店址及庫存。線上有列出不代表每個日本門市都有貨；本站未提供日本比其他地方便宜的保證。",
+        "official": "https://shop-jp.doverstreetmarket.com/collections/undercover/tees",
+        "shop": "https://shop-jp.doverstreetmarket.com/collections/undercover/tees",
+        "sources": [
+          {
+            "label": "品牌／日本銷售入口",
+            "url": "https://shop-jp.doverstreetmarket.com/collections/undercover/tees"
+          }
+        ],
+        "coverage": "product"
+      },
+      "pieces": [
+        {
+          "name": "UNDERCOVER - Cindy Sherman Print Quilted Blouson - ",
+          "originalName": "UNDERCOVER - Cindy Sherman Print Quilted Blouson - ",
+          "sku": "2000001210826B",
+          "kind": "outerwear",
+          "category": "outerwear",
+          "audience": [
+            "men"
+          ],
+          "role": "編輯入門選品",
+          "price": 220000,
+          "priceNote": "查核時日本通路列價；促銷與庫存以來源為準",
+          "source": "https://shop-jp.doverstreetmarket.com/products/undercover-cindy-sherman-print-quilted-blouson-black",
+          "image": "https://shop-jp.doverstreetmarket.com/cdn/shop/files/1000013718823_2.jpg?v=1785751558&width=4000",
+          "credit": "shop-jp.doverstreetmarket.com 商品圖片",
+          "note": "以這款觀察品牌的剪裁與細節；為編輯探索選品，未宣稱是官方定番或銷量第一。",
+          "checkedAt": "2026-10-15"
+        }
+      ],
+      "relationships": []
+    },
+    {
+      "id": "comme-des-garcons",
+      "profile": {
+        "name": "COMME des GARÇONS HOMME",
+        "jp": "コム デ ギャルソン・オム",
+        "aliases": [
+          "COMME des GARÇONS HOMME"
+        ],
+        "styles": [
+          "mode"
+        ],
+        "audience": [
+          "men"
+        ],
+        "audienceBasis": "editorial",
+        "type": "服裝標籤",
+        "tagline": "從日常男裝，走近設計師服裝。",
+        "intro": "本頁聚焦 COMME des GARÇONS HOMME。HOMME、PLAY、SHIRT 與其他系列各有定位，商品不混作同一條線。",
+        "why": "本頁聚焦 COMME des GARÇONS HOMME。HOMME、PLAY、SHIRT 與其他系列各有定位，商品不混作同一條線。",
+        "look": [
+          "外套：COMME DES GARCONS HOMME - Wool Beaver Bonding Jackets - ",
+          "用具名款式與實寸比較，再決定要不要試穿",
+          "出發前確認日本門市及販售品類"
+        ],
+        "shopping": "從本頁的品牌／日本銷售通路入口確認款式與尺寸，再查實際店址及庫存。線上有列出不代表每個日本門市都有貨；本站未提供日本比其他地方便宜的保證。",
+        "official": "https://shop-jp.doverstreetmarket.com/collections/comme-des-garcons-homme",
+        "shop": "https://shop-jp.doverstreetmarket.com/collections/comme-des-garcons-homme",
+        "sources": [
+          {
+            "label": "品牌／日本銷售入口",
+            "url": "https://shop-jp.doverstreetmarket.com/collections/comme-des-garcons-homme"
+          }
+        ],
+        "coverage": "product"
+      },
+      "pieces": [
+        {
+          "name": "COMME DES GARCONS HOMME - Wool Beaver Bonding Jackets - ",
+          "originalName": "COMME DES GARCONS HOMME - Wool Beaver Bonding Jackets - ",
+          "sku": "HRJ02305122G",
+          "kind": "outerwear",
+          "category": "outerwear",
+          "audience": [
+            "men"
+          ],
+          "role": "編輯入門選品",
+          "price": 110000,
+          "priceNote": "查核時日本通路列價；促銷與庫存以來源為準",
+          "source": "https://shop-jp.doverstreetmarket.com/products/comme-des-garcons-homme-wool-beaver-bonding-camel-jackets-hr-j023-051-camel",
+          "image": "https://shop-jp.doverstreetmarket.com/cdn/shop/files/HR-J023-051-2_20_2.jpg?v=1790859645&width=4000",
+          "credit": "shop-jp.doverstreetmarket.com 商品圖片",
+          "note": "以這款觀察品牌的剪裁與細節；為編輯探索選品，未宣稱是官方定番或銷量第一。",
+          "checkedAt": "2026-10-15"
+        }
+      ],
+      "relationships": []
+    },
+    {
+      "id": "junya-watanabe",
+      "profile": {
+        "name": "JUNYA WATANABE MAN",
+        "jp": "ジュンヤ ワタナベ マン",
+        "aliases": [
+          "JUNYA WATANABE MAN"
+        ],
+        "styles": [
+          "mode"
+        ],
+        "audience": [
+          "men"
+        ],
+        "audienceBasis": "editorial",
+        "type": "服裝標籤",
+        "tagline": "經典男裝裡，觀察重組與拼接。",
+        "intro": "本頁聚焦 JUNYA WATANABE MAN。從具名外套看與 Levi’s 等合作如何處理剪裁，不把合作對象寫成隸屬品牌。",
+        "why": "本頁聚焦 JUNYA WATANABE MAN。從具名外套看與 Levi’s 等合作如何處理剪裁，不把合作對象寫成隸屬品牌。",
+        "look": [
+          "外套：JUNYA WATANABE MAN - Wool Cloth Levi's W-Name Jackets - ",
+          "用具名款式與實寸比較，再決定要不要試穿",
+          "出發前確認日本門市及販售品類"
+        ],
+        "shopping": "從本頁的品牌／日本銷售通路入口確認款式與尺寸，再查實際店址及庫存。線上有列出不代表每個日本門市都有貨；本站未提供日本比其他地方便宜的保證。",
+        "official": "https://www.doverstreetmarket.com/",
+        "shop": "https://www.doverstreetmarket.com/",
+        "sources": [
+          {
+            "label": "品牌／日本銷售入口",
+            "url": "https://www.doverstreetmarket.com/"
+          }
+        ],
+        "coverage": "product"
+      },
+      "pieces": [
+        {
+          "name": "JUNYA WATANABE MAN - Wool Cloth Levi's W-Name Jackets - ",
+          "originalName": "JUNYA WATANABE MAN - Wool Cloth Levi's W-Name Jackets - ",
+          "sku": "WRJ20305114G",
+          "kind": "outerwear",
+          "category": "outerwear",
+          "audience": [
+            "men"
+          ],
+          "role": "編輯入門選品",
+          "price": 110000,
+          "priceNote": "查核時日本通路列價；促銷與庫存以來源為準",
+          "source": "https://shop-jp.doverstreetmarket.com/products/junya-watanabe-man-wool-cloth-levis-w-name-black-jackets-wr-j203-051-black",
+          "image": "https://shop-jp.doverstreetmarket.com/cdn/shop/files/1000014090430_1.jpg?v=1785908645&width=4000",
+          "credit": "shop-jp.doverstreetmarket.com 商品圖片",
+          "note": "本款為具名合作／別注選品；合作品牌仍分開介紹，非隸屬關係。",
+          "checkedAt": "2026-10-15"
+        }
+      ],
+      "relationships": []
+    },
+    {
+      "id": "mhl",
+      "profile": {
+        "name": "MHL.",
+        "jp": "エムエイチエル",
+        "aliases": [
+          "MHL."
+        ],
+        "styles": [
+          "natural"
+        ],
+        "audience": [
+          "men",
+          "women"
+        ],
+        "audienceBasis": "editorial",
+        "type": "服裝標籤",
+        "tagline": "實用、輕鬆的生活服裝。",
+        "intro": "先看工作服細節與寬鬆襯衫、外套。MHL. 與 MARGARET HOWELL 分頁記錄，查價時保留完整標籤。",
+        "why": "先看工作服細節與寬鬆襯衫、外套。MHL. 與 MARGARET HOWELL 分頁記錄，查價時保留完整標籤。",
+        "look": [
+          "外套：MHL. UTILITY WEAR LIGHTWEIGHT NYLON POPLIN BLOUSON - DARK NAVY / S",
+          "用具名款式與實寸比較，再決定要不要試穿",
+          "出發前確認日本門市及販售品類"
+        ],
+        "shopping": "從本頁的品牌／日本銷售通路入口確認款式與尺寸，再查實際店址及庫存。線上有列出不代表每個日本門市都有貨；本站未提供日本比其他地方便宜的保證。",
+        "official": "https://www.margarethowell.jp/",
+        "shop": "https://www.margarethowell.jp/",
+        "sources": [
+          {
+            "label": "MHL. 官方專題",
+            "url": "https://www.margarethowell.jp/column/mhl-utility-wear.html"
+          }
+        ],
+        "coverage": "product"
+      },
+      "pieces": [
+        {
+          "name": "MHL. UTILITY WEAR LIGHTWEIGHT NYLON POPLIN BLOUSON - DARK NAVY / S",
+          "originalName": "MHL. UTILITY WEAR LIGHTWEIGHT NYLON POPLIN BLOUSON - DARK NAVY / S",
+          "sku": "C1650045702531264456B",
+          "kind": "outerwear",
+          "category": "outerwear",
+          "audience": [
+            "men"
+          ],
+          "role": "編輯入門選品",
+          "price": null,
+          "priceNote": "來源可能依地區切換幣別；日本日圓售價另向店舖確認",
+          "source": "https://mix.tokyo/products/5956225600?utm_source=margarethowelljp&utm_medium=column&utm_campaign=mhlutilitywear&utm_term=5956225600",
+          "image": "https://mix.tokyo/cdn/shop/files/5956225600-121_MAIN.jpg?v=1788462214&width=1920",
+          "credit": "mix.tokyo 商品圖片",
+          "note": "以這款觀察品牌的剪裁與細節；為編輯探索選品，未宣稱是官方定番或銷量第一。",
+          "checkedAt": "2026-10-15"
+        }
+      ],
+      "relationships": []
+    },
+    {
+      "id": "margaret-howell",
+      "profile": {
+        "name": "MARGARET HOWELL",
+        "jp": "マーガレット・ハウエル",
+        "aliases": [
+          "MARGARET HOWELL"
+        ],
+        "styles": [
+          "minimal"
+        ],
+        "audience": [
+          "men",
+          "women"
+        ],
+        "audienceBasis": "editorial",
+        "type": "服飾品牌",
+        "tagline": "從襯衫與外套，慢慢看日常品質。",
+        "intro": "喜歡簡潔、耐看的服裝，可以先看襯衫和外層的搭配。合作款與 MHL. 的商品資訊分別記錄。",
+        "why": "喜歡簡潔、耐看的服裝，可以先看襯衫和外層的搭配。合作款與 MHL. 的商品資訊分別記錄。",
+        "look": [
+          "外套：MACKINTOSH RAINTEC COTTON BLOUSON - NAVY / I",
+          "用具名款式與實寸比較，再決定要不要試穿",
+          "出發前確認日本門市及販售品類"
+        ],
+        "shopping": "從本頁的品牌／日本銷售通路入口確認款式與尺寸，再查實際店址及庫存。線上有列出不代表每個日本門市都有貨；本站未提供日本比其他地方便宜的保證。",
+        "official": "https://www.margarethowell.jp/",
+        "shop": "https://www.margarethowell.jp/",
+        "sources": [
+          {
+            "label": "品牌／日本銷售入口",
+            "url": "https://www.margarethowell.jp/"
+          }
+        ],
+        "coverage": "product"
+      },
+      "pieces": [
+        {
+          "name": "MACKINTOSH RAINTEC COTTON BLOUSON - NAVY / I",
+          "originalName": "MACKINTOSH RAINTEC COTTON BLOUSON - NAVY / I",
+          "sku": "C1650045702027795866B",
+          "kind": "outerwear",
+          "category": "outerwear",
+          "audience": [
+            "women"
+          ],
+          "role": "編輯入門選品",
+          "price": null,
+          "priceNote": "來源可能依地區切換幣別；日本日圓售價另向店舖確認",
+          "source": "https://mix.tokyo/products/5786225201",
+          "image": "https://mix.tokyo/cdn/shop/files/5786225201-120_MAIN.jpg?v=1791054180&width=1920",
+          "credit": "mix.tokyo 商品圖片",
+          "note": "以這款觀察品牌的剪裁與細節；為編輯探索選品，未宣稱是官方定番或銷量第一。",
+          "checkedAt": "2026-10-15"
+        }
+      ],
+      "relationships": []
+    },
+    {
+      "id": "maison-kitsune",
+      "profile": {
+        "name": "Maison Kitsuné",
+        "jp": "メゾン キツネ",
+        "aliases": [
+          "Maison Kitsuné"
+        ],
+        "styles": [
+          "city"
+        ],
+        "audience": [
+          "men",
+          "women"
+        ],
+        "audienceBasis": "editorial",
+        "type": "服飾品牌",
+        "tagline": "從狐狸圖案，找到輕鬆的城市衣櫥。",
+        "intro": "第一次可比較 Fox Head 的不同剪裁；Regular、Comfort 和 Oversize 不是同一版型，先挑平常會穿的比例。",
+        "why": "第一次可比較 Fox Head 的不同剪裁；Regular、Comfort 和 Oversize 不是同一版型，先挑平常會穿的比例。",
+        "look": [
+          "T-shirt／衛衣：フォックスヘッド レギュラー Tシャツ",
+          "用具名款式與實寸比較，再決定要不要試穿",
+          "出發前確認日本門市及販售品類"
+        ],
+        "shopping": "從本頁的品牌／日本銷售通路入口確認款式與尺寸，再查實際店址及庫存。線上有列出不代表每個日本門市都有貨；本站未提供日本比其他地方便宜的保證。",
+        "official": "https://maisonkitsune.com/jp/",
+        "shop": "https://maisonkitsune.com/jp/",
+        "sources": [
+          {
+            "label": "品牌／日本銷售入口",
+            "url": "https://maisonkitsune.com/jp/"
+          }
+        ],
+        "coverage": "product"
+      },
+      "pieces": [
+        {
+          "name": "フォックスヘッド レギュラー Tシャツ",
+          "originalName": "フォックスヘッド レギュラー Tシャツ",
+          "sku": "PM00107KJ7026-P199",
+          "kind": "tshirt",
+          "category": "tops",
+          "audience": [
+            "men"
+          ],
+          "role": "編輯入門選品",
+          "price": 18700,
+          "priceNote": "日本官方商品頁列價／含稅",
+          "source": "https://maisonkitsune.com/jp/fox-head-regular-tee-shirt-black-6855fab7c3277.html",
+          "image": "https://media.maisonkitsune.com/media/catalog/product/cache/ebc51da8313820d5dbf28a25629356af/p/m/pm00107kj7026_-p199_1_1.jpg",
+          "credit": "maisonkitsune.com 商品圖片",
+          "note": "以這款觀察品牌的剪裁與細節；為編輯探索選品，未宣稱是官方定番或銷量第一。",
+          "checkedAt": "2026-10-15"
+        }
+      ],
+      "relationships": []
+    },
+    {
+      "id": "acne-studios",
+      "profile": {
+        "name": "Acne Studios",
+        "jp": "アクネ ストゥディオズ",
+        "aliases": [
+          "Acne Studios"
+        ],
+        "styles": [
+          "minimal"
+        ],
+        "audience": [
+          "men",
+          "women"
+        ],
+        "audienceBasis": "editorial",
+        "type": "服飾品牌",
+        "tagline": "從丹寧比例，延伸到設計感日常。",
+        "intro": "先看同類丹寧的直筒、寬版與洗水差異；款名含的數字不等同所有年份的相同尺碼。",
+        "why": "先看同類丹寧的直筒、寬版與洗水差異；款名含的數字不等同所有年份的相同尺碼。",
+        "look": [
+          "單品：Re-editionロージーンズ - 1996M - ミッドブルー",
+          "用具名款式與實寸比較，再決定要不要試穿",
+          "出發前確認日本門市及販售品類"
+        ],
+        "shopping": "從本頁的品牌／日本銷售通路入口確認款式與尺寸，再查實際店址及庫存。線上有列出不代表每個日本門市都有貨；本站未提供日本比其他地方便宜的保證。",
+        "official": "https://www.acnestudios.com/jp/ja/home",
+        "shop": "https://www.acnestudios.com/jp/ja/home",
+        "sources": [
+          {
+            "label": "品牌／日本銷售入口",
+            "url": "https://www.acnestudios.com/jp/ja/home"
+          }
+        ],
+        "coverage": "product"
+      },
+      "pieces": [
+        {
+          "name": "Re-editionロージーンズ - 1996M - ミッドブルー",
+          "originalName": "Re-editionロージーンズ - 1996M - ミッドブルー",
+          "sku": "B00529-863112",
+          "category": "tops",
+          "audience": [
+            "men"
+          ],
+          "role": "編輯入門選品",
+          "price": 103400,
+          "priceNote": "查核時日本通路列價；促銷與庫存以來源為準",
+          "source": "https://www.acnestudios.com/jp/ja/acne-studios-1996m-action-rw/B00529-863.html?g=man",
+          "image": "https://www.acnestudios.com/dw/image/v2/AAXV_PRD/on/demandware.static/-/Sites-acne-product-catalog/default/dwdefc3c65/images/B0/B00529-/2000x/B00529-863_A.jpg?sw=1120&sh=1680",
+          "credit": "www.acnestudios.com 商品圖片",
+          "note": "以這款觀察品牌的剪裁與細節；為編輯探索選品，未宣稱是官方定番或銷量第一。",
+          "checkedAt": "2026-10-15"
+        }
+      ],
+      "relationships": []
+    },
+    {
+      "id": "orslow",
+      "profile": {
+        "name": "orSlow",
+        "jp": "オアスロウ",
+        "aliases": [
+          "orSlow"
+        ],
+        "styles": [
+          "workwear"
+        ],
+        "audience": [
+          "men",
+          "women"
+        ],
+        "audienceBasis": "editorial",
+        "type": "服飾品牌",
+        "tagline": "慢慢看丹寧與工作服的細節。",
+        "intro": "從丹寧褲、軍褲與外套的輪廓觀察。不同款型各自對照實寸和洗水說明。",
+        "why": "從丹寧褲、軍褲與外套的輪廓觀察。不同款型各自對照實寸和洗水說明。",
+        "look": [
+          "單品：orSlow / 30's Denim Pullover(ONE WASH/78,2(M)/18)",
+          "用具名款式與實寸比較，再決定要不要試穿",
+          "出發前確認日本門市及販售品類"
+        ],
+        "shopping": "從本頁的品牌／日本銷售通路入口確認款式與尺寸，再查實際店址及庫存。線上有列出不代表每個日本門市都有貨；本站未提供日本比其他地方便宜的保證。",
+        "official": "https://www.beams.co.jp/brand/001238/",
+        "shop": "https://www.beams.co.jp/brand/001238/",
+        "sources": [
+          {
+            "label": "品牌／日本銷售入口",
+            "url": "https://www.beams.co.jp/brand/001238/"
+          }
+        ],
+        "coverage": "product"
+      },
+      "pieces": [
+        {
+          "name": "orSlow / 30's Denim Pullover(ONE WASH/78,2(M)/18)",
+          "originalName": "orSlow / 30's Denim Pullover(ONE WASH/78,2(M)/18)",
+          "sku": "11189201611",
+          "category": "tops",
+          "audience": [
+            "men"
+          ],
+          "role": "編輯入門選品",
+          "price": 37400,
+          "priceNote": "查核時日本通路列價；促銷與庫存以來源為準",
+          "source": "https://www.beams.co.jp/item/beams/blouson/11189201611/?color=78",
+          "image": "https://cdn.beams.co.jp/img/goods/11189201611/O/11189201611_C_1.jpg",
+          "credit": "www.beams.co.jp 商品圖片",
+          "note": "以這款觀察品牌的剪裁與細節；為編輯探索選品，未宣稱是官方定番或銷量第一。",
+          "checkedAt": "2026-10-15"
+        }
+      ],
+      "relationships": []
+    },
+    {
+      "id": "warehouse",
+      "profile": {
+        "name": "WAREHOUSE & CO.",
+        "jp": "ウエアハウス",
+        "aliases": [
+          "WAREHOUSE & CO."
+        ],
+        "styles": [
+          "americana"
+        ],
+        "audience": [
+          "men"
+        ],
+        "audienceBasis": "editorial",
+        "type": "服飾品牌",
+        "tagline": "從丹寧與衛衣看美式復古。",
+        "intro": "先比較布料、洗水與經典輪廓。未洗與水洗版本的尺寸說明須分開閱讀。",
+        "why": "先比較布料、洗水與經典輪廓。未洗與水洗版本的尺寸說明須分開閱讀。",
+        "look": [
+          "T-shirt／衛衣：WAREHOUSE & CO. / Lot.4115 Combo 3/4-Sleeve Tee",
+          "用具名款式與實寸比較，再決定要不要試穿",
+          "出發前確認日本門市及販售品類"
+        ],
+        "shopping": "從本頁的品牌／日本銷售通路入口確認款式與尺寸，再查實際店址及庫存。線上有列出不代表每個日本門市都有貨；本站未提供日本比其他地方便宜的保證。",
+        "official": "https://www.beams.co.jp/brand/005962/",
+        "shop": "https://www.beams.co.jp/brand/005962/",
+        "sources": [
+          {
+            "label": "品牌／日本銷售入口",
+            "url": "https://www.beams.co.jp/brand/005962/"
+          }
+        ],
+        "coverage": "product"
+      },
+      "pieces": [
+        {
+          "name": "WAREHOUSE & CO. / Lot.4115 Combo 3/4-Sleeve Tee",
+          "originalName": "WAREHOUSE & CO. / Lot.4115 Combo 3/4-Sleeve Tee",
+          "sku": "38140094386",
+          "kind": "tshirt",
+          "category": "tops",
+          "audience": [
+            "men"
+          ],
+          "role": "編輯入門選品",
+          "price": 15950,
+          "priceNote": "查核時日本通路列價；促銷與庫存以來源為準",
+          "source": "https://www.beams.co.jp/item/beamsplus/t-shirt/38140094386/?color=90",
+          "image": "https://cdn.beams.co.jp/img/goods/38140094386/O/38140094386_C_1.jpg",
+          "credit": "www.beams.co.jp 商品圖片",
+          "note": "以這款觀察品牌的剪裁與細節；為編輯探索選品，未宣稱是官方定番或銷量第一。",
+          "checkedAt": "2026-10-15"
+        }
+      ],
+      "relationships": []
+    },
+    {
+      "id": "fullcount",
+      "profile": {
+        "name": "FULLCOUNT",
+        "jp": "フルカウント",
+        "aliases": [
+          "FULLCOUNT"
+        ],
+        "styles": [
+          "americana"
+        ],
+        "audience": [
+          "men"
+        ],
+        "audienceBasis": "editorial",
+        "type": "服飾品牌",
+        "tagline": "從一條丹寧，找到美式日常。",
+        "intro": "直筒、寬版與洗水各有不同穿法；先看完整型號，再比較同尺寸實寸。",
+        "why": "直筒、寬版與洗水各有不同穿法；先看完整型號，再比較同尺寸實寸。",
+        "look": [
+          "外套：2015BKBK Black Black Denim Chore Jacket",
+          "用具名款式與實寸比較，再決定要不要試穿",
+          "出發前確認日本門市及販售品類"
+        ],
+        "shopping": "從本頁的品牌／日本銷售通路入口確認款式與尺寸，再查實際店址及庫存。線上有列出不代表每個日本門市都有貨；本站未提供日本比其他地方便宜的保證。",
+        "official": "https://fullcount-online.com/",
+        "shop": "https://fullcount-online.com/",
+        "sources": [
+          {
+            "label": "品牌／日本銷售入口",
+            "url": "https://fullcount-online.com/"
+          }
+        ],
+        "coverage": "product"
+      },
+      "pieces": [
+        {
+          "name": "2015BKBK Black Black Denim Chore Jacket",
+          "originalName": "2015BKBK Black Black Denim Chore Jacket",
+          "sku": "2015BKBK-9000-42",
+          "kind": "outerwear",
+          "category": "outerwear",
+          "audience": [
+            "men"
+          ],
+          "role": "編輯入門選品",
+          "price": 40480,
+          "priceNote": "查核時日本通路列價；促銷與庫存以來源為準",
+          "source": "https://fullcount-online.com/products/2015bkbk",
+          "image": "https://fullcount-online.com/cdn/shop/files/2015BKBK.png?v=1789629248&width=2000",
+          "credit": "fullcount-online.com 商品圖片",
+          "note": "以這款觀察品牌的剪裁與細節；為編輯探索選品，未宣稱是官方定番或銷量第一。",
+          "checkedAt": "2026-10-15"
+        }
+      ],
+      "relationships": []
+    },
+    {
+      "id": "momotaro-jeans",
+      "profile": {
+        "name": "桃太郎JEANS",
+        "jp": "桃太郎ジーンズ",
+        "aliases": [
+          "桃太郎JEANS"
+        ],
+        "styles": [
+          "americana"
+        ],
+        "audience": [
+          "men"
+        ],
+        "audienceBasis": "editorial",
+        "type": "服飾品牌",
+        "tagline": "從岡山丹寧，認識細節與褲型。",
+        "intro": "先看具名丹寧或上衣的材質與剪裁。桃太郎 JEANS 與 JAPAN BLUE JEANS 分成各自指南，商品不互相代替。",
+        "why": "先看具名丹寧或上衣的材質與剪裁。桃太郎 JEANS 與 JAPAN BLUE JEANS 分成各自指南，商品不互相代替。",
+        "look": [
+          "褲裝：B印MARKET 服部隆@B印MARKET / MOMOTARO JEANS #100 STANDARD STRAIGHT 14.7oz",
+          "用具名款式與實寸比較，再決定要不要試穿",
+          "出發前確認日本門市及販售品類"
+        ],
+        "shopping": "從本頁的品牌／日本銷售通路入口確認款式與尺寸，再查實際店址及庫存。線上有列出不代表每個日本門市都有貨；本站未提供日本比其他地方便宜的保證。",
+        "official": "https://www.beams.co.jp/brand/905218/",
+        "shop": "https://www.beams.co.jp/brand/905218/",
+        "sources": [
+          {
+            "label": "品牌／日本銷售入口",
+            "url": "https://www.beams.co.jp/brand/905218/"
+          }
+        ],
+        "coverage": "product"
+      },
+      "pieces": [
+        {
+          "name": "B印MARKET 服部隆@B印MARKET / MOMOTARO JEANS #100 STANDARD STRAIGHT 14.7oz",
+          "originalName": "B印MARKET 服部隆@B印MARKET / MOMOTARO JEANS #100 STANDARD STRAIGHT 14.7oz",
+          "sku": "70210046219",
+          "kind": "bottoms",
+          "category": "bottoms",
+          "audience": [
+            "men"
+          ],
+          "role": "編輯入門選品",
+          "price": 36300,
+          "priceNote": "查核時日本通路列價；促銷與庫存以來源為準",
+          "source": "https://www.beams.co.jp/item/bjirushi_market/pants/70210046219/?color=79",
+          "image": "https://cdn.beams.co.jp/img/goods/70210046219/O/70210046219_C_1.jpg",
+          "credit": "www.beams.co.jp 商品圖片",
+          "note": "以這款觀察品牌的剪裁與細節；為編輯探索選品，未宣稱是官方定番或銷量第一。",
+          "checkedAt": "2026-10-15"
+        }
+      ],
+      "relationships": []
+    },
+    {
+      "id": "japan-blue-jeans",
+      "profile": {
+        "name": "JAPAN BLUE JEANS",
+        "jp": "ジャパンブルージーンズ",
+        "aliases": [
+          "JAPAN BLUE JEANS"
+        ],
+        "styles": [
+          "americana"
+        ],
+        "audience": [
+          "men"
+        ],
+        "audienceBasis": "editorial",
+        "type": "服飾品牌",
+        "tagline": "丹寧之外，也能從寬褲入門。",
+        "intro": "先比較褲型與布料，通路別注保留完整名稱。不同品牌與販售店的關係不以名稱相似推定。",
+        "why": "先比較褲型與布料，通路別注保留完整名稱。不同品牌與販售店的關係不以名稱相似推定。",
+        "look": [
+          "褲裝：JAPAN BLUE JEANS（ジャパンブルージーンズ） 別注 プレミアムハイカウント ワイドチノパンツ - beige / S",
+          "用具名款式與實寸比較，再決定要不要試穿",
+          "出發前確認日本門市及販售品類"
+        ],
+        "shopping": "從本頁的品牌／日本銷售通路入口確認款式與尺寸，再查實際店址及庫存。線上有列出不代表每個日本門市都有貨；本站未提供日本比其他地方便宜的保證。",
+        "official": "https://roco2web.com/collections/japan-blue-jeans_mens?page=1",
+        "shop": "https://roco2web.com/collections/japan-blue-jeans_mens?page=1",
+        "sources": [
+          {
+            "label": "品牌／日本銷售入口",
+            "url": "https://roco2web.com/products/21651"
+          }
+        ],
+        "coverage": "product"
+      },
+      "pieces": [
+        {
+          "name": "JAPAN BLUE JEANS（ジャパンブルージーンズ） 別注 プレミアムハイカウント ワイドチノパンツ - beige / S",
+          "originalName": "JAPAN BLUE JEANS（ジャパンブルージーンズ） 別注 プレミアムハイカウント ワイドチノパンツ - beige / S",
+          "sku": "21651-00S-BEG",
+          "kind": "bottoms",
+          "category": "bottoms",
+          "audience": [
+            "men"
+          ],
+          "role": "編輯入門選品",
+          "price": 17600,
+          "priceNote": "查核時日本通路列價；促銷與庫存以來源為準",
+          "source": "https://roco2web.com/products/21651",
+          "image": "https://roco2web.com/cdn/shop/files/21651_rc1.jpg?v=1771896632&width=1920",
+          "credit": "roco2web.com 商品圖片",
+          "note": "本款為具名合作／別注選品；合作品牌仍分開介紹，非隸屬關係。",
+          "checkedAt": "2026-10-15"
+        }
+      ],
+      "relationships": []
+    },
+    {
+      "id": "edwin",
+      "profile": {
+        "name": "EDWIN",
+        "jp": "エドウイン",
+        "aliases": [
+          "EDWIN"
+        ],
+        "styles": [
+          "americana"
+        ],
+        "audience": [
+          "men"
+        ],
+        "audienceBasis": "editorial",
+        "type": "服飾品牌",
+        "tagline": "從 503 等褲型開始找日常丹寧。",
+        "intro": "先看 Regular、Loose 等剪裁與實寸，確認布料彈性和洗水。官方商城另售其他品牌，不併入 EDWIN 商品。",
+        "why": "先看 Regular、Loose 等剪裁與實寸，確認布料彈性和洗水。官方商城另售其他品牌，不併入 EDWIN 商品。",
+        "look": [
+          "褲裝：【試着対象】503 レギュラーストレートデニムパンツ SMART STANDARD REGULAR STRAIGHT",
+          "用具名款式與實寸比較，再決定要不要試穿",
+          "出發前確認日本門市及販售品類"
+        ],
+        "shopping": "從本頁的品牌／日本銷售通路入口確認款式與尺寸，再查實際店址及庫存。線上有列出不代表每個日本門市都有貨；本站未提供日本比其他地方便宜的保證。",
+        "official": "https://edwin-mall.jp/shop/brand/edwin",
+        "shop": "https://edwin-mall.jp/shop/brand/edwin",
+        "sources": [
+          {
+            "label": "品牌／日本銷售入口",
+            "url": "https://edwin-mall.jp/shop/brand/edwin"
+          }
+        ],
+        "coverage": "product"
+      },
+      "pieces": [
+        {
+          "name": "【試着対象】503 レギュラーストレートデニムパンツ SMART STANDARD REGULAR STRAIGHT",
+          "originalName": "【試着対象】503 レギュラーストレートデニムパンツ SMART STANDARD REGULAR STRAIGHT",
+          "sku": "E50353-026-33",
+          "kind": "bottoms",
+          "category": "bottoms",
+          "audience": [
+            "men"
+          ],
+          "role": "編輯入門選品",
+          "price": 13200,
+          "priceNote": "查核時日本通路列價；促銷與庫存以來源為準",
+          "source": "https://edwin-mall.jp/shop/g/gE50353-026-33",
+          "image": "https://d2g420rz4bavii.cloudfront.net/itemimg/E50353/E50353-026_01S.jpg",
+          "credit": "edwin-mall.jp 商品圖片",
+          "note": "以這款觀察品牌的剪裁與細節；為編輯探索選品，未宣稱是官方定番或銷量第一。",
+          "checkedAt": "2026-10-15"
+        }
+      ],
+      "relationships": []
+    },
+    {
+      "id": "patagonia",
+      "profile": {
+        "name": "Patagonia",
+        "jp": "パタゴニア",
+        "aliases": [
+          "Patagonia"
+        ],
+        "styles": [
+          "outdoor"
+        ],
+        "audience": [
+          "men",
+          "women"
+        ],
+        "audienceBasis": "editorial",
+        "type": "服飾品牌",
+        "tagline": "戶外活動與日常穿著，一起考慮。",
+        "intro": "先問要保暖、防風還是一般日常上衣。不同系列適合不同活動，不以品牌名稱保證每件都防水。",
+        "why": "先問要保暖、防風還是一般日常上衣。不同系列適合不同活動，不以品牌名稱保證每件都防水。",
+        "look": [
+          "T-shirt／衛衣：patagonia / Cloud Crag Long Sleeve T-Shirt",
+          "用具名款式與實寸比較，再決定要不要試穿",
+          "出發前確認日本門市及販售品類"
+        ],
+        "shopping": "從本頁的品牌／日本銷售通路入口確認款式與尺寸，再查實際店址及庫存。線上有列出不代表每個日本門市都有貨；本站未提供日本比其他地方便宜的保證。",
+        "official": "https://www.beams.co.jp/brand/001273/",
+        "shop": "https://www.beams.co.jp/brand/001273/",
+        "sources": [
+          {
+            "label": "品牌／日本銷售入口",
+            "url": "https://www.beams.co.jp/brand/001273/"
+          }
+        ],
+        "coverage": "product"
+      },
+      "pieces": [
+        {
+          "name": "patagonia / Cloud Crag Long Sleeve T-Shirt",
+          "originalName": "patagonia / Cloud Crag Long Sleeve T-Shirt",
+          "sku": "75100328403",
+          "kind": "tshirt",
+          "category": "tops",
+          "audience": [
+            "men"
+          ],
+          "role": "編輯入門選品",
+          "price": 8800,
+          "priceNote": "查核時日本通路列價；促銷與庫存以來源為準",
+          "source": "https://www.beams.co.jp/item/beamst/t-shirt/75100328403/?color=09",
+          "image": "https://cdn.beams.co.jp/img/goods/75100328403/O/75100328403_C_1.jpg",
+          "credit": "www.beams.co.jp 商品圖片",
+          "note": "以這款觀察品牌的剪裁與細節；為編輯探索選品，未宣稱是官方定番或銷量第一。",
+          "checkedAt": "2026-10-15"
+        }
+      ],
+      "relationships": []
+    },
+    {
+      "id": "columbia",
+      "profile": {
+        "name": "Columbia",
+        "jp": "コロンビア",
+        "aliases": [
+          "Columbia"
+        ],
+        "styles": [
+          "outdoor"
+        ],
+        "audience": [
+          "men",
+          "women"
+        ],
+        "audienceBasis": "editorial",
+        "type": "服飾品牌",
+        "tagline": "從戶外外層與休閒衣服開始。",
+        "intro": "比較外套、抓絨與日常褲裝時，先看實際功能說明。保暖、透氣與防水並不是同一件事。",
+        "why": "比較外套、抓絨與日常褲裝時，先看實際功能說明。保暖、透氣與防水並不是同一件事。",
+        "look": [
+          "單品：【WEB限定】Columbia / ヘルべチア プリント クロップド ハーフスナップ",
+          "用具名款式與實寸比較，再決定要不要試穿",
+          "出發前確認日本門市及販售品類"
+        ],
+        "shopping": "從本頁的品牌／日本銷售通路入口確認款式與尺寸，再查實際店址及庫存。線上有列出不代表每個日本門市都有貨；本站未提供日本比其他地方便宜的保證。",
+        "official": "https://www.beams.co.jp/brand/006110/",
+        "shop": "https://www.beams.co.jp/brand/006110/",
+        "sources": [
+          {
+            "label": "品牌／日本銷售入口",
+            "url": "https://www.beams.co.jp/brand/006110/"
+          }
+        ],
+        "coverage": "product"
+      },
+      "pieces": [
+        {
+          "name": "【WEB限定】Columbia / ヘルべチア プリント クロップド ハーフスナップ",
+          "originalName": "【WEB限定】Columbia / ヘルべチア プリント クロップド ハーフスナップ",
+          "sku": "13181276467",
+          "category": "tops",
+          "audience": [
+            "women"
+          ],
+          "role": "編輯入門選品",
+          "price": 11000,
+          "priceNote": "查核時日本通路列價；促銷與庫存以來源為準",
+          "source": "https://www.beams.co.jp/item/bsfw/blouson/13181276467/?color=30",
+          "image": "https://cdn.beams.co.jp/img/goods/13181276467/O/13181276467_C_1.jpg",
+          "credit": "www.beams.co.jp 商品圖片",
+          "note": "以這款觀察品牌的剪裁與細節；為編輯探索選品，未宣稱是官方定番或銷量第一。",
+          "checkedAt": "2026-10-15"
+        },
+        {
+          "name": "Columbia / Bugabo 1986 Liner Jacket",
+          "originalName": "Columbia / Bugabo 1986 Liner Jacket",
+          "sku": "11189124467",
+          "kind": "outerwear",
+          "category": "outerwear",
+          "audience": [
+            "men"
+          ],
+          "role": "編輯入門選品",
+          "price": 13200,
+          "priceNote": "日本通路查核列價；以實際商品頁為準",
+          "note": "男裝商品另列，款名與圖片對應同一日本銷售頁。",
+          "source": "https://www.beams.co.jp/item/beams/blouson/11189124467/?color=90",
+          "image": "https://cdn.beams.co.jp/img/goods/11189124467/S2/11189124467_C_2.jpg",
+          "credit": "BEAMS 日本商品圖",
+          "checkedAt": "2026-10-15"
+        }
+      ],
+      "relationships": []
+    },
+    {
+      "id": "the-north-face",
+      "profile": {
+        "name": "THE NORTH FACE",
+        "jp": "ザ・ノース・フェイス",
+        "aliases": [
+          "THE NORTH FACE"
+        ],
+        "styles": [
+          "outdoor"
+        ],
+        "audience": [
+          "men",
+          "women"
+        ],
+        "audienceBasis": "editorial",
+        "type": "服飾品牌",
+        "tagline": "先選活動用途，再挑戶外服裝。",
+        "intro": "日本官方與日本通路有不同選品。THE NORTH FACE 與 PURPLE LABEL 各自成頁，款名與價格不混用。",
+        "why": "日本官方與日本通路有不同選品。THE NORTH FACE 與 PURPLE LABEL 各自成頁，款名與價格不混用。",
+        "look": [
+          "單品：THE NORTH FACE / トランゴ パーカ",
+          "用具名款式與實寸比較，再決定要不要試穿",
+          "出發前確認日本門市及販售品類"
+        ],
+        "shopping": "從本頁的品牌／日本銷售通路入口確認款式與尺寸，再查實際店址及庫存。線上有列出不代表每個日本門市都有貨；本站未提供日本比其他地方便宜的保證。",
+        "official": "https://www.beams.co.jp/brand/001208/",
+        "shop": "https://www.beams.co.jp/brand/001208/",
+        "sources": [
+          {
+            "label": "品牌／日本銷售入口",
+            "url": "https://www.beams.co.jp/brand/001208/"
+          }
+        ],
+        "coverage": "product"
+      },
+      "pieces": [
+        {
+          "name": "THE NORTH FACE / トランゴ パーカ",
+          "originalName": "THE NORTH FACE / トランゴ パーカ",
+          "sku": "61181173518",
+          "category": "tops",
+          "audience": [
+            "women"
+          ],
+          "role": "編輯入門選品",
+          "price": 31900,
+          "priceNote": "查核時日本通路列價；促銷與庫存以來源為準",
+          "source": "https://www.beams.co.jp/item/bsfw/blouson/61181173518/?color=19",
+          "image": "https://cdn.beams.co.jp/img/goods/61181173518/O/61181173518_C_1.jpg",
+          "credit": "www.beams.co.jp 商品圖片",
+          "note": "以這款觀察品牌的剪裁與細節；為編輯探索選品，未宣稱是官方定番或銷量第一。",
+          "checkedAt": "2026-10-15"
+        },
+        {
+          "name": "THE NORTH FACE / ノベルティ マウンテン ライトジャケット",
+          "originalName": "THE NORTH FACE / ノベルティ マウンテン ライトジャケット",
+          "sku": "11189039518",
+          "kind": "outerwear",
+          "category": "outerwear",
+          "audience": [
+            "men"
+          ],
+          "role": "編輯入門選品",
+          "price": 49500,
+          "priceNote": "日本通路查核列價；以實際商品頁為準",
+          "note": "男裝商品另列，款名與圖片對應同一日本銷售頁。",
+          "source": "https://www.beams.co.jp/item/beams/blouson/11189039518/?color=35",
+          "image": "https://cdn.beams.co.jp/img/goods/11189039518/S2/11189039518_C_2.jpg",
+          "credit": "BEAMS 日本商品圖",
+          "checkedAt": "2026-10-15"
+        }
+      ],
+      "relationships": []
+    },
+    {
+      "id": "helly-hansen",
+      "profile": {
+        "name": "HELLY HANSEN",
+        "jp": "ヘリーハンセン",
+        "aliases": [
+          "HELLY HANSEN"
+        ],
+        "styles": [
+          "outdoor"
+        ],
+        "audience": [
+          "men",
+          "women"
+        ],
+        "audienceBasis": "editorial",
+        "type": "服飾品牌",
+        "tagline": "從海洋外層，延伸到日常機能。",
+        "intro": "先看外套的用途、面料和活動空間。日本通路列出的具名版本與其他市場的商品可能不同。",
+        "why": "先看外套的用途、面料和活動空間。日本通路列出的具名版本與其他市場的商品可能不同。",
+        "look": [
+          "外套：Ocean Balder Insulation Jacket",
+          "用具名款式與實寸比較，再決定要不要試穿",
+          "出發前確認日本門市及販售品類"
+        ],
+        "shopping": "從本頁的品牌／日本銷售通路入口確認款式與尺寸，再查實際店址及庫存。線上有列出不代表每個日本門市都有貨；本站未提供日本比其他地方便宜的保證。",
+        "official": "https://www.hellyhansen.jp/",
+        "shop": "https://www.hellyhansen.jp/",
+        "sources": [
+          {
+            "label": "品牌／日本銷售入口",
+            "url": "https://www.hellyhansen.jp/"
+          }
+        ],
+        "coverage": "product"
+      },
+      "pieces": [
+        {
+          "name": "Ocean Balder Insulation Jacket",
+          "originalName": "Ocean Balder Insulation Jacket",
+          "sku": "HH12551",
+          "kind": "outerwear",
+          "category": "outerwear",
+          "audience": [
+            "men"
+          ],
+          "role": "編輯入門選品",
+          "price": null,
+          "priceNote": "日本售價未核實，請見品牌日本入口",
+          "source": "https://www.goldwin.co.jp/ap/item/i/m/HH12551?outlet",
+          "image": "https://itemimg.goldwin.co.jp/itemimg/GDW02/A0GDW0001KA1/01_001.jpg",
+          "credit": "www.goldwin.co.jp 商品圖片",
+          "note": "以這款觀察品牌的剪裁與細節；為編輯探索選品，未宣稱是官方定番或銷量第一。",
+          "checkedAt": "2026-10-15"
+        }
+      ],
+      "relationships": []
+    },
+    {
+      "id": "chums",
+      "profile": {
+        "name": "CHUMS",
+        "jp": "チャムス",
+        "aliases": [
+          "CHUMS"
+        ],
+        "styles": [
+          "outdoor"
+        ],
+        "audience": [
+          "men",
+          "women"
+        ],
+        "audienceBasis": "editorial",
+        "type": "服飾品牌",
+        "tagline": "有色彩的戶外休閒與輕鬆日常。",
+        "intro": "先看輕外套、上衣與圖案配色。服裝、露營裝備和兒童商品分開挑選。",
+        "why": "先看輕外套、上衣與圖案配色。服裝、露營裝備和兒童商品分開挑選。",
+        "look": [
+          "外套：Garment Dye Field Jacket",
+          "用具名款式與實寸比較，再決定要不要試穿",
+          "出發前確認日本門市及販售品類"
+        ],
+        "shopping": "從本頁的品牌／日本銷售通路入口確認款式與尺寸，再查實際店址及庫存。線上有列出不代表每個日本門市都有貨；本站未提供日本比其他地方便宜的保證。",
+        "official": "https://www.chums.jp/",
+        "shop": "https://www.chums.jp/",
+        "sources": [
+          {
+            "label": "品牌／日本銷售入口",
+            "url": "https://www.chums.jp/"
+          }
+        ],
+        "coverage": "product"
+      },
+      "pieces": [
+        {
+          "name": "Garment Dye Field Jacket",
+          "originalName": "Garment Dye Field Jacket",
+          "sku": "CH04-1530 / G004",
+          "kind": "outerwear",
+          "category": "outerwear",
+          "audience": [
+            "men",
+            "women"
+          ],
+          "role": "編輯入門選品",
+          "price": 15180,
+          "priceNote": "日本官方列價",
+          "note": "具名商品／系列的真實圖片；為編輯認識品牌的入口，不宣稱全品牌銷量第一或現貨。",
+          "source": "https://www.chums.jp/goods/CH04-1530-G004-04",
+          "image": "https://www.chums.jp/img/goods/CH04-1530_G004.jpg",
+          "credit": "www.chums.jp 商品／系列圖片",
+          "checkedAt": "2026-10-15"
+        }
+      ],
+      "relationships": []
+    },
+    {
+      "id": "wild-things",
+      "profile": {
+        "name": "WILD THINGS",
+        "jp": "ワイルドシングス",
+        "aliases": [
+          "WILD THINGS"
+        ],
+        "styles": [
+          "outdoor"
+        ],
+        "audience": [
+          "men",
+          "women"
+        ],
+        "audienceBasis": "editorial",
+        "type": "服飾品牌",
+        "tagline": "把戶外份量穿進城市。",
+        "intro": "從保暖外套與寬褲看輪廓；不同通路別注有自己的材質與剪裁，不一概視為同款。",
+        "why": "從保暖外套與寬褲看輪廓；不同通路別注有自己的材質與剪裁，不一概視為同款。",
+        "look": [
+          "外套：WILD THINGS / SEER CHECK LOFT JACKET",
+          "用具名款式與實寸比較，再決定要不要試穿",
+          "出發前確認日本門市及販售品類"
+        ],
+        "shopping": "從本頁的品牌／日本銷售通路入口確認款式與尺寸，再查實際店址及庫存。線上有列出不代表每個日本門市都有貨；本站未提供日本比其他地方便宜的保證。",
+        "official": "https://www.beams.co.jp/brand/001757/",
+        "shop": "https://www.beams.co.jp/brand/001757/",
+        "sources": [
+          {
+            "label": "品牌／日本銷售入口",
+            "url": "https://www.beams.co.jp/brand/001757/"
+          }
+        ],
+        "coverage": "product"
+      },
+      "pieces": [
+        {
+          "name": "WILD THINGS / SEER CHECK LOFT JACKET",
+          "originalName": "WILD THINGS / SEER CHECK LOFT JACKET",
+          "sku": "13181385585",
+          "kind": "outerwear",
+          "category": "outerwear",
+          "audience": [
+            "women"
+          ],
+          "role": "編輯入門選品",
+          "price": 42900,
+          "priceNote": "查核時日本通路列價；促銷與庫存以來源為準",
+          "source": "https://www.beams.co.jp/item/bsfw/blouson/13181385585/?color=80",
+          "image": "https://cdn.beams.co.jp/img/goods/13181385585/O/13181385585_C_1.jpg",
+          "credit": "www.beams.co.jp 商品圖片",
+          "note": "以這款觀察品牌的剪裁與細節；為編輯探索選品，未宣稱是官方定番或銷量第一。",
+          "checkedAt": "2026-10-15"
+        },
+        {
+          "name": "WILD THINGS / MIMIC NEVADO JACKET",
+          "originalName": "WILD THINGS / MIMIC NEVADO JACKET",
+          "sku": "11189127585",
+          "kind": "outerwear",
+          "category": "outerwear",
+          "audience": [
+            "men"
+          ],
+          "role": "編輯入門選品",
+          "price": 46200,
+          "priceNote": "日本通路查核列價；以實際商品頁為準",
+          "note": "男裝商品另列，款名與圖片對應同一日本銷售頁。",
+          "source": "https://www.beams.co.jp/item/beams/blouson/11189127585/?color=19",
+          "image": "https://cdn.beams.co.jp/img/goods/11189127585/S2/11189127585_C_2.jpg",
+          "credit": "BEAMS 日本商品圖",
+          "checkedAt": "2026-10-15"
+        }
+      ],
+      "relationships": []
+    },
+    {
+      "id": "manastash",
+      "profile": {
+        "name": "MANASTASH",
+        "jp": "マナスタッシュ",
+        "aliases": [
+          "MANASTASH"
+        ],
+        "styles": [
+          "outdoor"
+        ],
+        "audience": [
+          "men",
+          "women"
+        ],
+        "audienceBasis": "editorial",
+        "type": "服飾品牌",
+        "tagline": "戶外細節與帶色彩的日常穿搭。",
+        "intro": "先看外套的份量與配色。聯名款會另列合作名稱，整套穿搭不等於都由同一品牌製作。",
+        "why": "先看外套的份量與配色。聯名款會另列合作名稱，整套穿搭不等於都由同一品牌製作。",
+        "look": [
+          "單品：MANASTASH/マナスタッシュ/NANGA WAVE PUFFER JKT - オリーブ / S",
+          "用具名款式與實寸比較，再決定要不要試穿",
+          "出發前確認日本門市及販售品類"
+        ],
+        "shopping": "從本頁的品牌／日本銷售通路入口確認款式與尺寸，再查實際店址及庫存。線上有列出不代表每個日本門市都有貨；本站未提供日本比其他地方便宜的保證。",
+        "official": "https://www.manastash.com/",
+        "shop": "https://www.manastash.com/",
+        "sources": [
+          {
+            "label": "品牌／日本銷售入口",
+            "url": "https://www.manastash.com/"
+          }
+        ],
+        "coverage": "product"
+      },
+      "pieces": [
+        {
+          "name": "MANASTASH/マナスタッシュ/NANGA WAVE PUFFER JKT - オリーブ / S",
+          "originalName": "MANASTASH/マナスタッシュ/NANGA WAVE PUFFER JKT - オリーブ / S",
+          "sku": "C1650045736173215008B",
+          "category": "tops",
+          "audience": [
+            "men"
+          ],
+          "role": "編輯入門選品",
+          "price": null,
+          "priceNote": "來源可能依地區切換幣別；日本日圓售價另向店舖確認",
+          "source": "https://mix.tokyo/products/7925252010",
+          "image": "https://mix.tokyo/cdn/shop/files/7925252010-310_MAIN.jpg?v=1783966733&width=1920",
+          "credit": "mix.tokyo 商品圖片",
+          "note": "以這款觀察品牌的剪裁與細節；為編輯探索選品，未宣稱是官方定番或銷量第一。",
+          "checkedAt": "2026-10-15"
+        }
+      ],
+      "relationships": []
+    },
+    {
+      "id": "fce",
+      "profile": {
+        "name": "F/CE.",
+        "jp": "エフシーイー",
+        "aliases": [
+          "F/CE."
+        ],
+        "styles": [
+          "outdoor"
+        ],
+        "audience": [
+          "men",
+          "women"
+        ],
+        "audienceBasis": "editorial",
+        "type": "服飾品牌",
+        "tagline": "從收納與機能細節開始看。",
+        "intro": "可從包款、外套和服裝搭配認識品牌。袋物與服裝預算分開，不用包款價格推定衣服價位。",
+        "why": "可從包款、外套和服裝搭配認識品牌。袋物與服裝預算分開，不用包款價格推定衣服價位。",
+        "look": [
+          "包袋：420 RE/COR 3WAY HELMET 2.0",
+          "用具名款式與實寸比較，再決定要不要試穿",
+          "出發前確認日本門市及販售品類"
+        ],
+        "shopping": "從本頁的品牌／日本銷售通路入口確認款式與尺寸，再查實際店址及庫存。線上有列出不代表每個日本門市都有貨；本站未提供日本比其他地方便宜的保證。",
+        "official": "https://coverchord.com/collections/men-f-ce",
+        "shop": "https://coverchord.com/collections/men-f-ce",
+        "sources": [
+          {
+            "label": "品牌／日本銷售入口",
+            "url": "https://coverchord.com/collections/men-f-ce"
+          }
+        ],
+        "coverage": "product"
+      },
+      "pieces": [
+        {
+          "name": "420 RE/COR 3WAY HELMET 2.0",
+          "originalName": "420 RE/COR 3WAY HELMET 2.0",
+          "sku": "2100000546473",
+          "kind": "bags",
+          "category": "bags",
+          "audience": [
+            "men"
+          ],
+          "role": "編輯入門選品",
+          "price": 27500,
+          "priceNote": "查核時日本通路列價；促銷與庫存以來源為準",
+          "source": "https://coverchord.com/products/vfc-bg4504",
+          "image": "https://coverchord.com/cdn/shop/files/VFC-BG4504_036_01_47a6f2dc-3438-4e70-98ed-fbee9b91f4d0_1200x.jpg?v=1788662720",
+          "credit": "coverchord.com 商品圖片",
+          "note": "以這款觀察品牌的剪裁與細節；為編輯探索選品，未宣稱是官方定番或銷量第一。",
+          "checkedAt": "2026-10-15"
+        }
+      ],
+      "relationships": []
+    },
+    {
+      "id": "houdini",
+      "profile": {
+        "name": "HOUDINI",
+        "jp": "フーディニ",
+        "aliases": [
+          "HOUDINI"
+        ],
+        "styles": [
+          "outdoor"
+        ],
+        "audience": [
+          "men",
+          "women"
+        ],
+        "audienceBasis": "editorial",
+        "type": "服飾品牌",
+        "tagline": "從戶外層次與舒適活動感切入。",
+        "intro": "先看中層與外套的布料、重量和穿著用途。Ms、Ws 等款名以日本通路服裝分類核對。",
+        "why": "先看中層與外套的布料、重量和穿著用途。Ms、Ws 等款名以日本通路服裝分類核對。",
+        "look": [
+          "單品：Ms Lykan Full Zip",
+          "用具名款式與實寸比較，再決定要不要試穿",
+          "出發前確認日本門市及販售品類"
+        ],
+        "shopping": "從本頁的品牌／日本銷售通路入口確認款式與尺寸，再查實際店址及庫存。線上有列出不代表每個日本門市都有貨；本站未提供日本比其他地方便宜的保證。",
+        "official": "https://full-marks.com/houdini/",
+        "shop": "https://full-marks.com/houdini/",
+        "sources": [
+          {
+            "label": "品牌／日本銷售入口",
+            "url": "https://full-marks.com/houdini/"
+          }
+        ],
+        "coverage": "product"
+      },
+      "pieces": [
+        {
+          "name": "Ms Lykan Full Zip",
+          "originalName": "Ms Lykan Full Zip",
+          "sku": "1308300750.html",
+          "category": "tops",
+          "audience": [
+            "men"
+          ],
+          "role": "編輯入門選品",
+          "price": 40700,
+          "priceNote": "查核時日本通路列價；促銷與庫存以來源為準",
+          "source": "https://www.fullmarksstore.jp/item/1308300750.html",
+          "image": "https://www.fullmarksstore.jp/client_info/FULLMARKS/itemimage/1308300750/830075_191_f.jpg",
+          "credit": "www.fullmarksstore.jp 商品圖片",
+          "note": "以這款觀察品牌的剪裁與細節；為編輯探索選品，未宣稱是官方定番或銷量第一。",
+          "checkedAt": "2026-10-15"
+        }
+      ],
+      "relationships": []
+    },
+    {
+      "id": "keen",
+      "profile": {
+        "name": "KEEN",
+        "jp": "キーン",
+        "aliases": [
+          "KEEN"
+        ],
+        "styles": [
+          "outdoor"
+        ],
+        "audience": [
+          "men",
+          "women"
+        ],
+        "audienceBasis": "editorial",
+        "type": "服飾品牌",
+        "tagline": "先找符合行程的戶外鞋履。",
+        "intro": "從具名鞋款的鞋型、包覆與用途開始；涼鞋、健行鞋和休閒鞋的需求分開看。",
+        "why": "從具名鞋款的鞋型、包覆與用途開始；涼鞋、健行鞋和休閒鞋的需求分開看。",
+        "look": [
+          "鞋履：【WEB限定】KEEN / HOWSER Ⅲ SLIDE ボア シューズ",
+          "用具名款式與實寸比較，再決定要不要試穿",
+          "出發前確認日本門市及販售品類"
+        ],
+        "shopping": "從本頁的品牌／日本銷售通路入口確認款式與尺寸，再查實際店址及庫存。線上有列出不代表每個日本門市都有貨；本站未提供日本比其他地方便宜的保證。",
+        "official": "https://www.beams.co.jp/brand/000903/",
+        "shop": "https://www.beams.co.jp/brand/000903/",
+        "sources": [
+          {
+            "label": "品牌／日本銷售入口",
+            "url": "https://www.beams.co.jp/brand/000903/"
+          }
+        ],
+        "coverage": "product"
+      },
+      "pieces": [
+        {
+          "name": "【WEB限定】KEEN / HOWSER Ⅲ SLIDE ボア シューズ",
+          "originalName": "【WEB限定】KEEN / HOWSER Ⅲ SLIDE ボア シューズ",
+          "sku": "64310097680",
+          "kind": "shoes",
+          "category": "shoes",
+          "audience": [
+            "women"
+          ],
+          "role": "編輯入門選品",
+          "price": 11550,
+          "priceNote": "查核時日本通路列價；促銷與庫存以來源為準",
+          "source": "https://www.beams.co.jp/item/bsfw/shoes/64310097680/?color=22",
+          "image": "https://cdn.beams.co.jp/img/goods/64310097680/O/64310097680_C_1.jpg",
+          "credit": "www.beams.co.jp 商品圖片",
+          "note": "以這款觀察品牌的剪裁與細節；為編輯探索選品，未宣稱是官方定番或銷量第一。",
+          "checkedAt": "2026-10-15"
+        },
+        {
+          "name": "Keen / ニューポート オックスフォード",
+          "originalName": "Keen / ニューポート オックスフォード",
+          "sku": "11330474680",
+          "kind": "shoes",
+          "category": "shoes",
+          "audience": [
+            "men"
+          ],
+          "role": "編輯入門選品",
+          "price": 25300,
+          "priceNote": "日本通路查核列價；以實際商品頁為準",
+          "note": "男裝商品另列，款名與圖片對應同一日本銷售頁。",
+          "source": "https://www.beams.co.jp/item/beams/shoes/11330474680/?color=19",
+          "image": "https://cdn.beams.co.jp/img/goods/11330474680/S2/11330474680_C_1.jpg",
+          "credit": "BEAMS 日本商品圖",
+          "checkedAt": "2026-10-15"
+        }
+      ],
+      "relationships": []
+    },
+    {
+      "id": "barbour",
+      "profile": {
+        "name": "Barbour",
+        "jp": "バブアー",
+        "aliases": [
+          "Barbour"
+        ],
+        "styles": [
+          "smart"
+        ],
+        "audience": [
+          "men",
+          "women"
+        ],
+        "audienceBasis": "editorial",
+        "type": "服飾品牌",
+        "tagline": "從短外套，理解英式戶外日常。",
+        "intro": "先分辨上蠟、無蠟與其他面料版本，再看衣長和袖型；不同款的保養方式可能不同。",
+        "why": "先分辨上蠟、無蠟與其他面料版本，再看衣長和袖型；不同款的保養方式可能不同。",
+        "look": [
+          "外套：Barbour / XANTHE CASUAL ジャケット",
+          "用具名款式與實寸比較，再決定要不要試穿",
+          "出發前確認日本門市及販售品類"
+        ],
+        "shopping": "從本頁的品牌／日本銷售通路入口確認款式與尺寸，再查實際店址及庫存。線上有列出不代表每個日本門市都有貨；本站未提供日本比其他地方便宜的保證。",
+        "official": "https://www.beams.co.jp/brand/000229/",
+        "shop": "https://www.beams.co.jp/brand/000229/",
+        "sources": [
+          {
+            "label": "品牌／日本銷售入口",
+            "url": "https://www.beams.co.jp/brand/000229/"
+          }
+        ],
+        "coverage": "product"
+      },
+      "pieces": [
+        {
+          "name": "Barbour / XANTHE CASUAL ジャケット",
+          "originalName": "Barbour / XANTHE CASUAL ジャケット",
+          "sku": "64180840232",
+          "kind": "outerwear",
+          "category": "outerwear",
+          "audience": [
+            "women"
+          ],
+          "role": "編輯入門選品",
+          "price": 51700,
+          "priceNote": "查核時日本通路列價；促銷與庫存以來源為準",
+          "source": "https://www.beams.co.jp/item/bsfw/blouson/64180840232/?color=19",
+          "image": "https://cdn.beams.co.jp/img/goods/64180840232/O/64180840232_C_1.jpg",
+          "credit": "www.beams.co.jp 商品圖片",
+          "note": "以這款觀察品牌的剪裁與細節；為編輯探索選品，未宣稱是官方定番或銷量第一。",
+          "checkedAt": "2026-10-15"
+        },
+        {
+          "name": "【別注】Barbour / BEDALE CLASSIC FIT ウール ジャケット",
+          "originalName": "【別注】Barbour / BEDALE CLASSIC FIT ウール ジャケット",
+          "sku": "21181098232",
+          "kind": "outerwear",
+          "category": "outerwear",
+          "audience": [
+            "men"
+          ],
+          "role": "編輯入門選品",
+          "price": 88000,
+          "priceNote": "日本通路查核列價；以實際商品頁為準",
+          "note": "男裝商品另列，款名與圖片對應同一日本銷售頁。",
+          "source": "https://www.beams.co.jp/item/beamsf/blouson/21181098232/?color=19",
+          "image": "https://cdn.beams.co.jp/img/goods/21181098232/S2/21181098232_C_2.jpg",
+          "credit": "BEAMS 日本商品圖",
+          "checkedAt": "2026-10-15"
+        }
+      ],
+      "relationships": []
+    },
+    {
+      "id": "traditional-weatherwear",
+      "profile": {
+        "name": "Traditional Weatherwear",
+        "jp": "トラディショナル ウェザーウェア",
+        "aliases": [
+          "Traditional Weatherwear"
+        ],
+        "styles": [
+          "smart"
+        ],
+        "audience": [
+          "men",
+          "women"
+        ],
+        "audienceBasis": "editorial",
+        "type": "服飾品牌",
+        "tagline": "俐落外套，搭回日常衣櫥。",
+        "intro": "先比較鋪棉、羽絨或雨天外層的用途。完整款名與材質比單看品牌印象更有幫助。",
+        "why": "先比較鋪棉、羽絨或雨天外層的用途。完整款名與材質比單看品牌印象更有幫助。",
+        "look": [
+          "外套：Traditional Weatherwear / DOWN JACKET 003 ダウンジャケット",
+          "用具名款式與實寸比較，再決定要不要試穿",
+          "出發前確認日本門市及販售品類"
+        ],
+        "shopping": "從本頁的品牌／日本銷售通路入口確認款式與尺寸，再查實際店址及庫存。線上有列出不代表每個日本門市都有貨；本站未提供日本比其他地方便宜的保證。",
+        "official": "https://www.beams.co.jp/brand/001646/",
+        "shop": "https://www.beams.co.jp/brand/001646/",
+        "sources": [
+          {
+            "label": "品牌／日本銷售入口",
+            "url": "https://www.beams.co.jp/brand/001646/"
+          }
+        ],
+        "coverage": "product"
+      },
+      "pieces": [
+        {
+          "name": "Traditional Weatherwear / DOWN JACKET 003 ダウンジャケット",
+          "originalName": "Traditional Weatherwear / DOWN JACKET 003 ダウンジャケット",
+          "sku": "21181105635",
+          "kind": "outerwear",
+          "category": "outerwear",
+          "audience": [
+            "men"
+          ],
+          "role": "編輯入門選品",
+          "price": 64900,
+          "priceNote": "查核時日本通路列價；促銷與庫存以來源為準",
+          "source": "https://www.beams.co.jp/item/beamsf/blouson/21181105635/?color=19",
+          "image": "https://cdn.beams.co.jp/img/goods/21181105635/O/21181105635_C_1.jpg",
+          "credit": "www.beams.co.jp 商品圖片",
+          "note": "以這款觀察品牌的剪裁與細節；為編輯探索選品，未宣稱是官方定番或銷量第一。",
+          "checkedAt": "2026-10-15"
+        }
+      ],
+      "relationships": []
+    },
+    {
+      "id": "gymphlex",
+      "profile": {
+        "name": "Gymphlex",
+        "jp": "ジムフレックス",
+        "aliases": [
+          "Gymphlex"
+        ],
+        "styles": [
+          "city"
+        ],
+        "audience": [
+          "men",
+          "women"
+        ],
+        "audienceBasis": "editorial",
+        "type": "服飾品牌",
+        "tagline": "從休閒上衣與外套看輕鬆比例。",
+        "intro": "喜歡乾淨的日常搭配，可以先看襯衫、衛衣和抓絨。別注女裝與一般男裝分別對照。",
+        "why": "喜歡乾淨的日常搭配，可以先看襯衫、衛衣和抓絨。別注女裝與一般男裝分別對照。",
+        "look": [
+          "單品：【別注】Gymphlex × Ray BEAMS / ボア ボタン ベスト",
+          "用具名款式與實寸比較，再決定要不要試穿",
+          "出發前確認日本門市及販售品類"
+        ],
+        "shopping": "從本頁的品牌／日本銷售通路入口確認款式與尺寸，再查實際店址及庫存。線上有列出不代表每個日本門市都有貨；本站未提供日本比其他地方便宜的保證。",
+        "official": "https://www.beams.co.jp/brand/000725/",
+        "shop": "https://www.beams.co.jp/brand/000725/",
+        "sources": [
+          {
+            "label": "品牌／日本銷售入口",
+            "url": "https://www.beams.co.jp/brand/000725/"
+          }
+        ],
+        "coverage": "product"
+      },
+      "pieces": [
+        {
+          "name": "【別注】Gymphlex × Ray BEAMS / ボア ボタン ベスト",
+          "originalName": "【別注】Gymphlex × Ray BEAMS / ボア ボタン ベスト",
+          "sku": "61060361024",
+          "category": "tops",
+          "audience": [
+            "women"
+          ],
+          "role": "編輯入門選品",
+          "price": 18150,
+          "priceNote": "查核時日本通路列價；促銷與庫存以來源為準",
+          "source": "https://www.beams.co.jp/item/bsfw/tops/61060361024/?color=19",
+          "image": "https://cdn.beams.co.jp/img/goods/61060361024/O/61060361024_C_1.jpg",
+          "credit": "www.beams.co.jp 商品圖片",
+          "note": "本款為具名合作／別注選品；合作品牌仍分開介紹，非隸屬關係。",
+          "checkedAt": "2026-10-15"
+        }
+      ],
+      "relationships": []
+    },
+    {
+      "id": "saint-james",
+      "profile": {
+        "name": "SAINT JAMES",
+        "jp": "セントジェームス",
+        "aliases": [
+          "SAINT JAMES"
+        ],
+        "styles": [
+          "natural"
+        ],
+        "audience": [
+          "men",
+          "women"
+        ],
+        "audienceBasis": "editorial",
+        "type": "服飾品牌",
+        "tagline": "從條紋與領口，找到自然日常。",
+        "intro": "可從 OUESSANT 的船領與布料份量開始；洗滌和縮率請依當款官方說明，不給全品牌固定縮碼建議。",
+        "why": "可從 OUESSANT 的船領與布料份量開始；洗滌和縮率請依當款官方說明，不給全品牌固定縮碼建議。",
+        "look": [
+          "T-shirt／衛衣：【別注】SAINT JAMES / OUESSANT ボーダー ボートネック Tシャツ",
+          "用具名款式與實寸比較，再決定要不要試穿",
+          "出發前確認日本門市及販售品類"
+        ],
+        "shopping": "從本頁的品牌／日本銷售通路入口確認款式與尺寸，再查實際店址及庫存。線上有列出不代表每個日本門市都有貨；本站未提供日本比其他地方便宜的保證。",
+        "official": "https://www.beams.co.jp/brand/001441/",
+        "shop": "https://www.beams.co.jp/brand/001441/",
+        "sources": [
+          {
+            "label": "品牌／日本銷售入口",
+            "url": "https://www.beams.co.jp/brand/001441/"
+          }
+        ],
+        "coverage": "product"
+      },
+      "pieces": [
+        {
+          "name": "【別注】SAINT JAMES / OUESSANT ボーダー ボートネック Tシャツ",
+          "originalName": "【別注】SAINT JAMES / OUESSANT ボーダー ボートネック Tシャツ",
+          "sku": "21140015015",
+          "kind": "tshirt",
+          "category": "tops",
+          "audience": [
+            "men"
+          ],
+          "role": "編輯入門選品",
+          "price": 17600,
+          "priceNote": "查核時日本通路列價；促銷與庫存以來源為準",
+          "source": "https://www.beams.co.jp/item/beamsf/t-shirt/21140015015/?color=90",
+          "image": "https://cdn.beams.co.jp/img/goods/21140015015/O/21140015015_C_1.jpg",
+          "credit": "www.beams.co.jp 商品圖片",
+          "note": "本款為具名合作／別注選品；合作品牌仍分開介紹，非隸屬關係。",
+          "checkedAt": "2026-10-15"
+        }
+      ],
+      "relationships": []
+    },
+    {
+      "id": "llbean",
+      "profile": {
+        "name": "L.L.Bean",
+        "jp": "エルエルビーン",
+        "aliases": [
+          "L.L.Bean"
+        ],
+        "styles": [
+          "outdoor"
+        ],
+        "audience": [
+          "men",
+          "women"
+        ],
+        "audienceBasis": "editorial",
+        "type": "服飾品牌",
+        "tagline": "從戶外經典，穿回輕鬆的城市生活。",
+        "intro": "先看襯衫與外套的層次。日本企劃、通路別注與其他市場商品保留完整版本名稱。",
+        "why": "先看襯衫與外套的層次。日本企劃、通路別注與其他市場商品保留完整版本名稱。",
+        "look": [
+          "外套：L.L.Bean / ミックスファブリック ショートブルゾン",
+          "用具名款式與實寸比較，再決定要不要試穿",
+          "出發前確認日本門市及販售品類"
+        ],
+        "shopping": "從本頁的品牌／日本銷售通路入口確認款式與尺寸，再查實際店址及庫存。線上有列出不代表每個日本門市都有貨；本站未提供日本比其他地方便宜的保證。",
+        "official": "https://www.beams.co.jp/brand/003113/",
+        "shop": "https://www.beams.co.jp/brand/003113/",
+        "sources": [
+          {
+            "label": "品牌／日本銷售入口",
+            "url": "https://www.beams.co.jp/brand/003113/"
+          }
+        ],
+        "coverage": "product"
+      },
+      "pieces": [
+        {
+          "name": "L.L.Bean / ミックスファブリック ショートブルゾン",
+          "originalName": "L.L.Bean / ミックスファブリック ショートブルゾン",
+          "sku": "24180823964",
+          "kind": "outerwear",
+          "category": "outerwear",
+          "audience": [
+            "men"
+          ],
+          "role": "編輯入門選品",
+          "price": 38500,
+          "priceNote": "查核時日本通路列價；促銷與庫存以來源為準",
+          "source": "https://www.beams.co.jp/item/brilla_per_il_gusto/blouson/24180823964/?color=35",
+          "image": "https://cdn.beams.co.jp/img/goods/24180823964/O/24180823964_C_1.jpg",
+          "credit": "www.beams.co.jp 商品圖片",
+          "note": "以這款觀察品牌的剪裁與細節；為編輯探索選品，未宣稱是官方定番或銷量第一。",
+          "checkedAt": "2026-10-15"
+        }
+      ],
+      "relationships": []
+    }
+  ]
+}

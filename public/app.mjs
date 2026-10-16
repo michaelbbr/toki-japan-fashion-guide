@@ -1,7 +1,9 @@
 import './journey.mjs';
+import {applyOutfitContext} from './outfit-context.mjs';
 import {budgetOptions} from './discovery-options.mjs';
 import {matchBrand,sampleMatches} from './domain.mjs';
 document.documentElement.classList.add('js');
+if(document.querySelector('.brand-hero'))applyOutfitContext(document.querySelector('main'),new URLSearchParams(location.search).get('gender')||'all');
 const menu=document.querySelector('.menu-toggle'), nav=document.querySelector('#main-nav');
 if(menu) {
   menu.addEventListener('click',()=>{
@@ -63,8 +65,10 @@ if(form) {
     for(const c of cards) {
       const brand=JSON.parse(c.dataset.brand);
       const visible=matchBrand(brand,filters);
+      if(visible)applyOutfitContext(c,gender);
       c.dataset.matches=String(visible);if(visible)total++;
-      document.querySelector('[data-index-brand="'+brand.id+'"]')?.toggleAttribute('hidden',!visible);
+      const indexLink=document.querySelector('[data-index-brand="'+brand.id+'"]');
+      if(indexLink){indexLink.toggleAttribute('hidden',!visible);indexLink.href='/brands/'+brand.id+(gender==='all'?'':'?gender='+gender);}
       const selectedSamples=brand.samples.filter(s=>sampleMatches(s,filters));
       if(selectedSamples.length) {
         const sample=selectedSamples.sort((a,b)=>a.price-b.price)[0];

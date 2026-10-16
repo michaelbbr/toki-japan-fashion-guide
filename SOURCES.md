@@ -216,3 +216,9 @@ Primary public sources, title/item/photo binding, market/classification exceptio
 - 北海道札幌：https://www.beams.co.jp/shop/sp/；福岡天神：https://www.beams.co.jp/shop/fkp/。只支持具名據點，非當地完整分店名冊。
 - 日本47都道府縣：https://www.japan.travel/tw/destinations/ 。
 - 歷史比對：可用 Git 版本與上一版 50 筆均未缺項；歷史 FTI registry 的 54 筆為13品牌下單品，不能算54品牌。新增指南不以名稱索引灌數。
+
+## 150-guide expansion — 2026-10-15
+
+Every new product keeps its exact primary Japan brand/retailer URL, identifier, photograph and checked date in data/extended-edition.json. Independent outfit provenance, direction and historical credits are in data/photo-directions.json and [the image ledger](docs/150-brand-image-ledger-2026-10-15.md). Legacy name union is retained in data/brand-retention.json; old FTI is not loaded publicly.
+
+Japan retail entry: [ISETAN MEN’S THE ROW](https://www.imn.jp/brand/the-row) and [Supreme official stores](https://supreme.com/stores?slide=modal). Global product prices are not Japan prices.

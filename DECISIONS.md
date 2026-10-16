@@ -45,3 +45,11 @@ Expand from 15 to 50 complete identities without counting BEAMS label-index rows
 - 12 種編輯風格；男裝呈現10種，女裝／不限12種。47都道府縣與不限均可選；詳細地址只標已核實的5地區、2品牌、12據點，其餘保留官方入口。
 - 70個品牌與服裝標籤完整條目，原50筆保留；名稱索引不算入。品牌圖框固定3:4，圖說固定40px；整套穿搭不是單件價格。
 - 依使用者要求撤下公開FTI，舊 /trends 導向品牌頁；不再載入快照或圖表，原TH/fti專案不動。維持免費靜態Hobby。
+
+## 2026-10-15 — Japan availability, retention and gender context
+
+- Include international brands and Japanese niche designers under the Japan-shopping mission; do not restrict inclusion to Japanese origin.
+- Restore the union of historical sources, not just the latest site data. Record 70 prior site IDs plus legacy FTI name evidence; build must retain required IDs and at least 150 guides.
+- Photo directions are separate from editorial brand audiences. Men/women never borrow each other’s photo. A missing photo stays visibly pending; the brand is retained. Outfit sources are separate from exact representative product sources. Historical and collaboration imagery retain their scope.
+- Athleisure is distinct from Street/Outdoor; general retailers are not assigned sports style just for stocking sweatshirts. Category-specific budgets apply to actual sourced products.
+- Keep the LP’s single main action and zero-cost static Hobby deployment. Revisit any paid/commercial architecture only with explicit user approval.

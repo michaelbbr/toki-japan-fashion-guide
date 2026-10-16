@@ -2,7 +2,7 @@ import fs from 'node:fs';
 import path from 'node:path';
 import {brands,styles,articles,releases,checkedAt} from '../data/catalog.mjs';
 import {escapeHtml as e} from '../src/domain.mjs';
-import {shell,photo,outfitPhoto,brandCard,pieceCard,directory,styleCards,relationshipRows,lead,sectionHead,routeLink,sourceLink,yen,tags} from '../src/view.mjs';
+import {shell,photo,outfitPhoto,lookFor,firstLook,brandCard,pieceCard,directory,styleCards,relationshipRows,lead,sectionHead,routeLink,sourceLink,yen,tags} from '../src/view.mjs';
 import {startHero,familyHub,familyPage,areasPage} from '../src/discovery.mjs';
 import {travelFinder} from '../src/journey.mjs';
 import {outfits} from '../data/outfits.mjs';
@@ -11,6 +11,9 @@ const site=process.env.SITE_URL || 'https://toki-japan-fashion-guide.vercel.app'
 const out=path.resolve('dist');
 const byId=new Map(brands.map(b=>[b.id,b]));
 if(byId.size!==brands.length)throw new Error('Brand IDs must be unique');
+const retention=JSON.parse(fs.readFileSync('data/brand-retention.json','utf8'));
+for(const id of [...retention.requiredUnion,...retention.explicitRequests])if(!byId.has(id))throw new Error('Previously requested brand missing: '+id);
+if(brands.length<150)throw new Error('The current catalog requires at least 150 brand/label guides');
 for(const b of brands){
  for(const field of ['name','jp','type','tagline','intro','why','shopping','official','shop'])if(!b[field])throw new Error('Missing '+b.id+'.'+field);
  if(!b.styles.length || !b.audience.length || !b.pieces.length)throw new Error('Incomplete brand: '+b.id);
@@ -22,7 +25,7 @@ function journals(){return `<div class="journal-grid">${articles.map(a=>`<a clas
 
 add('/','去日本買衣服，先找到喜歡的品牌','去日本買衣服的品牌指南：從穿搭、預算與目的地找到想逛的品牌。',startHero());
 add('/start','五步找到想逛的日本品牌','依服裝類型、想買品類、單件日圓預算、旅遊地區與穿衣喜好挑選品牌。',travelFinder(true),'start');
-add('/brands','日本品牌索引','認識日本品牌、先看什麼單品，以及官方購物入口。',lead('BEFORE YOUR JAPAN TRIP','去日本，<em>有哪些品牌可以逛？</em>',`收錄 ${brands.length} 個品牌與標籤。不用先懂時尚，從常穿的衣服、單件預算開始看。` )+`<div class="wrap audience-links">${routeLink('/brands','全部品牌')}${routeLink('/men','男裝')}${routeLink('/women','女裝')}</div>`+directory(),'brands');
+add('/brands','日本可買品牌索引','認識在日本可買到的品牌、先看什麼單品，以及官方購物入口。',lead('BEFORE YOUR JAPAN TRIP','去日本，<em>有哪些品牌可以逛？</em>',`收錄 ${brands.length} 個品牌與標籤。包含日本品牌、國際品牌與小眾設計師。從常穿的衣服、單件預算開始看。` )+`<div class="wrap audience-links">${routeLink('/brands','全部品牌')}${routeLink('/men','男裝')}${routeLink('/women','女裝')}</div>`+directory(),'brands');
 for(const g of ['men','women']){
  const title=g==='men'?'男裝':'女裝';
  add('/'+g,title+'品牌探索','給第一次去日本買衣服的旅客：認識'+title+'品牌、單品與官方購物入口。',lead('SHOP FOR YOUR JAPAN TRIP',title+'，<em>這趟想逛哪幾家？</em>','先看品牌在賣什麼、適合從哪件開始。不熟風格也沒關係，可以用五步引導幫你挑。')+`<div class="wrap audience-links">${routeLink('/men','男裝')}${routeLink('/women','女裝')}${routeLink('/brands','全部品牌')}</div>`+directory(g),g);
@@ -33,9 +36,9 @@ add('/pieces','品牌代表單品','用真實商品圖認識官方定番、系�
 for(const b of brands){
  const related=b.similar.filter(r=>byId.has(r.id));
  add('/brands/'+b.id,b.name+' 品牌指南',b.tagline+' 代表單品、價格樣本與官方關係。',`<div class="wrap breadcrumb"><a href="/brands">品牌索引</a><span>/</span><span>${e(b.name)}</span></div><section class="wrap brand-hero"><div><p class="eyebrow">${e(b.type)}</p><h1>${e(b.name)}</h1><p class="brand-jp">${e(b.jp)}</p><h2>${e(b.tagline)}</h2><div class="tags">${tags(b)}</div><div class="hero-actions">${b.id==='beams'?routeLink('/relationships/beams','先選 BEAMS 標籤','button dark'):routeLink('#pieces','先看代表單品','button dark')}${sourceLink(b.official,'官方入口')}</div>${b.audienceBasis==='editorial'?'<p class="scope-note">本頁男女入口為編輯探索建議，並不推定每款皆為 UNISEX。</p>':''}<p class="tiny">品牌內容查核 ${checkedAt}</p></div>${outfitPhoto(b,'brand-hero-art',true)}</section><div class="wrap detail-layout"><aside class="detail-nav" aria-label="品牌頁內導覽"><span class="eyebrow">IN THIS GUIDE</span><a href="#pieces">代表單品</a><a href="#about">認識品牌</a><a href="#prices">價格參考</a>${b.relationships.length?'<a href="#relationships">品牌關係</a>':''}<a href="#buying">日本購物</a><a href="#fit">尺寸怎麼看</a></aside><div class="detail-body">
-<p class="outfit-source-note">${sourceLink(outfits[b.id].source,outfits[b.id].credit+'來源')} · 造型可能搭配其他品牌，單品歸屬請看下方商品資料。</p><section class="travel-quick"><div><strong>第一次先看什麼？</strong><p>${e(b.look[0])}</p></div><div><strong>準備去哪裡買？</strong><p>先看官方購物／店舖資訊，確認服裝類型與庫存。</p>${sourceLink(b.shop,'官方購物／查店入口')}</div></section><section id="pieces"><p class="eyebrow">START WITH THESE PIECES</p><h2>先看這幾件。</h2><div class="brand-piece-list">${b.pieces.map(p=>pieceCard(b,p)).join('')}</div></section>
-<section id="about"><p class="eyebrow">GET TO KNOW</p><h2>把品牌放回日常。</h2><p>${e(b.intro)}</p><h3>誰可以從這裡開始？</h3><p>${e(b.why)}</p><ul class="focus-list">${b.look.map(t=>`<li>${e(t)}</li>`).join('')}</ul></section>
-<section id="prices"><p class="eyebrow">PRICE NOTES</p><h2>價格，跟著單品看。</h2><p class="notice">具名樣本不代表全品牌價格；是否與上方照片同款，請看商品名稱。</p><div class="price-list">${b.samples.length?b.samples.map(s=>`<div><div><h3>${e(s.name)}</h3><p>${e(s.note)} · 查核 ${e(s.checkedAt||'2026-10-14')}</p>${sourceLink(s.url,'價格來源')}</div><strong>${yen(s.price)}</strong></div>`).join(''):'<p>日本價格尚未核實，請開啟官方商品頁確認。</p>'}</div></section>
+<p class="outfit-source-note" data-outfit-source>${sourceLink(lookFor(b)?.source||b.official,(lookFor(b)?.credit||'品牌')+'來源')} · 造型可能搭配其他品牌，單品歸屬請看下方商品資料。</p><section class="travel-quick"><div><strong>第一次先看什麼？</strong><p data-look-choices="${e(JSON.stringify(Object.fromEntries(['all','men','women'].map(g=>[g,firstLook(b,g)]))))}">${e(b.look[0])}</p></div><div><strong>準備去哪裡買？</strong><p>先看官方購物／店舖資訊，確認服裝類型與庫存。</p>${sourceLink(b.shop,'官方購物／查店入口')}</div></section><section id="pieces"><p class="eyebrow">START WITH THESE PIECES</p><h2>先看這幾件。</h2><div class="brand-piece-list">${b.pieces.map(p=>pieceCard(b,p)).join('')}</div><p class="notice" data-piece-context-note hidden>這個服裝方向的具名單品仍在整理，可先從官方入口查看完整系列。</p></section>
+<section id="about"><p class="eyebrow">GET TO KNOW</p><h2>把品牌放回日常。</h2><p>${e(b.intro)}</p><h3>誰可以從這裡開始？</h3><p>${e(b.why)}</p><ul class="focus-list">${b.look.map((t,i)=>`<li ${i===0?'data-look-choices="'+e(JSON.stringify(Object.fromEntries(['all','men','women'].map(g=>[g,firstLook(b,g)]))))+'"':''}>${e(t)}</li>`).join('')}</ul></section>
+<section id="prices"><p class="eyebrow">PRICE NOTES</p><h2>價格，跟著單品看。</h2><p class="notice">具名樣本不代表全品牌價格；是否與上方照片同款，請看商品名稱。</p><div class="price-list">${b.samples.length?b.samples.map(s=>`<div data-price-audience="${e((s.audience||[]).join(' '))}"><div><h3>${e(s.name)}</h3><p>${e(s.note)} · 查核 ${e(s.checkedAt||'2026-10-14')}</p>${sourceLink(s.url,'價格來源')}</div><strong>${yen(s.price)}</strong></div>`).join(''):'<p>日本價格尚未核實，請開啟官方商品頁確認。</p>'}</div></section>
 ${b.relationships.length?`<section id="relationships"><p class="eyebrow">BRAND, LABEL OR COLLABORATION?</p><h2>支線與名稱，怎麼分？</h2>${relationshipRows(b)}</section>`:''}
 <section id="buying"><p class="eyebrow">SHOP IN JAPAN</p><h2>想試穿，再安排逛店。</h2><p>${e(b.shopping)}</p>${sourceLink(b.shop,'官方購物／店舖入口','button light')}<p class="notice">門市、商品範圍、售價與庫存，出發前請再確認。${routeLink('/shopping','日本逛店指南')}</p></section>
 <section id="fit"><p class="eyebrow">FIT NOTES</p><h2>尺寸從實寸開始。</h2><p>${e(b.fitAdvice)}</p></section>

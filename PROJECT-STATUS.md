@@ -1,3 +1,16 @@
+# TOKI project status
+
+## 150-guide edition — 2026-10-15
+
+- 150 distinct brand/label guides, including all previous 70 IDs. Restored the 7 names missed from the legacy FTI brand index: COS, ZARA, Miu Miu, The Row, Coach, Arc’teryx and Salomon. Legacy item brands and explicit SHINYAKOZUKA / 山と道 requests are retained. The 82-ID recovery union is recorded in data/brand-retention.json and enforced at build time; FTI runtime remains removed.
+- Scope is clothing brands available in Japan, regardless of origin. Added 80 guides with named genuine products, exact image/source/identifier and dated Japan prices where verified. Global USD values are not relabeled as JPY. Existing 70 guides preserved.
+- 150 default outfit entries and 125 male outfit entries. Men’s directory, wizard, brand links, detail hero, introductory pick and product/price rows keep male context; no female-photo fallback. Women’s photos are used only when separately supported. Some dual-audience women’s outfit images remain pending and are clearly shown as pending, without deleting those brands.
+- Athleisure, Street and Outdoor separated. Men’s Athleisure includes Nike, adidas, PUMA, Champion, lululemon and On; GU and BEAMS are excluded. Wizard uses lululemon as the male example. Added shoe and bag categories/budgets and recognized hoodie names in the upper-body category.
+- LP retains one main start action and shows all 150 in its secondary entry. Every outfit card reserves a matching frame; mobile directory is one column. Exact-name index and gender-aware links keep the full catalog accessible.
+- Local manual checks: 1280px men’s Athleisure shows 6 brands, result heading at y=115 after a style shortcut; COS link retains ?gender=men and the correct source. Wizard men → T-shirt/sweatshirt → unlimited → Hokkaido → Athleisure returns 4 brands, result title focused at y=140. Region list includes all 47 prefectures and unlimited, including Hokkaido/Fukuoka. Mobile 390px LP and SHINYAKOZUKA / 山跟道 search inspected with no horizontal overflow; menu Escape inspected. Margaret Howell male detail hides the female sample.
+- Build: 177 routes / 150 guides / 0 runtime functions. No automated tests added or run. Existing non-commercial Vercel Hobby only; no spending, subscription, paid API, domain or upgrade.
+- Public release check is recorded below after deployment. Source ledger: docs/150-brand-image-ledger-2026-10-15.md. Known limits: external images may change, unverified Japan prices remain unknown, and detailed regional store records still cover only the earlier selected shops.
+
 # TOKI progress — 2026-10-14
 
 ## 50-guide edition — published and inspected

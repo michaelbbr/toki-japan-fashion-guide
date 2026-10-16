@@ -1,0 +1,2785 @@
+{
+  "beams": {
+    "all": {
+      "image": "https://cdn-cms.beams.co.jp/cdn/cms/styling/1242463/main_TRERrf.jpg",
+      "source": "https://www.beams.co.jp/styling/beams/1242463/",
+      "credit": "官方穿搭示例",
+      "checkedAt": "2026-10-15",
+      "note": "造型可能搭配其他品牌；不推定整套商品歸屬或現貨。"
+    },
+    "men": {
+      "image": "https://cdn-cms.beams.co.jp/cdn/cms/styling/1242463/main_TRERrf.jpg",
+      "source": "https://www.beams.co.jp/styling/beams/1242463/",
+      "credit": "官方穿搭示例",
+      "checkedAt": "2026-10-15",
+      "note": "造型可能搭配其他品牌；不推定整套商品歸屬或現貨。",
+      "basis": "原品牌男裝來源與人工穿搭圖核對"
+    }
+  },
+  "united-arrows": {
+    "all": {
+      "image": "https://united-arrows-global.com/cdn/shop/files/OUR_BRANDS_UAW_PC_daa1b22f-bd9c-4ec0-ae9e-e594f3e3829b.jpg?v=1786945734&width=900",
+      "source": "https://united-arrows-global.com/zh-hant/products/15122220006",
+      "credit": "官方穿搭示例",
+      "checkedAt": "2026-10-15",
+      "note": "造型可能搭配其他品牌；不推定整套商品歸屬或現貨。"
+    },
+    "women": {
+      "image": "https://united-arrows-global.com/cdn/shop/files/OUR_BRANDS_UAW_PC_daa1b22f-bd9c-4ec0-ae9e-e594f3e3829b.jpg?v=1786945734&width=900",
+      "source": "https://united-arrows-global.com/zh-hant/products/15122220006",
+      "credit": "官方穿搭示例",
+      "checkedAt": "2026-10-15",
+      "note": "造型可能搭配其他品牌；不推定整套商品歸屬或現貨。"
+    },
+    "men": {
+      "image": "https://united-arrows-global.com/cdn/shop/t/99/assets/os26aw_men_main_06.webp?v=100878150054529941511790684384",
+      "source": "https://united-arrows-global.com/en-us/pages/office-style-autumn2026-men",
+      "credit": "官方男裝穿搭示例",
+      "checkedAt": "2026-10-15"
+    }
+  },
+  "snow-peak": {
+    "all": {
+      "image": "https://www.snowpeak.co.jp/sp/takibi26aw/img/26aw/01_07.avif",
+      "source": "https://www.snowpeak.co.jp/sp/takibi26aw/01/",
+      "credit": "官方穿搭示例",
+      "checkedAt": "2026-10-15",
+      "note": "造型可能搭配其他品牌；不推定整套商品歸屬或現貨。"
+    },
+    "women": {
+      "image": "https://www.snowpeak.co.jp/sp/takibi26aw/img/26aw/01_07.avif",
+      "source": "https://www.snowpeak.co.jp/sp/takibi26aw/01/",
+      "credit": "官方穿搭示例",
+      "checkedAt": "2026-10-15",
+      "note": "造型可能搭配其他品牌；不推定整套商品歸屬或現貨。"
+    },
+    "men": {
+      "image": "https://www.snowpeak.co.jp/sp/takibi26aw/img/26aw/02_03.avif",
+      "source": "https://www.snowpeak.co.jp/sp/takibi26aw/02/",
+      "credit": "官方 2026 秋冬男裝穿搭示例",
+      "checkedAt": "2026-10-15"
+    }
+  },
+  "auralee": {
+    "all": {
+      "image": "https://auralee.jp/photo/2026AW/A26AV02SM/z-A26AV02SM-1.jpg?1782959028",
+      "source": "https://auralee.jp/item/detail/1_1_A26AV03RK_1/6501",
+      "credit": "官方穿搭示例",
+      "checkedAt": "2026-10-15",
+      "note": "造型可能搭配其他品牌；不推定整套商品歸屬或現貨。"
+    },
+    "men": {
+      "image": "https://auralee.jp/photo/2026AW/A26AV02SM/z-A26AV02SM-1.jpg?1782959028",
+      "source": "https://auralee.jp/item/detail/1_1_A26AV03RK_1/6501",
+      "credit": "官方穿搭示例",
+      "checkedAt": "2026-10-15",
+      "note": "造型可能搭配其他品牌；不推定整套商品歸屬或現貨。",
+      "basis": "原品牌男裝來源與人工穿搭圖核對"
+    }
+  },
+  "snidel": {
+    "all": {
+      "image": "https://snidel.us/cdn/shop/files/SWNT264174_p_06_LL_ff51df18-1f93-4a79-985e-1f1a3993a87d.webp?v=1790188964&width=900",
+      "source": "https://snidel.com/",
+      "credit": "官方穿搭示例",
+      "checkedAt": "2026-10-15",
+      "note": "造型可能搭配其他品牌；不推定整套商品歸屬或現貨。"
+    },
+    "women": {
+      "image": "https://snidel.us/cdn/shop/files/SWNT264174_p_06_LL_ff51df18-1f93-4a79-985e-1f1a3993a87d.webp?v=1790188964&width=900",
+      "source": "https://snidel.com/",
+      "credit": "官方穿搭示例",
+      "checkedAt": "2026-10-15",
+      "note": "造型可能搭配其他品牌；不推定整套商品歸屬或現貨。"
+    }
+  },
+  "freaks-store": {
+    "all": {
+      "image": "https://images.daytona-park.com/items/original/1323248901706/item68c2f67f3a4a7.jpg",
+      "source": "https://www.daytona-park.com/item/1323248901706",
+      "credit": "官方穿搭示例",
+      "checkedAt": "2026-10-15",
+      "note": "造型可能搭配其他品牌；不推定整套商品歸屬或現貨。"
+    },
+    "women": {
+      "image": "https://images.daytona-park.com/items/original/1323248901706/item68c2f67f3a4a7.jpg",
+      "source": "https://www.daytona-park.com/item/1323248901706",
+      "credit": "官方穿搭示例",
+      "checkedAt": "2026-10-15",
+      "note": "造型可能搭配其他品牌；不推定整套商品歸屬或現貨。"
+    },
+    "men": {
+      "image": "https://static.staff-start.com/img/coordinates/48/61c6ddc8fa35f40c7eb51fc06d66499a-129775/1887733b458e273d9b65ea12a609a523.jpg",
+      "source": "https://www.daytona-park.com/styling/57683653",
+      "credit": "官方男裝穿搭示例（2026）",
+      "checkedAt": "2026-10-15"
+    }
+  },
+  "urban-research": {
+    "all": {
+      "image": "https://media.urban-research.jp/wp-content/uploads/2025/02/250206_ur_thomasmason_01-05.jpg",
+      "source": "https://media.urban-research.jp/news/649266/",
+      "credit": "官方穿搭示例",
+      "checkedAt": "2026-10-15",
+      "note": "造型可能搭配其他品牌；不推定整套商品歸屬或現貨。"
+    },
+    "men": {
+      "image": "https://media.urban-research.jp/wp-content/uploads/2025/02/250206_ur_thomasmason_01-05.jpg",
+      "source": "https://media.urban-research.jp/news/649266/",
+      "credit": "官方穿搭示例",
+      "checkedAt": "2026-10-15",
+      "note": "造型可能搭配其他品牌；不推定整套商品歸屬或現貨。",
+      "basis": "原品牌男裝來源與人工穿搭圖核對"
+    }
+  },
+  "journal-standard": {
+    "all": {
+      "image": "https://images.baycrews.jp/itemimages/i/26/011/600/26011600531030_ma_001_N_org.jpg?resize=780%3A936",
+      "source": "https://baycrews.jp/item/detail/journalstandard/blouson/26011600531030?q_sclrcd=001",
+      "credit": "官方穿搭示例",
+      "checkedAt": "2026-10-15",
+      "note": "造型可能搭配其他品牌；不推定整套商品歸屬或現貨。"
+    },
+    "men": {
+      "image": "https://images.baycrews.jp/itemimages/i/26/011/600/26011600531030_ma_001_N_org.jpg?resize=780%3A936",
+      "source": "https://baycrews.jp/item/detail/journalstandard/blouson/26011600531030?q_sclrcd=001",
+      "credit": "官方穿搭示例",
+      "checkedAt": "2026-10-15",
+      "note": "造型可能搭配其他品牌；不推定整套商品歸屬或現貨。",
+      "basis": "原品牌男裝來源與人工穿搭圖核對"
+    }
+  },
+  "mont-bell": {
+    "all": {
+      "image": "https://www.montbell.jp/generalpage/images/detailimg_0789_004_004_67a41f044d2ff.jpg",
+      "source": "https://www.montbell.jp/generalpage/disp.php?id=789",
+      "credit": "官方穿搭示例",
+      "checkedAt": "2026-10-15",
+      "note": "造型可能搭配其他品牌；不推定整套商品歸屬或現貨。"
+    },
+    "men": {
+      "image": "https://www.montbell.jp/generalpage/images/detailimg_0789_004_004_67a41f044d2ff.jpg",
+      "source": "https://www.montbell.jp/generalpage/disp.php?id=789",
+      "credit": "官方穿搭示例",
+      "checkedAt": "2026-10-15",
+      "note": "造型可能搭配其他品牌；不推定整套商品歸屬或現貨。",
+      "basis": "原品牌男裝來源與人工穿搭圖核對"
+    }
+  },
+  "daiwa-pier39": {
+    "all": {
+      "image": "https://daiwapier39.jp/cdn/shop/files/20250907_2502.jpg?v=1785829220&width=1946",
+      "source": "https://daiwapier39.jp/products/be-85026w",
+      "credit": "官方穿搭示例",
+      "checkedAt": "2026-10-15",
+      "note": "造型可能搭配其他品牌；不推定整套商品歸屬或現貨。"
+    },
+    "men": {
+      "image": "https://daiwapier39.jp/cdn/shop/files/20250907_2502.jpg?v=1785829220&width=1946",
+      "source": "https://daiwapier39.jp/products/be-85026w",
+      "credit": "官方穿搭示例",
+      "checkedAt": "2026-10-15",
+      "note": "造型可能搭配其他品牌；不推定整套商品歸屬或現貨。",
+      "basis": "原品牌男裝來源與人工穿搭圖核對"
+    }
+  },
+  "nanamica": {
+    "all": {
+      "image": "https://us.nanamica.com/cdn/shop/files/08_na26fw_1800x1800.jpg?v=1791257636",
+      "source": "https://us.nanamica.com/products/new-york-2l-cotton-gore-tex-balmacaan-coat-26fw",
+      "credit": "官方穿搭示例",
+      "checkedAt": "2026-10-15",
+      "note": "造型可能搭配其他品牌；不推定整套商品歸屬或現貨。",
+      "variants": {
+        "women": {
+          "image": "https://us.nanamica.com/cdn/shop/files/01_na26fw_w_98fb7b1f-7c69-4fc6-a15e-c809f0c1a6aa_1800x1800.jpg?v=1791257639",
+          "source": "https://us.nanamica.com/products/new-york-2l-cotton-gore-tex-balmacaan-coat-26fw"
+        }
+      }
+    },
+    "men": {
+      "image": "https://us.nanamica.com/cdn/shop/files/08_na26fw_1800x1800.jpg?v=1791257636",
+      "source": "https://us.nanamica.com/products/new-york-2l-cotton-gore-tex-balmacaan-coat-26fw",
+      "credit": "官方穿搭示例",
+      "checkedAt": "2026-10-15",
+      "note": "造型可能搭配其他品牌；不推定整套商品歸屬或現貨。",
+      "variants": {
+        "women": {
+          "image": "https://us.nanamica.com/cdn/shop/files/01_na26fw_w_98fb7b1f-7c69-4fc6-a15e-c809f0c1a6aa_1800x1800.jpg?v=1791257639",
+          "source": "https://us.nanamica.com/products/new-york-2l-cotton-gore-tex-balmacaan-coat-26fw"
+        }
+      },
+      "basis": "原品牌男裝來源與人工穿搭圖核對"
+    },
+    "women": {
+      "image": "https://us.nanamica.com/cdn/shop/files/01_na26fw_w_98fb7b1f-7c69-4fc6-a15e-c809f0c1a6aa_1800x1800.jpg?v=1791257639",
+      "source": "https://us.nanamica.com/products/new-york-2l-cotton-gore-tex-balmacaan-coat-26fw",
+      "credit": "官方穿搭示例",
+      "checkedAt": "2026-10-15",
+      "note": "造型可能搭配其他品牌；不推定整套商品歸屬或現貨。",
+      "variants": {
+        "women": {
+          "image": "https://us.nanamica.com/cdn/shop/files/01_na26fw_w_98fb7b1f-7c69-4fc6-a15e-c809f0c1a6aa_1800x1800.jpg?v=1791257639",
+          "source": "https://us.nanamica.com/products/new-york-2l-cotton-gore-tex-balmacaan-coat-26fw"
+        }
+      }
+    }
+  },
+  "graphpaper": {
+    "all": {
+      "image": "https://eng.graphpaper-tokyo.com/cdn/shop/files/GU263-50521B_1_3000x.jpg?v=1790645932",
+      "source": "https://eng.graphpaper-tokyo.com/products/gu263-50521b",
+      "credit": "官方穿搭示例",
+      "checkedAt": "2026-10-15",
+      "note": "造型可能搭配其他品牌；不推定整套商品歸屬或現貨。"
+    },
+    "men": {
+      "image": "https://eng.graphpaper-tokyo.com/cdn/shop/files/GU263-50521B_1_3000x.jpg?v=1790645932",
+      "source": "https://eng.graphpaper-tokyo.com/products/gu263-50521b",
+      "credit": "官方穿搭示例",
+      "checkedAt": "2026-10-15",
+      "note": "造型可能搭配其他品牌；不推定整套商品歸屬或現貨。",
+      "basis": "原品牌男裝來源與人工穿搭圖核對"
+    }
+  },
+  "mila-owen": {
+    "all": {
+      "image": "https://milaowen.mash-cdn.com/Page/feature/2024/0111/img/sec02_img02.jpg",
+      "source": "https://milaowen.com/Page/feature/2024/0111/?plan=MO240111UMEHARU",
+      "credit": "2024 官方穿搭示例",
+      "checkedAt": "2026-10-15",
+      "note": "造型可能搭配其他品牌；不推定整套商品歸屬或現貨。"
+    },
+    "women": {
+      "image": "https://milaowen.mash-cdn.com/Page/feature/2024/0111/img/sec02_img02.jpg",
+      "source": "https://milaowen.com/Page/feature/2024/0111/?plan=MO240111UMEHARU",
+      "credit": "2024 官方穿搭示例",
+      "checkedAt": "2026-10-15",
+      "note": "造型可能搭配其他品牌；不推定整套商品歸屬或現貨。"
+    }
+  },
+  "clane": {
+    "all": {
+      "image": "https://clane-design.com/jp/photo/26AW/11110-7123/zz-11110-7123_05-2.jpg?1786148837",
+      "source": "https://clane-design.com/jp/item/detail/1_1_11110-7123_1/05",
+      "credit": "官方穿搭示例",
+      "checkedAt": "2026-10-15",
+      "note": "造型可能搭配其他品牌；不推定整套商品歸屬或現貨。"
+    },
+    "women": {
+      "image": "https://clane-design.com/jp/photo/26AW/11110-7123/zz-11110-7123_05-2.jpg?1786148837",
+      "source": "https://clane-design.com/jp/item/detail/1_1_11110-7123_1/05",
+      "credit": "官方穿搭示例",
+      "checkedAt": "2026-10-15",
+      "note": "造型可能搭配其他品牌；不推定整套商品歸屬或現貨。"
+    }
+  },
+  "purple-label": {
+    "all": {
+      "image": "https://cdn.shopify.com/s/files/1/0242/6224/6481/files/IMG_20200915_130155.jpg?v=1600267334",
+      "source": "https://us.nanamica.com/blogs/style/in-store-only-hyvent-65-35-field-jacket-tnfpl",
+      "credit": "2020 官方歷史穿搭示例",
+      "checkedAt": "2026-10-15",
+      "note": "造型可能搭配其他品牌；不推定整套商品歸屬或現貨。"
+    },
+    "men": {
+      "image": "https://cdn.shopify.com/s/files/1/0242/6224/6481/files/IMG_20200915_130155.jpg?v=1600267334",
+      "source": "https://us.nanamica.com/blogs/style/in-store-only-hyvent-65-35-field-jacket-tnfpl",
+      "credit": "2020 官方歷史穿搭示例",
+      "checkedAt": "2026-10-15",
+      "note": "造型可能搭配其他品牌；不推定整套商品歸屬或現貨。",
+      "basis": "原品牌男裝來源與人工穿搭圖核對"
+    }
+  },
+  "uniqlo": {
+    "all": {
+      "image": "https://www.uniqlo.com/us/en/news/topics/2026092301/img/1900T_SC1F260914sfc7PR.jpg",
+      "source": "https://www.uniqlo.com/us/en/news/topics/2026092301/",
+      "credit": "官方活動穿搭示例",
+      "checkedAt": "2026-10-15",
+      "note": "造型可能搭配其他品牌；不推定整套商品歸屬或現貨。"
+    },
+    "men": {
+      "image": "https://api.fastretailing.com/ugc/v1/uq/gl/OFFICIAL_IMAGES/261008081547_1_1_1_official_all_styling_c-200-267",
+      "source": "https://www.uniqlo.com/jp/ja/stylingbook/officialstyling/men",
+      "credit": "官方男裝穿搭示例",
+      "checkedAt": "2026-10-15"
+    }
+  },
+  "gu": {
+    "all": {
+      "image": "https://image.uniqlo.com/GU/ST3/jp/imagesgoods/360441/sub/jpgoods_360441_sub10_3x4.jpg?width=600",
+      "source": "https://www.gu-global.com/jp/ja/products/E360441-000/00",
+      "credit": "官方穿搭示例",
+      "checkedAt": "2026-10-15",
+      "note": "造型可能搭配其他品牌；不推定整套商品歸屬或現貨。"
+    },
+    "men": {
+      "image": "https://image.uniqlo.com/GU/ST3/jp/imagesgoods/360441/sub/jpgoods_360441_sub10_3x4.jpg?width=600",
+      "source": "https://www.gu-global.com/jp/ja/products/E360441-000/00",
+      "credit": "官方穿搭示例",
+      "checkedAt": "2026-10-15",
+      "note": "造型可能搭配其他品牌；不推定整套商品歸屬或現貨。",
+      "basis": "原品牌男裝來源與人工穿搭圖核對"
+    }
+  },
+  "muji": {
+    "all": {
+      "image": "https://www.muji.com/public/media/img/item/4550723608770_org.jpg",
+      "source": "https://www.muji.com/jp/ja/store/cmdty/detail/4550723268943",
+      "credit": "官方穿搭示例",
+      "checkedAt": "2026-10-15",
+      "note": "造型可能搭配其他品牌；不推定整套商品歸屬或現貨。",
+      "variants": {
+        "women": {
+          "image": "https://www.muji.com/public/media/img/item/4550584977442_org.jpg",
+          "source": "https://www.muji.com/jp/ja/store/cmdty/detail/4550723268943"
+        }
+      }
+    },
+    "men": {
+      "image": "https://www.muji.com/public/media/img/item/4550723608770_org.jpg",
+      "source": "https://www.muji.com/jp/ja/store/cmdty/detail/4550723268943",
+      "credit": "官方穿搭示例",
+      "checkedAt": "2026-10-15",
+      "note": "造型可能搭配其他品牌；不推定整套商品歸屬或現貨。",
+      "variants": {
+        "women": {
+          "image": "https://www.muji.com/public/media/img/item/4550584977442_org.jpg",
+          "source": "https://www.muji.com/jp/ja/store/cmdty/detail/4550723268943"
+        }
+      },
+      "basis": "原品牌男裝來源與人工穿搭圖核對"
+    },
+    "women": {
+      "image": "https://www.muji.com/public/media/img/item/4550584977442_org.jpg",
+      "source": "https://www.muji.com/jp/ja/store/cmdty/detail/4550723268943",
+      "credit": "官方穿搭示例",
+      "checkedAt": "2026-10-15",
+      "note": "造型可能搭配其他品牌；不推定整套商品歸屬或現貨。",
+      "variants": {
+        "women": {
+          "image": "https://www.muji.com/public/media/img/item/4550584977442_org.jpg",
+          "source": "https://www.muji.com/jp/ja/store/cmdty/detail/4550723268943"
+        }
+      }
+    }
+  },
+  "globalwork": {
+    "all": {
+      "image": "https://www.adastria.co.jp/media/001/202608/%E3%82%B3%E3%83%BC%E3%83%9D%E3%83%AC%E3%83%BC%E3%83%88_W1000%C3%97H1000.jpg",
+      "source": "https://www.adastria.co.jp/brands/global_work/",
+      "credit": "官方穿搭示例",
+      "checkedAt": "2026-10-15",
+      "note": "造型可能搭配其他品牌；不推定整套商品歸屬或現貨。"
+    },
+    "men": {
+      "image": "https://pdimg.dot-st.com/images/globalwork/goods/itemImg81/812571/item_812571_main_55_1789025550.jpg",
+      "source": "https://www.dot-st.com/globalwork/disp/item/812571/",
+      "credit": "官方男裝穿搭示例",
+      "basis": "官方男裝分區商品與人工圖像確認",
+      "checkedAt": "2026-10-15"
+    }
+  },
+  "nikoand": {
+    "all": {
+      "image": "https://www.adastria.co.jp/media/004/202510/40_450X450_AD.jpg",
+      "source": "https://www.adastria.co.jp/brands/nikoand/",
+      "credit": "官方穿搭示例",
+      "checkedAt": "2026-10-15",
+      "note": "造型可能搭配其他品牌；不推定整套商品歸屬或現貨。"
+    },
+    "men": {
+      "image": "https://pdimg.dot-st.com/images/nikoand/goods/itemImg82/828084/item_828084_main_78_1791456800.jpg",
+      "source": "https://www.dot-st.com/nikoand/disp/item/828084/",
+      "credit": "官方男裝穿搭示例",
+      "basis": "官方男裝分區商品與人工圖像確認",
+      "checkedAt": "2026-10-15"
+    }
+  },
+  "lowrysfarm": {
+    "all": {
+      "image": "https://pdimg.dot-st.com/images/lowrysfarm/goods/itemImg106/1064945/item_1064945_main_15_1791962623.jpg",
+      "source": "https://www.dot-st.com/lowrysfarm/disp/item/1064945/",
+      "credit": "官方穿搭示例",
+      "checkedAt": "2026-10-15",
+      "note": "造型可能搭配其他品牌；不推定整套商品歸屬或現貨。"
+    },
+    "women": {
+      "image": "https://pdimg.dot-st.com/images/lowrysfarm/goods/itemImg106/1064945/item_1064945_main_15_1791962623.jpg",
+      "source": "https://www.dot-st.com/lowrysfarm/disp/item/1064945/",
+      "credit": "官方穿搭示例",
+      "checkedAt": "2026-10-15",
+      "note": "造型可能搭配其他品牌；不推定整套商品歸屬或現貨。"
+    }
+  },
+  "jeanasis": {
+    "all": {
+      "image": "https://www.adastria.co.jp/media/004/202609/1000%C3%971000_260911_163400.jpg",
+      "source": "https://www.adastria.co.jp/brands/jeanasis/",
+      "credit": "官方穿搭示例",
+      "checkedAt": "2026-10-15",
+      "note": "造型可能搭配其他品牌；不推定整套商品歸屬或現貨。"
+    },
+    "women": {
+      "image": "https://www.adastria.co.jp/media/004/202609/1000%C3%971000_260911_163400.jpg",
+      "source": "https://www.adastria.co.jp/brands/jeanasis/",
+      "credit": "官方穿搭示例",
+      "checkedAt": "2026-10-15",
+      "note": "造型可能搭配其他品牌；不推定整套商品歸屬或現貨。"
+    }
+  },
+  "hare": {
+    "all": {
+      "image": "https://pdimg.dot-st.com/images/hare/goods/itemImg67/679096/item_679096_main_93_1788868888.jpg",
+      "source": "https://www.dot-st.com/hare/disp/item/679096/",
+      "credit": "官方穿搭示例",
+      "checkedAt": "2026-10-15",
+      "note": "造型可能搭配其他品牌；不推定整套商品歸屬或現貨。"
+    },
+    "women": {
+      "image": "https://pdimg.dot-st.com/images/hare/goods/itemImg67/679096/item_679096_main_93_1788868888.jpg",
+      "source": "https://www.dot-st.com/hare/disp/item/679096/",
+      "credit": "官方穿搭示例",
+      "checkedAt": "2026-10-15",
+      "note": "造型可能搭配其他品牌；不推定整套商品歸屬或現貨。"
+    },
+    "men": {
+      "image": "https://pdimg.dot-st.com/images/hare/goods/itemImg82/828738/item_828738_main_13_1788762308.jpg",
+      "source": "https://www.dot-st.com/hare/disp/item/828738/",
+      "credit": "官方男裝穿搭示例",
+      "basis": "官方男裝分區商品與人工圖像確認",
+      "checkedAt": "2026-10-15"
+    }
+  },
+  "rageblue": {
+    "all": {
+      "image": "https://www.adastria.co.jp/media/004/202609/%E3%80%90RB%E3%80%9126FW%E7%A7%8BKV_1000x1000.jpg",
+      "source": "https://www.adastria.co.jp/brands/rageblue/",
+      "credit": "官方穿搭示例",
+      "checkedAt": "2026-10-15",
+      "note": "造型可能搭配其他品牌；不推定整套商品歸屬或現貨。"
+    },
+    "men": {
+      "image": "https://pdimg.dot-st.com/images/rageblue/goods/itemImg106/1066230/item_1066230_main_19_1791438700.jpg",
+      "source": "https://www.dot-st.com/rageblue/disp/item/1066230/",
+      "credit": "官方男裝穿搭示例",
+      "basis": "官方男裝分區商品與人工圖像確認",
+      "checkedAt": "2026-10-15"
+    }
+  },
+  "bayflow": {
+    "all": {
+      "image": "https://pdimg.dot-st.com/images/bayflow/goods/itemImg105/1057058/item_1057058_main_87_1786095854.jpg",
+      "source": "https://www.dot-st.com/bayflow/disp/item/1057058/",
+      "credit": "官方穿搭示例",
+      "checkedAt": "2026-10-15",
+      "note": "造型可能搭配其他品牌；不推定整套商品歸屬或現貨。"
+    },
+    "women": {
+      "image": "https://pdimg.dot-st.com/images/bayflow/goods/itemImg105/1057058/item_1057058_main_87_1786095854.jpg",
+      "source": "https://www.dot-st.com/bayflow/disp/item/1057058/",
+      "credit": "官方穿搭示例",
+      "checkedAt": "2026-10-15",
+      "note": "造型可能搭配其他品牌；不推定整套商品歸屬或現貨。"
+    },
+    "men": {
+      "image": "https://pdimg.dot-st.com/images/bayflow/goods/itemImg106/1066558/item_1066558_main_18_1790940593.jpg",
+      "source": "https://www.dot-st.com/bayflow/disp/item/1066558/",
+      "credit": "官方男裝穿搭示例",
+      "basis": "官方男裝分區商品與人工圖像確認",
+      "checkedAt": "2026-10-15"
+    }
+  },
+  "lepsim": {
+    "all": {
+      "image": "https://pdimg.dot-st.com/images/lepsim/goods/itemImg82/826786/item_826786_main_73_1790737510.jpg",
+      "source": "https://www.dot-st.com/lepsim/disp/item/826786/",
+      "credit": "官方穿搭示例",
+      "checkedAt": "2026-10-15",
+      "note": "造型可能搭配其他品牌；不推定整套商品歸屬或現貨。"
+    },
+    "women": {
+      "image": "https://pdimg.dot-st.com/images/lepsim/goods/itemImg82/826786/item_826786_main_73_1790737510.jpg",
+      "source": "https://www.dot-st.com/lepsim/disp/item/826786/",
+      "credit": "官方穿搭示例",
+      "checkedAt": "2026-10-15",
+      "note": "造型可能搭配其他品牌；不推定整套商品歸屬或現貨。"
+    }
+  },
+  "unitedtokyo": {
+    "all": {
+      "image": "https://united-tokyo.com/img/goods/D1/135500001106_20bc2cc86f6c4848b7546ca51d969b69.jpg",
+      "source": "https://united-tokyo.com/shop/g/g136500002106/",
+      "credit": "官方穿搭示例",
+      "checkedAt": "2026-10-15",
+      "note": "造型可能搭配其他品牌；不推定整套商品歸屬或現貨。"
+    },
+    "men": {
+      "image": "https://united-tokyo.com/img/goods/D1/135500001106_20bc2cc86f6c4848b7546ca51d969b69.jpg",
+      "source": "https://united-tokyo.com/shop/g/g136500002106/",
+      "credit": "官方穿搭示例",
+      "checkedAt": "2026-10-15",
+      "note": "造型可能搭配其他品牌；不推定整套商品歸屬或現貨。",
+      "basis": "原品牌男裝來源與人工穿搭圖核對"
+    }
+  },
+  "publictokyo": {
+    "all": {
+      "image": "https://public-tokyo.com/img/goods/D6/156240005166_688dc6be957f4e8c9a93ebcd6ad580db.jpg",
+      "source": "https://public-tokyo.com/shop/g/g156240005166/",
+      "credit": "官方穿搭示例",
+      "checkedAt": "2026-10-15",
+      "note": "造型可能搭配其他品牌；不推定整套商品歸屬或現貨。"
+    },
+    "men": {
+      "image": "https://public-tokyo.com/img/goods/D6/156240005166_688dc6be957f4e8c9a93ebcd6ad580db.jpg",
+      "source": "https://public-tokyo.com/shop/g/g156240005166/",
+      "credit": "官方穿搭示例",
+      "checkedAt": "2026-10-15",
+      "note": "造型可能搭配其他品牌；不推定整套商品歸屬或現貨。",
+      "basis": "原品牌男裝來源與人工穿搭圖核對"
+    }
+  },
+  "cullni": {
+    "all": {
+      "image": "https://img.the-park-store.com/cullni/img_bloc/bloc48/09141042_6aa750f611c2b.jpg?v=20260914104337",
+      "source": "https://cullni.com/",
+      "credit": "官方穿搭示例",
+      "checkedAt": "2026-10-15",
+      "note": "造型可能搭配其他品牌；不推定整套商品歸屬或現貨。"
+    },
+    "men": {
+      "image": "https://img.the-park-store.com/cullni/img_bloc/bloc48/09141042_6aa750f611c2b.jpg?v=20260914104337",
+      "source": "https://cullni.com/",
+      "credit": "官方穿搭示例",
+      "checkedAt": "2026-10-15",
+      "note": "造型可能搭配其他品牌；不推定整套商品歸屬或現貨。",
+      "basis": "原品牌男裝來源與人工穿搭圖核對"
+    }
+  },
+  "aton": {
+    "all": {
+      "image": "https://cdn.shopify.com/s/files/1/0254/3733/9714/files/20260414_aton_58_006.jpg?v=1789142116",
+      "source": "https://aton-tokyo.com/collections/men-all/products/linen-wool-tweed-short-coat",
+      "credit": "官方穿搭示例",
+      "checkedAt": "2026-10-15",
+      "note": "造型可能搭配其他品牌；不推定整套商品歸屬或現貨。"
+    },
+    "men": {
+      "image": "https://cdn.shopify.com/s/files/1/0254/3733/9714/files/20260414_aton_58_006.jpg?v=1789142116",
+      "source": "https://aton-tokyo.com/collections/men-all/products/linen-wool-tweed-short-coat",
+      "credit": "官方穿搭示例",
+      "checkedAt": "2026-10-15",
+      "note": "造型可能搭配其他品牌；不推定整套商品歸屬或現貨。",
+      "basis": "原品牌男裝來源與人工穿搭圖核對"
+    }
+  },
+  "yoke": {
+    "all": {
+      "image": "https://cdn.shopify.com/s/files/1/0923/1692/6323/files/20260323_yoke306043.jpg?v=1782063677",
+      "source": "https://yoketokyo.com/products/wool-cashmere-fleece-reversible-blouson",
+      "credit": "官方穿搭示例",
+      "checkedAt": "2026-10-15",
+      "note": "造型可能搭配其他品牌；不推定整套商品歸屬或現貨。"
+    },
+    "men": {
+      "image": "https://cdn.shopify.com/s/files/1/0923/1692/6323/files/20260323_yoke306043.jpg?v=1782063677",
+      "source": "https://yoketokyo.com/products/wool-cashmere-fleece-reversible-blouson",
+      "credit": "官方穿搭示例",
+      "checkedAt": "2026-10-15",
+      "note": "造型可能搭配其他品牌；不推定整套商品歸屬或現貨。",
+      "basis": "原品牌男裝來源與人工穿搭圖核對"
+    }
+  },
+  "ssstein": {
+    "all": {
+      "image": "https://cdn.shopify.com/s/files/1/0873/4556/1902/files/SSSTEIN_4026_658b1f8a-2442-4440-8f79-c969450f95a5.jpg?v=1787794122",
+      "source": "https://ssstein.com/products/st-1530-wool-melton-oversized-investigated-coat",
+      "credit": "官方穿搭示例",
+      "checkedAt": "2026-10-15",
+      "note": "造型可能搭配其他品牌；不推定整套商品歸屬或現貨。"
+    },
+    "men": {
+      "id": "ssstein",
+      "source": "https://www.beams.co.jp/styling/kbc/1239605/",
+      "image": "https://cdn-cms.beams.co.jp/cdn/cms/styling/1239605/main_eLI5Oa.jpg",
+      "credit": "BEAMS 男裝穿搭示例",
+      "basis": "BEAMS 官方男裝搜尋及具名造型內品牌文字／商品",
+      "note": "造型含其他品牌；本站只標示此品牌出現在造型中，不將整套視為本品牌商品。",
+      "checkedAt": "2026-10-15"
+    }
+  },
+  "markaware": {
+    "all": {
+      "image": "https://cdn.shopify.com/s/files/1/0562/3493/4421/files/20260214_7919.jpg?v=1781846245",
+      "source": "https://markaware.jp/collections/new-in-26ss/products/2-2-96-wool-flannel-double-pleated-straight-trousers-black",
+      "credit": "官方穿搭示例",
+      "checkedAt": "2026-10-15",
+      "note": "造型可能搭配其他品牌；不推定整套商品歸屬或現貨。"
+    },
+    "men": {
+      "image": "https://cdn.shopify.com/s/files/1/0562/3493/4421/files/20260214_7919.jpg?v=1781846245",
+      "source": "https://markaware.jp/collections/new-in-26ss/products/2-2-96-wool-flannel-double-pleated-straight-trousers-black",
+      "credit": "官方穿搭示例",
+      "checkedAt": "2026-10-15",
+      "note": "造型可能搭配其他品牌；不推定整套商品歸屬或現貨。",
+      "basis": "原品牌男裝來源與人工穿搭圖核對"
+    }
+  },
+  "comoli": {
+    "all": {
+      "image": "https://1ldkshop.com/blog-a/wp-content/uploads/2019/05/IMG_6733-2-1024x683.jpg",
+      "source": "https://1ldkshop.com/blog-a/?p=64023",
+      "credit": "2019 品牌通路歷史穿搭示例",
+      "checkedAt": "2026-10-15",
+      "note": "造型可能搭配其他品牌；不推定整套商品歸屬或現貨。"
+    },
+    "men": {
+      "image": "https://1ldkshop.com/blog-a/wp-content/uploads/2019/05/IMG_6733-2-1024x683.jpg",
+      "source": "https://1ldkshop.com/blog-a/?p=64023",
+      "credit": "2019 品牌通路歷史穿搭示例",
+      "checkedAt": "2026-10-15",
+      "note": "造型可能搭配其他品牌；不推定整套商品歸屬或現貨。",
+      "basis": "原品牌男裝來源與人工穿搭圖核對"
+    }
+  },
+  "beautifulpeople": {
+    "all": {
+      "image": "https://cdn.shopify.com/s/files/1/0905/9545/9382/files/260226beautifulpeople1407.jpg?v=1782272600",
+      "source": "https://beautiful-people.jp/collections/new-arrivals/products/selvedge-denim-o-d-relax-blouson",
+      "credit": "官方穿搭示例",
+      "checkedAt": "2026-10-15",
+      "note": "造型可能搭配其他品牌；不推定整套商品歸屬或現貨。"
+    },
+    "women": {
+      "image": "https://beautiful-people.jp/cdn/shop/files/260226beautifulpeople1407.jpg?v=1782272600&width=1496",
+      "source": "https://beautiful-people.jp/collections/new-arrivals/products/selvedge-denim-o-d-relax-blouson",
+      "credit": "官方／日本通路女裝穿搭示例",
+      "checkedAt": "2026-10-15",
+      "basis": "具名品牌來源、服裝分類及人工穿搭圖核對",
+      "note": "造型可能搭配其他品牌，非整套同品牌或價格。"
+    },
+    "men": {
+      "image": "https://beautiful-people.jp/cdn/shop/files/260416beautifulpeopleDENIM0364_c2cb56dd-5865-4daa-80b2-48d248760eba.png?v=1789003955&width=1080",
+      "source": "https://beautiful-people.jp/collections/new-arrivals/products/selvedge-denim-o-d-relax-blouson",
+      "credit": "官方／日本通路男裝穿搭示例",
+      "checkedAt": "2026-10-15",
+      "basis": "具名品牌來源、服裝分類及人工穿搭圖核對",
+      "note": "造型可能搭配其他品牌，非整套同品牌或價格。"
+    }
+  },
+  "issey": {
+    "all": {
+      "image": "https://www.isseymiyake.com/cdn/shop/files/IM63FJ123-c-01.jpg?v=1790728526&width=1946",
+      "source": "https://www.isseymiyake.com/products/im63fj123",
+      "credit": "官方穿搭示例",
+      "checkedAt": "2026-10-15",
+      "note": "造型可能搭配其他品牌；不推定整套商品歸屬或現貨。"
+    },
+    "women": {
+      "image": "https://www.isseymiyake.com/cdn/shop/files/IM63FJ123-c-01.jpg?v=1790728526&width=1946",
+      "source": "https://www.isseymiyake.com/products/im63fj123",
+      "credit": "官方穿搭示例",
+      "checkedAt": "2026-10-15",
+      "note": "造型可能搭配其他品牌；不推定整套商品歸屬或現貨。"
+    }
+  },
+  "needles": {
+    "all": {
+      "image": "https://needles.jp/collections/26fw/thumb_06.jpg",
+      "source": "https://needles.jp/collections/26fw.html",
+      "credit": "官方穿搭示例",
+      "checkedAt": "2026-10-15",
+      "note": "造型可能搭配其他品牌；不推定整套商品歸屬或現貨。"
+    },
+    "women": {
+      "image": "https://needles.jp/collections/26fw/thumb_06.jpg",
+      "source": "https://needles.jp/collections/26fw.html",
+      "credit": "官方穿搭示例",
+      "checkedAt": "2026-10-15",
+      "note": "造型可能搭配其他品牌；不推定整套商品歸屬或現貨。"
+    },
+    "men": {
+      "id": "needles",
+      "source": "https://www.beams.co.jp/styling/kbc/1242592/",
+      "image": "https://cdn-cms.beams.co.jp/cdn/cms/styling/1242592/main_QSIHm7.jpg",
+      "credit": "BEAMS 男裝穿搭示例",
+      "basis": "BEAMS 官方男裝搜尋及具名造型內品牌文字／商品",
+      "note": "造型含其他品牌；本站只標示此品牌出現在造型中，不將整套視為本品牌商品。",
+      "checkedAt": "2026-10-15"
+    }
+  },
+  "engineered": {
+    "all": {
+      "image": "https://images.squarespace-cdn.com/content/v1/5cdc8e26b914496b390c7e45/1784127507367-J8BGJRHTEJSJLA71IMBL/imgi_49_08-3.jpg",
+      "source": "https://www.engineeredgarments.com/stories/fall-winter-2026-engineered-garments-collection",
+      "credit": "官方穿搭示例",
+      "checkedAt": "2026-10-15",
+      "note": "造型可能搭配其他品牌；不推定整套商品歸屬或現貨。"
+    },
+    "men": {
+      "image": "https://images.squarespace-cdn.com/content/v1/5cdc8e26b914496b390c7e45/1784127507367-J8BGJRHTEJSJLA71IMBL/imgi_49_08-3.jpg",
+      "source": "https://www.engineeredgarments.com/stories/fall-winter-2026-engineered-garments-collection",
+      "credit": "官方穿搭示例",
+      "checkedAt": "2026-10-15",
+      "note": "造型可能搭配其他品牌；不推定整套商品歸屬或現貨。",
+      "basis": "原品牌男裝來源與人工穿搭圖核對"
+    }
+  },
+  "south2": {
+    "all": {
+      "image": "https://south2west8.com/imagebook/2026ss/img/04p.jpg",
+      "source": "https://south2west8.com/imagebook/2026ss/2026ss.html",
+      "credit": "官方穿搭示例",
+      "checkedAt": "2026-10-15",
+      "note": "造型可能搭配其他品牌；不推定整套商品歸屬或現貨。"
+    },
+    "men": {
+      "id": "south2",
+      "source": "https://www.beams.co.jp/styling/kbc/1243106/",
+      "image": "https://cdn-cms.beams.co.jp/cdn/cms/styling/1243106/main_3x3TwE.jpg",
+      "credit": "BEAMS 男裝穿搭示例",
+      "basis": "BEAMS 官方男裝搜尋及具名造型內品牌文字／商品",
+      "note": "造型含其他品牌；本站只標示此品牌出現在造型中，不將整套視為本品牌商品。",
+      "checkedAt": "2026-10-15"
+    }
+  },
+  "rhodolirion": {
+    "all": {
+      "image": "https://rhodolirion.com/collections/2026ss/img/01.jpg",
+      "source": "https://rhodolirion.com/collections/2026ss/",
+      "credit": "官方穿搭示例",
+      "checkedAt": "2026-10-15",
+      "note": "造型可能搭配其他品牌；不推定整套商品歸屬或現貨。"
+    },
+    "women": {
+      "image": "https://rhodolirion.com/collections/2026ss/img/01.jpg",
+      "source": "https://rhodolirion.com/collections/2026ss/",
+      "credit": "官方穿搭示例",
+      "checkedAt": "2026-10-15",
+      "note": "造型可能搭配其他品牌；不推定整套商品歸屬或現貨。"
+    }
+  },
+  "gramicci": {
+    "all": {
+      "image": "https://gramicci.itembox.cloud/product/007/000000000716/000000000716-32.jpg?size&#x3D;l&w&#x3D;ODAw&t&#x3D;20260821140405",
+      "source": "https://gramicci.jp/c/mens/longpants_m/gramicci-pant",
+      "credit": "官方穿搭示例",
+      "checkedAt": "2026-10-15",
+      "note": "造型可能搭配其他品牌；不推定整套商品歸屬或現貨。"
+    },
+    "men": {
+      "image": "https://gramicci.itembox.cloud/product/007/000000000716/000000000716-32.jpg?size&#x3D;l&w&#x3D;ODAw&t&#x3D;20260821140405",
+      "source": "https://gramicci.jp/c/mens/longpants_m/gramicci-pant",
+      "credit": "官方穿搭示例",
+      "checkedAt": "2026-10-15",
+      "note": "造型可能搭配其他品牌；不推定整套商品歸屬或現貨。",
+      "basis": "原品牌男裝來源與人工穿搭圖核對"
+    }
+  },
+  "taion": {
+    "all": {
+      "image": "https://cdn.shopify.com/s/files/1/0255/1644/1675/files/26SS_TAION-001_BLACK_M003.webp?v=1772604955",
+      "source": "https://taion-wear.jp/collections/down-vest/products/taion-001",
+      "credit": "官方穿搭示例",
+      "checkedAt": "2026-10-15",
+      "note": "造型可能搭配其他品牌；不推定整套商品歸屬或現貨。"
+    },
+    "men": {
+      "image": "https://cdn.shopify.com/s/files/1/0255/1644/1675/files/26SS_TAION-001_BLACK_M003.webp?v=1772604955",
+      "source": "https://taion-wear.jp/collections/down-vest/products/taion-001",
+      "credit": "官方穿搭示例",
+      "checkedAt": "2026-10-15",
+      "note": "造型可能搭配其他品牌；不推定整套商品歸屬或現貨。",
+      "basis": "原品牌男裝來源與人工穿搭圖核對"
+    }
+  },
+  "danton": {
+    "all": {
+      "image": "https://cdn.shopify.com/s/files/1/0586/9394/3461/files/7_d6554995-331e-43d4-b339-ffba1b454cb0.jpg?v=1789458472",
+      "source": "https://danton.com/en-us/products/dnb262m103-0003",
+      "credit": "官方穿搭示例",
+      "checkedAt": "2026-10-15",
+      "note": "造型可能搭配其他品牌；不推定整套商品歸屬或現貨。"
+    },
+    "men": {
+      "image": "https://cdn.shopify.com/s/files/1/0586/9394/3461/files/7_d6554995-331e-43d4-b339-ffba1b454cb0.jpg?v=1789458472",
+      "source": "https://danton.com/en-us/products/dnb262m103-0003",
+      "credit": "官方穿搭示例",
+      "checkedAt": "2026-10-15",
+      "note": "造型可能搭配其他品牌；不推定整套商品歸屬或現貨。",
+      "basis": "原品牌男裝來源與人工穿搭圖核對"
+    }
+  },
+  "orcival": {
+    "all": {
+      "image": "https://cdn.shopify.com/s/files/1/0623/7503/5072/files/orcival_26_OR-C0430MAZ_07.jpg?v=1789542282",
+      "source": "https://orcival.jp/en-os/products/mens-light-french-terry-boat-neck-pullover",
+      "credit": "官方穿搭示例",
+      "checkedAt": "2026-10-15",
+      "note": "造型可能搭配其他品牌；不推定整套商品歸屬或現貨。"
+    },
+    "men": {
+      "image": "https://cdn.shopify.com/s/files/1/0623/7503/5072/files/orcival_26_OR-C0430MAZ_07.jpg?v=1789542282",
+      "source": "https://orcival.jp/en-os/products/mens-light-french-terry-boat-neck-pullover",
+      "credit": "官方穿搭示例",
+      "checkedAt": "2026-10-15",
+      "note": "造型可能搭配其他品牌；不推定整套商品歸屬或現貨。",
+      "basis": "原品牌男裝來源與人工穿搭圖核對"
+    }
+  },
+  "goldwin": {
+    "all": {
+      "image": "https://itemimg.goldwin.co.jp/itemimg/GDW09/A0GDW0001NRB/03_001-750.jpg",
+      "source": "https://www.goldwin.co.jp/ap/item/i/m/GL76177",
+      "credit": "官方穿搭示例",
+      "checkedAt": "2026-10-15",
+      "note": "造型可能搭配其他品牌；不推定整套商品歸屬或現貨。"
+    },
+    "men": {
+      "image": "https://itemimg.goldwin.co.jp/itemimg/GDW09/A0GDW0001NRB/03_001-750.jpg",
+      "source": "https://www.goldwin.co.jp/ap/item/i/m/GL76177",
+      "credit": "官方穿搭示例",
+      "checkedAt": "2026-10-15",
+      "note": "造型可能搭配其他品牌；不推定整套商品歸屬或現貨。",
+      "basis": "原品牌男裝來源與人工穿搭圖核對"
+    }
+  },
+  "andwander": {
+    "all": {
+      "image": "https://www.andwander.com/on/demandware.static/-/Sites-ANDWANDER-Library/ja_JP/images/collection/2026aw/look/style1.jpg",
+      "source": "https://www.andwander.com/look-2026aw.html",
+      "credit": "官方穿搭示例",
+      "checkedAt": "2026-10-15",
+      "note": "造型可能搭配其他品牌；不推定整套商品歸屬或現貨。",
+      "variants": {
+        "women": {
+          "image": "https://www.andwander.com/on/demandware.static/-/Sites-ANDWANDER-Library/ja_JP/images/collection/2026aw/look/style3.jpg",
+          "source": "https://www.andwander.com/look-2026aw.html"
+        }
+      }
+    },
+    "men": {
+      "image": "https://www.andwander.com/on/demandware.static/-/Sites-ANDWANDER-Library/ja_JP/images/collection/2026aw/look/style1.jpg",
+      "source": "https://www.andwander.com/look-2026aw.html",
+      "credit": "官方穿搭示例",
+      "checkedAt": "2026-10-15",
+      "note": "造型可能搭配其他品牌；不推定整套商品歸屬或現貨。",
+      "variants": {
+        "women": {
+          "image": "https://www.andwander.com/on/demandware.static/-/Sites-ANDWANDER-Library/ja_JP/images/collection/2026aw/look/style3.jpg",
+          "source": "https://www.andwander.com/look-2026aw.html"
+        }
+      },
+      "basis": "原品牌男裝來源與人工穿搭圖核對"
+    },
+    "women": {
+      "image": "https://www.andwander.com/on/demandware.static/-/Sites-ANDWANDER-Library/ja_JP/images/collection/2026aw/look/style3.jpg",
+      "source": "https://www.andwander.com/look-2026aw.html",
+      "credit": "官方穿搭示例",
+      "checkedAt": "2026-10-15",
+      "note": "造型可能搭配其他品牌；不推定整套商品歸屬或現貨。",
+      "variants": {
+        "women": {
+          "image": "https://www.andwander.com/on/demandware.static/-/Sites-ANDWANDER-Library/ja_JP/images/collection/2026aw/look/style3.jpg",
+          "source": "https://www.andwander.com/look-2026aw.html"
+        }
+      }
+    }
+  },
+  "frayid": {
+    "all": {
+      "image": "https://mitsui-shopping-park.com/ec/ecstatic/product/detail/1620200006763_009_d00012.jpg?height=900&width=750",
+      "source": "https://mitsui-shopping-park.com/ec/p/1620200006763?mallColor=0101",
+      "credit": "官方穿搭示例",
+      "checkedAt": "2026-10-15",
+      "note": "造型可能搭配其他品牌；不推定整套商品歸屬或現貨。"
+    },
+    "women": {
+      "image": "https://mitsui-shopping-park.com/ec/ecstatic/product/detail/1620200006763_009_d00012.jpg?height=900&width=750",
+      "source": "https://mitsui-shopping-park.com/ec/p/1620200006763?mallColor=0101",
+      "credit": "官方穿搭示例",
+      "checkedAt": "2026-10-15",
+      "note": "造型可能搭配其他品牌；不推定整套商品歸屬或現貨。"
+    }
+  },
+  "lilybrown": {
+    "all": {
+      "image": "https://mitsui-shopping-park.com/ec/ecstatic/product/detail/1620300007728_005_d00013.jpg?height=900&width=750",
+      "source": "https://mitsui-shopping-park.com/ec/p/1620300007728",
+      "credit": "官方穿搭示例",
+      "checkedAt": "2026-10-15",
+      "note": "造型可能搭配其他品牌；不推定整套商品歸屬或現貨。"
+    },
+    "women": {
+      "image": "https://mitsui-shopping-park.com/ec/ecstatic/product/detail/1620300007728_005_d00013.jpg?height=900&width=750",
+      "source": "https://mitsui-shopping-park.com/ec/p/1620300007728",
+      "credit": "官方穿搭示例",
+      "checkedAt": "2026-10-15",
+      "note": "造型可能搭配其他品牌；不推定整套商品歸屬或現貨。"
+    }
+  },
+  "gelatopique": {
+    "all": {
+      "image": "https://cdn.shopify.com/s/files/1/2536/1982/files/PWNT264047_p_29_LL.jpg?v=1784301384",
+      "source": "https://gelatopique.us/products/smoothie-eyelet-short-cardigan",
+      "credit": "官方穿搭示例",
+      "checkedAt": "2026-10-15",
+      "note": "造型可能搭配其他品牌；不推定整套商品歸屬或現貨。"
+    },
+    "women": {
+      "image": "https://cdn.shopify.com/s/files/1/2536/1982/files/PWNT264047_p_29_LL.jpg?v=1784301384",
+      "source": "https://gelatopique.us/products/smoothie-eyelet-short-cardigan",
+      "credit": "官方穿搭示例",
+      "checkedAt": "2026-10-15",
+      "note": "造型可能搭配其他品牌；不推定整套商品歸屬或現貨。"
+    }
+  },
+  "emmi": {
+    "all": {
+      "image": "https://mitsui-shopping-park.com/ec/ecstatic/product/detail/1620700015157_003_d00007.jpg?height=900&width=750",
+      "source": "https://mitsui-shopping-park.com/ec/p/1620700015157",
+      "credit": "官方穿搭示例",
+      "checkedAt": "2026-10-15",
+      "note": "造型可能搭配其他品牌；不推定整套商品歸屬或現貨。"
+    },
+    "women": {
+      "image": "https://mitsui-shopping-park.com/ec/ecstatic/product/detail/1620700015157_003_d00007.jpg?height=900&width=750",
+      "source": "https://mitsui-shopping-park.com/ec/p/1620700015157",
+      "credit": "官方穿搭示例",
+      "checkedAt": "2026-10-15",
+      "note": "造型可能搭配其他品牌；不推定整套商品歸屬或現貨。"
+    }
+  },
+  "beamsplus": {
+    "all": {
+      "image": "https://cdn-cms.beams.co.jp/cdn/cms/styling/1242007/main_5INE4o.jpg",
+      "source": "https://www.beams.co.jp/styling/beamsplus/1242007/",
+      "credit": "官方穿搭示例",
+      "checkedAt": "2026-10-15",
+      "note": "官方標籤真人穿搭；與本頁價格樣本不必為同款，整套可能搭配他牌。"
+    },
+    "men": {
+      "image": "https://cdn-cms.beams.co.jp/cdn/cms/styling/1242007/main_5INE4o.jpg",
+      "source": "https://www.beams.co.jp/styling/beamsplus/1242007/",
+      "credit": "官方穿搭示例",
+      "checkedAt": "2026-10-15",
+      "note": "官方標籤真人穿搭；與本頁價格樣本不必為同款，整套可能搭配他牌。",
+      "basis": "原品牌男裝來源與人工穿搭圖核對"
+    }
+  },
+  "beamsboy": {
+    "all": {
+      "image": "https://cdn.beams.co.jp/img/goods/13241175791/O/13241175791_D_1.jpg",
+      "source": "https://www.beams.co.jp/item/beamsboy/pants/13241175791/",
+      "credit": "官方穿搭示例",
+      "checkedAt": "2026-10-15",
+      "note": "造型可能搭配其他品牌；不推定整套商品歸屬或現貨。"
+    },
+    "women": {
+      "image": "https://cdn.beams.co.jp/img/goods/13241175791/O/13241175791_D_1.jpg",
+      "source": "https://www.beams.co.jp/item/beamsboy/pants/13241175791/",
+      "credit": "官方穿搭示例",
+      "checkedAt": "2026-10-15",
+      "note": "造型可能搭配其他品牌；不推定整套商品歸屬或現貨。"
+    }
+  },
+  "raybeams": {
+    "all": {
+      "image": "https://cdn.beams.co.jp/img/goods/61111853462/O/61111853462_D_1.jpg",
+      "source": "https://www.beams.co.jp/item/raybeams/shirt/61111853462/",
+      "credit": "官方穿搭示例",
+      "checkedAt": "2026-10-15",
+      "note": "造型可能搭配其他品牌；不推定整套商品歸屬或現貨。"
+    },
+    "women": {
+      "image": "https://cdn.beams.co.jp/img/goods/61111853462/O/61111853462_D_1.jpg",
+      "source": "https://www.beams.co.jp/item/raybeams/shirt/61111853462/",
+      "credit": "官方穿搭示例",
+      "checkedAt": "2026-10-15",
+      "note": "造型可能搭配其他品牌；不推定整套商品歸屬或現貨。"
+    }
+  },
+  "beamsheart": {
+    "all": {
+      "image": "https://cdn.beams.co.jp/img/goods/43150474138/O/43150474138_D_1.jpg",
+      "source": "https://www.beams.co.jp/item/beamsheart/tops/43150474138/",
+      "credit": "官方穿搭示例",
+      "checkedAt": "2026-10-15",
+      "note": "造型可能搭配其他品牌；不推定整套商品歸屬或現貨。"
+    },
+    "women": {
+      "image": "https://cdn.beams.co.jp/img/goods/43150474138/O/43150474138_D_1.jpg",
+      "source": "https://www.beams.co.jp/item/beamsheart/tops/43150474138/",
+      "credit": "官方穿搭示例",
+      "checkedAt": "2026-10-15",
+      "note": "造型可能搭配其他品牌；不推定整套商品歸屬或現貨。"
+    }
+  },
+  "demiluxebeams": {
+    "all": {
+      "image": "https://cdn.beams.co.jp/img/goods/64150581673/O/64150581673_D_1.jpg",
+      "source": "https://www.beams.co.jp/item/demiluxebeams/tops/64150581673/",
+      "credit": "官方穿搭示例",
+      "checkedAt": "2026-10-15",
+      "note": "造型可能搭配其他品牌；不推定整套商品歸屬或現貨。"
+    },
+    "women": {
+      "image": "https://cdn.beams.co.jp/img/goods/64150581673/O/64150581673_D_1.jpg",
+      "source": "https://www.beams.co.jp/item/demiluxebeams/tops/64150581673/",
+      "credit": "官方穿搭示例",
+      "checkedAt": "2026-10-15",
+      "note": "造型可能搭配其他品牌；不推定整套商品歸屬或現貨。"
+    }
+  },
+  "beamsf": {
+    "all": {
+      "image": "https://cdn-cms.beams.co.jp/cdn/cms/styling/1243378/main_lfT6T3_d.jpg",
+      "source": "https://www.beams.co.jp/styling/beamsf/1243378/",
+      "credit": "官方穿搭示例",
+      "checkedAt": "2026-10-15",
+      "note": "官方標籤真人穿搭；與本頁價格樣本不必為同款，整套可能搭配他牌。"
+    },
+    "men": {
+      "image": "https://cdn-cms.beams.co.jp/cdn/cms/styling/1243378/main_lfT6T3_d.jpg",
+      "source": "https://www.beams.co.jp/styling/beamsf/1243378/",
+      "credit": "官方穿搭示例",
+      "checkedAt": "2026-10-15",
+      "note": "官方標籤真人穿搭；與本頁價格樣本不必為同款，整套可能搭配他牌。",
+      "basis": "原品牌男裝來源與人工穿搭圖核對"
+    }
+  },
+  "brilla_per_il_gusto": {
+    "all": {
+      "image": "https://cdn-cms.beams.co.jp/cdn/cms/label/6/list_m8WCVp.jpg",
+      "source": "https://www.beams.co.jp/brilla_per_il_gusto/",
+      "credit": "官方穿搭示例",
+      "checkedAt": "2026-10-15",
+      "note": "造型可能搭配其他品牌；不推定整套商品歸屬或現貨。"
+    },
+    "men": {
+      "image": "https://cdn-cms.beams.co.jp/cdn/cms/label/6/list_m8WCVp.jpg",
+      "source": "https://www.beams.co.jp/brilla_per_il_gusto/",
+      "credit": "官方穿搭示例",
+      "checkedAt": "2026-10-15",
+      "note": "造型可能搭配其他品牌；不推定整套商品歸屬或現貨。",
+      "basis": "原品牌男裝來源與人工穿搭圖核對"
+    }
+  },
+  "effebeams": {
+    "all": {
+      "image": "https://cdn.beams.co.jp/img/goods/64151464092/O/64151464092_D_2.jpg",
+      "source": "https://www.beams.co.jp/item/effebeams/tops/64151464092/",
+      "credit": "官方穿搭示例",
+      "checkedAt": "2026-10-15",
+      "note": "造型可能搭配其他品牌；不推定整套商品歸屬或現貨。"
+    },
+    "women": {
+      "image": "https://cdn.beams.co.jp/img/goods/64151464092/O/64151464092_D_2.jpg",
+      "source": "https://www.beams.co.jp/item/effebeams/tops/64151464092/",
+      "credit": "官方穿搭示例",
+      "checkedAt": "2026-10-15",
+      "note": "造型可能搭配其他品牌；不推定整套商品歸屬或現貨。"
+    }
+  },
+  "doors": {
+    "all": {
+      "image": "https://www.urban-research.jp/img/goods/26doors/DR26430-2070614/1032_b_316.jpg?a=20261013171522483",
+      "source": "https://www.urban-research.jp/shop/g/gDR26430-2070614/",
+      "credit": "官方穿搭示例",
+      "checkedAt": "2026-10-15",
+      "note": "造型可能搭配其他品牌；不推定整套商品歸屬或現貨。"
+    },
+    "women": {
+      "image": "https://www.urban-research.jp/img/goods/26doors/DR26430-2070614/1032_b_316.jpg?a=20261013171522483",
+      "source": "https://www.urban-research.jp/shop/g/gDR26430-2070614/",
+      "credit": "官方穿搭示例",
+      "checkedAt": "2026-10-15",
+      "note": "造型可能搭配其他品牌；不推定整套商品歸屬或現貨。"
+    }
+  },
+  "rosso": {
+    "all": {
+      "image": "https://www.urban-research.jp/img/goods/26rosso/RA26430-2063005/1022_b_503.jpg?a=20261015160345850",
+      "source": "https://www.urban-research.jp/shop/g/gRA26430-2063005/",
+      "credit": "官方穿搭示例",
+      "checkedAt": "2026-10-15",
+      "note": "造型可能搭配其他品牌；不推定整套商品歸屬或現貨。"
+    },
+    "women": {
+      "image": "https://www.urban-research.jp/img/goods/26rosso/RA26430-2063005/1022_b_503.jpg?a=20261015160345850",
+      "source": "https://www.urban-research.jp/shop/g/gRA26430-2063005/",
+      "credit": "官方穿搭示例",
+      "checkedAt": "2026-10-15",
+      "note": "造型可能搭配其他品牌；不推定整套商品歸屬或現貨。"
+    }
+  },
+  "kbf": {
+    "all": {
+      "image": "https://www.urban-research.jp/img/goods/26kbf/KB26430-2015019/105_b_204.jpg?a=20261014142336290",
+      "source": "https://www.urban-research.jp/shop/g/gKB26430-2015019/",
+      "credit": "官方穿搭示例",
+      "checkedAt": "2026-10-15",
+      "note": "造型可能搭配其他品牌；不推定整套商品歸屬或現貨。"
+    },
+    "women": {
+      "image": "https://www.urban-research.jp/img/goods/26kbf/KB26430-2015019/105_b_204.jpg?a=20261014142336290",
+      "source": "https://www.urban-research.jp/shop/g/gKB26430-2015019/",
+      "credit": "官方穿搭示例",
+      "checkedAt": "2026-10-15",
+      "note": "造型可能搭配其他品牌；不推定整套商品歸屬或現貨。"
+    }
+  },
+  "iena": {
+    "all": {
+      "image": "https://images.baycrews.jp/itemimages/i/26/080/900/26080900710030_dt_N_004_org.jpg?resize=400%3A480",
+      "source": "https://baycrews.jp/item/detail/iena/cutsew/26080900710030",
+      "credit": "官方穿搭示例",
+      "checkedAt": "2026-10-15",
+      "note": "造型可能搭配其他品牌；不推定整套商品歸屬或現貨。"
+    },
+    "women": {
+      "image": "https://images.baycrews.jp/itemimages/i/26/080/900/26080900710030_dt_N_004_org.jpg?resize=400%3A480",
+      "source": "https://baycrews.jp/item/detail/iena/cutsew/26080900710030",
+      "credit": "官方穿搭示例",
+      "checkedAt": "2026-10-15",
+      "note": "造型可能搭配其他品牌；不推定整套商品歸屬或現貨。"
+    }
+  },
+  "edifice": {
+    "all": {
+      "image": "https://media.like-s.com/images/f8f8b43e-d497-4a42-80ec-1c94fd450be4?fit=inside&w=1108&h=1477",
+      "source": "https://baycrews.jp/blog/detail/100012248",
+      "credit": "官方穿搭示例 · 2026 秋冬",
+      "checkedAt": "2026-10-15",
+      "note": "官方 Style 01 的 EDIFICE 造型；與本頁襯衫樣本不是同一款，整套可能搭配他牌。"
+    },
+    "men": {
+      "image": "https://media.like-s.com/images/f8f8b43e-d497-4a42-80ec-1c94fd450be4?fit=inside&w=1108&h=1477",
+      "source": "https://baycrews.jp/blog/detail/100012248",
+      "credit": "官方穿搭示例 · 2026 秋冬",
+      "checkedAt": "2026-10-15",
+      "note": "官方 Style 01 的 EDIFICE 造型；與本頁襯衫樣本不是同一款，整套可能搭配他牌。",
+      "basis": "原品牌男裝來源與人工穿搭圖核對"
+    }
+  },
+  "relume": {
+    "all": {
+      "image": "https://images.baycrews.jp/itemimages/i/26/050/462/26050462700010_dt_N_001_org.jpg?resize=400%3A480",
+      "source": "https://baycrews.jp/item/detail/js-relume/cutsew/26050462700010",
+      "credit": "官方穿搭示例",
+      "checkedAt": "2026-10-15",
+      "note": "造型可能搭配其他品牌；不推定整套商品歸屬或現貨。"
+    },
+    "women": {
+      "image": "https://images.baycrews.jp/itemimages/i/26/050/462/26050462700010_dt_N_001_org.jpg?resize=400%3A480",
+      "source": "https://baycrews.jp/item/detail/js-relume/cutsew/26050462700010",
+      "credit": "官方穿搭示例",
+      "checkedAt": "2026-10-15",
+      "note": "造型可能搭配其他品牌；不推定整套商品歸屬或現貨。"
+    }
+  },
+  "spickandspan": {
+    "all": {
+      "image": "https://images.baycrews.jp/itemimages/i/26/051/200/26051200201010_dt_N_001_org.jpg?resize=400%3A480",
+      "source": "https://baycrews.jp/item/detail/spickandspan/cutsew/26051200201010",
+      "credit": "官方穿搭示例",
+      "checkedAt": "2026-10-15",
+      "note": "造型可能搭配其他品牌；不推定整套商品歸屬或現貨。"
+    },
+    "women": {
+      "image": "https://images.baycrews.jp/itemimages/i/26/051/200/26051200201010_dt_N_001_org.jpg?resize=400%3A480",
+      "source": "https://baycrews.jp/item/detail/spickandspan/cutsew/26051200201010",
+      "credit": "官方穿搭示例",
+      "checkedAt": "2026-10-15",
+      "note": "造型可能搭配其他品牌；不推定整套商品歸屬或現貨。"
+    }
+  },
+  "ships": {
+    "all": {
+      "image": "https://www.shipsltd.co.jp/img/goods/111135786/1S/111135786_02_01.jpg",
+      "source": "https://www.shipsltd.co.jp/g/g111135786/",
+      "credit": "官方穿搭示例",
+      "checkedAt": "2026-10-15",
+      "note": "造型可能搭配其他品牌；不推定整套商品歸屬或現貨。"
+    },
+    "men": {
+      "image": "https://www.shipsltd.co.jp/img/goods/111135786/1S/111135786_02_01.jpg",
+      "source": "https://www.shipsltd.co.jp/g/g111135786/",
+      "credit": "官方穿搭示例",
+      "checkedAt": "2026-10-15",
+      "note": "造型可能搭配其他品牌；不推定整套商品歸屬或現貨。",
+      "basis": "原品牌男裝來源與人工穿搭圖核對"
+    }
+  },
+  "nanga": {
+    "all": {
+      "image": "https://store.nanga.jp/cdn/shop/files/ND2441-1A001_BLK_3.jpg?v=1783569779&width=1100",
+      "source": "https://store.nanga.jp/products/aurora-down-jacket-mens",
+      "credit": "官方穿搭示例",
+      "checkedAt": "2026-10-15",
+      "note": "造型可能搭配其他品牌；不推定整套商品歸屬或現貨。"
+    },
+    "men": {
+      "image": "https://store.nanga.jp/cdn/shop/files/ND2441-1A001_BLK_3.jpg?v=1783569779&width=1100",
+      "source": "https://store.nanga.jp/products/aurora-down-jacket-mens",
+      "credit": "官方穿搭示例",
+      "checkedAt": "2026-10-15",
+      "note": "造型可能搭配其他品牌；不推定整套商品歸屬或現貨。",
+      "basis": "原品牌男裝來源與人工穿搭圖核對"
+    }
+  },
+  "wego": {
+    "all": {
+      "image": "https://wego.jp/cdn/shop/files/WE26AU09-M0020main120.jpg?v=1791879034",
+      "source": "https://wego.jp/products/we26au09-m0020",
+      "credit": "官方穿搭示例",
+      "checkedAt": "2026-10-15",
+      "note": "造型可能搭配其他品牌；不推定整套商品歸屬或現貨。"
+    },
+    "men": {
+      "image": "https://wego.jp/cdn/shop/files/WE26AU08-M0006sub18.jpg",
+      "source": "https://wego.jp/products/we26au08-m0006",
+      "credit": "官方男裝穿搭示例",
+      "checkedAt": "2026-10-15"
+    },
+    "women": {
+      "image": "https://wego.jp/cdn/shop/files/WE26AU08-M0006sub43.jpg",
+      "source": "https://wego.jp/products/we26au08-m0006",
+      "credit": "官方女裝穿搭示例",
+      "checkedAt": "2026-10-15"
+    }
+  },
+  "beautyandyouth": {
+    "all": {
+      "image": "https://united-arrows-global.com/cdn/shop/files/js5ZsffSPshxaO_5P5H1W7-XuLoh4ev95d4jmnYjNKp4B5-dB4_lcXcfUAudK5oGlUERgn1MGTDMF8cXfhnYJzIy52poyaRXCvREfOEV_s0.jpg?v=1789392405&width=1440",
+      "source": "https://united-arrows-global.com/en-us/products/12111000031",
+      "credit": "官方穿搭示例",
+      "checkedAt": "2026-10-15",
+      "note": "造型可能搭配其他品牌；不推定整套商品歸屬或現貨。"
+    },
+    "men": {
+      "image": "https://united-arrows-global.com/cdn/shop/files/js5ZsffSPshxaO_5P5H1W7-XuLoh4ev95d4jmnYjNKp4B5-dB4_lcXcfUAudK5oGlUERgn1MGTDMF8cXfhnYJzIy52poyaRXCvREfOEV_s0.jpg?v=1789392405&width=1440",
+      "source": "https://united-arrows-global.com/en-us/products/12111000031",
+      "credit": "官方穿搭示例",
+      "checkedAt": "2026-10-15",
+      "note": "造型可能搭配其他品牌；不推定整套商品歸屬或現貨。",
+      "basis": "原品牌男裝來源與人工穿搭圖核對"
+    }
+  },
+  "greenlabel": {
+    "all": {
+      "image": "https://united-arrows-global.com/cdn/shop/files/GLRW.jpg?v=1786945887&width=900",
+      "source": "https://united-arrows-global.com/",
+      "credit": "官方品牌穿搭形象",
+      "checkedAt": "2026-10-15",
+      "note": "造型可能搭配其他品牌；不推定整套商品歸屬或現貨。"
+    },
+    "women": {
+      "image": "https://united-arrows-global.com/cdn/shop/files/GLRW.jpg?v=1786945887&width=900",
+      "source": "https://united-arrows-global.com/",
+      "credit": "官方品牌穿搭形象",
+      "checkedAt": "2026-10-15",
+      "note": "造型可能搭配其他品牌；不推定整套商品歸屬或現貨。"
+    }
+  },
+  "arc-teryx": {
+    "men": {
+      "id": "arc-teryx",
+      "source": "https://www.beams.co.jp/styling/kyo/1243881/",
+      "image": "https://cdn-cms.beams.co.jp/cdn/cms/styling/1243881/main_XEvQ6I.jpg",
+      "credit": "BEAMS 男裝穿搭示例",
+      "basis": "BEAMS 官方男裝搜尋及具名造型內品牌文字／商品",
+      "note": "造型含其他品牌；本站只標示此品牌出現在造型中，不將整套視為本品牌商品。",
+      "checkedAt": "2026-10-15"
+    },
+    "all": {
+      "id": "arc-teryx",
+      "source": "https://www.beams.co.jp/styling/kyo/1243881/",
+      "image": "https://cdn-cms.beams.co.jp/cdn/cms/styling/1243881/main_XEvQ6I.jpg",
+      "credit": "BEAMS 男裝穿搭示例",
+      "basis": "BEAMS 官方男裝搜尋及具名造型內品牌文字／商品",
+      "note": "造型含其他品牌；本站只標示此品牌出現在造型中，不將整套視為本品牌商品。",
+      "checkedAt": "2026-10-15"
+    }
+  },
+  "salomon": {
+    "men": {
+      "id": "salomon",
+      "source": "https://www.beams.co.jp/styling/tys/1242930/",
+      "image": "https://cdn-cms.beams.co.jp/cdn/cms/styling/1242930/main_B2vllk.jpg",
+      "credit": "BEAMS 男裝穿搭示例",
+      "basis": "BEAMS 官方男裝搜尋及具名造型內品牌文字／商品",
+      "note": "造型含其他品牌；本站只標示此品牌出現在造型中，不將整套視為本品牌商品。",
+      "checkedAt": "2026-10-15"
+    },
+    "all": {
+      "id": "salomon",
+      "source": "https://www.beams.co.jp/styling/tys/1242930/",
+      "image": "https://cdn-cms.beams.co.jp/cdn/cms/styling/1242930/main_B2vllk.jpg",
+      "credit": "BEAMS 男裝穿搭示例",
+      "basis": "BEAMS 官方男裝搜尋及具名造型內品牌文字／商品",
+      "note": "造型含其他品牌；本站只標示此品牌出現在造型中，不將整套視為本品牌商品。",
+      "checkedAt": "2026-10-15"
+    }
+  },
+  "nike": {
+    "men": {
+      "id": "nike",
+      "source": "https://www.beams.co.jp/styling/fkp/1243434/",
+      "image": "https://cdn-cms.beams.co.jp/cdn/cms/styling/1243434/main_CYoTlD.jpg",
+      "credit": "BEAMS 男裝穿搭示例",
+      "basis": "BEAMS 官方男裝搜尋及具名造型內品牌文字／商品",
+      "note": "造型含其他品牌；本站只標示此品牌出現在造型中，不將整套視為本品牌商品。",
+      "checkedAt": "2026-10-15"
+    },
+    "all": {
+      "id": "nike",
+      "source": "https://www.beams.co.jp/styling/fkp/1243434/",
+      "image": "https://cdn-cms.beams.co.jp/cdn/cms/styling/1243434/main_CYoTlD.jpg",
+      "credit": "BEAMS 男裝穿搭示例",
+      "basis": "BEAMS 官方男裝搜尋及具名造型內品牌文字／商品",
+      "note": "造型含其他品牌；本站只標示此品牌出現在造型中，不將整套視為本品牌商品。",
+      "checkedAt": "2026-10-15"
+    }
+  },
+  "adidas": {
+    "men": {
+      "image": "https://cdn-cms.beams.co.jp/cdn/cms/styling/1243144/main_J0ZHjF_s.jpg",
+      "source": "https://www.beams.co.jp/styling/kgb/1243144/",
+      "credit": "官方／日本通路男裝穿搭示例",
+      "checkedAt": "2026-10-15",
+      "basis": "具名品牌來源、服裝分類及人工穿搭圖核對",
+      "note": "造型可能搭配其他品牌，非整套同品牌或價格。"
+    },
+    "all": {
+      "image": "https://cdn-cms.beams.co.jp/cdn/cms/styling/1243144/main_J0ZHjF_s.jpg",
+      "source": "https://www.beams.co.jp/styling/kgb/1243144/",
+      "credit": "官方／日本通路男裝穿搭示例",
+      "checkedAt": "2026-10-15",
+      "basis": "具名品牌來源、服裝分類及人工穿搭圖核對",
+      "note": "造型可能搭配其他品牌，非整套同品牌或價格。"
+    }
+  },
+  "new-balance": {
+    "men": {
+      "id": "new-balance",
+      "source": "https://www.beams.co.jp/styling/planets/1243915/",
+      "image": "https://cdn-cms.beams.co.jp/cdn/cms/styling/1243915/main_uoRcYL.jpg",
+      "credit": "BEAMS 男裝穿搭示例",
+      "basis": "BEAMS 官方男裝搜尋及具名造型內品牌文字／商品",
+      "note": "造型含其他品牌；本站只標示此品牌出現在造型中，不將整套視為本品牌商品。",
+      "checkedAt": "2026-10-15"
+    },
+    "all": {
+      "id": "new-balance",
+      "source": "https://www.beams.co.jp/styling/planets/1243915/",
+      "image": "https://cdn-cms.beams.co.jp/cdn/cms/styling/1243915/main_uoRcYL.jpg",
+      "credit": "BEAMS 男裝穿搭示例",
+      "basis": "BEAMS 官方男裝搜尋及具名造型內品牌文字／商品",
+      "note": "造型含其他品牌；本站只標示此品牌出現在造型中，不將整套視為本品牌商品。",
+      "checkedAt": "2026-10-15"
+    }
+  },
+  "asics": {
+    "men": {
+      "id": "asics",
+      "source": "https://www.beams.co.jp/styling/h/1240041/",
+      "image": "https://cdn-cms.beams.co.jp/cdn/cms/styling/1240041/main_sAoqUD.jpg",
+      "credit": "BEAMS 男裝穿搭示例",
+      "basis": "BEAMS 官方男裝搜尋及具名造型內品牌文字／商品",
+      "note": "造型含其他品牌；本站只標示此品牌出現在造型中，不將整套視為本品牌商品。",
+      "checkedAt": "2026-10-15"
+    },
+    "all": {
+      "id": "asics",
+      "source": "https://www.beams.co.jp/styling/h/1240041/",
+      "image": "https://cdn-cms.beams.co.jp/cdn/cms/styling/1240041/main_sAoqUD.jpg",
+      "credit": "BEAMS 男裝穿搭示例",
+      "basis": "BEAMS 官方男裝搜尋及具名造型內品牌文字／商品",
+      "note": "造型含其他品牌；本站只標示此品牌出現在造型中，不將整套視為本品牌商品。",
+      "checkedAt": "2026-10-15"
+    }
+  },
+  "puma": {
+    "men": {
+      "id": "puma",
+      "source": "https://www.beams.co.jp/styling/h/1238352/",
+      "image": "https://cdn-cms.beams.co.jp/cdn/cms/styling/1238352/main_Elx0CM.jpg",
+      "credit": "BEAMS 男裝穿搭示例",
+      "basis": "BEAMS 官方男裝搜尋及具名造型內品牌文字／商品",
+      "note": "造型含其他品牌；本站只標示此品牌出現在造型中，不將整套視為本品牌商品。",
+      "checkedAt": "2026-10-15"
+    },
+    "all": {
+      "id": "puma",
+      "source": "https://www.beams.co.jp/styling/h/1238352/",
+      "image": "https://cdn-cms.beams.co.jp/cdn/cms/styling/1238352/main_Elx0CM.jpg",
+      "credit": "BEAMS 男裝穿搭示例",
+      "basis": "BEAMS 官方男裝搜尋及具名造型內品牌文字／商品",
+      "note": "造型含其他品牌；本站只標示此品牌出現在造型中，不將整套視為本品牌商品。",
+      "checkedAt": "2026-10-15"
+    }
+  },
+  "reebok": {
+    "men": {
+      "id": "reebok",
+      "source": "https://www.beams.co.jp/styling/sp/1242469/",
+      "image": "https://cdn-cms.beams.co.jp/cdn/cms/styling/1242469/main_VLzt92.jpg",
+      "credit": "BEAMS 男裝穿搭示例",
+      "basis": "BEAMS 官方男裝搜尋及具名造型內品牌文字／商品",
+      "note": "造型含其他品牌；本站只標示此品牌出現在造型中，不將整套視為本品牌商品。",
+      "checkedAt": "2026-10-15"
+    },
+    "all": {
+      "id": "reebok",
+      "source": "https://www.beams.co.jp/styling/sp/1242469/",
+      "image": "https://cdn-cms.beams.co.jp/cdn/cms/styling/1242469/main_VLzt92.jpg",
+      "credit": "BEAMS 男裝穿搭示例",
+      "basis": "BEAMS 官方男裝搜尋及具名造型內品牌文字／商品",
+      "note": "造型含其他品牌；本站只標示此品牌出現在造型中，不將整套視為本品牌商品。",
+      "checkedAt": "2026-10-15"
+    }
+  },
+  "champion": {
+    "men": {
+      "id": "champion",
+      "source": "https://www.beams.co.jp/styling/szk/1243984/",
+      "image": "https://cdn-cms.beams.co.jp/cdn/cms/styling/1243984/main_RPfDAI.jpg",
+      "credit": "BEAMS 男裝穿搭示例",
+      "basis": "BEAMS 官方男裝搜尋及具名造型內品牌文字／商品",
+      "note": "造型含其他品牌；本站只標示此品牌出現在造型中，不將整套視為本品牌商品。",
+      "checkedAt": "2026-10-15"
+    },
+    "all": {
+      "id": "champion",
+      "source": "https://www.beams.co.jp/styling/szk/1243984/",
+      "image": "https://cdn-cms.beams.co.jp/cdn/cms/styling/1243984/main_RPfDAI.jpg",
+      "credit": "BEAMS 男裝穿搭示例",
+      "basis": "BEAMS 官方男裝搜尋及具名造型內品牌文字／商品",
+      "note": "造型含其他品牌；本站只標示此品牌出現在造型中，不將整套視為本品牌商品。",
+      "checkedAt": "2026-10-15"
+    }
+  },
+  "descente": {
+    "men": {
+      "id": "descente",
+      "source": "https://www.beams.co.jp/styling/beams_japan/1230248/",
+      "image": "https://cdn-cms.beams.co.jp/cdn/cms/styling/1230248/main_ebSg4I.jpg",
+      "credit": "BEAMS 男裝穿搭示例",
+      "basis": "BEAMS 官方男裝搜尋及具名造型內品牌文字／商品",
+      "note": "造型含其他品牌；本站只標示此品牌出現在造型中，不將整套視為本品牌商品。",
+      "checkedAt": "2026-10-15"
+    },
+    "all": {
+      "id": "descente",
+      "source": "https://www.beams.co.jp/styling/beams_japan/1230248/",
+      "image": "https://cdn-cms.beams.co.jp/cdn/cms/styling/1230248/main_ebSg4I.jpg",
+      "credit": "BEAMS 男裝穿搭示例",
+      "basis": "BEAMS 官方男裝搜尋及具名造型內品牌文字／商品",
+      "note": "造型含其他品牌；本站只標示此品牌出現在造型中，不將整套視為本品牌商品。",
+      "checkedAt": "2026-10-15"
+    }
+  },
+  "lacoste": {
+    "men": {
+      "id": "lacoste",
+      "source": "https://www.beams.co.jp/styling/yg/1243604/",
+      "image": "https://cdn-cms.beams.co.jp/cdn/cms/styling/1243604/main_IA8sNE.jpg",
+      "credit": "BEAMS 男裝穿搭示例",
+      "basis": "BEAMS 官方男裝搜尋及具名造型內品牌文字／商品",
+      "note": "造型含其他品牌；本站只標示此品牌出現在造型中，不將整套視為本品牌商品。",
+      "checkedAt": "2026-10-15"
+    },
+    "all": {
+      "id": "lacoste",
+      "source": "https://www.beams.co.jp/styling/yg/1243604/",
+      "image": "https://cdn-cms.beams.co.jp/cdn/cms/styling/1243604/main_IA8sNE.jpg",
+      "credit": "BEAMS 男裝穿搭示例",
+      "basis": "BEAMS 官方男裝搜尋及具名造型內品牌文字／商品",
+      "note": "造型含其他品牌；本站只標示此品牌出現在造型中，不將整套視為本品牌商品。",
+      "checkedAt": "2026-10-15"
+    }
+  },
+  "fred-perry": {
+    "men": {
+      "id": "fred-perry",
+      "source": "https://www.beams.co.jp/styling/nib/1243960/",
+      "image": "https://cdn-cms.beams.co.jp/cdn/cms/styling/1243960/main_xGuBj8.jpg",
+      "credit": "BEAMS 男裝穿搭示例",
+      "basis": "BEAMS 官方男裝搜尋及具名造型內品牌文字／商品",
+      "note": "造型含其他品牌；本站只標示此品牌出現在造型中，不將整套視為本品牌商品。",
+      "checkedAt": "2026-10-15"
+    },
+    "all": {
+      "id": "fred-perry",
+      "source": "https://www.beams.co.jp/styling/nib/1243960/",
+      "image": "https://cdn-cms.beams.co.jp/cdn/cms/styling/1243960/main_xGuBj8.jpg",
+      "credit": "BEAMS 男裝穿搭示例",
+      "basis": "BEAMS 官方男裝搜尋及具名造型內品牌文字／商品",
+      "note": "造型含其他品牌；本站只標示此品牌出現在造型中，不將整套視為本品牌商品。",
+      "checkedAt": "2026-10-15"
+    }
+  },
+  "ralph-lauren": {
+    "men": {
+      "id": "ralph-lauren",
+      "source": "https://www.beams.co.jp/styling/psk/1243320/",
+      "image": "https://cdn-cms.beams.co.jp/cdn/cms/styling/1243320/main_ZdrcXQ.jpg",
+      "credit": "BEAMS 男裝穿搭示例",
+      "basis": "BEAMS 官方男裝搜尋及具名造型內品牌文字／商品",
+      "note": "造型含其他品牌；本站只標示此品牌出現在造型中，不將整套視為本品牌商品。",
+      "checkedAt": "2026-10-15"
+    },
+    "all": {
+      "id": "ralph-lauren",
+      "source": "https://www.beams.co.jp/styling/psk/1243320/",
+      "image": "https://cdn-cms.beams.co.jp/cdn/cms/styling/1243320/main_ZdrcXQ.jpg",
+      "credit": "BEAMS 男裝穿搭示例",
+      "basis": "BEAMS 官方男裝搜尋及具名造型內品牌文字／商品",
+      "note": "造型含其他品牌；本站只標示此品牌出現在造型中，不將整套視為本品牌商品。",
+      "checkedAt": "2026-10-15"
+    }
+  },
+  "stone-island": {
+    "men": {
+      "id": "stone-island",
+      "source": "https://www.beams.co.jp/styling/h/1243319/",
+      "image": "https://cdn-cms.beams.co.jp/cdn/cms/styling/1243319/main_197NxR.jpg",
+      "credit": "BEAMS 男裝穿搭示例",
+      "basis": "BEAMS 官方男裝搜尋及具名造型內品牌文字／商品",
+      "note": "造型含其他品牌；本站只標示此品牌出現在造型中，不將整套視為本品牌商品。",
+      "checkedAt": "2026-10-15"
+    },
+    "all": {
+      "id": "stone-island",
+      "source": "https://www.beams.co.jp/styling/h/1243319/",
+      "image": "https://cdn-cms.beams.co.jp/cdn/cms/styling/1243319/main_197NxR.jpg",
+      "credit": "BEAMS 男裝穿搭示例",
+      "basis": "BEAMS 官方男裝搜尋及具名造型內品牌文字／商品",
+      "note": "造型含其他品牌；本站只標示此品牌出現在造型中，不將整套視為本品牌商品。",
+      "checkedAt": "2026-10-15"
+    }
+  },
+  "apc": {
+    "men": {
+      "id": "apc",
+      "source": "https://www.beams.co.jp/styling/psk/1243297/",
+      "image": "https://cdn-cms.beams.co.jp/cdn/cms/styling/1243297/main_lCvriC.jpg",
+      "credit": "BEAMS 男裝穿搭示例",
+      "basis": "BEAMS 官方男裝搜尋及具名造型內品牌文字／商品",
+      "note": "造型含其他品牌；本站只標示此品牌出現在造型中，不將整套視為本品牌商品。",
+      "checkedAt": "2026-10-15"
+    },
+    "all": {
+      "id": "apc",
+      "source": "https://www.beams.co.jp/styling/psk/1243297/",
+      "image": "https://cdn-cms.beams.co.jp/cdn/cms/styling/1243297/main_lCvriC.jpg",
+      "credit": "BEAMS 男裝穿搭示例",
+      "basis": "BEAMS 官方男裝搜尋及具名造型內品牌文字／商品",
+      "note": "造型含其他品牌；本站只標示此品牌出現在造型中，不將整套視為本品牌商品。",
+      "checkedAt": "2026-10-15"
+    }
+  },
+  "teatora": {
+    "men": {
+      "id": "teatora",
+      "source": "https://www.beams.co.jp/styling/s/1243159/",
+      "image": "https://cdn-cms.beams.co.jp/cdn/cms/styling/1243159/main_9oREYm.jpg",
+      "credit": "BEAMS 男裝穿搭示例",
+      "basis": "BEAMS 官方男裝搜尋及具名造型內品牌文字／商品",
+      "note": "造型含其他品牌；本站只標示此品牌出現在造型中，不將整套視為本品牌商品。",
+      "checkedAt": "2026-10-15"
+    },
+    "all": {
+      "id": "teatora",
+      "source": "https://www.beams.co.jp/styling/s/1243159/",
+      "image": "https://cdn-cms.beams.co.jp/cdn/cms/styling/1243159/main_9oREYm.jpg",
+      "credit": "BEAMS 男裝穿搭示例",
+      "basis": "BEAMS 官方男裝搜尋及具名造型內品牌文字／商品",
+      "note": "造型含其他品牌；本站只標示此品牌出現在造型中，不將整套視為本品牌商品。",
+      "checkedAt": "2026-10-15"
+    }
+  },
+  "dairiku": {
+    "men": {
+      "id": "dairiku",
+      "source": "https://www.beams.co.jp/styling/h/1242734/",
+      "image": "https://cdn-cms.beams.co.jp/cdn/cms/styling/1242734/main_Zk8dpC.jpg",
+      "credit": "BEAMS 男裝穿搭示例",
+      "basis": "BEAMS 官方男裝搜尋及具名造型內品牌文字／商品",
+      "note": "造型含其他品牌；本站只標示此品牌出現在造型中，不將整套視為本品牌商品。",
+      "checkedAt": "2026-10-15"
+    },
+    "all": {
+      "id": "dairiku",
+      "source": "https://www.beams.co.jp/styling/h/1242734/",
+      "image": "https://cdn-cms.beams.co.jp/cdn/cms/styling/1242734/main_Zk8dpC.jpg",
+      "credit": "BEAMS 男裝穿搭示例",
+      "basis": "BEAMS 官方男裝搜尋及具名造型內品牌文字／商品",
+      "note": "造型含其他品牌；本站只標示此品牌出現在造型中，不將整套視為本品牌商品。",
+      "checkedAt": "2026-10-15"
+    }
+  },
+  "freshservice": {
+    "men": {
+      "id": "freshservice",
+      "source": "https://www.beams.co.jp/styling/ktb/1238395/",
+      "image": "https://cdn-cms.beams.co.jp/cdn/cms/styling/1238395/main_WHJef2.jpg",
+      "credit": "BEAMS 男裝穿搭示例",
+      "basis": "BEAMS 官方男裝搜尋及具名造型內品牌文字／商品",
+      "note": "造型含其他品牌；本站只標示此品牌出現在造型中，不將整套視為本品牌商品。",
+      "checkedAt": "2026-10-15"
+    },
+    "all": {
+      "id": "freshservice",
+      "source": "https://www.beams.co.jp/styling/ktb/1238395/",
+      "image": "https://cdn-cms.beams.co.jp/cdn/cms/styling/1238395/main_WHJef2.jpg",
+      "credit": "BEAMS 男裝穿搭示例",
+      "basis": "BEAMS 官方男裝搜尋及具名造型內品牌文字／商品",
+      "note": "造型含其他品牌；本站只標示此品牌出現在造型中，不將整套視為本品牌商品。",
+      "checkedAt": "2026-10-15"
+    }
+  },
+  "rotol": {
+    "men": {
+      "id": "rotol",
+      "source": "https://www.beams.co.jp/styling/s/1240748/",
+      "image": "https://cdn-cms.beams.co.jp/cdn/cms/styling/1240748/main_1mPBb9.jpg",
+      "credit": "BEAMS 男裝穿搭示例",
+      "basis": "BEAMS 官方男裝搜尋及具名造型內品牌文字／商品",
+      "note": "造型含其他品牌；本站只標示此品牌出現在造型中，不將整套視為本品牌商品。",
+      "checkedAt": "2026-10-15"
+    },
+    "all": {
+      "id": "rotol",
+      "source": "https://www.beams.co.jp/styling/s/1240748/",
+      "image": "https://cdn-cms.beams.co.jp/cdn/cms/styling/1240748/main_1mPBb9.jpg",
+      "credit": "BEAMS 男裝穿搭示例",
+      "basis": "BEAMS 官方男裝搜尋及具名造型內品牌文字／商品",
+      "note": "造型含其他品牌；本站只標示此品牌出現在造型中，不將整套視為本品牌商品。",
+      "checkedAt": "2026-10-15"
+    }
+  },
+  "batoner": {
+    "men": {
+      "image": "https://cdn.beams.co.jp/img/goods/36140265905/O/36140265905_D_4.jpg",
+      "source": "https://www.beams.co.jp/item/pilgrimsurfsupply/t-shirt/36140265905/?color=01",
+      "credit": "官方／日本通路男裝穿搭示例",
+      "checkedAt": "2026-10-15",
+      "basis": "具名品牌來源、服裝分類及人工穿搭圖核對",
+      "note": "造型可能搭配其他品牌，非整套同品牌或價格。"
+    },
+    "all": {
+      "image": "https://cdn.beams.co.jp/img/goods/36140265905/O/36140265905_D_4.jpg",
+      "source": "https://www.beams.co.jp/item/pilgrimsurfsupply/t-shirt/36140265905/?color=01",
+      "credit": "官方／日本通路男裝穿搭示例",
+      "checkedAt": "2026-10-15",
+      "basis": "具名品牌來源、服裝分類及人工穿搭圖核對",
+      "note": "造型可能搭配其他品牌，非整套同品牌或價格。"
+    }
+  },
+  "crepuscule": {
+    "men": {
+      "id": "crepuscule",
+      "source": "https://www.beams.co.jp/styling/mcb/1242289/",
+      "image": "https://cdn-cms.beams.co.jp/cdn/cms/styling/1242289/main_wDTl4X.jpg",
+      "credit": "BEAMS 男裝穿搭示例",
+      "basis": "BEAMS 官方男裝搜尋及具名造型內品牌文字／商品",
+      "note": "造型含其他品牌；本站只標示此品牌出現在造型中，不將整套視為本品牌商品。",
+      "checkedAt": "2026-10-15"
+    },
+    "all": {
+      "id": "crepuscule",
+      "source": "https://www.beams.co.jp/styling/mcb/1242289/",
+      "image": "https://cdn-cms.beams.co.jp/cdn/cms/styling/1242289/main_wDTl4X.jpg",
+      "credit": "BEAMS 男裝穿搭示例",
+      "basis": "BEAMS 官方男裝搜尋及具名造型內品牌文字／商品",
+      "note": "造型含其他品牌；本站只標示此品牌出現在造型中，不將整套視為本品牌商品。",
+      "checkedAt": "2026-10-15"
+    }
+  },
+  "uru": {
+    "men": {
+      "id": "uru",
+      "source": "https://www.beams.co.jp/styling/s/1234704/",
+      "image": "https://cdn-cms.beams.co.jp/cdn/cms/styling/1234704/main_XyuLlm.jpg",
+      "credit": "BEAMS 男裝穿搭示例",
+      "basis": "BEAMS 官方男裝搜尋及具名造型內品牌文字／商品",
+      "note": "造型含其他品牌；本站只標示此品牌出現在造型中，不將整套視為本品牌商品。",
+      "checkedAt": "2026-10-15"
+    },
+    "all": {
+      "id": "uru",
+      "source": "https://www.beams.co.jp/styling/s/1234704/",
+      "image": "https://cdn-cms.beams.co.jp/cdn/cms/styling/1234704/main_XyuLlm.jpg",
+      "credit": "BEAMS 男裝穿搭示例",
+      "basis": "BEAMS 官方男裝搜尋及具名造型內品牌文字／商品",
+      "note": "造型含其他品牌；本站只標示此品牌出現在造型中，不將整套視為本品牌商品。",
+      "checkedAt": "2026-10-15"
+    }
+  },
+  "unused": {
+    "men": {
+      "id": "unused",
+      "source": "https://www.beams.co.jp/styling/s/1243614/",
+      "image": "https://cdn-cms.beams.co.jp/cdn/cms/styling/1243614/main_pLgvJf.jpg",
+      "credit": "BEAMS 男裝穿搭示例",
+      "basis": "BEAMS 官方男裝搜尋及具名造型內品牌文字／商品",
+      "note": "造型含其他品牌；本站只標示此品牌出現在造型中，不將整套視為本品牌商品。",
+      "checkedAt": "2026-10-15"
+    },
+    "all": {
+      "id": "unused",
+      "source": "https://www.beams.co.jp/styling/s/1243614/",
+      "image": "https://cdn-cms.beams.co.jp/cdn/cms/styling/1243614/main_pLgvJf.jpg",
+      "credit": "BEAMS 男裝穿搭示例",
+      "basis": "BEAMS 官方男裝搜尋及具名造型內品牌文字／商品",
+      "note": "造型含其他品牌；本站只標示此品牌出現在造型中，不將整套視為本品牌商品。",
+      "checkedAt": "2026-10-15"
+    }
+  },
+  "orslow": {
+    "men": {
+      "id": "orslow",
+      "source": "https://www.beams.co.jp/styling/sp/1243086/",
+      "image": "https://cdn-cms.beams.co.jp/cdn/cms/styling/1243086/main_HBo38M.jpg",
+      "credit": "BEAMS 男裝穿搭示例",
+      "basis": "BEAMS 官方男裝搜尋及具名造型內品牌文字／商品",
+      "note": "造型含其他品牌；本站只標示此品牌出現在造型中，不將整套視為本品牌商品。",
+      "checkedAt": "2026-10-15"
+    },
+    "all": {
+      "id": "orslow",
+      "source": "https://www.beams.co.jp/styling/sp/1243086/",
+      "image": "https://cdn-cms.beams.co.jp/cdn/cms/styling/1243086/main_HBo38M.jpg",
+      "credit": "BEAMS 男裝穿搭示例",
+      "basis": "BEAMS 官方男裝搜尋及具名造型內品牌文字／商品",
+      "note": "造型含其他品牌；本站只標示此品牌出現在造型中，不將整套視為本品牌商品。",
+      "checkedAt": "2026-10-15"
+    }
+  },
+  "warehouse": {
+    "men": {
+      "id": "warehouse",
+      "source": "https://www.beams.co.jp/styling/tys/1241167/",
+      "image": "https://cdn-cms.beams.co.jp/cdn/cms/styling/1241167/main_LCrJX9.jpg",
+      "credit": "BEAMS 男裝穿搭示例",
+      "basis": "BEAMS 官方男裝搜尋及具名造型內品牌文字／商品",
+      "note": "造型含其他品牌；本站只標示此品牌出現在造型中，不將整套視為本品牌商品。",
+      "checkedAt": "2026-10-15"
+    },
+    "all": {
+      "id": "warehouse",
+      "source": "https://www.beams.co.jp/styling/tys/1241167/",
+      "image": "https://cdn-cms.beams.co.jp/cdn/cms/styling/1241167/main_LCrJX9.jpg",
+      "credit": "BEAMS 男裝穿搭示例",
+      "basis": "BEAMS 官方男裝搜尋及具名造型內品牌文字／商品",
+      "note": "造型含其他品牌；本站只標示此品牌出現在造型中，不將整套視為本品牌商品。",
+      "checkedAt": "2026-10-15"
+    }
+  },
+  "patagonia": {
+    "men": {
+      "id": "patagonia",
+      "source": "https://www.beams.co.jp/styling/fkp/1243714/",
+      "image": "https://cdn-cms.beams.co.jp/cdn/cms/styling/1243714/main_0YyXa1.jpg",
+      "credit": "BEAMS 男裝穿搭示例",
+      "basis": "BEAMS 官方男裝搜尋及具名造型內品牌文字／商品",
+      "note": "造型含其他品牌；本站只標示此品牌出現在造型中，不將整套視為本品牌商品。",
+      "checkedAt": "2026-10-15"
+    },
+    "all": {
+      "id": "patagonia",
+      "source": "https://www.beams.co.jp/styling/fkp/1243714/",
+      "image": "https://cdn-cms.beams.co.jp/cdn/cms/styling/1243714/main_0YyXa1.jpg",
+      "credit": "BEAMS 男裝穿搭示例",
+      "basis": "BEAMS 官方男裝搜尋及具名造型內品牌文字／商品",
+      "note": "造型含其他品牌；本站只標示此品牌出現在造型中，不將整套視為本品牌商品。",
+      "checkedAt": "2026-10-15"
+    }
+  },
+  "columbia": {
+    "men": {
+      "id": "columbia",
+      "source": "https://www.beams.co.jp/styling/sp/1240073/",
+      "image": "https://cdn-cms.beams.co.jp/cdn/cms/styling/1240073/main_0BvnXd.jpg",
+      "credit": "BEAMS 男裝穿搭示例",
+      "basis": "BEAMS 官方男裝搜尋及具名造型內品牌文字／商品",
+      "note": "造型含其他品牌；本站只標示此品牌出現在造型中，不將整套視為本品牌商品。",
+      "checkedAt": "2026-10-15"
+    },
+    "all": {
+      "id": "columbia",
+      "source": "https://www.beams.co.jp/styling/sp/1240073/",
+      "image": "https://cdn-cms.beams.co.jp/cdn/cms/styling/1240073/main_0BvnXd.jpg",
+      "credit": "BEAMS 男裝穿搭示例",
+      "basis": "BEAMS 官方男裝搜尋及具名造型內品牌文字／商品",
+      "note": "造型含其他品牌；本站只標示此品牌出現在造型中，不將整套視為本品牌商品。",
+      "checkedAt": "2026-10-15"
+    }
+  },
+  "the-north-face": {
+    "men": {
+      "id": "the-north-face",
+      "source": "https://www.beams.co.jp/styling/bno/1243384/",
+      "image": "https://cdn-cms.beams.co.jp/cdn/cms/styling/1243384/main_zilCUb.jpg",
+      "credit": "BEAMS 男裝穿搭示例",
+      "basis": "BEAMS 官方男裝搜尋及具名造型內品牌文字／商品",
+      "note": "造型含其他品牌；本站只標示此品牌出現在造型中，不將整套視為本品牌商品。",
+      "checkedAt": "2026-10-15"
+    },
+    "all": {
+      "id": "the-north-face",
+      "source": "https://www.beams.co.jp/styling/bno/1243384/",
+      "image": "https://cdn-cms.beams.co.jp/cdn/cms/styling/1243384/main_zilCUb.jpg",
+      "credit": "BEAMS 男裝穿搭示例",
+      "basis": "BEAMS 官方男裝搜尋及具名造型內品牌文字／商品",
+      "note": "造型含其他品牌；本站只標示此品牌出現在造型中，不將整套視為本品牌商品。",
+      "checkedAt": "2026-10-15"
+    }
+  },
+  "helly-hansen": {
+    "men": {
+      "id": "helly-hansen",
+      "source": "https://www.beams.co.jp/styling/mho/1236462/",
+      "image": "https://cdn-cms.beams.co.jp/cdn/cms/styling/1236462/main_ge233f.jpg",
+      "credit": "BEAMS 男裝穿搭示例",
+      "basis": "BEAMS 官方男裝搜尋及具名造型內品牌文字／商品",
+      "note": "造型含其他品牌；本站只標示此品牌出現在造型中，不將整套視為本品牌商品。",
+      "checkedAt": "2026-10-15"
+    },
+    "all": {
+      "id": "helly-hansen",
+      "source": "https://www.beams.co.jp/styling/mho/1236462/",
+      "image": "https://cdn-cms.beams.co.jp/cdn/cms/styling/1236462/main_ge233f.jpg",
+      "credit": "BEAMS 男裝穿搭示例",
+      "basis": "BEAMS 官方男裝搜尋及具名造型內品牌文字／商品",
+      "note": "造型含其他品牌；本站只標示此品牌出現在造型中，不將整套視為本品牌商品。",
+      "checkedAt": "2026-10-15"
+    }
+  },
+  "wild-things": {
+    "men": {
+      "id": "wild-things",
+      "source": "https://www.beams.co.jp/styling/kkj/1238812/",
+      "image": "https://cdn-cms.beams.co.jp/cdn/cms/styling/1238812/main_ffdPEF.jpg",
+      "credit": "BEAMS 男裝穿搭示例",
+      "basis": "BEAMS 官方男裝搜尋及具名造型內品牌文字／商品",
+      "note": "造型含其他品牌；本站只標示此品牌出現在造型中，不將整套視為本品牌商品。",
+      "checkedAt": "2026-10-15"
+    },
+    "all": {
+      "id": "wild-things",
+      "source": "https://www.beams.co.jp/styling/kkj/1238812/",
+      "image": "https://cdn-cms.beams.co.jp/cdn/cms/styling/1238812/main_ffdPEF.jpg",
+      "credit": "BEAMS 男裝穿搭示例",
+      "basis": "BEAMS 官方男裝搜尋及具名造型內品牌文字／商品",
+      "note": "造型含其他品牌；本站只標示此品牌出現在造型中，不將整套視為本品牌商品。",
+      "checkedAt": "2026-10-15"
+    }
+  },
+  "keen": {
+    "men": {
+      "id": "keen",
+      "source": "https://www.beams.co.jp/styling/kbc/1238617/",
+      "image": "https://cdn-cms.beams.co.jp/cdn/cms/styling/1238617/main_DR0fHT.jpg",
+      "credit": "BEAMS 男裝穿搭示例",
+      "basis": "BEAMS 官方男裝搜尋及具名造型內品牌文字／商品",
+      "note": "造型含其他品牌；本站只標示此品牌出現在造型中，不將整套視為本品牌商品。",
+      "checkedAt": "2026-10-15"
+    },
+    "all": {
+      "id": "keen",
+      "source": "https://www.beams.co.jp/styling/kbc/1238617/",
+      "image": "https://cdn-cms.beams.co.jp/cdn/cms/styling/1238617/main_DR0fHT.jpg",
+      "credit": "BEAMS 男裝穿搭示例",
+      "basis": "BEAMS 官方男裝搜尋及具名造型內品牌文字／商品",
+      "note": "造型含其他品牌；本站只標示此品牌出現在造型中，不將整套視為本品牌商品。",
+      "checkedAt": "2026-10-15"
+    }
+  },
+  "barbour": {
+    "men": {
+      "id": "barbour",
+      "source": "https://www.beams.co.jp/styling/bna/1243620/",
+      "image": "https://cdn-cms.beams.co.jp/cdn/cms/styling/1243620/main_ScZOBD.jpg",
+      "credit": "BEAMS 男裝穿搭示例",
+      "basis": "BEAMS 官方男裝搜尋及具名造型內品牌文字／商品",
+      "note": "造型含其他品牌；本站只標示此品牌出現在造型中，不將整套視為本品牌商品。",
+      "checkedAt": "2026-10-15"
+    },
+    "all": {
+      "id": "barbour",
+      "source": "https://www.beams.co.jp/styling/bna/1243620/",
+      "image": "https://cdn-cms.beams.co.jp/cdn/cms/styling/1243620/main_ScZOBD.jpg",
+      "credit": "BEAMS 男裝穿搭示例",
+      "basis": "BEAMS 官方男裝搜尋及具名造型內品牌文字／商品",
+      "note": "造型含其他品牌；本站只標示此品牌出現在造型中，不將整套視為本品牌商品。",
+      "checkedAt": "2026-10-15"
+    }
+  },
+  "traditional-weatherwear": {
+    "men": {
+      "id": "traditional-weatherwear",
+      "source": "https://www.beams.co.jp/styling/my/1243602/",
+      "image": "https://cdn-cms.beams.co.jp/cdn/cms/styling/1243602/main_hr7apr.jpg",
+      "credit": "BEAMS 男裝穿搭示例",
+      "basis": "BEAMS 官方男裝搜尋及具名造型內品牌文字／商品",
+      "note": "造型含其他品牌；本站只標示此品牌出現在造型中，不將整套視為本品牌商品。",
+      "checkedAt": "2026-10-15"
+    },
+    "all": {
+      "id": "traditional-weatherwear",
+      "source": "https://www.beams.co.jp/styling/my/1243602/",
+      "image": "https://cdn-cms.beams.co.jp/cdn/cms/styling/1243602/main_hr7apr.jpg",
+      "credit": "BEAMS 男裝穿搭示例",
+      "basis": "BEAMS 官方男裝搜尋及具名造型內品牌文字／商品",
+      "note": "造型含其他品牌；本站只標示此品牌出現在造型中，不將整套視為本品牌商品。",
+      "checkedAt": "2026-10-15"
+    }
+  },
+  "llbean": {
+    "men": {
+      "id": "llbean",
+      "source": "https://www.beams.co.jp/styling/bna/1241849/",
+      "image": "https://cdn-cms.beams.co.jp/cdn/cms/styling/1241849/main_TPaSDB.jpg",
+      "credit": "BEAMS 男裝穿搭示例",
+      "basis": "BEAMS 官方男裝搜尋及具名造型內品牌文字／商品",
+      "note": "造型含其他品牌；本站只標示此品牌出現在造型中，不將整套視為本品牌商品。",
+      "checkedAt": "2026-10-15"
+    },
+    "all": {
+      "id": "llbean",
+      "source": "https://www.beams.co.jp/styling/bna/1241849/",
+      "image": "https://cdn-cms.beams.co.jp/cdn/cms/styling/1241849/main_TPaSDB.jpg",
+      "credit": "BEAMS 男裝穿搭示例",
+      "basis": "BEAMS 官方男裝搜尋及具名造型內品牌文字／商品",
+      "note": "造型含其他品牌；本站只標示此品牌出現在造型中，不將整套視為本品牌商品。",
+      "checkedAt": "2026-10-15"
+    }
+  },
+  "shinyakozuka": {
+    "men": {
+      "image": "https://image.salesnauts.com/story/img/fDHv4QCaUSRr.jpg?width=768",
+      "source": "https://www.story.style/products/detail/14563",
+      "credit": "品牌／日本通路穿搭示例",
+      "checkedAt": "2026-10-15",
+      "basis": "具名商品頁與人工圖像核對",
+      "note": "造型可能搭配其他品牌，商品歸屬請見單品資料。"
+    },
+    "all": {
+      "image": "https://image.salesnauts.com/story/img/fDHv4QCaUSRr.jpg?width=768",
+      "source": "https://www.story.style/products/detail/14563",
+      "credit": "品牌／日本通路穿搭示例",
+      "checkedAt": "2026-10-15",
+      "basis": "具名商品頁與人工圖像核對",
+      "note": "造型可能搭配其他品牌，商品歸屬請見單品資料。"
+    }
+  },
+  "onitsuka-tiger": {
+    "men": {
+      "image": "https://media-ojp.onitsukatiger.com/media/wysiwyg/taichi/aw-2026/man_look5_sp.jpg?v=1788935789",
+      "source": "https://www.onitsukatiger.com/jp/ja-jp/p/tai-chi-og",
+      "credit": "官方男裝穿搭示例",
+      "basis": "官方 2026 TAI-CHI 系列男裝影像",
+      "checkedAt": "2026-10-15"
+    },
+    "women": {
+      "image": "https://media-ojp.onitsukatiger.com/media/wysiwyg/taichi/aw-2026/woman_look2_sp.jpg?v=1788935789",
+      "source": "https://www.onitsukatiger.com/jp/ja-jp/p/tai-chi-og",
+      "credit": "官方女裝穿搭示例",
+      "checkedAt": "2026-10-15"
+    },
+    "all": {
+      "image": "https://media-ojp.onitsukatiger.com/media/wysiwyg/taichi/aw-2026/man_look5_sp.jpg?v=1788935789",
+      "source": "https://www.onitsukatiger.com/jp/ja-jp/p/tai-chi-og",
+      "credit": "官方男裝穿搭示例",
+      "basis": "官方 2026 TAI-CHI 系列男裝影像",
+      "checkedAt": "2026-10-15"
+    }
+  },
+  "tommy-hilfiger": {
+    "men": {
+      "image": "https://japan.tommy.com/img/item/MW41250000/MW41250000_cDCC_a102_pz.jpg",
+      "source": "https://japan.tommy.com/shop/item/MW41250000?shopCode=MEN",
+      "credit": "品牌／日本通路穿搭示例",
+      "checkedAt": "2026-10-15",
+      "basis": "具名商品頁與人工圖像核對",
+      "note": "造型可能搭配其他品牌，商品歸屬請見單品資料。"
+    },
+    "all": {
+      "image": "https://japan.tommy.com/img/item/MW41250000/MW41250000_cDCC_a102_pz.jpg",
+      "source": "https://japan.tommy.com/shop/item/MW41250000?shopCode=MEN",
+      "credit": "品牌／日本通路穿搭示例",
+      "checkedAt": "2026-10-15",
+      "basis": "具名商品頁與人工圖像核對",
+      "note": "造型可能搭配其他品牌，商品歸屬請見單品資料。"
+    }
+  },
+  "carhartt-wip": {
+    "men": {
+      "image": "https://carhartt-wip.jp/cdn/shop/files/I023083_HZ_01-OF-03.jpg?v=1791362064&width=3840",
+      "source": "https://carhartt-wip.jp/products/i023083-26f-hz01",
+      "credit": "品牌／日本通路穿搭示例",
+      "checkedAt": "2026-10-15",
+      "basis": "具名商品頁與人工圖像核對",
+      "note": "造型可能搭配其他品牌，商品歸屬請見單品資料。"
+    },
+    "all": {
+      "image": "https://carhartt-wip.jp/cdn/shop/files/I023083_HZ_01-OF-03.jpg?v=1791362064&width=3840",
+      "source": "https://carhartt-wip.jp/products/i023083-26f-hz01",
+      "credit": "品牌／日本通路穿搭示例",
+      "checkedAt": "2026-10-15",
+      "basis": "具名商品頁與人工圖像核對",
+      "note": "造型可能搭配其他品牌，商品歸屬請見單品資料。"
+    }
+  },
+  "anatomica": {
+    "men": {
+      "id": "anatomica",
+      "source": "https://www.beams.co.jp/styling/bhr/1165533/",
+      "image": "https://cdn-cms.beams.co.jp/cdn/cms/styling/1165533/main_ZcHZ5e.jpg",
+      "credit": "BEAMS 男裝穿搭示例",
+      "basis": "BEAMS 官方男裝搜尋及具名造型內品牌文字／商品",
+      "note": "造型含其他品牌；本站只標示此品牌出現在造型中，不將整套視為本品牌商品。",
+      "checkedAt": "2026-10-15"
+    },
+    "all": {
+      "id": "anatomica",
+      "source": "https://www.beams.co.jp/styling/bhr/1165533/",
+      "image": "https://cdn-cms.beams.co.jp/cdn/cms/styling/1165533/main_ZcHZ5e.jpg",
+      "credit": "BEAMS 男裝穿搭示例",
+      "basis": "BEAMS 官方男裝搜尋及具名造型內品牌文字／商品",
+      "note": "造型含其他品牌；本站只標示此品牌出現在造型中，不將整套視為本品牌商品。",
+      "checkedAt": "2026-10-15"
+    }
+  },
+  "neighborhood": {
+    "men": {
+      "id": "neighborhood",
+      "source": "https://www.beams.co.jp/styling/j/326915/",
+      "image": "https://cdn-cms.beams.co.jp/cdn/cms/styling/326915/main_c2C5lM.jpg",
+      "credit": "BEAMS 男裝穿搭示例（2021 歷史影像）",
+      "basis": "BEAMS 官方男裝搜尋及具名造型內品牌文字／商品",
+      "note": "造型含其他品牌；本站只標示此品牌出現在造型中，不將整套視為本品牌商品。",
+      "checkedAt": "2026-10-15"
+    },
+    "all": {
+      "id": "neighborhood",
+      "source": "https://www.beams.co.jp/styling/j/326915/",
+      "image": "https://cdn-cms.beams.co.jp/cdn/cms/styling/326915/main_c2C5lM.jpg",
+      "credit": "BEAMS 男裝穿搭示例（2021 歷史影像）",
+      "basis": "BEAMS 官方男裝搜尋及具名造型內品牌文字／商品",
+      "note": "造型含其他品牌；本站只標示此品牌出現在造型中，不將整套視為本品牌商品。",
+      "checkedAt": "2026-10-15"
+    }
+  },
+  "wtaps": {
+    "men": {
+      "id": "wtaps",
+      "source": "https://www.beams.co.jp/styling/fkp/1243434/",
+      "image": "https://cdn-cms.beams.co.jp/cdn/cms/styling/1243434/main_CYoTlD.jpg",
+      "credit": "BEAMS 男裝穿搭示例",
+      "basis": "BEAMS 官方男裝搜尋及具名造型內品牌文字／商品",
+      "note": "造型含其他品牌；本站只標示此品牌出現在造型中，不將整套視為本品牌商品。",
+      "checkedAt": "2026-10-15"
+    },
+    "all": {
+      "id": "wtaps",
+      "source": "https://www.beams.co.jp/styling/fkp/1243434/",
+      "image": "https://cdn-cms.beams.co.jp/cdn/cms/styling/1243434/main_CYoTlD.jpg",
+      "credit": "BEAMS 男裝穿搭示例",
+      "basis": "BEAMS 官方男裝搜尋及具名造型內品牌文字／商品",
+      "note": "造型含其他品牌；本站只標示此品牌出現在造型中，不將整套視為本品牌商品。",
+      "checkedAt": "2026-10-15"
+    }
+  },
+  "wackomaria": {
+    "men": {
+      "id": "wackomaria",
+      "source": "https://www.beams.co.jp/styling/s/1243591/",
+      "image": "https://cdn-cms.beams.co.jp/cdn/cms/styling/1243591/main_vIUacB.jpg",
+      "credit": "BEAMS 男裝穿搭示例",
+      "basis": "BEAMS 官方男裝搜尋及具名造型內品牌文字／商品",
+      "note": "造型含其他品牌；本站只標示此品牌出現在造型中，不將整套視為本品牌商品。",
+      "checkedAt": "2026-10-15"
+    },
+    "all": {
+      "id": "wackomaria",
+      "source": "https://www.beams.co.jp/styling/s/1243591/",
+      "image": "https://cdn-cms.beams.co.jp/cdn/cms/styling/1243591/main_vIUacB.jpg",
+      "credit": "BEAMS 男裝穿搭示例",
+      "basis": "BEAMS 官方男裝搜尋及具名造型內品牌文字／商品",
+      "note": "造型含其他品牌；本站只標示此品牌出現在造型中，不將整套視為本品牌商品。",
+      "checkedAt": "2026-10-15"
+    }
+  },
+  "sacai": {
+    "men": {
+      "id": "sacai",
+      "source": "https://www.beams.co.jp/styling/kwb/859484/",
+      "image": "https://cdn-cms.beams.co.jp/cdn/cms/styling/859484/main_K2aEHC.jpg",
+      "credit": "BEAMS 男裝穿搭示例（2023 歷史影像）",
+      "basis": "BEAMS 官方男裝搜尋及具名造型內品牌文字／商品",
+      "note": "造型含其他品牌；本站只標示此品牌出現在造型中，不將整套視為本品牌商品。",
+      "checkedAt": "2026-10-15"
+    },
+    "all": {
+      "id": "sacai",
+      "source": "https://www.beams.co.jp/styling/kwb/859484/",
+      "image": "https://cdn-cms.beams.co.jp/cdn/cms/styling/859484/main_K2aEHC.jpg",
+      "credit": "BEAMS 男裝穿搭示例（2023 歷史影像）",
+      "basis": "BEAMS 官方男裝搜尋及具名造型內品牌文字／商品",
+      "note": "造型含其他品牌；本站只標示此品牌出現在造型中，不將整套視為本品牌商品。",
+      "checkedAt": "2026-10-15"
+    }
+  },
+  "hyke": {
+    "men": {
+      "image": "https://coverchord.com/cdn/shop/files/VHYK-J4505_018_02_ff595702-fc3c-4456-bf02-554037e1ff44_900x.jpg?v=1789883470",
+      "source": "https://coverchord.com/products/vhyk-j4505?variant=45860392861887",
+      "credit": "官方／日本通路男裝穿搭示例",
+      "checkedAt": "2026-10-15",
+      "basis": "具名品牌來源、服裝分類及人工穿搭圖核對",
+      "note": "造型可能搭配其他品牌，非整套同品牌或價格。"
+    },
+    "all": {
+      "image": "https://coverchord.com/cdn/shop/files/VHYK-J4505_018_02_ff595702-fc3c-4456-bf02-554037e1ff44_900x.jpg?v=1789883470",
+      "source": "https://coverchord.com/products/vhyk-j4505?variant=45860392861887",
+      "credit": "官方／日本通路男裝穿搭示例",
+      "checkedAt": "2026-10-15",
+      "basis": "具名品牌來源、服裝分類及人工穿搭圖核對",
+      "note": "造型可能搭配其他品牌，非整套同品牌或價格。"
+    }
+  },
+  "undercover": {
+    "men": {
+      "id": "undercover",
+      "source": "https://www.beams.co.jp/styling/nso/1239443/",
+      "image": "https://cdn-cms.beams.co.jp/cdn/cms/styling/1239443/main_RUwLG4.jpg",
+      "credit": "BEAMS 男裝穿搭示例",
+      "basis": "BEAMS 官方男裝搜尋及具名造型內品牌文字／商品",
+      "note": "造型含其他品牌；本站只標示此品牌出現在造型中，不將整套視為本品牌商品。",
+      "checkedAt": "2026-10-15"
+    },
+    "all": {
+      "id": "undercover",
+      "source": "https://www.beams.co.jp/styling/nso/1239443/",
+      "image": "https://cdn-cms.beams.co.jp/cdn/cms/styling/1239443/main_RUwLG4.jpg",
+      "credit": "BEAMS 男裝穿搭示例",
+      "basis": "BEAMS 官方男裝搜尋及具名造型內品牌文字／商品",
+      "note": "造型含其他品牌；本站只標示此品牌出現在造型中，不將整套視為本品牌商品。",
+      "checkedAt": "2026-10-15"
+    }
+  },
+  "junya-watanabe": {
+    "men": {
+      "id": "junya-watanabe",
+      "source": "https://www.beams.co.jp/styling/j/1237617/",
+      "image": "https://cdn-cms.beams.co.jp/cdn/cms/styling/1237617/main_9XxnAU.jpg",
+      "credit": "BEAMS 男裝穿搭示例",
+      "basis": "BEAMS 官方男裝搜尋及具名造型內品牌文字／商品",
+      "note": "造型含其他品牌；本站只標示此品牌出現在造型中，不將整套視為本品牌商品。",
+      "checkedAt": "2026-10-15"
+    },
+    "all": {
+      "id": "junya-watanabe",
+      "source": "https://www.beams.co.jp/styling/j/1237617/",
+      "image": "https://cdn-cms.beams.co.jp/cdn/cms/styling/1237617/main_9XxnAU.jpg",
+      "credit": "BEAMS 男裝穿搭示例",
+      "basis": "BEAMS 官方男裝搜尋及具名造型內品牌文字／商品",
+      "note": "造型含其他品牌；本站只標示此品牌出現在造型中，不將整套視為本品牌商品。",
+      "checkedAt": "2026-10-15"
+    }
+  },
+  "fullcount": {
+    "men": {
+      "id": "fullcount",
+      "source": "https://www.beams.co.jp/styling/hoo/62258/",
+      "image": "https://cdn-cms.beams.co.jp/cdn/cms/styling/62258/main_6GZBZ0_s.png",
+      "credit": "BEAMS 男裝穿搭示例（2018 歷史影像）",
+      "basis": "BEAMS 官方男裝搜尋及具名造型內品牌文字／商品",
+      "note": "造型含其他品牌；本站只標示此品牌出現在造型中，不將整套視為本品牌商品。",
+      "checkedAt": "2026-10-15"
+    },
+    "all": {
+      "id": "fullcount",
+      "source": "https://www.beams.co.jp/styling/hoo/62258/",
+      "image": "https://cdn-cms.beams.co.jp/cdn/cms/styling/62258/main_6GZBZ0_s.png",
+      "credit": "BEAMS 男裝穿搭示例（2018 歷史影像）",
+      "basis": "BEAMS 官方男裝搜尋及具名造型內品牌文字／商品",
+      "note": "造型含其他品牌；本站只標示此品牌出現在造型中，不將整套視為本品牌商品。",
+      "checkedAt": "2026-10-15"
+    }
+  },
+  "edwin": {
+    "men": {
+      "id": "edwin",
+      "source": "https://www.beams.co.jp/styling/kso/1242336/",
+      "image": "https://cdn-cms.beams.co.jp/cdn/cms/styling/1242336/main_XrxyJ1.jpg",
+      "credit": "BEAMS 男裝穿搭示例",
+      "basis": "BEAMS 官方男裝搜尋及具名造型內品牌文字／商品",
+      "note": "造型含其他品牌；本站只標示此品牌出現在造型中，不將整套視為本品牌商品。",
+      "checkedAt": "2026-10-15"
+    },
+    "all": {
+      "id": "edwin",
+      "source": "https://www.beams.co.jp/styling/kso/1242336/",
+      "image": "https://cdn-cms.beams.co.jp/cdn/cms/styling/1242336/main_XrxyJ1.jpg",
+      "credit": "BEAMS 男裝穿搭示例",
+      "basis": "BEAMS 官方男裝搜尋及具名造型內品牌文字／商品",
+      "note": "造型含其他品牌；本站只標示此品牌出現在造型中，不將整套視為本品牌商品。",
+      "checkedAt": "2026-10-15"
+    }
+  },
+  "chums": {
+    "men": {
+      "image": "https://www.chums.jp/img/goods/CH04-1530_G004_mf.JPG",
+      "source": "https://www.chums.jp/goods/CH04-1530-G004-04",
+      "credit": "官方／日本通路男裝穿搭示例",
+      "checkedAt": "2026-10-15",
+      "basis": "具名品牌來源、服裝分類及人工穿搭圖核對",
+      "note": "造型可能搭配其他品牌，非整套同品牌或價格。"
+    },
+    "women": {
+      "image": "https://www.chums.jp/img/goods/CH04-1530_N112_wf.JPG",
+      "source": "https://www.chums.jp/goods/CH04-1530-G004-04",
+      "credit": "官方／日本通路女裝穿搭示例",
+      "checkedAt": "2026-10-15",
+      "basis": "具名品牌來源、服裝分類及人工穿搭圖核對",
+      "note": "造型可能搭配其他品牌，非整套同品牌或價格。"
+    },
+    "all": {
+      "image": "https://www.chums.jp/img/goods/CH04-1530_G004_mf.JPG",
+      "source": "https://www.chums.jp/goods/CH04-1530-G004-04",
+      "credit": "官方／日本通路男裝穿搭示例",
+      "checkedAt": "2026-10-15",
+      "basis": "具名品牌來源、服裝分類及人工穿搭圖核對",
+      "note": "造型可能搭配其他品牌，非整套同品牌或價格。"
+    }
+  },
+  "manastash": {
+    "men": {
+      "id": "manastash",
+      "source": "https://www.beams.co.jp/styling/oko/328712/",
+      "image": "https://cdn-cms.beams.co.jp/cdn/cms/styling/328712/main_CSXnUb.jpg",
+      "credit": "BEAMS 男裝穿搭示例（2021 歷史影像）",
+      "basis": "BEAMS 官方男裝搜尋及具名造型內品牌文字／商品",
+      "note": "造型含其他品牌；本站只標示此品牌出現在造型中，不將整套視為本品牌商品。",
+      "checkedAt": "2026-10-15"
+    },
+    "all": {
+      "id": "manastash",
+      "source": "https://www.beams.co.jp/styling/oko/328712/",
+      "image": "https://cdn-cms.beams.co.jp/cdn/cms/styling/328712/main_CSXnUb.jpg",
+      "credit": "BEAMS 男裝穿搭示例（2021 歷史影像）",
+      "basis": "BEAMS 官方男裝搜尋及具名造型內品牌文字／商品",
+      "note": "造型含其他品牌；本站只標示此品牌出現在造型中，不將整套視為本品牌商品。",
+      "checkedAt": "2026-10-15"
+    }
+  },
+  "yamatomichi": {
+    "men": {
+      "image": "https://cdns3.yamatomichi.com/wp-content/uploads/2019/02/2026_5-Pocket-Pants_Shigeru_172cm_60kg_LLight-Blue_-178.jpg",
+      "source": "https://www.yamatomichi.com/en/products/5-pocket-pants-m",
+      "credit": "品牌／日本通路穿搭示例",
+      "checkedAt": "2026-10-15",
+      "basis": "具名商品頁與人工圖像核對",
+      "note": "造型可能搭配其他品牌，商品歸屬請見單品資料。"
+    },
+    "all": {
+      "image": "https://cdns3.yamatomichi.com/wp-content/uploads/2019/02/2026_5-Pocket-Pants_Shigeru_172cm_60kg_LLight-Blue_-178.jpg",
+      "source": "https://www.yamatomichi.com/en/products/5-pocket-pants-m",
+      "credit": "品牌／日本通路穿搭示例",
+      "checkedAt": "2026-10-15",
+      "basis": "具名商品頁與人工圖像核對",
+      "note": "造型可能搭配其他品牌，商品歸屬請見單品資料。"
+    }
+  },
+  "dulcamara": {
+    "men": {
+      "image": "https://anlio.jp/cdn/shop/files/26ss53384_c2acf913-a30c-4651-b217-efa739d7f2e2.jpg?v=1762155425&width=1946",
+      "source": "https://anlio.jp/products/100132433",
+      "credit": "品牌／日本通路穿搭示例",
+      "checkedAt": "2026-10-15",
+      "basis": "具名商品頁與人工圖像核對",
+      "note": "造型可能搭配其他品牌，商品歸屬請見單品資料。"
+    },
+    "all": {
+      "image": "https://anlio.jp/cdn/shop/files/26ss53384_c2acf913-a30c-4651-b217-efa739d7f2e2.jpg?v=1762155425&width=1946",
+      "source": "https://anlio.jp/products/100132433",
+      "credit": "品牌／日本通路穿搭示例",
+      "checkedAt": "2026-10-15",
+      "basis": "具名商品頁與人工圖像核對",
+      "note": "造型可能搭配其他品牌，商品歸屬請見單品資料。"
+    }
+  },
+  "maison-kitsune": {
+    "men": {
+      "image": "https://media.maisonkitsune.com/media/catalog/product/cache/5b6799a1e14ed1d66eedf309ab07601e/p/m/pm00107kj7026-p199_12.jpg",
+      "source": "https://maisonkitsune.com/jp/fox-head-regular-tee-shirt-black-6855fab7c3277.html",
+      "credit": "官方／日本通路男裝穿搭示例",
+      "checkedAt": "2026-10-15",
+      "basis": "具名品牌來源、服裝分類及人工穿搭圖核對",
+      "note": "造型可能搭配其他品牌，非整套同品牌或價格。"
+    },
+    "all": {
+      "image": "https://media.maisonkitsune.com/media/catalog/product/cache/5b6799a1e14ed1d66eedf309ab07601e/p/m/pm00107kj7026-p199_12.jpg",
+      "source": "https://maisonkitsune.com/jp/fox-head-regular-tee-shirt-black-6855fab7c3277.html",
+      "credit": "官方／日本通路男裝穿搭示例",
+      "checkedAt": "2026-10-15",
+      "basis": "具名品牌來源、服裝分類及人工穿搭圖核對",
+      "note": "造型可能搭配其他品牌，非整套同品牌或價格。"
+    }
+  },
+  "herill": {
+    "men": {
+      "image": "https://www.diverse-web.com/cdn/shop/files/yohei-herill-4.jpg?v=1777546242&width=1946",
+      "source": "https://www.diverse-web.com/products/broad-work-shirt-1",
+      "credit": "官方／日本通路男裝穿搭示例",
+      "checkedAt": "2026-10-15",
+      "basis": "具名品牌來源、服裝分類及人工穿搭圖核對",
+      "note": "造型可能搭配其他品牌，非整套同品牌或價格。"
+    },
+    "all": {
+      "image": "https://www.diverse-web.com/cdn/shop/files/yohei-herill-4.jpg?v=1777546242&width=1946",
+      "source": "https://www.diverse-web.com/products/broad-work-shirt-1",
+      "credit": "官方／日本通路男裝穿搭示例",
+      "checkedAt": "2026-10-15",
+      "basis": "具名品牌來源、服裝分類及人工穿搭圖核對",
+      "note": "造型可能搭配其他品牌，非整套同品牌或價格。"
+    }
+  },
+  "sfc": {
+    "men": {
+      "image": "https://www.diverse-web.com/cdn/shop/files/SFC_LOOK_23AW_04_R_cd44313b-2a97-4407-ad0e-208baecf544e.jpg?v=1697193891&width=1946",
+      "source": "https://www.diverse-web.com/products/super-wide-denim-pants",
+      "credit": "官方／日本通路男裝穿搭示例",
+      "checkedAt": "2026-10-15",
+      "basis": "具名品牌來源、服裝分類及人工穿搭圖核對",
+      "note": "造型可能搭配其他品牌，非整套同品牌或價格。"
+    },
+    "all": {
+      "image": "https://www.diverse-web.com/cdn/shop/files/SFC_LOOK_23AW_04_R_cd44313b-2a97-4407-ad0e-208baecf544e.jpg?v=1697193891&width=1946",
+      "source": "https://www.diverse-web.com/products/super-wide-denim-pants",
+      "credit": "官方／日本通路男裝穿搭示例",
+      "checkedAt": "2026-10-15",
+      "basis": "具名品牌來源、服裝分類及人工穿搭圖核對",
+      "note": "造型可能搭配其他品牌，非整套同品牌或價格。"
+    }
+  },
+  "sophnet": {
+    "men": {
+      "image": "https://www.soph.net/img/usr/lookbook/sophnet/lookbook_spnt2627aw_5.jpg",
+      "source": "https://www.soph.net/shop/pages/lookbook_sophnet2627aw.aspx",
+      "credit": "官方／日本通路男裝穿搭示例",
+      "checkedAt": "2026-10-15",
+      "basis": "具名品牌來源、服裝分類及人工穿搭圖核對",
+      "note": "造型可能搭配其他品牌，非整套同品牌或價格。"
+    },
+    "all": {
+      "image": "https://www.soph.net/img/usr/lookbook/sophnet/lookbook_spnt2627aw_5.jpg",
+      "source": "https://www.soph.net/shop/pages/lookbook_sophnet2627aw.aspx",
+      "credit": "官方／日本通路男裝穿搭示例",
+      "checkedAt": "2026-10-15",
+      "basis": "具名品牌來源、服裝分類及人工穿搭圖核對",
+      "note": "造型可能搭配其他品牌，非整套同品牌或價格。"
+    }
+  },
+  "houdini": {
+    "men": {
+      "image": "https://full-marks.com/houdini/wp-content/uploads/sites/3/2026/10/830075_191_100_Men_Lykan_Full_Zip_foggy_mountain_c_low.jpg",
+      "source": "https://full-marks.com/houdini/",
+      "credit": "官方／日本通路男裝穿搭示例",
+      "checkedAt": "2026-10-15",
+      "basis": "具名品牌來源、服裝分類及人工穿搭圖核對",
+      "note": "造型可能搭配其他品牌，非整套同品牌或價格。"
+    },
+    "women": {
+      "image": "https://full-marks.com/houdini/wp-content/uploads/sites/3/2026/10/830060_191_101_Women_Lykan_Crew_foggy_mountain_c_low.jpg",
+      "source": "https://full-marks.com/houdini/",
+      "credit": "官方／日本通路女裝穿搭示例",
+      "checkedAt": "2026-10-15",
+      "basis": "具名品牌來源、服裝分類及人工穿搭圖核對",
+      "note": "造型可能搭配其他品牌，非整套同品牌或價格。"
+    },
+    "all": {
+      "image": "https://full-marks.com/houdini/wp-content/uploads/sites/3/2026/10/830075_191_100_Men_Lykan_Full_Zip_foggy_mountain_c_low.jpg",
+      "source": "https://full-marks.com/houdini/",
+      "credit": "官方／日本通路男裝穿搭示例",
+      "checkedAt": "2026-10-15",
+      "basis": "具名品牌來源、服裝分類及人工穿搭圖核對",
+      "note": "造型可能搭配其他品牌，非整套同品牌或價格。"
+    }
+  },
+  "margaret-howell": {
+    "men": {
+      "image": "https://www.margarethowell.jp/on/demandware.static/-/Sites-MARGARETHOWELL-Library/ja_JP/images/column/mackintosh/260622015.webp",
+      "source": "https://www.margarethowell.jp/column/mackintosh-for-margarethowell.html",
+      "credit": "官方／日本通路男裝穿搭示例",
+      "checkedAt": "2026-10-15",
+      "basis": "具名品牌來源、服裝分類及人工穿搭圖核對",
+      "note": "造型可能搭配其他品牌，非整套同品牌或價格。"
+    },
+    "women": {
+      "image": "https://www.margarethowell.jp/on/demandware.static/-/Sites-MARGARETHOWELL-Library/ja_JP/images/column/mackintosh/260622012.webp",
+      "source": "https://www.margarethowell.jp/column/mackintosh-for-margarethowell.html",
+      "credit": "官方／日本通路女裝穿搭示例",
+      "checkedAt": "2026-10-15",
+      "basis": "具名品牌來源、服裝分類及人工穿搭圖核對",
+      "note": "造型可能搭配其他品牌，非整套同品牌或價格。"
+    },
+    "all": {
+      "image": "https://www.margarethowell.jp/on/demandware.static/-/Sites-MARGARETHOWELL-Library/ja_JP/images/column/mackintosh/260622015.webp",
+      "source": "https://www.margarethowell.jp/column/mackintosh-for-margarethowell.html",
+      "credit": "官方／日本通路男裝穿搭示例",
+      "checkedAt": "2026-10-15",
+      "basis": "具名品牌來源、服裝分類及人工穿搭圖核對",
+      "note": "造型可能搭配其他品牌，非整套同品牌或價格。"
+    }
+  },
+  "lululemon": {
+    "men": {
+      "image": "https://images.lululemon.com/is/image/lululemon/LM3H75S_077007_2?size=800,800",
+      "source": "https://www.lululemon.co.jp/ja-jp/c/men",
+      "credit": "官方／日本通路男裝穿搭示例",
+      "checkedAt": "2026-10-15",
+      "basis": "具名品牌來源、服裝分類及人工穿搭圖核對",
+      "note": "造型可能搭配其他品牌，非整套同品牌或價格。"
+    },
+    "all": {
+      "image": "https://images.lululemon.com/is/image/lululemon/LM3H75S_077007_2?size=800,800",
+      "source": "https://www.lululemon.co.jp/ja-jp/c/men",
+      "credit": "官方／日本通路男裝穿搭示例",
+      "checkedAt": "2026-10-15",
+      "basis": "具名品牌來源、服裝分類及人工穿搭圖核對",
+      "note": "造型可能搭配其他品牌，非整套同品牌或價格。"
+    }
+  },
+  "cos": {
+    "men": {
+      "image": "https://www.cos.com/ja-jp/photo/contents_block/plp_contents/Oct%2014th%20M%20New%20Arrivals/MW%20PRE%20WINTER-19.jpg",
+      "source": "https://www.cos.com/ja-jp/men/new-arrivals",
+      "credit": "官方／日本通路男裝穿搭示例",
+      "checkedAt": "2026-10-15",
+      "basis": "具名品牌來源、服裝分類及人工穿搭圖核對",
+      "note": "造型可能搭配其他品牌，非整套同品牌或價格。"
+    },
+    "all": {
+      "image": "https://www.cos.com/ja-jp/photo/contents_block/plp_contents/Oct%2014th%20M%20New%20Arrivals/MW%20PRE%20WINTER-19.jpg",
+      "source": "https://www.cos.com/ja-jp/men/new-arrivals",
+      "credit": "官方／日本通路男裝穿搭示例",
+      "checkedAt": "2026-10-15",
+      "basis": "具名品牌來源、服裝分類及人工穿搭圖核對",
+      "note": "造型可能搭配其他品牌，非整套同品牌或價格。"
+    }
+  },
+  "zara": {
+    "men": {
+      "image": "https://static.zara.net/assets/public/3641/cdf6/dd0c40318b02/c01c1d76e892/05585359727-p/05585359727-p.jpg?ts=1789487349606&w=2625",
+      "source": "https://www.zara.com/jp/ja/straight-ankle-fit-%E3%83%86%E3%82%99%E3%83%8B%E3%83%A0%E3%83%8F%E3%82%9A%E3%83%B3%E3%83%84-p05585358.html",
+      "credit": "官方／日本通路男裝穿搭示例",
+      "checkedAt": "2026-10-15",
+      "basis": "具名品牌來源、服裝分類及人工穿搭圖核對",
+      "note": "造型可能搭配其他品牌，非整套同品牌或價格。"
+    },
+    "all": {
+      "image": "https://static.zara.net/assets/public/3641/cdf6/dd0c40318b02/c01c1d76e892/05585359727-p/05585359727-p.jpg?ts=1789487349606&w=2625",
+      "source": "https://www.zara.com/jp/ja/straight-ankle-fit-%E3%83%86%E3%82%99%E3%83%8B%E3%83%A0%E3%83%8F%E3%82%9A%E3%83%B3%E3%83%84-p05585358.html",
+      "credit": "官方／日本通路男裝穿搭示例",
+      "checkedAt": "2026-10-15",
+      "basis": "具名品牌來源、服裝分類及人工穿搭圖核對",
+      "note": "造型可能搭配其他品牌，非整套同品牌或價格。"
+    }
+  },
+  "ciota": {
+    "men": {
+      "image": "https://shop.ciota.jp/cdn/shop/files/PTLM-21STB-1_1500x.jpg?v=1783652095",
+      "source": "https://shop.ciota.jp/products/new-straight-5-pocket-pants",
+      "credit": "官方／日本通路男裝穿搭示例",
+      "checkedAt": "2026-10-15",
+      "basis": "具名品牌來源、服裝分類及人工穿搭圖核對",
+      "note": "造型可能搭配其他品牌，非整套同品牌或價格。"
+    },
+    "all": {
+      "image": "https://shop.ciota.jp/cdn/shop/files/PTLM-21STB-1_1500x.jpg?v=1783652095",
+      "source": "https://shop.ciota.jp/products/new-straight-5-pocket-pants",
+      "credit": "官方／日本通路男裝穿搭示例",
+      "checkedAt": "2026-10-15",
+      "basis": "具名品牌來源、服裝分類及人工穿搭圖核對",
+      "note": "造型可能搭配其他品牌，非整套同品牌或價格。"
+    }
+  },
+  "toga": {
+    "men": {
+      "image": "https://int.toga.jp/cdn/shop/files/TV262-JL527_01_1600x.jpg?v=1790753877",
+      "source": "https://int.toga.jp/products/tv262-jl527",
+      "credit": "官方／日本通路男裝穿搭示例",
+      "checkedAt": "2026-10-15",
+      "basis": "具名品牌來源、服裝分類及人工穿搭圖核對",
+      "note": "造型可能搭配其他品牌，非整套同品牌或價格。"
+    },
+    "all": {
+      "image": "https://int.toga.jp/cdn/shop/files/TV262-JL527_01_1600x.jpg?v=1790753877",
+      "source": "https://int.toga.jp/products/tv262-jl527",
+      "credit": "官方／日本通路男裝穿搭示例",
+      "checkedAt": "2026-10-15",
+      "basis": "具名品牌來源、服裝分類及人工穿搭圖核對",
+      "note": "造型可能搭配其他品牌，非整套同品牌或價格。"
+    }
+  },
+  "mhl": {
+    "men": {
+      "image": "https://mix.tokyo/cdn/shop/files/5956225600-121_MAIN.jpg?v=1788462214&width=1920",
+      "source": "https://mix.tokyo/products/5956225600?utm_source=margarethowelljp&utm_medium=column&utm_campaign=mhlutilitywear&utm_term=5956225600",
+      "credit": "官方／日本通路男裝穿搭示例",
+      "checkedAt": "2026-10-15",
+      "basis": "具名品牌來源、服裝分類及人工穿搭圖核對",
+      "note": "造型可能搭配其他品牌，非整套同品牌或價格。"
+    },
+    "all": {
+      "image": "https://mix.tokyo/cdn/shop/files/5956225600-121_MAIN.jpg?v=1788462214&width=1920",
+      "source": "https://mix.tokyo/products/5956225600?utm_source=margarethowelljp&utm_medium=column&utm_campaign=mhlutilitywear&utm_term=5956225600",
+      "credit": "官方／日本通路男裝穿搭示例",
+      "checkedAt": "2026-10-15",
+      "basis": "具名品牌來源、服裝分類及人工穿搭圖核對",
+      "note": "造型可能搭配其他品牌，非整套同品牌或價格。"
+    }
+  },
+  "acne-studios": {
+    "men": {
+      "image": "https://www.acnestudios.com/dw/image/v2/AAXV_PRD/on/demandware.static/-/Sites-acne-product-catalog/default/dwdefc3c65/images/B0/B00529-/2000x/B00529-863_A.jpg?sw=1120&sh=1680",
+      "source": "https://www.acnestudios.com/jp/ja/acne-studios-1996m-action-rw/B00529-863.html?g=man",
+      "credit": "官方／日本通路男裝穿搭示例",
+      "checkedAt": "2026-10-15",
+      "basis": "具名品牌來源、服裝分類及人工穿搭圖核對",
+      "note": "造型可能搭配其他品牌，非整套同品牌或價格。"
+    },
+    "all": {
+      "image": "https://www.acnestudios.com/dw/image/v2/AAXV_PRD/on/demandware.static/-/Sites-acne-product-catalog/default/dwdefc3c65/images/B0/B00529-/2000x/B00529-863_A.jpg?sw=1120&sh=1680",
+      "source": "https://www.acnestudios.com/jp/ja/acne-studios-1996m-action-rw/B00529-863.html?g=man",
+      "credit": "官方／日本通路男裝穿搭示例",
+      "checkedAt": "2026-10-15",
+      "basis": "具名品牌來源、服裝分類及人工穿搭圖核對",
+      "note": "造型可能搭配其他品牌，非整套同品牌或價格。"
+    }
+  },
+  "japan-blue-jeans": {
+    "men": {
+      "image": "https://roco2web.com/cdn/shop/files/preview_images/f939f02749114c92846f6578d4de871c.thumbnail.0000000000.jpg?v=1765249920&width=720",
+      "source": "https://roco2web.com/products/21651",
+      "credit": "官方／日本通路男裝穿搭示例",
+      "checkedAt": "2026-10-15",
+      "basis": "具名品牌來源、服裝分類及人工穿搭圖核對",
+      "note": "造型可能搭配其他品牌，非整套同品牌或價格。"
+    },
+    "all": {
+      "image": "https://roco2web.com/cdn/shop/files/preview_images/f939f02749114c92846f6578d4de871c.thumbnail.0000000000.jpg?v=1765249920&width=720",
+      "source": "https://roco2web.com/products/21651",
+      "credit": "官方／日本通路男裝穿搭示例",
+      "checkedAt": "2026-10-15",
+      "basis": "具名品牌來源、服裝分類及人工穿搭圖核對",
+      "note": "造型可能搭配其他品牌，非整套同品牌或價格。"
+    }
+  },
+  "uniform-experiment": {
+    "men": {
+      "image": "https://www.soph.net/img/usr/lookbook/ue/lookbook_ue2627aw_2.jpg",
+      "source": "https://www.soph.net/shop/pages/lookbook_ue2627aw.aspx",
+      "credit": "官方 2026–27 秋冬男裝穿搭",
+      "checkedAt": "2026-10-15"
+    },
+    "all": {
+      "image": "https://www.soph.net/img/usr/lookbook/ue/lookbook_ue2627aw_2.jpg",
+      "source": "https://www.soph.net/shop/pages/lookbook_ue2627aw.aspx",
+      "credit": "官方 2026–27 秋冬男裝穿搭",
+      "checkedAt": "2026-10-15"
+    }
+  },
+  "the-row": {
+    "men": {
+      "image": "https://www.therow.com/cdn/shop/files/TheRow_Fall2024_Mens_Look5_800x.jpg?v=1738163980",
+      "source": "https://www.therow.com/collections/men-fall-2024",
+      "credit": "官方 2024 秋冬男裝穿搭（歷史影像）",
+      "checkedAt": "2026-10-15"
+    },
+    "all": {
+      "image": "https://www.therow.com/cdn/shop/files/TheRow_Fall2024_Mens_Look5_800x.jpg?v=1738163980",
+      "source": "https://www.therow.com/collections/men-fall-2024",
+      "credit": "官方 2024 秋冬男裝穿搭（歷史影像）",
+      "checkedAt": "2026-10-15"
+    }
+  },
+  "gymphlex": {
+    "men": {
+      "image": "https://cdn-cms.beams.co.jp/cdn/cms/styling/732237/main_dx9MX3_s.jpg",
+      "source": "https://www.beams.co.jp/styling/bming/732237/",
+      "credit": "日本通路男裝穿搭示例（2023 歷史影像）",
+      "checkedAt": "2026-10-15"
+    },
+    "all": {
+      "image": "https://cdn-cms.beams.co.jp/cdn/cms/styling/732237/main_dx9MX3_s.jpg",
+      "source": "https://www.beams.co.jp/styling/bming/732237/",
+      "credit": "日本通路男裝穿搭示例（2023 歷史影像）",
+      "checkedAt": "2026-10-15"
+    }
+  },
+  "seesee": {
+    "men": {
+      "image": "https://www.urban-research.jp/img/goods/26urbs/BS26110-1010328/107_b_100.jpg?a=20261016050632600",
+      "source": "https://www.urban-research.jp/shop/g/gBS26110-1010328/",
+      "credit": "官方 2026 男裝穿搭示例",
+      "checkedAt": "2026-10-15"
+    },
+    "all": {
+      "image": "https://www.urban-research.jp/img/goods/26urbs/BS26110-1010328/107_b_100.jpg?a=20261016050632600",
+      "source": "https://www.urban-research.jp/shop/g/gBS26110-1010328/",
+      "credit": "官方 2026 男裝穿搭示例",
+      "checkedAt": "2026-10-15"
+    }
+  },
+  "supreme": {
+    "men": {
+      "image": "https://cdn.sanity.io/images/ldn4d4qt/fw26-production-2026-08-16/73e8cd60faa343fd59e263b41e28c26fb6e0593e-1639x2048.jpg?w=1500&q=90&auto=format",
+      "source": "https://supreme.com/lookbook/46",
+      "credit": "官方 2026 男裝穿搭示例",
+      "checkedAt": "2026-10-15"
+    },
+    "all": {
+      "image": "https://cdn.sanity.io/images/ldn4d4qt/fw26-production-2026-08-16/73e8cd60faa343fd59e263b41e28c26fb6e0593e-1639x2048.jpg?w=1500&q=90&auto=format",
+      "source": "https://supreme.com/lookbook/46",
+      "credit": "官方 2026 男裝穿搭示例",
+      "checkedAt": "2026-10-15"
+    }
+  },
+  "fce": {
+    "men": {
+      "image": "https://coverchord.com/cdn/shop/files/VFC-BG4504_036_02_34fa2f07-23e2-4099-8af3-92c8302f8c4f_900x.jpg?v=1788662719",
+      "source": "https://coverchord.com/products/vfc-bg4504",
+      "credit": "日本通路男裝配搭示例",
+      "checkedAt": "2026-10-15"
+    },
+    "all": {
+      "image": "https://coverchord.com/cdn/shop/files/VFC-BG4504_036_02_34fa2f07-23e2-4099-8af3-92c8302f8c4f_900x.jpg?v=1788662719",
+      "source": "https://coverchord.com/products/vfc-bg4504",
+      "credit": "日本通路男裝配搭示例",
+      "checkedAt": "2026-10-15"
+    }
+  },
+  "on": {
+    "men": {
+      "image": "https://images.ctfassets.net/hnk2vsx53n6l/733JeJOaQ8e40kuKf96OCm/bcda77f74f77b435756a3bee8e4de319/dumclhky07detkljmr3d.png?w=3201&h=4000&fm=avif&f=center&fit=fill&q=80",
+      "source": "https://www.on.com/ja-jp/products/club-hoodie-1me1003/mens/black-apparel-1ME10030553",
+      "credit": "官方男裝穿搭示例",
+      "checkedAt": "2026-10-15"
+    },
+    "all": {
+      "image": "https://images.ctfassets.net/hnk2vsx53n6l/733JeJOaQ8e40kuKf96OCm/bcda77f74f77b435756a3bee8e4de319/dumclhky07detkljmr3d.png?w=3201&h=4000&fm=avif&f=center&fit=fill&q=80",
+      "source": "https://www.on.com/ja-jp/products/club-hoodie-1me1003/mens/black-apparel-1ME10030553",
+      "credit": "官方男裝穿搭示例",
+      "checkedAt": "2026-10-15"
+    }
+  },
+  "comme-des-garcons": {
+    "men": {
+      "image": "https://loftman.co.jp/img/page_block/blog_coop2f_2026_02_05_02_22.jpg",
+      "source": "https://loftman.co.jp/shop/pg/1coopkyoto2fblog2026020502/",
+      "credit": "日本通路 2026 春夏男裝穿搭",
+      "checkedAt": "2026-10-15"
+    },
+    "all": {
+      "image": "https://loftman.co.jp/img/page_block/blog_coop2f_2026_02_05_02_22.jpg",
+      "source": "https://loftman.co.jp/shop/pg/1coopkyoto2fblog2026020502/",
+      "credit": "日本通路 2026 春夏男裝穿搭",
+      "checkedAt": "2026-10-15"
+    }
+  },
+  "saint-james": {
+    "men": {
+      "image": "https://cdn-cms.beams.co.jp/cdn/cms/styling/1240736/main_2qmwk5_s.jpg",
+      "source": "https://www.beams.co.jp/styling/188/1240736/",
+      "credit": "日本通路男裝穿搭示例",
+      "checkedAt": "2026-10-15"
+    },
+    "all": {
+      "image": "https://cdn-cms.beams.co.jp/cdn/cms/styling/1240736/main_2qmwk5_s.jpg",
+      "source": "https://www.beams.co.jp/styling/188/1240736/",
+      "credit": "日本通路男裝穿搭示例",
+      "checkedAt": "2026-10-15"
+    }
+  },
+  "setto": {
+    "men": {
+      "image": "https://cdn-cms.beams.co.jp/cdn/cms/styling/950624/main_mUddRG_s.jpg",
+      "source": "https://www.beams.co.jp/styling/fennica/950624/",
+      "credit": "日本通路男裝穿搭（2024 歷史影像）",
+      "checkedAt": "2026-10-15"
+    },
+    "all": {
+      "image": "https://cdn-cms.beams.co.jp/cdn/cms/styling/950624/main_mUddRG_s.jpg",
+      "source": "https://www.beams.co.jp/styling/fennica/950624/",
+      "credit": "日本通路男裝穿搭（2024 歷史影像）",
+      "checkedAt": "2026-10-15"
+    }
+  },
+  "miu-miu": {
+    "women": {
+      "image": "https://www.miumiu.com/content/dam/miumiu/2026/006_e-commerce/10/signature_15/menu/signatures.jpg",
+      "source": "https://www.miumiu.com/jp/ja/p/%E3%82%A6%E3%82%A9%E3%83%83%E3%82%B7%E3%83%A5%E3%83%89%E3%82%AE%E3%83%A3%E3%83%90%E3%82%B8%E3%83%B3-%E3%82%B9%E3%82%AB%E3%83%BC%E3%83%88/MG2755_19LW_F0192_S_OOO",
+      "credit": "官方女裝穿搭示例",
+      "checkedAt": "2026-10-15"
+    },
+    "all": {
+      "image": "https://www.miumiu.com/content/dam/miumiu/2026/006_e-commerce/10/signature_15/menu/signatures.jpg",
+      "source": "https://www.miumiu.com/jp/ja/p/%E3%82%A6%E3%82%A9%E3%83%83%E3%82%B7%E3%83%A5%E3%83%89%E3%82%AE%E3%83%A3%E3%83%90%E3%82%B8%E3%83%B3-%E3%82%B9%E3%82%AB%E3%83%BC%E3%83%88/MG2755_19LW_F0192_S_OOO",
+      "credit": "官方女裝穿搭示例",
+      "checkedAt": "2026-10-15"
+    }
+  },
+  "stussy": {
+    "men": {
+      "image": "https://jp.stussy.com/cdn/shop/files/sync-46414981824709.jpg?v=1792002283&width=1920",
+      "source": "https://jp.stussy.com/blogs/news/denim-tears",
+      "credit": "官方 Stüssy × Denim Tears 合作穿搭",
+      "checkedAt": "2026-10-15"
+    },
+    "all": {
+      "image": "https://jp.stussy.com/cdn/shop/files/sync-46414981824709.jpg?v=1792002283&width=1920",
+      "source": "https://jp.stussy.com/blogs/news/denim-tears",
+      "credit": "官方 Stüssy × Denim Tears 合作穿搭",
+      "checkedAt": "2026-10-15"
+    }
+  },
+  "momotaro-jeans": {
+    "men": {
+      "image": "https://www.momotaro-jeans.com/on/demandware.static/-/Sites-mtj_jp-Library/default/dw99371ea6/homepage/PC_standard_banner_01.jpg",
+      "position": "left center",
+      "source": "https://www.momotaro-jeans.com/en_US/home/",
+      "credit": "官方丹寧穿搭示例",
+      "checkedAt": "2026-10-15"
+    },
+    "all": {
+      "image": "https://www.momotaro-jeans.com/on/demandware.static/-/Sites-mtj_jp-Library/default/dw99371ea6/homepage/PC_standard_banner_01.jpg",
+      "position": "left center",
+      "source": "https://www.momotaro-jeans.com/en_US/home/",
+      "credit": "官方丹寧穿搭示例",
+      "checkedAt": "2026-10-15"
+    }
+  },
+  "coach": {
+    "men": {
+      "image": "https://coach.scene7.com/is/image/Coach/cgb30_myb_a45?$desktopProductTile$",
+      "source": "https://japan.coach.com/shop/men/clothing",
+      "credit": "官方男裝穿搭示例",
+      "checkedAt": "2026-10-15"
+    },
+    "all": {
+      "image": "https://coach.scene7.com/is/image/Coach/cgb30_myb_a45?$desktopProductTile$",
+      "source": "https://japan.coach.com/shop/men/clothing",
+      "credit": "官方男裝穿搭示例",
+      "checkedAt": "2026-10-15"
+    }
+  }
+}

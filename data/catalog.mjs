@@ -1,11 +1,12 @@
 import {pieces as currentPieces, profiles as currentProfiles, relationships as currentRelationships} from './editorial.mjs';
 import {expandedPieces,expandedProfiles,expandedRelationships} from './expanded.mjs';
 import {newProfiles,newPieces,newRelationships} from './new-edition.mjs';
+import {extendedProfiles,extendedPieces,extendedRelationships} from './extended-edition.mjs';
 import {styleOptions,extraStyleTags} from './discovery-options.mjs';
 import {pieceKind} from '../src/domain.mjs';
-const pieces={...currentPieces,...expandedPieces,...newPieces};
-const profiles={...currentProfiles,...expandedProfiles,...newProfiles};
-const relationships={...currentRelationships,...expandedRelationships,...newRelationships};
+const pieces={...currentPieces,...expandedPieces,...newPieces,...extendedPieces};
+const profiles={...currentProfiles,...expandedProfiles,...newProfiles,...extendedProfiles};
+const relationships={...currentRelationships,...expandedRelationships,...newRelationships,...extendedRelationships};
 export const checkedAt="2026-10-15";
 export const styles=styleOptions;
 const originalBrands=[
@@ -346,7 +347,7 @@ const additions=Object.entries(profiles).map(([id,profile])=>({
  fti:null, aliases:[], styles:[], audience:[], type:'服飾品牌',
  id,name:{"beams":"BEAMS","united-arrows":"UNITED ARROWS","snow-peak":"Snow Peak Apparel","auralee":"AURALEE","snidel":"SNIDEL","freaks-store":"FREAK'S STORE","urban-research":"URBAN RESEARCH","journal-standard":"JOURNAL STANDARD","mont-bell":"mont-bell","daiwa-pier39":"DAIWA PIER39","nanamica":"nanamica","graphpaper":"Graphpaper","mila-owen":"Mila Owen","clane":"CLANE"}[id] || profile.name,
  ...profile,newIn:profile.official,
- samples:[],similar:[],sources:[{label:'官方品牌／購物入口',url:profile.official},{label:'官方商品／專題',url:pieces[id][0].source}],
+ samples:[],similar:[],sources:profile.sources||[{label:'官方品牌／購物入口',url:profile.official},...(pieces[id]?.[0]?[{label:'官方商品／專題',url:pieces[id][0].source}]:[])],
 }));
 const originalShelves={'beams':'select','united-arrows':'select','snow-peak':'outdoor','auralee':'designer','snidel':'women','freaks-store':'select','urban-research':'select','journal-standard':'select','mont-bell':'outdoor','daiwa-pier39':'outdoor','nanamica':'outdoor','graphpaper':'designer','mila-owen':'women','clane':'designer','purple-label':'outdoor'};
 export const brands=[...originalBrands,...additions].map(brand=>{
