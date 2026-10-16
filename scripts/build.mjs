@@ -28,8 +28,8 @@ const pages=new Map();
 const add=(url,title,description,body,active)=>pages.set(url,shell(title,description,url,body,active));
 function journals(){return `<div class="journal-grid">${articles.map(a=>`<a class="journal-card" href="/journal/${a.slug}"><p class="eyebrow">${e(a.eyebrow)} · ${e(a.readTime)}</p><h3>${e(a.title)}</h3><p>${e(a.intro)}</p><span class="text-link">閱讀筆記 →</span></a>`).join('')}</div>`;}
 
-add('/','去日本，找到值得逛的服飾品牌','按地區逛店、按單件預算找衣服、逐步問題引導，或直接認識150個品牌與標籤。',startHero());
-add('/budget','按單件預算找服飾品牌','先選T-shirt、褲子、外套等品類，再按同類單件日圓預算找到品牌與具名單品。',budgetPage());
+add('/','去日本，找到值得逛的服飾品牌','按地區逛店、按整趟購衣預算與買法找品牌、逐步問題引導，或直接認識150個品牌與標籤。',startHero());
+add('/budget','按整趟購衣預算找品牌','先選整趟購衣日圓預算，再選多買幾件、少買買好一點或一件特別單品，找到品牌、參考單品與逛店方向。',budgetPage());
 add('/start','五步找到想逛的日本品牌','依服裝類型、想買品類、單件日圓預算、旅遊地區與穿衣喜好挑選品牌。',travelFinder(true),'start');
 add('/brands','日本可買品牌索引','認識在日本可買到的品牌、先看什麼單品，以及官方購物入口。',lead('BEFORE YOUR JAPAN TRIP','去日本，<em>有哪些品牌可以逛？</em>',`收錄 ${brands.length} 個品牌與標籤。包含日本品牌、國際品牌與小眾設計師。從常穿的衣服、單件預算開始看。` )+`<div class="wrap audience-links">${routeLink('/brands','全部品牌')}${routeLink('/men','男裝')}${routeLink('/women','女裝')}</div>`+directory(),'brands');
 for(const g of ['men','women']){
