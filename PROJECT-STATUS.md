@@ -137,3 +137,8 @@
 - 10個新具名東京門市：BEAMS PLUS、COMOLI、FREAK’S STORE、UNITED ARROWS、DSM、UNIQLO、MUJI、ATON、Nike、Patagonia。東京22據點／男裝20／女裝16；總42，既有32保留，150品牌指南全數保留。Nike採現行官網1-13-14原宿Quest1F。來源docs/tokyo-store-expansion-sources-2026-10-16.md。
 - LP保留四入口，改左右編輯構圖、真人男女穿搭、等高430px照片與來源、清楚層次；手機先看四選項，照片接續在下方。
 - 本機人工檢查：/areas/tokyo?gender=men#city-results直接20店，焦點在結果、y≈137；自選starter→2店→重新整理保留→切all回20。桌機兩張官方照片成功載入且等高；390×844手機四入口在初始畫面可見。186路由／150指南／0函式建置成功；未新增或執行自動化測試。公開檢查另記。
+
+### 東京與編輯式首頁已上線
+- 內容提交5f356c869db1699f913781593641054086fae85e；Vercel部署4oiBJPK5nhVj4pBy9P21cpiUUpFS success。正式首頁已人工確認四入口、AURALEE男裝與CLANE女裝真人照均成功載入、等高430px。
+- 正式/areas/tokyo?gender=men#city-results顯示「找到20個已整理逛店起點・男裝」，全城預設已選中；具名店卡、差異、地址與地圖可見。該次瀏覽error log空。東京全服裝22據點，並非東京完整門市名錄。
+- 證據：evidence/editorial-landing-production-2026-10-16.png、evidence/tokyo-men-20-production-2026-10-16.png（本機保存）。150指南、42據點、186靜態路由、0函式；沿用既有免費託管，沒有購買、升級或新增付費服務。
