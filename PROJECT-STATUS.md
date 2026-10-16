@@ -100,3 +100,11 @@
 - 公開撤除確認：首頁無台灣／香港或FTI文案；/trends為308轉向/brands，FTI快照404，本機研究頁404。未新增或執行自動測試。
 - 公開畫面：../outputs/toki-japan-fashion-guide/brands-70-live-2026-10-15.png、category-budget-mobile-live-2026-10-15.png。維持既有免費Hobby，無新增付費服務。
 - 範圍限制：地址目前只涵蓋BEAMS／AURALEE部分12據點，不是全國門市名冊；價錢和品類依具名已收錄樣本，沒有價格資料的品牌只能在不限預算時顯示。下一步擴充同品類價格與官方門市資料。
+
+### Production verification — 2026-10-15
+
+- Content commit 2456fbcede17ff67634d7de8900adf96b6f6817b pushed to main. Vercel deployment FAmFd9JQtD1LKjpnaxsm4ZR6TZdz completed successfully in the existing rent22 project.
+- Public https://toki-japan-fashion-guide.vercel.app/build-manifest.json and /data/catalog.json returned HTTP 200: 150 guides / 177 routes / 0 functions. COS, SHINYAKOZUKA and yamatomichi IDs present. FTI snapshot and private research page returned 404.
+- Live homepage shows the single guided entry and 150-brand link. Live men’s Athleisure shows exactly 6 entries, with all 6 photos loaded and matching 455px image heights; GU and BEAMS absent. Public SHINYAKOZUKA search returns 1 and its outfit photo loaded; 山跟道 search returns 1.
+- Browser log warnings observed were from a separately installed browser extension; no TOKI source warning/error observed in that log sample. This is a bounded manual inspection, not a claim to automated or exhaustive browser coverage.
+- Screenshot: ../outputs/toki-japan-fashion-guide/brands-150-home-live-2026-10-15.png. Existing static Hobby deployment retained; no paid plan, domain, provider, API or purchase added. Some women-specific outfit photos and full nationwide store coverage remain explicitly pending.
