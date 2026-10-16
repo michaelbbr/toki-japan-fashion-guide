@@ -116,3 +116,8 @@
 - 官方查證：山と道鎌倉現址為由比濱2-5-19，現列金土日11–18。ARKnets依ARK／RIPE／Pier Lounge／DEAR分開，女裝篩選只出DEAR。富山Goldwin公司／研發背景未當作可逛門市，未知零售資訊留收合說明。
 - 本機人工檢查：一般桌機首頁→東京→青山直接定位COS與AURALEE；390×844手機首頁、東京男裝結果、真實單品圖與來源。結果頂端y≈137，頁寬375／內容375無橫向溢出。女裝神宮前無結果→保留女裝恢復全城7店；舊hokkaido+goldwin+men網址導至札幌1店；東京引導只找到10個有據點的品牌／標籤。頁面error log空。
 - 建置185靜態路由／150指南／0函式；未新增或執行自動化測試。使用者免費條件維持；公開部署檢查待本節後續紀錄。規劃與查證見docs/city-shopping-plan-2026-10-16.md、docs/city-shopping-sources-2026-10-16.md。
+
+### 城市版公開完成
+- GitHub內容提交9209d9f3d87636e72b2c3478fb917d302b1fd29c，Vercel success，部署4wjULd8uKzvHJ9Kceo6w5JjzadVB。正式首頁 https://toki-japan-fashion-guide.vercel.app/ 與東京頁 https://toki-japan-fashion-guide.vercel.app/areas/tokyo 已人工查看；青山選擇直接定位COS與AURALEE，兩張真人照成功呈現，地址／地圖／來源可見，error log空。
+- 正式建置資訊185路由／150品牌與標籤／8城市頁／0函式。截圖evidence/city-shopping-production-tokyo-2026-10-16.png（本機證據，不公開入庫）。無付費功能、購買或升級。
+- 限制：32筆具名據點並非各城市完整門市名錄；樣本不保證現貨。尚無來源的女裝穿搭維持整理中，沒有借用男裝圖。富山Goldwin零售行程尚未核實，不提供公司地址作購物導航。
