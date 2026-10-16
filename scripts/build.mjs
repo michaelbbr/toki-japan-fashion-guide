@@ -65,10 +65,11 @@ add('/methods','資料、圖片與編輯方法','價格樣本、實物照片、�
 add('/privacy','隱私說明','搜尋、外部圖片與靜態託管的資料使用說明。',lead('PRIVACY','輕鬆探索，<em>留在當下。</em>','不要求帳號、不收集付款資訊。')+`<div class="wrap prose"><section><h2>搜尋與分享網址。</h2><p>篩選在瀏覽器處理，網址會帶上搜尋內容。請不要輸入個資，分享前可清除條件。</p></section><section><h2>外部圖片與字型。</h2><p>商品照片從列明的品牌／通路來源載入，對方會收到基本連線資訊。Google Fonts 提供字型，外部來源適用該站政策。</p></section><section><h2>網站服務。</h2><p>Vercel 提供靜態託管並可能處理存取日誌。本站沒有帳號、付款、廣告追蹤、第三方分析或聯盟代碼。</p></section></div>`);
 add('/404','找不到頁面','回到 TOKI 探索日本品牌。',lead('404 / A DIFFERENT TURN','這一頁，<em>還沒在這裡。</em>','換一條路，繼續看喜歡的品牌。')+`<section class="wrap section">${routeLink('/brands','回到品牌索引','button dark')}</section>`);
 fs.mkdirSync(out,{recursive:true});
-for(const file of ['trends.html','data/fti-snapshots.json'])fs.rmSync(path.join(out,file),{force:true});
+for(const file of ['trends.html','data/fti-snapshots.json','editorial-theme.mjs'])fs.rmSync(path.join(out,file),{force:true});
 for(const [url,html] of pages){const file=path.join(out,url==='/'?'index.html':url.slice(1)+'.html');fs.mkdirSync(path.dirname(file),{recursive:true});fs.writeFileSync(file,html);}
 fs.cpSync('public',out,{recursive:true});fs.writeFileSync(path.join(out,'domain.mjs'),fs.readFileSync('src/domain.mjs','utf8').split('export function summarize(')[0]);
 fs.mkdirSync(path.join(out,'data'),{recursive:true});fs.writeFileSync(path.join(out,'data/catalog.json'),JSON.stringify({brands:brands.map(({fti,scope,...b})=>b),styles,checkedAt}));fs.copyFileSync('data/discovery-options.mjs',path.join(out,'discovery-options.mjs'));
+fs.writeFileSync(path.join(out,'data/brand-search.json'),JSON.stringify(brands.map(({id,name,jp,aliases})=>({id,name,jp,aliases}))));
 fs.writeFileSync(path.join(out,'sitemap.xml'),`<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">${[...pages.keys()].filter(u=>u!=='/404').map(u=>`<url><loc>${site}${u}</loc></url>`).join('')}</urlset>`);
 fs.writeFileSync(path.join(out,'robots.txt'),'User-agent: *\nAllow: /\nSitemap: '+site+'/sitemap.xml\n');
 fs.writeFileSync(path.join(out,'build-manifest.json'),JSON.stringify({routes:[...pages.keys()],builtAt:new Date().toISOString(),runtimeFunctions:0,brands:brands.length},null,2));

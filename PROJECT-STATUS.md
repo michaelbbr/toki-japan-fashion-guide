@@ -164,3 +164,9 @@
 - 內容提交0309b0158b13e0a07fd8ea716f67af851a3016a2，Vercel部署6vQXDSEpbB7CJZZeA2vdt4LxpTx7 success。正式首頁人工確認黑白主視覺、四入口、等高405px兩圖成功載入；原色按鈕切換並跨頁保留，預算頁標題和東京男裝20店仍正常，error log空。
 - 正式390×844手機四入口下緣y708，內容375px無橫向溢出。截圖evidence/luxury-editorial-home-production-2026-10-16.png、evidence/luxury-editorial-mobile-production-2026-10-16.png；瀏覽器預覽尺寸已恢復。
 - 正式https://toki-japan-fashion-guide.vercel.app/ 。186路由／150品牌指南／42具名據點／0函式維持；沒有新增購買、升級或付費服務。這是有限範圍人工檢視，未新增或執行自動化測試。
+
+## 常駐品牌搜尋／彩色照片 — 2026-10-16
+- 按使用者最新要求，全站頂部加入常駐品牌搜尋，英文／日文／別名建議可直接進指南，Enter看完整結果；無JS或建議索引失敗仍有原生GET表單。手機搜尋列直接展開。
+- 移除背景格線DOM／樣式與首頁裝飾線。照片預設原色，hover改輕微提亮／增色及縮放；黑白模式、原色按鈕與舊偏好模組撤除。照片與來源不變。
+- 本機人工檢視：兩圖成功載入且filter=none；BEAMS建議8／顯示6，ArrowDown及Esc可用、Enter完整8品牌；山跟道別名1個，直達山と道。捲動後頁首top0／sticky；390×844手機375px無溢出、四入口下緣y757。沒有改150指南、42據點或預算／城市規則。
+- 186路由／150指南／0函式建置成功，未新增或執行自動化測試，無新增依賴／購買／付費服務。詳docs/sticky-brand-search-2026-10-16.md，正式檢查另記。
